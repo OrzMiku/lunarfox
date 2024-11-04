@@ -1,0 +1,13 @@
+filename = 'RoughlyEnoughItems-16.0.788-fabric.jar'
+name = 'Roughly Enough Items'
+side = 'both'
+
+[download]
+hash = '18cd1de6ade93aa5d150d22037999476c5c8cb5692d1e920074669edafe0f6903407e599c8896dd7658832310aa9fb4c97f23603b5a96f5b6820e107b44ad1f1'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/nfn13YXA/versions/F3B8X7NS/RoughlyEnoughItems-16.0.788-fabric.jar'
+
+[update.modrinth]
+mod-id = 'nfn13YXA'
+version = 'F3B8X7NS'

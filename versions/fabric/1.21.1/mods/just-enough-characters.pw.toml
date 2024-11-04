@@ -1,0 +1,13 @@
+filename = 'jecharacters-fabric-4.5.14.jar'
+name = ''
+side = 'both'
+
+[download]
+hash = '6e5be80000757853499828dba932f34af2bc5254'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5551235
+project-id = 250702

@@ -1,0 +1,16 @@
+filename = 'skinlayers3d-fabric-1.7.0-mc1.21.jar'
+name = '3d-Skin-Layers'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '2a11f87d1fa04c9793da82fa307c84d6355048ea3af23ddf6b3250dbf2853c290a13f4d253e2f8e2a6901aea62fa3d02ffdd0a32730044d4d39559dcfbafc6c8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/zV5r3pPn/versions/nprGL5Jy/skinlayers3d-fabric-1.7.0-mc1.21.jar'
+
+[update.modrinth]
+mod-id = 'zV5r3pPn'
+version = 'nprGL5Jy'
