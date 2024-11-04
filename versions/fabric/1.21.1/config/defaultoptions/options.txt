@@ -1,6 +1,0 @@
-guiScale:3
-maxFps:120
-renderDistance:10
-simulationDistance:10
-resourcePacks:["vanilla","fabric","file/SodiumTranslations.zip","continuity:default","continuity:glass_pane_culling_fix","file/Fast Better Grass.zip"]
-incompatibleResourcePacks:["appleskin","balm-fabric","betteradvancements","controlling","craterlib","jade","magiclib_malilib_extra","magiclib_minecraft_api","modernfix","packetfixer","resourcify","searchables","simplerpc","sodiumleafculling","tweakeroo","xaerominimap","xaeroworldmap","yet_another_config_lib_v3","zume"]

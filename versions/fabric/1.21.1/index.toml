@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/defaultoptions/keybindings.txt"
-hash = "36597c65845c84dd2f966f1d7be477cddd61a5bc19dff985b5350235704f9dc6"
-
-[[files]]
-file = "config/defaultoptions/options.txt"
-hash = "a4f6599b4ee582c5bd264259a3f69e295ac596c312186746de0a6713e0787831"
-
-[[files]]
 file = "config/puzzle.json"
 hash = "f546f5a9367d113277de4051e3c14b898dea9490d9bd9f8240f222e0ea062c22"
 
@@ -119,6 +111,10 @@ hash = "ebf2f1974dbafa9dd86ad6c736bdda1ab75c4739d5d7d52e2881c249cc7be1cd"
 [[files]]
 file = "config/yosbr/config/xaeroworldmap.txt"
 hash = "63f6fe0916788847d2ff003c272c9b392698d6b5514d90542baa21fdb0eca9f6"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "8f2c657b38b5fe1e77258a68e16417eb843b3cb9e0de800f918157e4decf725d"
 
 [[files]]
 file = "icon.png"
