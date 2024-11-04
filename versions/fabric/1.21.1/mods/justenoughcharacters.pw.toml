@@ -1,0 +1,13 @@
+name = "JustEnoughCharacters"
+filename = "jecharacters-fabric-4.5.14.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/I7k4B65h/versions/WcaVidFK/jecharacters-fabric-4.5.14.jar"
+hash-format = "sha512"
+hash = "06c5213d2576e38b384ffa51ebca28b37920bb4eb209e1884f820cc1401deaca6211ac49743f5ed1331c970b52b733ce41f17deae3cdd76db5702f39b61f3bad"
+
+[update]
+[update.modrinth]
+mod-id = "I7k4B65h"
+version = "WcaVidFK"
