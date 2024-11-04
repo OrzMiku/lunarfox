@@ -351,8 +351,8 @@ hash = "acdee0da4ace175a66ef8a8c8f627352a39f0dca2751bab3b967851aaed0e267"
 metafile = true
 
 [[files]]
-file = "mods/just-enough-characters.pw.toml"
-hash = "522fb4dc294ba534beb5d93ba7f143cfa5a6ffee3ca5642a1fdcc37035c4b19e"
+file = "mods/justenoughcharacters.pw.toml"
+hash = "0c145bafe2f376dd5c7424a9cc046f745aa16094771ff33dc7359fd06e021a2d"
 metafile = true
 
 [[files]]
@@ -388,11 +388,6 @@ metafile = true
 [[files]]
 file = "mods/magiclib.pw.toml"
 hash = "85406d3639566057c68380e6d7885f3e29e7bcd9cc0d713c0910329e8f833521"
-metafile = true
-
-[[files]]
-file = "mods/main-menu-credits.pw.toml"
-hash = "da68a4a8c12a43ef9e7bd9342aca5efc25eb30893f259de0252104703ffdb6d6"
 metafile = true
 
 [[files]]
