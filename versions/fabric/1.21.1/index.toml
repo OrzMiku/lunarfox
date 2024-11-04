@@ -9,6 +9,14 @@ file = "config/yosbr/config/chatpatches.json"
 hash = "8218a0d2fac678aa3ad32f7e52c9b870573a3c103e852333b53f91ae51758bd9"
 
 [[files]]
+file = "config/yosbr/config/defaultoptions/keybindings.txt"
+hash = "36597c65845c84dd2f966f1d7be477cddd61a5bc19dff985b5350235704f9dc6"
+
+[[files]]
+file = "config/yosbr/config/defaultoptions/options.txt"
+hash = "a4f6599b4ee582c5bd264259a3f69e295ac596c312186746de0a6713e0787831"
+
+[[files]]
 file = "config/yosbr/config/immediatelyfast.json"
 hash = "0d787935e0f06c50cddae1128fdcdba26d85c3bbff7ae644187b7518e81f1c4e"
 
@@ -91,10 +99,6 @@ hash = "ebf2f1974dbafa9dd86ad6c736bdda1ab75c4739d5d7d52e2881c249cc7be1cd"
 [[files]]
 file = "config/yosbr/config/xaeroworldmap.txt"
 hash = "63f6fe0916788847d2ff003c272c9b392698d6b5514d90542baa21fdb0eca9f6"
-
-[[files]]
-file = "config/yosbr/options.txt"
-hash = "8f2c657b38b5fe1e77258a68e16417eb843b3cb9e0de800f918157e4decf725d"
 
 [[files]]
 file = "icon.png"
@@ -223,6 +227,11 @@ metafile = true
 [[files]]
 file = "mods/creativecore.pw.toml"
 hash = "a87c4e479ee772d69ff081fdd18eefe88996980b60af8bb52ee0fad4504f67e3"
+metafile = true
+
+[[files]]
+file = "mods/default-options.pw.toml"
+hash = "ac812672a33ea8e59d8162d5be79c2ab28b876df138a77478106e02f1777dd4b"
 metafile = true
 
 [[files]]
@@ -478,6 +487,11 @@ metafile = true
 [[files]]
 file = "mods/polytone.pw.toml"
 hash = "00148ae8e88e9529049257804bf40dae8ff1cc8aa75edce623edc99842a0cdf3"
+metafile = true
+
+[[files]]
+file = "mods/puzzle.pw.toml"
+hash = "f25ee383f37be1c7033e1ba1e57a85c76b07ca59d4afcfcc234c12b9f5c4f964"
 metafile = true
 
 [[files]]
