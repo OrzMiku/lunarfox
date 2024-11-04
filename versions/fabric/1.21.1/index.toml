@@ -1,24 +1,36 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "36597c65845c84dd2f966f1d7be477cddd61a5bc19dff985b5350235704f9dc6"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "a4f6599b4ee582c5bd264259a3f69e295ac596c312186746de0a6713e0787831"
+
+[[files]]
+file = "config/puzzle.json"
+hash = "f546f5a9367d113277de4051e3c14b898dea9490d9bd9f8240f222e0ea062c22"
+
+[[files]]
 file = "config/yosbr/config/ModernUI/client.toml"
 hash = "2190771454d03c49822c934c2afe3e1314c942ce34aefd7d6a6b833cea83678b"
+
+[[files]]
+file = "config/yosbr/config/badoptimizations.txt"
+hash = "f043b31a1fd029cbcd999a9ba184a1f66b4a8a8f020881c59b870436d8de1103"
 
 [[files]]
 file = "config/yosbr/config/chatpatches.json"
 hash = "8218a0d2fac678aa3ad32f7e52c9b870573a3c103e852333b53f91ae51758bd9"
 
 [[files]]
-file = "config/yosbr/config/defaultoptions/keybindings.txt"
-hash = "36597c65845c84dd2f966f1d7be477cddd61a5bc19dff985b5350235704f9dc6"
-
-[[files]]
-file = "config/yosbr/config/defaultoptions/options.txt"
-hash = "a4f6599b4ee582c5bd264259a3f69e295ac596c312186746de0a6713e0787831"
+file = "config/yosbr/config/entityculling.json"
+hash = "3955e3822546d7193b0432b91ba89e233a7b4aaf88cbf2883d1931c77bbc9fdb"
 
 [[files]]
 file = "config/yosbr/config/immediatelyfast.json"
-hash = "0d787935e0f06c50cddae1128fdcdba26d85c3bbff7ae644187b7518e81f1c4e"
+hash = "8a0f5d120d136f89dd9725a3c7a85f475d186a28eb6534b04b17766db12642ae"
 
 [[files]]
 file = "config/yosbr/config/inventoryprofilesnext/inventoryprofiles.json"
@@ -26,7 +38,7 @@ hash = "43df9e4a3e60edd220983a2b9c52106471a763861a873ed43593c726eca90014"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
-hash = "f44a2f776b29853e30e0d3bc8097d69556f6a0ae529f0dde498ee4fa9559ad64"
+hash = "8284ac91a1b028abc530814020dfa57000395679843378d3fc13899d5ca6beea"
 
 [[files]]
 file = "config/yosbr/config/masa_gadget_mod.json"
@@ -38,7 +50,7 @@ hash = "a268cf931bdbdb53a1e3935d0155a2471d82e28d99621a154d24a2e69999f93a"
 
 [[files]]
 file = "config/yosbr/config/modernfix-mixins.properties"
-hash = "ee2d943e5a00d3433efc64cab97df246e8124e74e9a9debc0430766a0c674560"
+hash = "f9256620216791fad4665d9b5d92d0ea5c803f2a6cc5fbc57363bd6aeb7a4d14"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
@@ -73,6 +85,10 @@ file = "config/yosbr/config/roughlyenoughitems/unihan.zip"
 hash = "24b154691fc97cb44267b925d62064297086b3f896b57a8181c7b6d42702a026"
 
 [[files]]
+file = "config/yosbr/config/servercore.toml"
+hash = "4f5cd08148f87464a0f5e471787fd609a6546b653845954598e5a240b938a32d"
+
+[[files]]
 file = "config/yosbr/config/simple-rpc/server-entries.toml"
 hash = "17b07ca5f6758448c4c2effbe9cb9f7b2b534c83b1287b5b751c3bbe4f74f2d0"
 
@@ -87,6 +103,10 @@ hash = "1eda66aaff2500e43211e06bd77685c22615b23ed00e8da03b4fd7cf7034265c"
 [[files]]
 file = "config/yosbr/config/sodiumdynamiclights-client.toml"
 hash = "9a439ebfe79ce34cd5ae800207fd2db3ca9740e969b580d788d4080b23b98dab"
+
+[[files]]
+file = "config/yosbr/config/threadtweak.json"
+hash = "545cbe317c5146bacb9e13c7c03a605f0b6bd6e1ddaf1a05f8be8537d6f8b0ce"
 
 [[files]]
 file = "config/yosbr/config/xaerominimap.txt"
