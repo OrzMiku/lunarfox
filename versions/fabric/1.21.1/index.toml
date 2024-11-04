@@ -282,7 +282,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "1ae68303fd331b1194c6dc9725a2a6b73d6931c6fae7214194be3e407ebabd04"
+hash = "80c54802303925188e17006fdbaad0c05c007d2e35a107ecfb238ff6118e402a"
 metafile = true
 
 [[files]]
@@ -592,7 +592,7 @@ metafile = true
 
 [[files]]
 file = "mods/viafabricplus.pw.toml"
-hash = "b157ee7790943c4a68b7e82381c5279f509e9d73989128533bcaadfe5756c0c1"
+hash = "f7cb47b163d942170f59016faf710b7f175d94efe87e172a322f5474bbc771af"
 metafile = true
 
 [[files]]
