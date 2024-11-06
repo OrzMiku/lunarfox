@@ -341,11 +341,6 @@ hash = "216c093a2343662c14aac2bc2de42b590a17dd0a5ab196493c41dadf1bb07cf4"
 metafile = true
 
 [[files]]
-file = "mods/forge-early-loading-screen-fabric.pw.toml"
-hash = "1a9aa92f6d4bee2b48653f924af75c47a80881dcc950983625692e90eb372564"
-metafile = true
-
-[[files]]
 file = "mods/gamma-utils.pw.toml"
 hash = "0a82daf58b4d37a140b837da8d23564b6a89bda5869ed5986510c8138a93815f"
 metafile = true
