@@ -122,7 +122,7 @@ hash = "7ed2443085370e3427bd3e803037356811af68ad3fc131947a89cc89f2103fc7"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "320ac39667180e27d3751f5e2d1ccd8c71d52345c7cc56e466fe488f053fa055"
+hash = "3efdf2436448f00a490cf2d2336f1788f71ad4f349469414dcea69a73d9810a3"
 metafile = true
 
 [[files]]
@@ -242,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "a87c4e479ee772d69ff081fdd18eefe88996980b60af8bb52ee0fad4504f67e3"
+hash = "5d2b7fc6971568e605e79d5eb7b70b3a4f64fd2e7820001d59e1408e40acd189"
 metafile = true
 
 [[files]]
@@ -292,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "a4677250c726122f15ffec52e20d19a97c858bd793c2111c8097ff2319216906"
+hash = "475da70de7c8640079840d78d8e3a5e11472ba8db1a471d64ca05498a0ffd4b0"
 metafile = true
 
 [[files]]
@@ -357,17 +357,17 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "f461a9694dd87a469cb7c6d523c0e704128e117cd0328f01486c57d81e1650c0"
+hash = "7ba25f17f3da0b7323fdd93de48201ab7153e1d3972ecde841acd91a6043d70c"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "ccc76589afc7d10f8fd130f7a06523f8dea118b8181d87aa389ce083218f0326"
+hash = "8ff28c0ef65dd9a86dcab14c66ed756344e73f8376917c0a77634d4e66f69143"
 metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "acdee0da4ace175a66ef8a8c8f627352a39f0dca2751bab3b967851aaed0e267"
+hash = "4d5bbf7c8c6d29be11236539f13d0f65ad63989180244cfc2f1b4c694d48dde1"
 metafile = true
 
 [[files]]
@@ -392,7 +392,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "f84f02d59d75b9a1b9bdcfacfd49e18879dae1c0136a930014d9abd71cb7053e"
+hash = "5c0db9264f886150f26e70ddefdbcf32a398ced2320a67ce4004b96dc96e6549"
 metafile = true
 
 [[files]]
@@ -412,7 +412,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "adbf52ebfbf9a126fa4e7ce0c9460cb03fd2258d169d0fb600086d40d39e8866"
+hash = "83b2822c8b27eb2b08eba0e71fae33d32b61c1ad7ed6623c2524926cf2fd9238"
 metafile = true
 
 [[files]]
@@ -432,7 +432,7 @@ metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "3f21a23414a2c038c6774fddc3792b3c8f46386eb35793a3266d79a1632fba2f"
+hash = "942fbf825b6090fbc4622de3719bb62ff6acf7ba8faa1a573b8f7c832baf6b7d"
 metafile = true
 
 [[files]]
@@ -452,7 +452,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "5465d3ad6819211a3c01efff7e2753b2c73054d65b01bb5dfc2ea7410ec18641"
+hash = "d795ac4bc7321d5b9defa33eaba9e03b5fa38b8345d827417d9366913567cb67"
 metafile = true
 
 [[files]]
@@ -472,7 +472,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "582edfde4d30b9cf1a0c023c1aa2c9abefdec0dfe0eb8d3aee3c5693ee18b63a"
+hash = "f3c5cb21ff2e78c7e8cdbd14d1535e6edd464d5a436dbfa4e60b8ea91374674d"
 metafile = true
 
 [[files]]
@@ -582,7 +582,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "cb9c332c0a6acfe10e6d90cb524dd74d53592860f513bc877db802f2dd917ace"
+hash = "a2a61f5dacaf40957cf7742f08d0a0f8be75df2cdb0940f833ba988f9b0caf3e"
 metafile = true
 
 [[files]]
@@ -637,7 +637,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "1c2428e1b0493f044f4fcd6528e9f432725fa8dfb18894703152d6f81586fb32"
+hash = "23122a777d278ac792872875bd2ffe691c14950b3726f6a85f4e57d385f68bea"
 metafile = true
 
 [[files]]

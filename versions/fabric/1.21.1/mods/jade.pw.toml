@@ -1,13 +1,13 @@
-filename = 'Jade-1.21.1-Fabric-15.8.2.jar'
-name = 'Jade'
-side = 'both'
+name = "Jade"
+filename = "Jade-1.21.1-Fabric-15.8.3.jar"
+side = "both"
 
 [download]
-hash = 'e95b3563c27e59ee4cb2b023a01748607ea340089742c5514af814a58d12b38bc11256ea9ac3303b143b1bd17aa378a51243e503ff3c4e6fb8a2d0f298e4dbf8'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/nvQzSEkH/versions/NX5NMF25/Jade-1.21.1-Fabric-15.8.2.jar'
+url = "https://cdn.modrinth.com/data/nvQzSEkH/versions/1Ucj3FzM/Jade-1.21.1-Fabric-15.8.3.jar"
+hash-format = "sha512"
+hash = "2c8b007618d828e3c96ecd2597ce66e3472e6ff586fe2f3d289acf5f6567e7659a80cfb825c9404bc5e5fa608695ca063f40ec443527079b548b9935c6c46549"
 
+[update]
 [update.modrinth]
-mod-id = 'nvQzSEkH'
-version = 'NX5NMF25'
+mod-id = "nvQzSEkH"
+version = "1Ucj3FzM"

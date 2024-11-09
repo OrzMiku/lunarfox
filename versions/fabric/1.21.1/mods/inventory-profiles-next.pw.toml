@@ -1,16 +1,13 @@
-filename = 'InventoryProfilesNext-fabric-1.21-2.0.8.jar'
-name = 'Inventory Profiles Next'
-side = 'both'
-x-prismlauncher-loaders = [ 'fabric', 'quilt' ]
-x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
-x-prismlauncher-release-type = 'release'
+name = "Inventory Profiles Next"
+filename = "InventoryProfilesNext-fabric-1.21-2.0.9.jar"
+side = "both"
 
 [download]
-hash = 'd28b09ae9e7cb64494a0d71a88435549d4359499365723c02c4b3117d648278f6a716d08f771177ca5b73f8f76036e659c7e604db9b0df09ca01b5a198a61150'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/O7RBXm3n/versions/HMrLPBPx/InventoryProfilesNext-fabric-1.21-2.0.8.jar'
+url = "https://cdn.modrinth.com/data/O7RBXm3n/versions/xGtkV1Hg/InventoryProfilesNext-fabric-1.21-2.0.9.jar"
+hash-format = "sha512"
+hash = "e56e72cf8515ea7c53721b70f747afb96bdf7d74bad183b431c5548091624a0f1223a433d0c7cfb70c5957c2a68d8c38104ddc7e660e793cfd0eb07ee4dd6515"
 
+[update]
 [update.modrinth]
-mod-id = 'O7RBXm3n'
-version = 'HMrLPBPx'
+mod-id = "O7RBXm3n"
+version = "xGtkV1Hg"
