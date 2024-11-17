@@ -1,20 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/puzzle.json"
-hash = "f546f5a9367d113277de4051e3c14b898dea9490d9bd9f8240f222e0ea062c22"
-
-[[files]]
-file = "config/yosbr/config/ModernUI/client.toml"
-hash = "2190771454d03c49822c934c2afe3e1314c942ce34aefd7d6a6b833cea83678b"
-
-[[files]]
-file = "config/yosbr/config/badoptimizations.txt"
-hash = "f043b31a1fd029cbcd999a9ba184a1f66b4a8a8f020881c59b870436d8de1103"
-
-[[files]]
 file = "config/yosbr/config/chatpatches.json"
-hash = "8218a0d2fac678aa3ad32f7e52c9b870573a3c103e852333b53f91ae51758bd9"
+hash = "510b70fce28f2f3e4d2f60f9ce208a1cebcb51f18272defcbb7082227d8322a7"
+
+[[files]]
+file = "config/yosbr/config/defaultoptions/keybindings.txt"
+hash = "fb6e5b8dbff22d88b2ef9d12033706a1145d305769dc7c7f4a27e624feb4785a"
 
 [[files]]
 file = "config/yosbr/config/entityculling.json"
@@ -22,7 +14,7 @@ hash = "3955e3822546d7193b0432b91ba89e233a7b4aaf88cbf2883d1931c77bbc9fdb"
 
 [[files]]
 file = "config/yosbr/config/immediatelyfast.json"
-hash = "8a0f5d120d136f89dd9725a3c7a85f475d186a28eb6534b04b17766db12642ae"
+hash = "96e92dadf0b6f621a8e5160032b731c8f4e8be45bb2ba03877917b4da293da03"
 
 [[files]]
 file = "config/yosbr/config/inventoryprofilesnext/inventoryprofiles.json"
@@ -34,55 +26,23 @@ hash = "8284ac91a1b028abc530814020dfa57000395679843378d3fc13899d5ca6beea"
 
 [[files]]
 file = "config/yosbr/config/masa_gadget_mod.json"
-hash = "fd6f95ddafcc8fc07625928bf9bc8c421cf5dfa470193b75ec700688eb4e13b1"
+hash = "e06a95ec2a838775dfeaa364f17be6a8f4521138055f8ccee8ff59f66d7464fa"
 
 [[files]]
 file = "config/yosbr/config/minihud.json"
-hash = "a268cf931bdbdb53a1e3935d0155a2471d82e28d99621a154d24a2e69999f93a"
+hash = "3145b66e7cec44b7b2f14546de5d2d4212b4c7d4dc18aba42ee4092eb5bd95d3"
 
 [[files]]
 file = "config/yosbr/config/modernfix-mixins.properties"
-hash = "f9256620216791fad4665d9b5d92d0ea5c803f2a6cc5fbc57363bd6aeb7a4d14"
+hash = "cb9a30676675fb246b52a7c086e052dc3e4a4aaedc387ee21c3297ec25423f42"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
-hash = "d013908c9866c49752b72e97a040cc782b6f0a0b03a9378668b0f7d0ae3e4fff"
+hash = "48f6e83fcdededcc1503e58a00de88b76e32a5174662c6916ae34b1c739a8616"
 
 [[files]]
-file = "config/yosbr/config/roughlyenoughitems/collapsible.json5"
-hash = "a59667baa54738c1b294393a9b3652bcf7d392cdb8cba1c08a8006885b18e919"
-
-[[files]]
-file = "config/yosbr/config/roughlyenoughitems/config.json5"
-hash = "10dc18b235a0c3f110b7e98d62a8874bc77de9cca32544a6b48823c90ebbddef"
-
-[[files]]
-file = "config/yosbr/config/roughlyenoughitems/favorites.json5"
-hash = "589c13e9ebbb9ae1b868d73be8c4e30323dcb03efacf59d75b9d614f1b069b47"
-
-[[files]]
-file = "config/yosbr/config/roughlyenoughitems/hints.json"
-hash = "371235a0ca802ea4891257f54eed02c7bb9c2f11f02a871f2782d14381b0d305"
-
-[[files]]
-file = "config/yosbr/config/roughlyenoughitems/pinyin.properties"
-hash = "c9540d6773ffefd10492c26b739e1594c765f3b0ce7b61d42ca92c0ca4d647fd"
-
-[[files]]
-file = "config/yosbr/config/roughlyenoughitems/pinyin_double.properties"
-hash = "ca2bd7cd73d38e834616d9ea53671530b06849e179b45d6125ed9b0e668744f0"
-
-[[files]]
-file = "config/yosbr/config/roughlyenoughitems/unihan.zip"
-hash = "24b154691fc97cb44267b925d62064297086b3f896b57a8181c7b6d42702a026"
-
-[[files]]
-file = "config/yosbr/config/servercore.toml"
-hash = "4f5cd08148f87464a0f5e471787fd609a6546b653845954598e5a240b938a32d"
-
-[[files]]
-file = "config/yosbr/config/simple-rpc/server-entries.toml"
-hash = "17b07ca5f6758448c4c2effbe9cb9f7b2b534c83b1287b5b751c3bbe4f74f2d0"
+file = "config/yosbr/config/puzzle.json"
+hash = "f546f5a9367d113277de4051e3c14b898dea9490d9bd9f8240f222e0ea062c22"
 
 [[files]]
 file = "config/yosbr/config/simple-rpc/simple-rpc.toml"
@@ -90,31 +50,23 @@ hash = "8d64153ef86a1f263b384bfc32d57833a009301dd04c0416c5d85cec409a7cfe"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
-hash = "1eda66aaff2500e43211e06bd77685c22615b23ed00e8da03b4fd7cf7034265c"
-
-[[files]]
-file = "config/yosbr/config/sodiumdynamiclights-client.toml"
-hash = "9a439ebfe79ce34cd5ae800207fd2db3ca9740e969b580d788d4080b23b98dab"
-
-[[files]]
-file = "config/yosbr/config/threadtweak.json"
-hash = "545cbe317c5146bacb9e13c7c03a605f0b6bd6e1ddaf1a05f8be8537d6f8b0ce"
+hash = "c4761746550675a74932a4792054d8c5f6c229f43b9ac0a5fe3a4e3d1e5b9941"
 
 [[files]]
 file = "config/yosbr/config/xaerominimap.txt"
-hash = "23262ece8ecb5b3f686686b57d3a3ada65240670edcc769d8d83b12647bb7c44"
+hash = "7e510e4dd1479e9ce3314b1064eeb3d19606211d35112b87128fc08802588bb1"
 
 [[files]]
 file = "config/yosbr/config/xaeroplus.txt"
-hash = "ebf2f1974dbafa9dd86ad6c736bdda1ab75c4739d5d7d52e2881c249cc7be1cd"
+hash = "07df139d1d60edc1db5d7a26d13803c794aff97bb48d342d8e2dd4916038b39f"
 
 [[files]]
 file = "config/yosbr/config/xaeroworldmap.txt"
-hash = "63f6fe0916788847d2ff003c272c9b392698d6b5514d90542baa21fdb0eca9f6"
+hash = "7a77699610a11349d279b6dfacb335c629179a682b7780b72a3e441f816da837"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "8f2c657b38b5fe1e77258a68e16417eb843b3cb9e0de800f918157e4decf725d"
+hash = "94320989112402cc10010130702dc9c6a3130be3e5ba3c104202f341bdd6c80c"
 
 [[files]]
 file = "icon.png"
@@ -173,11 +125,6 @@ metafile = true
 [[files]]
 file = "mods/better-stats.pw.toml"
 hash = "cc365637009b1880ca2e2f9b7a141c9847aa1787ac79632803898527824348f1"
-metafile = true
-
-[[files]]
-file = "mods/c2me-fabric.pw.toml"
-hash = "c2ec773393aec58c492a434f174c5f28de3b66646870a2381b06396439c7cf3f"
 metafile = true
 
 [[files]]
@@ -541,11 +488,6 @@ hash = "6abfaeaf1b8a466c8812bfe3ca423845627914325b11daa3083a647d533dca03"
 metafile = true
 
 [[files]]
-file = "mods/servercore.pw.toml"
-hash = "3892e2efb4e2286928bd1802083b910677a40b710eeafcbc6d056b8886d7688d"
-metafile = true
-
-[[files]]
 file = "mods/simple-discord-rpc.pw.toml"
 hash = "6df34882f1d41c69a75a0f32d6ed94320d9efdadaabeceadc748db9c18158c85"
 metafile = true
@@ -578,11 +520,6 @@ metafile = true
 [[files]]
 file = "mods/tcdcommons.pw.toml"
 hash = "3be64d719fb44e499a16b13c3123804e7cd4738e82f505fa5918e0009d603876"
-metafile = true
-
-[[files]]
-file = "mods/threadtweak.pw.toml"
-hash = "8c81ed7caf1ea53c3ec8c6ba481892b26d9803e5a0bf5a854144625473bea36b"
 metafile = true
 
 [[files]]
