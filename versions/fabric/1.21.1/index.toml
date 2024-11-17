@@ -139,7 +139,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet.pw.toml"
-hash = "7ddefaf650aab4d2e64796048e51e33050e96406102de4e155dcd7f95796df85"
+hash = "bbff83f5167e56b5cfd947b314b3193110d94425c2f45b385e19624a7c5346ef"
 metafile = true
 
 [[files]]
@@ -204,7 +204,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-lights.pw.toml"
-hash = "440c2223efa9528255b769d0900756e8eb9cd6d79c22df0d50b8d59fc50beeff"
+hash = "7cdee1425a579591311a4a1dcebc976a880f07e140e003f837d0bb96b2600c69"
 metafile = true
 
 [[files]]
