@@ -1,0 +1,41 @@
+name: Export Modpack
+on:
+  push:
+    branches: [ "main" ]
+  workflow_dispatch:
+    inputs:
+      reason:
+        description: 'Reason for manual export'
+        required: false
+        default: 'Manual modpack export'
+jobs:
+  export-modpack:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+    
+    - name: Set up Go
+      uses: actions/setup-go@v4
+      with:
+        go-version: '1.19'
+    
+    - name: Install Packwiz
+      run: go install github.com/packwiz/packwiz@latest
+    
+    - name: Add Go bin to PATH
+      run: echo "$(go env GOPATH)/bin" >> $GITHUB_PATH
+    
+    - name: Export Modrinth Modpack
+      run: |
+        cd versions/fabric/1.21.1
+        packwiz modrinth export
+        echo "MODPACK_NAME=$(ls *.mrpack | sed 's/.mrpack$//')" >> $GITHUB_ENV
+    
+    - name: Upload Modrinth Modpack
+      uses: actions/upload-artifact@v3
+      with:
+        name: ${{ env.MODPACK_NAME }}
+        path: versions/fabric/1.21.1/${{ env.MODPACK_NAME }}.mrpack
+        retention-days: 7
