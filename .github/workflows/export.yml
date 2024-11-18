@@ -8,6 +8,7 @@ on:
         description: 'Reason for manual export'
         required: false
         default: 'Manual modpack export'
+
 jobs:
   export-modpack:
     runs-on: ubuntu-latest
@@ -33,9 +34,12 @@ jobs:
         packwiz modrinth export
         echo "MODPACK_NAME=$(ls *.mrpack | sed 's/.mrpack$//')" >> $GITHUB_ENV
     
-    - name: Upload Modrinth Modpack
-      uses: actions/upload-artifact@v3
+    - name: Get current commit hash
+      run: echo "COMMIT_HASH=$(git rev-parse --short HEAD)" >> $GITHUB_ENV
+    
+    - name: Upload Modpack
+      uses: actions/upload-artifact@v4
       with:
-        name: ${{ env.MODPACK_NAME }}
+        name: ${{ env.COMMIT_HASH }}_${{ env.MODPACK_NAME }}
         path: versions/fabric/1.21.1/${{ env.MODPACK_NAME }}.mrpack
         retention-days: 7
