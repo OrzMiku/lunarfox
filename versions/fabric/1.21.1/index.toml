@@ -30,7 +30,7 @@ hash = "e06a95ec2a838775dfeaa364f17be6a8f4521138055f8ccee8ff59f66d7464fa"
 
 [[files]]
 file = "config/yosbr/config/minihud.json"
-hash = "3145b66e7cec44b7b2f14546de5d2d4212b4c7d4dc18aba42ee4092eb5bd95d3"
+hash = "435f7811c796b2352fee74985081994d69f881f9f0b6a0499ba39fbc40ee3f0b"
 
 [[files]]
 file = "config/yosbr/config/modernfix-mixins.properties"
@@ -335,11 +335,6 @@ metafile = true
 [[files]]
 file = "mods/libipn.pw.toml"
 hash = "57b7fbb73cb556cac4169fd2eabbd50a1067659b2b10d05604a9e8f7c1fb076c"
-metafile = true
-
-[[files]]
-file = "mods/lighty.pw.toml"
-hash = "5b73d0ab71db0f5d3a8837d0bc39831f3bedb3d66812f517e457dcc6e52ddf2e"
 metafile = true
 
 [[files]]
