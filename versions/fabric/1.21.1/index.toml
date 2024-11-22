@@ -229,7 +229,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "80c54802303925188e17006fdbaad0c05c007d2e35a107ecfb238ff6118e402a"
+hash = "88787a7c6576d08c2b419449cbc4dd02b8775b5ba7143abc32dc7cbada781963"
 metafile = true
 
 [[files]]
@@ -244,7 +244,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "f99dbd4783dd58e213fcccc0a4cb7f6aae01ea06d3e02b37f76ad9d1fc5f867f"
+hash = "5a06bd63b8132c8653e225db9d72e5eab51de5e6b5a4afa499fd3da7be5592f9"
 metafile = true
 
 [[files]]
@@ -359,7 +359,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "83b2822c8b27eb2b08eba0e71fae33d32b61c1ad7ed6623c2524926cf2fd9238"
+hash = "cbd11dd2ce7d950794a78cc2a2986e89226f418edf578a961b796dbe9be57a27"
 metafile = true
 
 [[files]]
@@ -444,7 +444,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "14839f3b34ce63b8f3a6feb3e9414687df7fc43c97d0350aa8d77ffff71565ba"
+hash = "db7869055d511251f8b7cf9358a2c9724170e3880b687a859c8b69d9b620e296"
 metafile = true
 
 [[files]]
@@ -489,7 +489,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "d12b5e69dee2dccefe6f3a9b41ae493ab28c8073c49d216ef1d59c2136677b24"
+hash = "1af09f16a643df0f61f2c799e981aa0b8c109999f0784584a6eff9a81f1c00c1"
 metafile = true
 
 [[files]]
@@ -519,7 +519,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "07a0f1bdea6f1759d91b4e9d496c709ec4e0cd1639e2598f3a6243714e9f0be3"
+hash = "875876c593e0d8c2c973b2884425377c55235259b23da9d73acaed2959e7c90b"
 metafile = true
 
 [[files]]
