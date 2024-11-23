@@ -263,6 +263,11 @@ hash = "52693eab2f0be57d3c4e4535e9b6ef91e3577c67dc3efcd1fa77c85cf5caf214"
 metafile = true
 
 [[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "64cb6caa0f5c16d4b80097193fa05a4fe6f9b0dd39cd3184483b7b82be95c0f3"
+metafile = true
+
+[[files]]
 file = "mods/fast-ip-ping.pw.toml"
 hash = "1ec38039048a3d705581e89d3ed42fd3d222138ee21eb6bc249581b660cd63af"
 metafile = true
@@ -328,6 +333,11 @@ hash = "0c145bafe2f376dd5c7424a9cc046f745aa16094771ff33dc7359fd06e021a2d"
 metafile = true
 
 [[files]]
+file = "mods/konkrete.pw.toml"
+hash = "34d75daff8b8260780d97bbc2dc545739399df1d5ac304eeb2f80e23354cf3af"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "00f1df4e1e1a9e59585bcfebab306305c9f02b13d69aaa854098b2bf1b650cc7"
 metafile = true
@@ -339,7 +349,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "5c0db9264f886150f26e70ddefdbcf32a398ced2320a67ce4004b96dc96e6549"
+hash = "84f6fdfe8576c72a5704178b45e3142ae81ed263c474c46a93f98f7d42debb68"
 metafile = true
 
 [[files]]
@@ -373,13 +383,18 @@ hash = "dc48bd1db14e1a3224f5edb3e616b0403985f434c4861abbc2fedca684a83e05"
 metafile = true
 
 [[files]]
+file = "mods/melody.pw.toml"
+hash = "2e26dd4ebd07b97d68a9775b84fae707d8824c926e086bb3bcad11687b3fb204"
+metafile = true
+
+[[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "032a2b103ad7974fc424a716a1979712d10374f64546c3360e86bc4371e053e9"
 metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "942fbf825b6090fbc4622de3719bb62ff6acf7ba8faa1a573b8f7c832baf6b7d"
+hash = "9e48afc3bf83d788f7164d06b6cf18ddfd6ba402ffa8d90a7a96aa97c4742cd7"
 metafile = true
 
 [[files]]
@@ -574,7 +589,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "6108e3a9c2090fac87f7c98943b95b6327074c0fd17d2933c29189fa833fd609"
+hash = "da9845d48c790f4944cc93ed79a5c420bed0445989d547c071be1347c2895b73"
 metafile = true
 
 [[files]]
