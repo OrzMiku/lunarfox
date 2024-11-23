@@ -13,6 +13,38 @@ file = "config/yosbr/config/entityculling.json"
 hash = "3955e3822546d7193b0432b91ba89e233a7b4aaf88cbf2883d1931c77bbc9fdb"
 
 [[files]]
+file = "config/yosbr/config/fancymenu/assets/icon_16x.png"
+hash = "fb91559d1807749d934df916afa06a051a9e993bf11255a3f02acde7c9f59009"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/assets/icon_32x.png"
+hash = "940d70ea14411b82c04527dfee88d3e277088a58bea1af5443ca767521850d0a"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/assets/icon_mac.icns"
+hash = "85852998716ad19e37ed5040d2e444807f46273ff78b1b7154435433b0022fc5"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/customizablemenus.txt"
+hash = "b641a9875afdb83d8319633bc927bb0e009ac70b0a9c68663e3d7bae8fb10c35"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/customization/pause_screen_layout.txt"
+hash = "d162be329454ba5f2beb21953bb385656afba90ad839d822d25281524052bc31"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/customization/title_screen_layout.txt"
+hash = "dc078654f8ac799ba738758049d58c7479e95aa730e9c4c13fc2a89dbddd7218"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/options.txt"
+hash = "373f502680db2fae9f576b8f001e21cff62c16784e98b058e09b941c011d407c"
+
+[[files]]
 file = "config/yosbr/config/immediatelyfast.json"
 hash = "96e92dadf0b6f621a8e5160032b731c8f4e8be45bb2ba03877917b4da293da03"
 
