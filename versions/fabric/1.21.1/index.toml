@@ -325,6 +325,11 @@ hash = "9b8d70fd10ae28731c232bc1328bf912d897b897b19ac72178ae31fdfe17c31b"
 metafile = true
 
 [[files]]
+file = "mods/forge-early-loading-screen-fabric.pw.toml"
+hash = "f0f8656af933452235ad0442aafe207a1ba2062b818b634a071441ce5ee7a724"
+metafile = true
+
+[[files]]
 file = "mods/freecam.pw.toml"
 hash = "e6abaf6651fb78a65ca5275091519a865db0e8cd915ebe1a19a2e585faf46879"
 metafile = true
