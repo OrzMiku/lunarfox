@@ -29,16 +29,20 @@ file = "config/yosbr/config/fancymenu/customizablemenus.txt"
 hash = "b641a9875afdb83d8319633bc927bb0e009ac70b0a9c68663e3d7bae8fb10c35"
 
 [[files]]
-file = "config/yosbr/config/fancymenu/customization/pause_screen_layout.txt"
-hash = "d162be329454ba5f2beb21953bb385656afba90ad839d822d25281524052bc31"
+file = "config/yosbr/config/fancymenu/customization/pause_screen_layout_lan.txt"
+hash = "bb582e4590fb1944331c58e06e42b290d6f13cbdfc419d2a585f0ec308c3442e"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/customization/pause_screen_layout_mp.txt"
+hash = "b569e08abee00c7d0fab8002639a8ac5f43d480a3dd221dd75c00c3e861754a7"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/customization/pause_screen_layout_sp.txt"
+hash = "f64d4d30c15d1b9b0399d41cd796cab23f8e1f2694a9396a025ea00ed1643e4b"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/title_screen_layout.txt"
 hash = "dc078654f8ac799ba738758049d58c7479e95aa730e9c4c13fc2a89dbddd7218"
-
-[[files]]
-file = "config/yosbr/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
-hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/options.txt"
