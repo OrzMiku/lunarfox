@@ -34,7 +34,7 @@ hash = "bb582e4590fb1944331c58e06e42b290d6f13cbdfc419d2a585f0ec308c3442e"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/pause_screen_layout_mp.txt"
-hash = "b569e08abee00c7d0fab8002639a8ac5f43d480a3dd221dd75c00c3e861754a7"
+hash = "81fde73b9644b02095902803ebd948d6d16f70c4cdb3a188f51403caabf6b67e"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/pause_screen_layout_sp.txt"
