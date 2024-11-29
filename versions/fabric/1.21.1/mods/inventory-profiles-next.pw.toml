@@ -1,13 +1,13 @@
 name = "Inventory Profiles Next"
-filename = "InventoryProfilesNext-fabric-1.21-2.0.10.jar"
+filename = "InventoryProfilesNext-fabric-1.21-2.1.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/O7RBXm3n/versions/LwPA2UZy/InventoryProfilesNext-fabric-1.21-2.0.10.jar"
+url = "https://cdn.modrinth.com/data/O7RBXm3n/versions/5yXBG0Ls/InventoryProfilesNext-fabric-1.21-2.1.0.jar"
 hash-format = "sha512"
-hash = "b963c5c454c19f7f025960d3b60708213976c218ba9625d984b00f18defb44d519c83c06c0085622b0b62794bddb8a6db71b94808568cf40b9a1c8c9b6f01e28"
+hash = "e386ec3ab06586d9c6b0bb0876f914453f75416391af0c8d58a9834de911c011d1f6a6ec5cacaf012b61f5f683166140015b8f88456bad8e5478fb257469ec9b"
 
 [update]
 [update.modrinth]
 mod-id = "O7RBXm3n"
-version = "LwPA2UZy"
+version = "5yXBG0Ls"

@@ -180,7 +180,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "8103e16fc572c0540623daf4c3ce44adc332df1b2d78df2381ce17e7fe1175a1"
+hash = "9084e480228d4f64b2b6a7fee52576b7206c3185d9985c4e736e90532d6e4a86"
 metafile = true
 
 [[files]]
@@ -245,7 +245,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamiccrosshair.pw.toml"
-hash = "0474751424ac0a4a570f7cedd3492b3e88e73657068d79a5c69a0d8967b367fc"
+hash = "564d7baa950485572a679973d600bc561bd7c57b4ed94f0c10c4fd30e47dfa4d"
 metafile = true
 
 [[files]]
@@ -280,7 +280,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "5a06bd63b8132c8653e225db9d72e5eab51de5e6b5a4afa499fd3da7be5592f9"
+hash = "c0bb895f2240522cc6f20afb9ef46293d9b689b8d46839364350e5b0682bac4b"
 metafile = true
 
 [[files]]
@@ -355,7 +355,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "ae222878abff330f1cd664873d698db033be4c722123225fa43b98798adb411b"
+hash = "48d89b0c75ba00a8b015ad5650cb4503cab20306a8c5923a4ad7a85c968bcbdf"
 metafile = true
 
 [[files]]
@@ -385,7 +385,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "57b7fbb73cb556cac4169fd2eabbd50a1067659b2b10d05604a9e8f7c1fb076c"
+hash = "7f28714f40625286882d261b1b0dddbc79acf4d484abaec2267f19e8622d73d1"
 metafile = true
 
 [[files]]
@@ -625,7 +625,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fast-better-grass.pw.toml"
-hash = "878617a91b765f29656663af4fab778b31a03312070abd16b918e9fa471ed031"
+hash = "8c602ce7585fa682923bd847fb5b6dfa560ce80ba7a7879007809bb4db4b740a"
 metafile = true
 
 [[files]]
