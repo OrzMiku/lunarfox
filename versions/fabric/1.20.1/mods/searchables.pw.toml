@@ -1,0 +1,13 @@
+name = "Searchables"
+filename = "Searchables-fabric-1.20.1-1.0.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/fuuu3xnx/versions/eh4IBlu2/Searchables-fabric-1.20.1-1.0.3.jar"
+hash-format = "sha512"
+hash = "94a44b9ad58507a28ffb6e1a48b28b23740d4192c5511012b0eb8db33360200232ec84ceba121368fa3e54d1b845458434950ad1f6702d0e8ad5746843480bf3"
+
+[update]
+[update.modrinth]
+mod-id = "fuuu3xnx"
+version = "eh4IBlu2"
