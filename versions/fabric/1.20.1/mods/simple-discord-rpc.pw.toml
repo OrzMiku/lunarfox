@@ -1,0 +1,13 @@
+name = "Simple Discord RPC"
+filename = "SimpleRPC-Universal-3.3.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ObXSoyrn/versions/kgFckjwV/SimpleRPC-Universal-3.3.3.jar"
+hash-format = "sha512"
+hash = "96edb1ef3383492da22b290a9dfe74218911a1e605453498f217edf1dd9e2cbfb75735d7d3f6eead3509867a8d8456708e233b5835436cf53f58ec098eef6762"
+
+[update]
+[update.modrinth]
+mod-id = "ObXSoyrn"
+version = "kgFckjwV"

@@ -1,0 +1,13 @@
+name = "Fast IP Ping"
+filename = "fast-ip-ping-v1.0.5-mc1.20.4-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/9mtu0sUO/versions/G8gwjTTP/fast-ip-ping-v1.0.5-mc1.20.4-fabric.jar"
+hash-format = "sha512"
+hash = "e3c7ca84d615fb7e0335025e883706c21ef8505a665f23c4ce00e70496b77ae3886244c829932f12c22b94d3c5ae267729631bd914a9c025fab99e963d97a53b"
+
+[update]
+[update.modrinth]
+mod-id = "9mtu0sUO"
+version = "G8gwjTTP"
