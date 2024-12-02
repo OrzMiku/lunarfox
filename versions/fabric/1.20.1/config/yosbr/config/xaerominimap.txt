@@ -1,0 +1,5 @@
+ignoreUpdate:1
+caveMaps:2
+lockNorth:true
+uiScale:3
+module;id=xaerominimap:minimap;active=true;x=0;y=0;centered=false;fromRight=true;fromBottom=false;flippedVer=false;flippedHor=false;
