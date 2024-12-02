@@ -28,18 +28,25 @@ jobs:
     - name: Add Go bin to PATH
       run: echo "$(go env GOPATH)/bin" >> $GITHUB_PATH
     
-    - name: Export Modrinth Modpack
+    - name: Export Modpacks
       run: |
-        cd versions/fabric/1.21.1
-        packwiz modrinth export
-        echo "MODPACK_NAME=$(ls *.mrpack | sed 's/.mrpack$//')" >> $GITHUB_ENV
+        for version in versions/*/*; do
+          cd "$version"
+          packwiz modrinth export
+          modpack_name=$(ls *.mrpack | sed 's/.mrpack$//')
+          commit_hash=$(git rev-parse --short HEAD)
+          echo "Uploading modpack: $modpack_name"
+          cd ..
+        done
     
-    - name: Get current commit hash
-      run: echo "COMMIT_HASH=$(git rev-parse --short HEAD)" >> $GITHUB_ENV
-    
-    - name: Upload Modpack
-      uses: actions/upload-artifact@v4
-      with:
-        name: ${{ env.COMMIT_HASH }}_${{ env.MODPACK_NAME }}
-        path: versions/fabric/1.21.1/${{ env.MODPACK_NAME }}.mrpack
-        retention-days: 7
+    - name: Upload Modpacks
+      run: |
+        for version in versions/*/*; do
+          cd "$version"
+          modpack_name=$(ls *.mrpack | sed 's/.mrpack$//')
+          commit_hash=$(git rev-parse --short HEAD)
+          upload_name="${commit_hash}_${modpack_name}"
+          echo "Uploading ${upload_name}.mrpack"
+          actions/upload-artifact@v4 -name "${upload_name}" -path "./${modpack_name}.mrpack" -retention-days 7
+          cd ..
+        done
