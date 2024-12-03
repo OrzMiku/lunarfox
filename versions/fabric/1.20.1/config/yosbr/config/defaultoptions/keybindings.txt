@@ -20,8 +20,8 @@ key_key.smoothCamera:key.keyboard.unknown:NONE
 key_key.fullscreen:key.keyboard.f11:NONE
 key_key.spectatorOutlines:key.keyboard.unknown:NONE
 key_key.swapOffhand:key.keyboard.f:NONE
-key_key.saveToolbarActivator:key.keyboard.c:NONE
-key_key.loadToolbarActivator:key.keyboard.x:NONE
+key_key.saveToolbarActivator:key.keyboard.unknown:NONE
+key_key.loadToolbarActivator:key.keyboard.unknown:NONE
 key_key.advancements:key.keyboard.l:NONE
 key_key.hotbar.1:key.keyboard.1:NONE
 key_key.hotbar.2:key.keyboard.2:NONE
