@@ -1,13 +1,13 @@
 name = "Dynamic Crosshair"
-filename = "dynamiccrosshair-9.2+1.21.1-fabric.jar"
+filename = "dynamiccrosshair-9.3+1.21.1-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/ZcR9weSm/versions/jKgj2lfQ/dynamiccrosshair-9.2%2B1.21.1-fabric.jar"
+url = "https://cdn.modrinth.com/data/ZcR9weSm/versions/90veqqHz/dynamiccrosshair-9.3%2B1.21.1-fabric.jar"
 hash-format = "sha512"
-hash = "c5fa4684edb1eaaa6bfd0f778b462f943d7e22ddd25f6f36294c85a043608b8e07727e6222311a0a26cd93675d6facb9d6c4c996dd581e38f6d83c53946e91df"
+hash = "b6aa6e49bf725e508bbf14a6d0e0498c88ed1f2af61ed0ee6c786802144b0084a45d45b74a604a9f9bdb9ef885cc23c510674da1491b0475878c3e35f2e9dd33"
 
 [update]
 [update.modrinth]
 mod-id = "ZcR9weSm"
-version = "jKgj2lfQ"
+version = "90veqqHz"

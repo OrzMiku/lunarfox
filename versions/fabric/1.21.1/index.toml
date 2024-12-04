@@ -58,7 +58,7 @@ hash = "43df9e4a3e60edd220983a2b9c52106471a763861a873ed43593c726eca90014"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
-hash = "8284ac91a1b028abc530814020dfa57000395679843378d3fc13899d5ca6beea"
+hash = "0ddd37bd29975dbab4a5591ed64169e94d09156ae1cda19f07aaa663dd968a2a"
 
 [[files]]
 file = "config/yosbr/config/masa_gadget_mod.json"
@@ -220,7 +220,7 @@ metafile = true
 
 [[files]]
 file = "mods/craterlib.pw.toml"
-hash = "9b20a175bae948a8721d3e3cce83cd3f0879e68d827e6594730fd3d4e7100f72"
+hash = "17d7afb45ba7db7596ff9dcff2c3daaa5677c0ae8209b783bac956cee12b4d63"
 metafile = true
 
 [[files]]
@@ -240,12 +240,12 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-lights.pw.toml"
-hash = "7cdee1425a579591311a4a1dcebc976a880f07e140e003f837d0bb96b2600c69"
+hash = "e93239302d3fb067ae5c53aabf551550430b11f04fd3a8a8d23c74d1d554fd2f"
 metafile = true
 
 [[files]]
 file = "mods/dynamiccrosshair.pw.toml"
-hash = "1dbffe613254487b34ca0697793d8e28309f288818b63d6510d1d03aefe44a79"
+hash = "a52ba05fa9ffc50b308707fb270b804a91f93377f075065d0f9eeb08a448e844"
 metafile = true
 
 [[files]]
@@ -340,7 +340,7 @@ metafile = true
 
 [[files]]
 file = "mods/gamma-utils.pw.toml"
-hash = "0a82daf58b4d37a140b837da8d23564b6a89bda5869ed5986510c8138a93815f"
+hash = "c2245e1cb76e99f627c7a0d2eebb0afa07e12ca22a2c131bcf5e18a75e893269"
 metafile = true
 
 [[files]]
@@ -350,7 +350,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "7f82c8efb250f239fa1409294df31ead16f028aacf18a2495f79862005bca17a"
+hash = "f340a5b4ee60dcd90fe1cd99d25c38a457a9dcedffbe9387d09222d7515962d3"
 metafile = true
 
 [[files]]
@@ -360,7 +360,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "0f82bc287ba8dc32894114f9cf5c78c8b96ff6e1c19ca4a51e2c468b617c5b91"
+hash = "bfaf31ed1a755afb6da41b434e79578ad8b27abc3798232446a03576f6c066bd"
 metafile = true
 
 [[files]]
@@ -390,17 +390,17 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "84f6fdfe8576c72a5704178b45e3142ae81ed263c474c46a93f98f7d42debb68"
+hash = "c6d58a7af6566256a14b48cd4ccda92e3c830efde32ca75e526a1902342d2ef5"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "680f4d24e4ec78ed0ebaa0d71b6b721a7c2f86bc68de74c9f7573a670f93dcaa"
+hash = "9063468d0321798591d5e83044d7e841538b0a6ce8e38a78d415a2461708f45f"
 metafile = true
 
 [[files]]
 file = "mods/macos-input-fixes.pw.toml"
-hash = "e029e4fb6cc87f1d58687530d238ac8f752d8d5c6d83f6254768f5ee87eac435"
+hash = "3ba523b0e2a61388644998f4ce0e34bffe2b4bbe59d5b4bd8e467e52fc4fc21a"
 metafile = true
 
 [[files]]
@@ -410,7 +410,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "cbd11dd2ce7d950794a78cc2a2986e89226f418edf578a961b796dbe9be57a27"
+hash = "ac18f08584260cf3a3dc69068513b0ae6b0a3b8b7be9a4c0c4e02b22d77e9635"
 metafile = true
 
 [[files]]
@@ -435,7 +435,7 @@ metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "9e48afc3bf83d788f7164d06b6cf18ddfd6ba402ffa8d90a7a96aa97c4742cd7"
+hash = "6e957b55d6f9333153edf2718183a4aaa8960f4551aad86ffb7b91e005ce0c79"
 metafile = true
 
 [[files]]
@@ -549,13 +549,12 @@ hash = "1af09f16a643df0f61f2c799e981aa0b8c109999f0784584a6eff9a81f1c00c1"
 metafile = true
 
 [[files]]
-file = "mods/sodium-shadowy-path-blocks.pw.toml"
-hash = "158707b38de31680ee0a8358b5b1fd3d35c8f7b0711007d27cd8b76f26ea38fa"
-metafile = true
+file = "mods/sodium-shadowy-path-blocks-fabric-4.0.0-beta.2.jar"
+hash = "a9043fc4707ad6896fbc2cdceb6546850c79ef5a15bd6b191b542bdb2634f44b"
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "be16813c7059a51e5f2181c9c23c83222bdf87893ea7831de8c6dfe5bd8c87bc"
+hash = "74d1cc9e24b0727f85565bb43bcfbe39746ecc90661e4d0a27ac45ae750c827c"
 metafile = true
 
 [[files]]
@@ -575,7 +574,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "875876c593e0d8c2c973b2884425377c55235259b23da9d73acaed2959e7c90b"
+hash = "7879ac25052ab6064dc7df77777c37198cbb26a8e2382e05ff74e4a2ef2d7eb8"
 metafile = true
 
 [[files]]
@@ -641,4 +640,9 @@ metafile = true
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
 hash = "d222003558c856ef20e0865b26d03f92d1a6015bc6c6d637169bdbbfdbafcf3c"
+metafile = true
+
+[[files]]
+file = "shaderpacks/taa.pw.toml"
+hash = "d9bab29260be4939ba52d21aff87a8a3f3fdb81b93d2bfe630e25941eda2bebe"
 metafile = true

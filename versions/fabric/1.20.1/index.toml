@@ -10,7 +10,7 @@ hash = "4d9bc732c63f8e4a725dc04b56251a38ad7702975db97563a1b0a85483759c07"
 
 [[files]]
 file = "config/yosbr/config/defaultoptions/keybindings.txt"
-hash = "fb6b2213cc20a3ab81a18dae765c80e7e69b7fbd42f62f0f8af58459efb5daee"
+hash = "6517f3d5e5683093845a9937906e0858407fa7888cdb68993586e7ef33e47bc5"
 
 [[files]]
 file = "config/yosbr/config/entityculling.json"
@@ -66,7 +66,7 @@ hash = "43df9e4a3e60edd220983a2b9c52106471a763861a873ed43593c726eca90014"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
-hash = "8284ac91a1b028abc530814020dfa57000395679843378d3fc13899d5ca6beea"
+hash = "0ddd37bd29975dbab4a5591ed64169e94d09156ae1cda19f07aaa663dd968a2a"
 
 [[files]]
 file = "config/yosbr/config/masa_gadget_mod.json"
@@ -228,12 +228,12 @@ metafile = true
 
 [[files]]
 file = "mods/craterlib.pw.toml"
-hash = "b8cafa8b626f483412ec8220638883911e0979e39f1c482e9380d2c53c878e33"
+hash = "3aa292a632bebe9b610053debfbc4000dcf7787173937c93dde41c20a5b55c37"
 metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "4ffb1bc667b45f492dbce0d447ce301775c63b3c51b557c09527b38f705519ae"
+hash = "6957ba2519b78040639a1368df90ec5197cb3e0cd24764aed30efce4cb182e6c"
 metafile = true
 
 [[files]]
@@ -253,12 +253,12 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-lights.pw.toml"
-hash = "7cdee1425a579591311a4a1dcebc976a880f07e140e003f837d0bb96b2600c69"
+hash = "e93239302d3fb067ae5c53aabf551550430b11f04fd3a8a8d23c74d1d554fd2f"
 metafile = true
 
 [[files]]
 file = "mods/dynamiccrosshair.pw.toml"
-hash = "abf782c74c265ec79190c7d7f05c419a9adfd2f8a00ec8ea9389a8a40a36b1d0"
+hash = "5200b85159d7ceff7799d42b99928fc83551792a27a3a7b06a2832ce2fbc8563"
 metafile = true
 
 [[files]]
@@ -363,7 +363,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "2c6553f67c0d60f62afbcdd6c8fd8c48b803fc9bd2e280f3aeefa078414805d6"
+hash = "2e441b5e21e8db1cd9102216ce4b8d1a25d77a026182e00f6324aadda402f715"
 metafile = true
 
 [[files]]
@@ -413,7 +413,7 @@ metafile = true
 
 [[files]]
 file = "mods/macos-input-fixes.pw.toml"
-hash = "8b6513249fa5416326726f67c4312e44df08576d5710a7d7a08ecae3a782c35c"
+hash = "3ba523b0e2a61388644998f4ce0e34bffe2b4bbe59d5b4bd8e467e52fc4fc21a"
 metafile = true
 
 [[files]]
@@ -649,4 +649,9 @@ metafile = true
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
 hash = "d222003558c856ef20e0865b26d03f92d1a6015bc6c6d637169bdbbfdbafcf3c"
+metafile = true
+
+[[files]]
+file = "shaderpacks/taa.pw.toml"
+hash = "d9bab29260be4939ba52d21aff87a8a3f3fdb81b93d2bfe630e25941eda2bebe"
 metafile = true

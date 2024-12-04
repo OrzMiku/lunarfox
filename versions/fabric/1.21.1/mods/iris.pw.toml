@@ -1,13 +1,13 @@
 name = "Iris"
-filename = "iris-fabric-1.8.0+mc1.21.1.jar"
+filename = "iris-fabric-1.8.1+mc1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/YL57xq9U/versions/MA2sKKaG/iris-fabric-1.8.0%2Bmc1.21.1.jar"
+url = "https://cdn.modrinth.com/data/YL57xq9U/versions/IzngD3Cy/iris-fabric-1.8.1%2Bmc1.21.1.jar"
 hash-format = "sha512"
-hash = "9feafdd697118f9fb22be78857c7e4a4367bea93e63affe65da4795ad383de68653569d99d5839aa9db8d4d93589a30cb48f74a074db004ccc089a7b0b55a766"
+hash = "9d4f5f923a08266831b33facf7b6f9f0080c906c652dfa1aca363f3bb4ca03ebb49aba98712820a9cc47df8ef80c7868f883d9f24aefc5449b96d67d83286ddb"
 
 [update]
 [update.modrinth]
 mod-id = "YL57xq9U"
-version = "MA2sKKaG"
+version = "IzngD3Cy"
