@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/yosbr/config/badoptimizations.txt"
+hash = "16cddeb9f397c98232ce28778089369f32bfce744eda1233d9805ab415b5ab68"
+
+[[files]]
 file = "config/yosbr/config/chatpatches.json"
 hash = "510b70fce28f2f3e4d2f60f9ce208a1cebcb51f18272defcbb7082227d8322a7"
 
@@ -55,6 +59,10 @@ hash = "dc078654f8ac799ba738758049d58c7479e95aa730e9c4c13fc2a89dbddd7218"
 [[files]]
 file = "config/yosbr/config/fancymenu/options.txt"
 hash = "67016129a8f09bdde49d20e66f9e0bdf33e5d3711392a12fd7c433930cc84ed0"
+
+[[files]]
+file = "config/yosbr/config/ferritecore.mixin.properties"
+hash = "2fee62477522b340fb814284e126749bd7858d2f7c17a2400d09644e5c4d725d"
 
 [[files]]
 file = "config/yosbr/config/immediatelyfast.json"
