@@ -239,11 +239,6 @@ hash = "db5745b41aa722eaa91da3d366efb1e3fe6b8ccc44f4b937c5617079002ad450"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-lights.pw.toml"
-hash = "e93239302d3fb067ae5c53aabf551550430b11f04fd3a8a8d23c74d1d554fd2f"
-metafile = true
-
-[[files]]
 file = "mods/dynamiccrosshair.pw.toml"
 hash = "a52ba05fa9ffc50b308707fb270b804a91f93377f075065d0f9eeb08a448e844"
 metafile = true
@@ -381,6 +376,11 @@ metafile = true
 [[files]]
 file = "mods/krypton.pw.toml"
 hash = "00f1df4e1e1a9e59585bcfebab306305c9f02b13d69aaa854098b2bf1b650cc7"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "0802f98909f8ef394056804e4772be187ff3143c9d4038ccb7dc3dcacfe535fc"
 metafile = true
 
 [[files]]
