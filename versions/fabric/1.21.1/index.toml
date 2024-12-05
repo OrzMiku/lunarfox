@@ -607,6 +607,11 @@ hash = "3be64d719fb44e499a16b13c3123804e7cd4738e82f505fa5918e0009d603876"
 metafile = true
 
 [[files]]
+file = "mods/threadtweak.pw.toml"
+hash = "e77fe4473df0685a27bdc27f9a50c0dced4d298a2765301c2b1f0b11e078a887"
+metafile = true
+
+[[files]]
 file = "mods/tweakeroo.pw.toml"
 hash = "7879ac25052ab6064dc7df77777c37198cbb26a8e2382e05ff74e4a2ef2d7eb8"
 metafile = true
