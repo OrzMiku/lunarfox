@@ -172,6 +172,11 @@ hash = "c4c11bc748458978b676b2a5cef87b5b8548c2289e9c199f225f941fb1593c9d"
 metafile = true
 
 [[files]]
+file = "mods/betteraddserver.pw.toml"
+hash = "fa61d57519670b9b42eddcf31e9edce79d15275a536501c43257030fbf54c789"
+metafile = true
+
+[[files]]
 file = "mods/calcmod.pw.toml"
 hash = "0cc9069aeee558e036c7afd064d37d9f468ea1138705da0fe4aad64d95312f79"
 metafile = true

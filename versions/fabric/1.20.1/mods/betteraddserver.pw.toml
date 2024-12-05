@@ -1,0 +1,13 @@
+name = "Better \"Add Server\""
+filename = "betteraddserver-1.2.4-1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/s4DtR8IM/versions/9ScdJQCW/betteraddserver-1.2.4-1.20.1.jar"
+hash-format = "sha512"
+hash = "1b9a9f84c6abe1b811b61caa5bb62cda09be5d93ee5c0eefa622f0a409bf198ced90045165058a4efef19d8cd93c34d290eb881de88b478a50d165c387019c74"
+
+[update]
+[update.modrinth]
+mod-id = "s4DtR8IM"
+version = "9ScdJQCW"
