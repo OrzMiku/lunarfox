@@ -130,7 +130,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "7ac38a7a59603dcdf145cb794e53d8be8317bb8e637f36b47de7d89faf413471"
+hash = "aa3c5f8264b82aacdbf9db45b6546974f8cd10d8714a18f2f6408c009c0583d1"
 metafile = true
 
 [[files]]
@@ -210,7 +210,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "aabb597d160e991510a42faf589084226a7c174d6d18d113d40f011043f79de2"
+hash = "4f97764f3cb4c74f84afbe32cf8a1d2cefecda129c0f1441906562dcb8f2b8cb"
 metafile = true
 
 [[files]]
@@ -553,6 +553,11 @@ file = "mods/sodium-shadowy-path-blocks-fabric-4.0.0-beta.2.jar"
 hash = "a9043fc4707ad6896fbc2cdceb6546850c79ef5a15bd6b191b542bdb2634f44b"
 
 [[files]]
+file = "mods/sodium-shadowy-path-blocks.pw.toml"
+hash = "6a9b663f2cd6c3f6f35ee30831a8e577aacc27b1851688d2179c9a20b19bde92"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "74d1cc9e24b0727f85565bb43bcfbe39746ecc90661e4d0a27ac45ae750c827c"
 metafile = true
@@ -609,7 +614,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "6819f60d1ebce0098da14941c0fcf8a1a1377a7d379870d7403eb87d2751a4d9"
+hash = "190d9fd976e99bbb9ba1b52198baf70244756f21d39ff6ba91c235583a0d1209"
 metafile = true
 
 [[files]]
@@ -629,7 +634,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "48bab1371678e19e665b9d8de1c21fbfd4e4390cd00f60b4aadb8826bf45a05e"
+hash = "53f5a73bc34cb329a39b520b419d30aa8942e35ea65e232315bdeddc24b2b16e"
 metafile = true
 
 [[files]]
