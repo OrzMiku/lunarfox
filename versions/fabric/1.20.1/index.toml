@@ -392,6 +392,11 @@ hash = "9063bac3fdf585a43d318e3f9773475a28ecb8fe80bc7689cc480851eef97420"
 metafile = true
 
 [[files]]
+file = "mods/ksyxis.pw.toml"
+hash = "3dd9d3933a5a332de135d0ecf252d367844ea71e895fc63648fc7339b95feeb3"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "62dcbd50ca504de26da23305b6e1578298b6cfd14fb98118fcd471cf128d4337"
 metafile = true
