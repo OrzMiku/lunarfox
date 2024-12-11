@@ -118,7 +118,7 @@ hash = "7ed2443085370e3427bd3e803037356811af68ad3fc131947a89cc89f2103fc7"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "6cd365424b0e03a79c34f849ae322d3c77d0e11d2aeffc1fc64fa5226da7cf57"
+hash = "8d6ea69e9afa36b8d99f12acf3f4994c22e23fc2a2b31eba78d4352b053b80e8"
 metafile = true
 
 [[files]]
@@ -168,7 +168,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "cc365637009b1880ca2e2f9b7a141c9847aa1787ac79632803898527824348f1"
+hash = "ccde3290b7c187f1604334482954bbb6452509690caaeccc8dda0b08d7320a09"
 metafile = true
 
 [[files]]
@@ -203,7 +203,7 @@ metafile = true
 
 [[files]]
 file = "mods/cicada.pw.toml"
-hash = "62353611066f2d9c0df2769e8aec50e128f4a2bbfc86363f7f20695d7b611532"
+hash = "dbcabbe5e3788fcdb66a16b5c87ba62ef347e46708ab6c3c073a0f8856fac917"
 metafile = true
 
 [[files]]
@@ -268,12 +268,12 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "bb86568b5daae326e5fb8157a9d643ffd7398dde4b663cd2d8b1a922a72f2b9d"
+hash = "53961f9af9c645de525e0598f3f1c5cb0ebc81f98c6b17a479ccc1b9f851a593"
 metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "88787a7c6576d08c2b419449cbc4dd02b8775b5ba7143abc32dc7cbada781963"
+hash = "d41804aff0c09612645047b2e53bfd88a018deaa7e4ad17d6656dd67e0af2a83"
 metafile = true
 
 [[files]]
@@ -333,7 +333,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "9b8d70fd10ae28731c232bc1328bf912d897b897b19ac72178ae31fdfe17c31b"
+hash = "f9d89c62265e675839395d925f4162e3e93fda837ed50fbe3832f4ae9c58bebb"
 metafile = true
 
 [[files]]
@@ -348,7 +348,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "cdd849e77b02e9e44ed04cf6367c36b7212162d511ff1bfa4a9e75af324f1e0e"
+hash = "e76885945cd82a93ecb6839917ccbabd37597e16dbbd3e5336b56306bbf7ca3a"
 metafile = true
 
 [[files]]
@@ -378,7 +378,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "4d5bbf7c8c6d29be11236539f13d0f65ad63989180244cfc2f1b4c694d48dde1"
+hash = "13f67460e522139707f47381bfd9c30cd59fd83e4765ffba4ffef48f0d218c5d"
 metafile = true
 
 [[files]]
@@ -473,12 +473,12 @@ metafile = true
 
 [[files]]
 file = "mods/modern-ui.pw.toml"
-hash = "86b79aaef4bd67ad0f5f3811c29b1ee3c53d9eed5e36855048eedd1b9df7537a"
+hash = "b1fc0821797fea7822c4ad48e5306b5c604412ce77b98054f59e8649ab834cb5"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "d795ac4bc7321d5b9defa33eaba9e03b5fa38b8345d827417d9366913567cb67"
+hash = "85549a8527681f0a07ff2835345f022d7293460797da66bc5af1f948ca1e44b3"
 metafile = true
 
 [[files]]
@@ -508,7 +508,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "10e477afd7cae112d9f19d65c000cc46935596efc460f9711eec9d6e22d44ea4"
+hash = "a1c07d980228d8035bcf55cda9ea515d79e15820e47729c5b9e52d19f581a1cf"
 metafile = true
 
 [[files]]
@@ -533,7 +533,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "db7869055d511251f8b7cf9358a2c9724170e3880b687a859c8b69d9b620e296"
+hash = "d96972a45130d972a008f0721722862ba25b5643d0862c73027d807e5031d9a8"
 metafile = true
 
 [[files]]
@@ -553,7 +553,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "11eb3ddd879d937cf685b20859de1c7877c3eea51afa96d295a51c545418746d"
+hash = "e4b9f9cffeb4951571285b2fad4b5efb71d26f90f71cfb9c7bf53317b787ba29"
 metafile = true
 
 [[files]]
@@ -588,7 +588,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "74d1cc9e24b0727f85565bb43bcfbe39746ecc90661e4d0a27ac45ae750c827c"
+hash = "eeb576d800d6a580298fc21e5f5161a67e39d1265826c5208759c57e007ef4f6"
 metafile = true
 
 [[files]]
@@ -628,12 +628,12 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "ba5860874ed5c3cc6a24bdd3b01277749a6644c661ecc473d4d8e90a8d25b4d8"
+hash = "c1cc1d81340678bd9166e2c07ac3dc150411d2c743ba684a8493ead7361dfdc0"
 metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "bda8a780dba3997ac142aac3eb4f5fedefa006049919f5d0ab7849a40adf47e5"
+hash = "1d6090b7b01fee3234097c8eb58573d29f5ec762df4e15c9f593cda430d356e9"
 metafile = true
 
 [[files]]

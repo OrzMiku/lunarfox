@@ -1,13 +1,13 @@
-filename = 'ModernUI-Fabric-1.21.1-3.11.0.4-universal.jar'
-name = 'Modern UI'
-side = 'client'
+name = "Modern UI"
+filename = "ModernUI-Fabric-1.21.1-3.11.1.4-universal.jar"
+side = "client"
 
 [download]
-hash = '72f30829521b99cfbf1c63072b7eb6397a4d9758594d662ce9400837ea662f566fd5dd0afa5ad5c9b9686fe1d1ecf7406b79b530bf2abd1449f20535c7ab0a90'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/3sjzyvGR/versions/8fbdmoLe/ModernUI-Fabric-1.21.1-3.11.0.4-universal.jar'
+url = "https://cdn.modrinth.com/data/3sjzyvGR/versions/9nao3cSK/ModernUI-Fabric-1.21.1-3.11.1.4-universal.jar"
+hash-format = "sha512"
+hash = "9cca8eee1241af2234af6d84bd220d815a77ed51eeb6f5ae782d263263333c48c6f6649e73a6088d8ac69dd051a46ed6ff795841a8dc7d43d14f252e209a06c9"
 
+[update]
 [update.modrinth]
-mod-id = '3sjzyvGR'
-version = '8fbdmoLe'
+mod-id = "3sjzyvGR"
+version = "9nao3cSK"

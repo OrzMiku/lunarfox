@@ -1,16 +1,13 @@
-filename = 'XaeroPlus-2.24.5+fabric-1.21-WM1.39.0-MM24.6.1.jar'
-name = 'XaeroPlus'
-side = 'both'
-x-prismlauncher-loaders = [ 'fabric', 'quilt' ]
-x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
-x-prismlauncher-release-type = 'release'
+name = "XaeroPlus"
+filename = "XaeroPlus-2.24.7+fabric-1.21-WM1.39.0-MM24.6.1.jar"
+side = "both"
 
 [download]
-hash = '06e2a899377a8e6182d33f87fb4aa7c11afc79c9f01d99ee25c62528f1b8364f43d06dedc1466a685d3da67bff27a55402311d7ade18d3e04d485b82b510a255'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/EnPUzSTg/versions/C7yHPXvp/XaeroPlus-2.24.5%2Bfabric-1.21-WM1.39.0-MM24.6.1.jar'
+url = "https://cdn.modrinth.com/data/EnPUzSTg/versions/E7F3HZhq/XaeroPlus-2.24.7%2Bfabric-1.21-WM1.39.0-MM24.6.1.jar"
+hash-format = "sha512"
+hash = "f97aed9341edf1e7bebe499b0e8bf951af889e2bcf800374e84d143508cc40e770c5489fbe950a5ff1ebf08ce2fe47655ef15dd02d7d1c4af58fc2ebabca636e"
 
+[update]
 [update.modrinth]
-mod-id = 'EnPUzSTg'
-version = 'C7yHPXvp'
+mod-id = "EnPUzSTg"
+version = "E7F3HZhq"
