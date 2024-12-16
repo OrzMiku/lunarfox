@@ -1,0 +1,9 @@
+{
+  "quality": {
+    "weather_quality": "FAST",
+    "enable_vignette": true
+  },
+  "notifications": {
+    "has_cleared_donation_button": true
+  }
+}

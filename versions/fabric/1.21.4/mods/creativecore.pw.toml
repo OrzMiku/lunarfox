@@ -1,0 +1,13 @@
+name = "CreativeCore"
+filename = "CreativeCore_FABRIC_v2.12.22_mc1.21.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OsZiaDHq/versions/gSV8RVPK/CreativeCore_FABRIC_v2.12.22_mc1.21.4.jar"
+hash-format = "sha512"
+hash = "d8bc2f8048e7000812c1c0dbb57dc0c8b5d15b129220fc8e66818b306d8eedb4984842ca91b8a2b3e5f2a7b09a9756eee1e096d4f139f84ecda9e396d263ffd1"
+
+[update]
+[update.modrinth]
+mod-id = "OsZiaDHq"
+version = "gSV8RVPK"

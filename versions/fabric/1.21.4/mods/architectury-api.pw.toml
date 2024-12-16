@@ -1,0 +1,13 @@
+name = "Architectury API"
+filename = "architectury-15.0.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lhGA9TYQ/versions/XRwibvvn/architectury-15.0.1-fabric.jar"
+hash-format = "sha512"
+hash = "df0e163a560439c1911c584821a643c665b13bbd541db9a9f318cdf33db0aee4573e3c901e4a3aad585e10013de1b4dc62143dce0855a2c915fcd0b35ee28263"
+
+[update]
+[update.modrinth]
+mod-id = "lhGA9TYQ"
+version = "XRwibvvn"

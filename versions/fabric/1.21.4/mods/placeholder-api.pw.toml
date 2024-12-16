@@ -1,0 +1,13 @@
+name = "Text Placeholder API"
+filename = "placeholder-api-2.5.1+1.21.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eXts2L7r/versions/GtmqzyeE/placeholder-api-2.5.1%2B1.21.3.jar"
+hash-format = "sha512"
+hash = "c5ef09ad639b8f02592e7da265412f8bf66caabfc1c09a3b8dd1e4f85c0df16def125990e6c0ab25fc83ce25b4d2c525fea76a95c2a04f67b155e85ba182ef7a"
+
+[update]
+[update.modrinth]
+mod-id = "eXts2L7r"
+version = "GtmqzyeE"
