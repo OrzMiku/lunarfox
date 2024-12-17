@@ -117,10 +117,6 @@ file = "icon.png"
 hash = "7ed2443085370e3427bd3e803037356811af68ad3fc131947a89cc89f2103fc7"
 
 [[files]]
-file = "list.txt"
-hash = "601ff8acda99e41d66dded48d2d7cc066815d405cc9a843c6bfd060ef99ad032"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "04277af31d7c79fcfa5d134c040fbec38db299875b6ba92db0d184bc1f5d9593"
 metafile = true
@@ -211,18 +207,8 @@ hash = "8549f3aaf5b1119e6ea0b1d9b4d5759a7e89ffb33e8069bbaee7a98584f5d337"
 metafile = true
 
 [[files]]
-file = "mods/entity-model-features.pw.toml"
-hash = "27e3795b88083b8740336158d5b29f19b010d7ba44e1afbd01a6288ecdeb364e"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "49f8089d53aa0e40f6b9551e7931d4f502faf07f0c72fb7e1d6d8bc471a09482"
-metafile = true
-
-[[files]]
-file = "mods/entitytexturefeatures.pw.toml"
-hash = "0f63df0b45aa0c992668d92019caaf050b742b23705c05046ce173697d009eec"
 metafile = true
 
 [[files]]
@@ -316,9 +302,17 @@ hash = "2ef95df1f458f796f5af5f7db3f6a75b2bdace7b4d59bf0e3b5a2c29979a8e02"
 metafile = true
 
 [[files]]
+file = "mods/litematica-fabric-1.21.4-0.21.0-sakura.8.jar"
+hash = "92fcc2a42bc298539234352cb2cea116fb25e70d363a10820ceaf8594696c2ea"
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "b8284c53c59f71991c522d190b4bedb7703a86ba27b900c335f1602aecb1510b"
 metafile = true
+
+[[files]]
+file = "mods/malilib-fabric-1.21.4-0.23.0-sakura.4.jar"
+hash = "33d539182552c2f2789cd60f0bb60f48e3912efbb0aff3933078a644b5568550"
 
 [[files]]
 file = "mods/mcwifipnp.pw.toml"
@@ -334,6 +328,10 @@ metafile = true
 file = "mods/midnightlib.pw.toml"
 hash = "031d0811bba637ad2fe66d491157e4c1173eba73c1a5fb75a7886d65d8a2bad6"
 metafile = true
+
+[[files]]
+file = "mods/minihud-fabric-1.21.4-0.34.0-sakura.3.jar"
+hash = "35d89c3cd1baf3436e2444a37540e4addb8f56159d61268a0e30c11edc72a0c1"
 
 [[files]]
 file = "mods/modelfix.pw.toml"
@@ -368,11 +366,6 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "e9066859b6107a8587ec888d859da65a68deb706e1b3c183cccef75c267f43d7"
-metafile = true
-
-[[files]]
-file = "mods/optigui.pw.toml"
-hash = "f59ab3633f781c5b5af3234f694da4c4d5195c9211b1ece7e410b54ec1a183eb"
 metafile = true
 
 [[files]]
@@ -439,6 +432,10 @@ metafile = true
 file = "mods/tcdcommons.pw.toml"
 hash = "8559edeaf210c9a83de3dc51b6041ce3ad27368ffb6a81fd6f39d7a9334198f2"
 metafile = true
+
+[[files]]
+file = "mods/tweakeroo-fabric-1.21.4-0.23.0-sakura.6.jar"
+hash = "1b6d5c4c31a23fa65ac817f1d6f8738ef0cacba67d59645c021750639d4ab2aa"
 
 [[files]]
 file = "mods/viafabricplus.pw.toml"
@@ -509,3 +506,7 @@ metafile = true
 file = "shaderpacks/taa.pw.toml"
 hash = "d9bab29260be4939ba52d21aff87a8a3f3fdb81b93d2bfe630e25941eda2bebe"
 metafile = true
+
+[[files]]
+file = "todo.txt"
+hash = "dedf13ba46023d717ae62496b9255b907ab7be348c00bc9f1daba064e07c591d"

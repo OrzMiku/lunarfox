@@ -10,6 +10,8 @@ controlling
 durability-tooltip
 ebe
 esf
+etf
+emf
 fabricskyboxes-interop
 fabricskyboxes
 fastquit
@@ -18,15 +20,13 @@ forge-early-loading-screen-fabric
 fzzy-config
 hold-that-chunk
 justenoughcharacters
-litematica
 macos-input-fixes
 magiclib
-malilib
 masa-gadget
-minihud
 mixintrace
 modern-ui
 modernfix
+optigui
 particle-core
 polytone
 screenshot-to-clipboard
@@ -34,4 +34,3 @@ searchables
 sodiumleafculling
 supermartijn642s-config-lib
 threadtweak
-tweakeroo
