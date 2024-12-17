@@ -110,7 +110,7 @@ hash = "7a77699610a11349d279b6dfacb335c629179a682b7780b72a3e441f816da837"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "94320989112402cc10010130702dc9c6a3130be3e5ba3c104202f341bdd6c80c"
+hash = "6370b756a8dfe4808a6cfad66f67ed997741ef350f24d24afc73fe1f8f5b1edc"
 
 [[files]]
 file = "icon.png"
@@ -164,6 +164,11 @@ metafile = true
 [[files]]
 file = "mods/capes.pw.toml"
 hash = "f85c908d960ca1baf260bbcfa672b1bf46b633c9d71870c43a14be5b4187904a"
+metafile = true
+
+[[files]]
+file = "mods/caxton.pw.toml"
+hash = "0af37baf7d65acb2a16d905bbc4ae28542b3a13fbb3b8bb715b4da5b66d9a4b7"
 metafile = true
 
 [[files]]
@@ -485,6 +490,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/fast-better-grass.pw.toml"
 hash = "8c602ce7585fa682923bd847fb5b6dfa560ce80ba7a7879007809bb4db4b740a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/misans-font.pw.toml"
+hash = "12b4804abb50b6754dcfe856d4f51829ea3530eeeb3a10c65656acdd295cac2c"
 metafile = true
 
 [[files]]
