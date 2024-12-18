@@ -263,7 +263,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "83ffaab5efb91ffb14abb475ad9274314dc94b6eecc0af517b9e84bf3df27f03"
+hash = "7ec54a4c5c74980469b37c1ac7e2685ca75629060ad55797a84424e747763d20"
 metafile = true
 
 [[files]]
@@ -378,7 +378,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "13f67460e522139707f47381bfd9c30cd59fd83e4765ffba4ffef48f0d218c5d"
+hash = "1f62db4052dc1f3596d3c16883956794511b7215bee654311fead3803263275e"
 metafile = true
 
 [[files]]
@@ -488,7 +488,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "50efb7fdf4acf79e0a83ea6d50531cd99aff2e43f0b906fbb6aa16087063b3aa"
+hash = "51f150f6f92aeb8445960d2a1a90eb9a994624c180b61ca323ddf338fb568916"
 metafile = true
 
 [[files]]
@@ -533,7 +533,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "d96972a45130d972a008f0721722862ba25b5643d0862c73027d807e5031d9a8"
+hash = "a179f48621ab1c5ef1bc3679a11b6978befdc083071f0ec94df031e1438b350e"
 metafile = true
 
 [[files]]
@@ -588,7 +588,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "eeb576d800d6a580298fc21e5f5161a67e39d1265826c5208759c57e007ef4f6"
+hash = "8d9a61f90ffb67522220b2185041ede74506857cba831668e55c702ee70c6442"
 metafile = true
 
 [[files]]
@@ -603,7 +603,7 @@ metafile = true
 
 [[files]]
 file = "mods/tcdcommons.pw.toml"
-hash = "3be64d719fb44e499a16b13c3123804e7cd4738e82f505fa5918e0009d603876"
+hash = "ae748003d606ac1919fca72d5ce28c499b8c93b66f6bbc9a35ce8046f1ad358b"
 metafile = true
 
 [[files]]
@@ -668,7 +668,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "53f5a73bc34cb329a39b520b419d30aa8942e35ea65e232315bdeddc24b2b16e"
+hash = "e35b4f52cd51e28cba488d2010b1225ab354f35dbdb721403cd470586a157043"
 metafile = true
 
 [[files]]

@@ -143,7 +143,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "e3f783bcc6ff818d804d3c6022d8ac08ae41e3c01171445a0358bff9d9f45387"
+hash = "4f3a66959a750a79a10931bcd051955372d8dabfbd6ca1cc72362ef8284774a4"
 metafile = true
 
 [[files]]
@@ -430,7 +430,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "ce3c7625502d2e0cf4dccf1685006d47a1f59cabf0b33e08fb7623edcd357bde"
+hash = "9e86081bcaf8e26343f5d3a70549abd5130788dca766cea9bb8bdd47f1d65ed6"
 metafile = true
 
 [[files]]
@@ -499,7 +499,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "53f5a73bc34cb329a39b520b419d30aa8942e35ea65e232315bdeddc24b2b16e"
+hash = "e35b4f52cd51e28cba488d2010b1225ab354f35dbdb721403cd470586a157043"
 metafile = true
 
 [[files]]
