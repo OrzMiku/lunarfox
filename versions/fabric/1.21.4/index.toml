@@ -30,7 +30,7 @@ hash = "85852998716ad19e37ed5040d2e444807f46273ff78b1b7154435433b0022fc5"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customizablemenus.txt"
-hash = "b641a9875afdb83d8319633bc927bb0e009ac70b0a9c68663e3d7bae8fb10c35"
+hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/pause_screen_layout_lan.txt"
@@ -580,7 +580,3 @@ metafile = true
 file = "shaderpacks/taa.pw.toml"
 hash = "d9bab29260be4939ba52d21aff87a8a3f3fdb81b93d2bfe630e25941eda2bebe"
 metafile = true
-
-[[files]]
-file = "todo.txt"
-hash = "b1dbbe6559c6fef521bce70615444ad515b602e3adb94762015bf0467682659d"
