@@ -177,6 +177,11 @@ hash = "3ea66dbd8e333b67a5bc50af4462622d8d5e7e65f89b2563430be515063eb5a5"
 metafile = true
 
 [[files]]
+file = "mods/bobby.pw.toml"
+hash = "8bc168948c5f92a10252f12ad4f41caeefbe508f0326fc4185217d60c4cb2292"
+metafile = true
+
+[[files]]
 file = "mods/calcmod.pw.toml"
 hash = "a24e24cfef4fd0152ffdd8721eaff94e5fa12ff4a77e021b78ffc97cf2948614"
 metafile = true
@@ -354,11 +359,6 @@ metafile = true
 [[files]]
 file = "mods/gamma-utils.pw.toml"
 hash = "c2245e1cb76e99f627c7a0d2eebb0afa07e12ca22a2c131bcf5e18a75e893269"
-metafile = true
-
-[[files]]
-file = "mods/hold-that-chunk.pw.toml"
-hash = "5f1fb93f8ac9c5a7f2193ffedaeb71842a17f5dde13ab34ca32ae598b883a3eb"
 metafile = true
 
 [[files]]
