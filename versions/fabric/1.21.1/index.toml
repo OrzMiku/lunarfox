@@ -263,7 +263,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "7ec54a4c5c74980469b37c1ac7e2685ca75629060ad55797a84424e747763d20"
+hash = "6e046a0ced37b978d8bf74aa48653822489348c2e65d33e40b93be55763c983f"
 metafile = true
 
 [[files]]
@@ -443,7 +443,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcwifipnp.pw.toml"
-hash = "dc48bd1db14e1a3224f5edb3e616b0403985f434c4861abbc2fedca684a83e05"
+hash = "75fee06a4e89bcb6c685a11ad866f520cb724bff731cab70a83a8de479f6e25d"
 metafile = true
 
 [[files]]
@@ -633,7 +633,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "53665bfceb1d43439a7c667795328911d0950747d005df93dd0de0392c6b91bd"
+hash = "f5af69e13d07c3ba08ae183397c2b4dd12118fab85937650716b20c7b5f2fc72"
 metafile = true
 
 [[files]]
@@ -668,7 +668,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "e35b4f52cd51e28cba488d2010b1225ab354f35dbdb721403cd470586a157043"
+hash = "a73b4b7a889438f774e82d69a2f0f70cf70bb034d5f2640db5c5c66dc1a27801"
 metafile = true
 
 [[files]]

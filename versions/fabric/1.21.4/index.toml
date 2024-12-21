@@ -50,7 +50,7 @@ hash = "dc078654f8ac799ba738758049d58c7479e95aa730e9c4c13fc2a89dbddd7218"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/options.txt"
-hash = "373f502680db2fae9f576b8f001e21cff62c16784e98b058e09b941c011d407c"
+hash = "7743d45c18fe7fdfbf28b0bb9ecee0d0d6b2e7bb5dedddaed6dd36cffdc78a61"
 
 [[files]]
 file = "config/yosbr/config/ferritecore.mixin.properties"
@@ -147,6 +147,11 @@ hash = "4f3a66959a750a79a10931bcd051955372d8dabfbd6ca1cc72362ef8284774a4"
 metafile = true
 
 [[files]]
+file = "mods/better-advancements.pw.toml"
+hash = "136bc981dbdb4f4f180a9c96282ca9ddd939e01346dfc48ac59438739342c954"
+metafile = true
+
+[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "385f6606afc7086a39eaceec2df95e0c2c5d7aa3a3b31cb67e2a337eb10a4167"
 metafile = true
@@ -162,18 +167,33 @@ hash = "3ea66dbd8e333b67a5bc50af4462622d8d5e7e65f89b2563430be515063eb5a5"
 metafile = true
 
 [[files]]
+file = "mods/bobby.pw.toml"
+hash = "783f6391e53272943cce060fd820d1c5b7cbdf94df1341f250bf09eaa296171c"
+metafile = true
+
+[[files]]
+file = "mods/calcmod.pw.toml"
+hash = "04caaca613928c8d4e1d3015332a74a43be6ee0fd7693011d2aa91f56d13f768"
+metafile = true
+
+[[files]]
 file = "mods/capes.pw.toml"
 hash = "f85c908d960ca1baf260bbcfa672b1bf46b633c9d71870c43a14be5b4187904a"
 metafile = true
 
 [[files]]
 file = "mods/caxton.pw.toml"
-hash = "0af37baf7d65acb2a16d905bbc4ae28542b3a13fbb3b8bb715b4da5b66d9a4b7"
+hash = "98dd52e1e1dbd86ef0e8a4feb4083d9882885f8e088a6c4f0cef474ee1354c0e"
 metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "7e01e21989c0b58b0f947238d907839585c3afb1a978d1f2ce22bcf46ef90cfa"
+metafile = true
+
+[[files]]
+file = "mods/chatpatches.pw.toml"
+hash = "1d09cb0ea635df4e7f2b191b765a34ed7c6d2a1866bc3a64b8d15b935d317cf2"
 metafile = true
 
 [[files]]
@@ -212,8 +232,18 @@ hash = "8549f3aaf5b1119e6ea0b1d9b4d5759a7e89ffb33e8069bbaee7a98584f5d337"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "cde649248ca5d9b791fcf10bb45cc1cfbed6b626963839377dcf8ea6c14fd01d"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "49f8089d53aa0e40f6b9551e7931d4f502faf07f0c72fb7e1d6d8bc471a09482"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "0f63df0b45aa0c992668d92019caaf050b742b23705c05046ce173697d009eec"
 metafile = true
 
 [[files]]
@@ -223,8 +253,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "099583c94720ec8089dd1a4fdbe9c475ed0764dcbba904e04dc2459089077783"
+hash = "12e4a6fd87fb7b6e7fc5e4c298595a0b2514788b6bc8f9be30988a39dca25460"
 metafile = true
+
+[[files]]
+file = "mods/fabric-carpet-1.21.4-1.4.161+v241203.jar"
+hash = "03114efd99c597a638643d8eb97b7dc485318c007750775d8a5e8c866b44ed76"
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
@@ -244,6 +278,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "1ef554f7a8d5f7ed4bc21316e034eeef3430dc306012c0a706bd4c3e4ac253aa"
+metafile = true
+
+[[files]]
+file = "mods/fix-keyboard-on-linux.pw.toml"
+hash = "b61351d4cb91d8e79e43c53479d9fef060c3c84d4562a6d6f866412cc6c8a399"
 metafile = true
 
 [[files]]
@@ -278,7 +317,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "c61ca02e5e44ef76f5ea092d2c45ee31d8151f3aeed6ab7339ec15249859b831"
+hash = "9cc22885c02127ac110f7d519eb4f43710e62ab6b32e4fe8d2257dce01c2e612"
 metafile = true
 
 [[files]]
@@ -321,7 +360,7 @@ hash = "33d539182552c2f2789cd60f0bb60f48e3912efbb0aff3933078a644b5568550"
 
 [[files]]
 file = "mods/mcwifipnp.pw.toml"
-hash = "20b3fdce9b25b3d760cdf86153f53ee5c41a2261d5eb6438f6794380bd015974"
+hash = "75fee06a4e89bcb6c685a11ad866f520cb724bff731cab70a83a8de479f6e25d"
 metafile = true
 
 [[files]]
@@ -337,6 +376,11 @@ metafile = true
 [[files]]
 file = "mods/minihud-fabric-1.21.4-0.34.0-sakura.3.jar"
 hash = "35d89c3cd1baf3436e2444a37540e4addb8f56159d61268a0e30c11edc72a0c1"
+
+[[files]]
+file = "mods/mixintrace.pw.toml"
+hash = "209d432e4b0526b7e79be8e919080867c46c33e8e6081d7703e045c3d253e1fd"
+metafile = true
 
 [[files]]
 file = "mods/modelfix.pw.toml"
@@ -374,6 +418,11 @@ hash = "e9066859b6107a8587ec888d859da65a68deb706e1b3c183cccef75c267f43d7"
 metafile = true
 
 [[files]]
+file = "mods/optigui.pw.toml"
+hash = "f59ab3633f781c5b5af3234f694da4c4d5195c9211b1ece7e410b54ec1a183eb"
+metafile = true
+
+[[files]]
 file = "mods/packet-fixer.pw.toml"
 hash = "fe0a84c282e6ba9e48024ade23e4784db34900bc7d0c1cda9787ca88f122761f"
 metafile = true
@@ -386,6 +435,11 @@ metafile = true
 [[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "170af2cc47538de9caf10b714d81402b0e13a6b15a3e1e14d35f483f9cb276bd"
+metafile = true
+
+[[files]]
+file = "mods/polytone.pw.toml"
+hash = "3ac1a3edd5883b50c82a58dc18f4f3d1b774a5621443c947ac9d178871182e1c"
 metafile = true
 
 [[files]]
@@ -414,6 +468,11 @@ hash = "163869d9b4f303a6cb17d410dd82f4f796bc3431f07a588c4435c7fbe4f6535d"
 metafile = true
 
 [[files]]
+file = "mods/screenshot-to-clipboard.pw.toml"
+hash = "21e83124511eeb2134e3f8b42450b43318aab4bbbd05b187993ca79fd2d2a130"
+metafile = true
+
+[[files]]
 file = "mods/simple-discord-rpc.pw.toml"
 hash = "3c398cf79509a5aa51bb2c4ba73d2777300fd2b4dd750246be963d5e9342209a"
 metafile = true
@@ -439,6 +498,11 @@ hash = "8559edeaf210c9a83de3dc51b6041ce3ad27368ffb6a81fd6f39d7a9334198f2"
 metafile = true
 
 [[files]]
+file = "mods/threadtweak.pw.toml"
+hash = "1c137d989a144a658c564d77658919ed50c6a09ea8624037976425f0b4c7128e"
+metafile = true
+
+[[files]]
 file = "mods/tweakeroo-fabric-1.21.4-0.23.0-sakura.6.jar"
 hash = "1b6d5c4c31a23fa65ac817f1d6f8738ef0cacba67d59645c021750639d4ab2aa"
 
@@ -449,7 +513,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "d6455abd0deae481e3c40ec33fa388a11c23031971bcf5437330f9aea2f47e45"
+hash = "9906f7cbfd75ffd5ae8c1e19c874a1648647c2523fdcce50f64f2b8c08e29ae6"
 metafile = true
 
 [[files]]
@@ -459,7 +523,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "988384d0020b5faf02f7ffbcfc13c27080371e67603dbe9ce55aaf4ad1c303b3"
+hash = "59241410f3f8ae02f3a675ecbafe78fec94989373fb03e58f917c8dfdea5b476"
 metafile = true
 
 [[files]]
@@ -499,7 +563,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "e35b4f52cd51e28cba488d2010b1225ab354f35dbdb721403cd470586a157043"
+hash = "a73b4b7a889438f774e82d69a2f0f70cf70bb034d5f2640db5c5c66dc1a27801"
 metafile = true
 
 [[files]]
@@ -519,4 +583,4 @@ metafile = true
 
 [[files]]
 file = "todo.txt"
-hash = "dedf13ba46023d717ae62496b9255b907ab7be348c00bc9f1daba064e07c591d"
+hash = "b1dbbe6559c6fef521bce70615444ad515b602e3adb94762015bf0467682659d"

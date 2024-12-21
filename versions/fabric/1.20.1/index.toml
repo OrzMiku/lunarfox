@@ -161,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-advancements.pw.toml"
-hash = "a5a7f8f0a4253f63fcf723361ac001d3ae072030f680c9f2176ff4e7d90e8da0"
+hash = "036bd1f08a582f2a38809e3ab65720d5e04d84fcc1c7b8558d6888c319e18527"
 metafile = true
 
 [[files]]
@@ -276,7 +276,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "eb1a4273056f72643891578bdea71b3fcffc5d492376d1a31ff1f177233b2df6"
+hash = "724f38446c3830230388cec99fed286ff1e8580f0a82c1466c7d59bde4450c71"
 metafile = true
 
 [[files]]
@@ -546,7 +546,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "f9a5e6764ea1f91d37e71a7002be093bda90ea05ff2f3bd271fc4de16ca5adea"
+hash = "dc43722171ffaf5b2eb55f9d72079965996e160c6dba5d700fd0bbefdfe6106a"
 metafile = true
 
 [[files]]
@@ -641,7 +641,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "bf9ed2814b23a73e1de04ff5dcee5c7f777331c00cd22178d63418450d9999b8"
+hash = "fd007bcf905871988768819cdef84262b3caac08c65d7a16211264bf288eeff8"
 metafile = true
 
 [[files]]
@@ -676,7 +676,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "e35b4f52cd51e28cba488d2010b1225ab354f35dbdb721403cd470586a157043"
+hash = "a73b4b7a889438f774e82d69a2f0f70cf70bb034d5f2640db5c5c66dc1a27801"
 metafile = true
 
 [[files]]
