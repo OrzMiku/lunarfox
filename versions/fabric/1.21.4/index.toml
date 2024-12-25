@@ -198,7 +198,7 @@ metafile = true
 
 [[files]]
 file = "mods/cicada.pw.toml"
-hash = "bfed6a48ff6d8f4db571e4eafc6257bf0c1e8a8288908a557efba35f3fe9ce47"
+hash = "efe6d58f7ba80105053486bb6321bd1e364cf3bae9077d907b9e205413a80629"
 metafile = true
 
 [[files]]
@@ -253,7 +253,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "12e4a6fd87fb7b6e7fc5e4c298595a0b2514788b6bc8f9be30988a39dca25460"
+hash = "722f5b9319e99e1842346afad18e52586c5ec0ff16785a07fe384654b2b5dcf0"
 metafile = true
 
 [[files]]
@@ -267,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "3d58015b689a7b80785e9551e7a760e85241ee82306fd4f4839aed5cfd1c3cc2"
+hash = "3f1f166eb0399cdbc24dddcb4c31b635fae042ed551bb0c52aa38b41fa94a33c"
 metafile = true
 
 [[files]]
@@ -317,7 +317,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "9cc22885c02127ac110f7d519eb4f43710e62ab6b32e4fe8d2257dce01c2e612"
+hash = "127d7a682272ce34d92d7df93b7e495b744a967d894e52d1c59227e96319a95b"
 metafile = true
 
 [[files]]
@@ -346,8 +346,9 @@ hash = "2ef95df1f458f796f5af5f7db3f6a75b2bdace7b4d59bf0e3b5a2c29979a8e02"
 metafile = true
 
 [[files]]
-file = "mods/litematica-fabric-1.21.4-0.21.0-sakura.8.jar"
-hash = "92fcc2a42bc298539234352cb2cea116fb25e70d363a10820ceaf8594696c2ea"
+file = "mods/litematica.pw.toml"
+hash = "8762a69192807f43aafb743910bb9808a56035a3473c3019d2dbf44259ceeb9b"
+metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
@@ -355,8 +356,9 @@ hash = "b8284c53c59f71991c522d190b4bedb7703a86ba27b900c335f1602aecb1510b"
 metafile = true
 
 [[files]]
-file = "mods/malilib-fabric-1.21.4-0.23.0-sakura.4.jar"
-hash = "33d539182552c2f2789cd60f0bb60f48e3912efbb0aff3933078a644b5568550"
+file = "mods/malilib.pw.toml"
+hash = "8fba97b7d2e713cfbe399578abd0d086510fdb9d2fa4806e0e5231b5012f5ff2"
+metafile = true
 
 [[files]]
 file = "mods/mcwifipnp.pw.toml"
@@ -374,8 +376,9 @@ hash = "031d0811bba637ad2fe66d491157e4c1173eba73c1a5fb75a7886d65d8a2bad6"
 metafile = true
 
 [[files]]
-file = "mods/minihud-fabric-1.21.4-0.34.0-sakura.3.jar"
-hash = "35d89c3cd1baf3436e2444a37540e4addb8f56159d61268a0e30c11edc72a0c1"
+file = "mods/minihud.pw.toml"
+hash = "f0eb0544c6c6d1a4e704d7fbecbd652464fb7fce8de6965b217093cc27a7ca72"
+metafile = true
 
 [[files]]
 file = "mods/mixintrace.pw.toml"
@@ -409,12 +412,12 @@ metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "85ae542e2ccfb61bcdd3aa55b1a56436782687ba63388e249cb98376737045d4"
+hash = "4044051a3cb2ae86edab32775bbe99f2c379afde47d7fe0b1f8ff2897447a59e"
 metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "e9066859b6107a8587ec888d859da65a68deb706e1b3c183cccef75c267f43d7"
+hash = "fcb0df05d20aaabd18d184009b26d34873a402ff4152f8079428d8e5e4921450"
 metafile = true
 
 [[files]]
@@ -439,7 +442,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "3ac1a3edd5883b50c82a58dc18f4f3d1b774a5621443c947ac9d178871182e1c"
+hash = "d3d7d5d08b8a7c6547eb9b73bfde0f82ab3b7fa66cd1ca647f16341582cccb7a"
 metafile = true
 
 [[files]]
@@ -449,7 +452,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "8d9736922772c3affc0a6845bf4ece656e3d7c576dfc3ecab2283b4b9717a290"
+hash = "354ca35e2a2990c6990b3a2c6e00b6843f494bcf274db799e6a4c176a555b92d"
 metafile = true
 
 [[files]]
@@ -464,7 +467,7 @@ metafile = true
 
 [[files]]
 file = "mods/scalablelux.pw.toml"
-hash = "163869d9b4f303a6cb17d410dd82f4f796bc3431f07a588c4435c7fbe4f6535d"
+hash = "c2310a0880bfee05469c4185390e49ef69496ebda4a9508a322b16c39dd24a96"
 metafile = true
 
 [[files]]
@@ -489,7 +492,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "9e86081bcaf8e26343f5d3a70549abd5130788dca766cea9bb8bdd47f1d65ed6"
+hash = "e0e1e55bfd57838d03dbcd49d3e056352db0284b15e45210205c5d85f83b76d4"
 metafile = true
 
 [[files]]
@@ -503,8 +506,9 @@ hash = "1c137d989a144a658c564d77658919ed50c6a09ea8624037976425f0b4c7128e"
 metafile = true
 
 [[files]]
-file = "mods/tweakeroo-fabric-1.21.4-0.23.0-sakura.6.jar"
-hash = "1b6d5c4c31a23fa65ac817f1d6f8738ef0cacba67d59645c021750639d4ab2aa"
+file = "mods/tweakeroo.pw.toml"
+hash = "202990d8b67325ad5f5d42cac68fe02a6823b8230a04e72126c5c618615931e2"
+metafile = true
 
 [[files]]
 file = "mods/viafabricplus.pw.toml"

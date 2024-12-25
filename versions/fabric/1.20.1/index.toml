@@ -201,7 +201,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet.pw.toml"
-hash = "3ef96a88003584f3bb0e249aeb102b977400fab8718201f3325dd6ced30e4315"
+hash = "f912004cc3c195008c32edf5ad4108639eb36530221886034cdd03b7916a220a"
 metafile = true
 
 [[files]]
@@ -216,7 +216,7 @@ metafile = true
 
 [[files]]
 file = "mods/cicada.pw.toml"
-hash = "fe764a97501bdf3e01430a426128e34d087e65c0e8806bbaacbdcfbc8278a750"
+hash = "bb3551627861be5fd2d873508992ffa2ca65dbcad3056d6df0cb101b5ad87cba"
 metafile = true
 
 [[files]]
@@ -516,12 +516,12 @@ metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "e94cfc8b72a467d63c5d7593a433edaf698a3792e0c9b95274751ba6d8435288"
+hash = "f4b9d7acc345b8df6dd13e19b36658cbca476abdee703ee6f38c66d33e8fa763"
 metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "f03e6e9ed18e510f7ee6671a984cbdda3fabf1f5e037163f76264e8f0cbb5198"
+hash = "8ada718700562cd7d463a2677113b44ee7436be093f97579638b06411a8376a2"
 metafile = true
 
 [[files]]
@@ -531,7 +531,7 @@ metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "953d390eb2bcb2569c3aef7a872db9fb84091ff88244f8bbcb64eed5ce306cd1"
+hash = "cfad168ce51851bd8401b0e16465d5cc735b701e900e970af193d36e2ae98541"
 metafile = true
 
 [[files]]
@@ -546,7 +546,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "dc43722171ffaf5b2eb55f9d72079965996e160c6dba5d700fd0bbefdfe6106a"
+hash = "638567f499675815cb60744092dc3ebb8a7d889500604e190074aca83f055030"
 metafile = true
 
 [[files]]

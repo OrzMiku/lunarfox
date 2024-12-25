@@ -30,19 +30,7 @@ hash = "85852998716ad19e37ed5040d2e444807f46273ff78b1b7154435433b0022fc5"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customizablemenus.txt"
-hash = "b641a9875afdb83d8319633bc927bb0e009ac70b0a9c68663e3d7bae8fb10c35"
-
-[[files]]
-file = "config/yosbr/config/fancymenu/customization/pause_screen_layout_lan.txt"
-hash = "bb582e4590fb1944331c58e06e42b290d6f13cbdfc419d2a585f0ec308c3442e"
-
-[[files]]
-file = "config/yosbr/config/fancymenu/customization/pause_screen_layout_mp.txt"
-hash = "2a5b84928fdce48ad97be08e9fe8d01beae447f501e14ab2f4a1ff83bcb7b842"
-
-[[files]]
-file = "config/yosbr/config/fancymenu/customization/pause_screen_layout_sp.txt"
-hash = "f64d4d30c15d1b9b0399d41cd796cab23f8e1f2694a9396a025ea00ed1643e4b"
+hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/title_screen_layout.txt"
@@ -208,7 +196,7 @@ metafile = true
 
 [[files]]
 file = "mods/cicada.pw.toml"
-hash = "dbcabbe5e3788fcdb66a16b5c87ba62ef347e46708ab6c3c073a0f8856fac917"
+hash = "6a43a535e6b10a72864dcb723793136dfeb99c56cf925929bb72e5e22d0dd436"
 metafile = true
 
 [[files]]
@@ -378,7 +366,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "1f62db4052dc1f3596d3c16883956794511b7215bee654311fead3803263275e"
+hash = "d739e616ea79c0c4aeb56cd97da58f6468f1f83138374e50019dbf61751a88a3"
 metafile = true
 
 [[files]]
@@ -488,7 +476,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "51f150f6f92aeb8445960d2a1a90eb9a994624c180b61ca323ddf338fb568916"
+hash = "c41ad3a39487b51ff942e9403359968b0137b354c237d83a7d6e85225eb28a5e"
 metafile = true
 
 [[files]]
@@ -503,12 +491,12 @@ metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "dcc936d7bd32a86ce63fa3bf013864a4e2ed979cb126a915153ac70ce5e5671f"
+hash = "0b35eacc51808809894ef78b91dfd614e056a34708e4bd2aa6f5ebeb7993a1c0"
 metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "a1c07d980228d8035bcf55cda9ea515d79e15820e47729c5b9e52d19f581a1cf"
+hash = "2413fcb171198ce6ff6f2dbc2bc77fde132865558fce5873a2ba2a1d397d52a0"
 metafile = true
 
 [[files]]
