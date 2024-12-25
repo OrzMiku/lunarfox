@@ -34,23 +34,7 @@ hash = "85852998716ad19e37ed5040d2e444807f46273ff78b1b7154435433b0022fc5"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customizablemenus.txt"
-hash = "56465c823d36f3d6f7605c41af36e18ea3b24d456501b0c4ca0b10ac833537da"
-
-[[files]]
-file = "config/yosbr/config/fancymenu/customization/options_screen_layout.txt"
-hash = "7c8aaf6309df6e05bb531c432207eaf2e93a8a24c392695d7fc00e5006a79de5"
-
-[[files]]
-file = "config/yosbr/config/fancymenu/customization/pause_screen_layout_lan.txt"
-hash = "0890cdab627b39c5873a8f3148a14efc0e0790e12c70ce11073ceb67fcd63fcc"
-
-[[files]]
-file = "config/yosbr/config/fancymenu/customization/pause_screen_layout_mp.txt"
-hash = "e032e6a671002614b7ef923a3d05ea78be1c374961f214a4cd7c060c496303be"
-
-[[files]]
-file = "config/yosbr/config/fancymenu/customization/pause_screen_layout_sp.txt"
-hash = "37eaca576b763fa35fc1dfb858c53a8a862628893461fb909b0505f68f0bb16a"
+hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/title_screen_layout.txt"
@@ -377,6 +361,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "2e441b5e21e8db1cd9102216ce4b8d1a25d77a026182e00f6324aadda402f715"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "3d41978dc3fd1d7b7eebe51a7c04e49707e7e7c66f764a1bed0cc214e4032995"
 metafile = true
 
 [[files]]

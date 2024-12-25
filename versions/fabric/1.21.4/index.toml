@@ -33,18 +33,6 @@ file = "config/yosbr/config/fancymenu/customizablemenus.txt"
 hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
-file = "config/yosbr/config/fancymenu/customization/pause_screen_layout_lan.txt"
-hash = "bb582e4590fb1944331c58e06e42b290d6f13cbdfc419d2a585f0ec308c3442e"
-
-[[files]]
-file = "config/yosbr/config/fancymenu/customization/pause_screen_layout_mp.txt"
-hash = "2a5b84928fdce48ad97be08e9fe8d01beae447f501e14ab2f4a1ff83bcb7b842"
-
-[[files]]
-file = "config/yosbr/config/fancymenu/customization/pause_screen_layout_sp.txt"
-hash = "f64d4d30c15d1b9b0399d41cd796cab23f8e1f2694a9396a025ea00ed1643e4b"
-
-[[files]]
 file = "config/yosbr/config/fancymenu/customization/title_screen_layout.txt"
 hash = "dc078654f8ac799ba738758049d58c7479e95aa730e9c4c13fc2a89dbddd7218"
 
