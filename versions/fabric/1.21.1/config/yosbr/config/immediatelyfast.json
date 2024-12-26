@@ -2,5 +2,8 @@
   "font_atlas_resizing": false,
   "hud_batching": false,
   "fast_text_lookup": false,
-  "experimental_screen_batching": false
+  "experimental_screen_batching": true,
+  "experimental_disable_error_checking": true,
+  "experimental_disable_resource_pack_conflict_handling": true,
+  "experimental_universal_hud_batching": true
 }

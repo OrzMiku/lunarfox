@@ -50,7 +50,7 @@ hash = "2fee62477522b340fb814284e126749bd7858d2f7c17a2400d09644e5c4d725d"
 
 [[files]]
 file = "config/yosbr/config/immediatelyfast.json"
-hash = "96e92dadf0b6f621a8e5160032b731c8f4e8be45bb2ba03877917b4da293da03"
+hash = "e7b55ec7360a7ca63a096d825c4485d89d9166f8074e059e07ae39d15b48d1e4"
 
 [[files]]
 file = "config/yosbr/config/inventoryprofilesnext/inventoryprofiles.json"
