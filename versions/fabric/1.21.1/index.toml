@@ -110,6 +110,14 @@ hash = "8d6ea69e9afa36b8d99f12acf3f4994c22e23fc2a2b31eba78d4352b053b80e8"
 metafile = true
 
 [[files]]
+file = "mods/MagicLib-mc1.21.1-fabric-0.8.654-beta.jar"
+hash = "dede4823d5b99c792136e799d4ea3fbb12421240a99a1d5fcb33c7ef91ae2def"
+
+[[files]]
+file = "mods/MasaGadget-mc1.21.1-fabric-4.0.376-beta.jar"
+hash = "b4224880eea9ba9656f55de75c5cbf226cde53d1a61b85606962b90208c827db"
+
+[[files]]
 file = "mods/animatica.pw.toml"
 hash = "7fb96b88430b9152dc00ba8586c70cd60219627376f8387eeb9accc18ff2fc20"
 metafile = true
@@ -136,7 +144,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "c324a629fe91f115fe6690ce7f61cff1c288b6de56d8d10245cd8bcb69d6671c"
+hash = "b2e77534a9679a237221d874b95bfc5d264cfa4d3b25dbf321ad939baedc0740"
 metafile = true
 
 [[files]]
@@ -206,7 +214,7 @@ metafile = true
 
 [[files]]
 file = "mods/clean-f3.pw.toml"
-hash = "3ac598e1c2a8b8bf26d97b246e071e5e3101cece622851d24c73cc6632c2898e"
+hash = "62d4e4e1c6ff2279ada7f7dc020358d08c17c2fd13a3d33c99dc07e064fa37f9"
 metafile = true
 
 [[files]]
@@ -236,7 +244,7 @@ metafile = true
 
 [[files]]
 file = "mods/default-options.pw.toml"
-hash = "ac812672a33ea8e59d8162d5be79c2ab28b876df138a77478106e02f1777dd4b"
+hash = "dce1b96093934b0dbd3b79f30e767f189e4255754d29d9f663d6a58c068e7052"
 metafile = true
 
 [[files]]
@@ -281,7 +289,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "c0bb895f2240522cc6f20afb9ef46293d9b689b8d46839364350e5b0682bac4b"
+hash = "e0060dd5608032c12619d942e2004f7a1635ebadaef3b928445d2211f082f01f"
 metafile = true
 
 [[files]]
@@ -406,7 +414,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "c6d58a7af6566256a14b48cd4ccda92e3c830efde32ca75e526a1902342d2ef5"
+hash = "18cb7175c008b0abc8e60875504d800ed3c00893225b25400031e7b52f3138d8"
 metafile = true
 
 [[files]]
@@ -420,18 +428,8 @@ hash = "3ba523b0e2a61388644998f4ce0e34bffe2b4bbe59d5b4bd8e467e52fc4fc21a"
 metafile = true
 
 [[files]]
-file = "mods/magiclib.pw.toml"
-hash = "85406d3639566057c68380e6d7885f3e29e7bcd9cc0d713c0910329e8f833521"
-metafile = true
-
-[[files]]
 file = "mods/malilib.pw.toml"
-hash = "ac18f08584260cf3a3dc69068513b0ae6b0a3b8b7be9a4c0c4e02b22d77e9635"
-metafile = true
-
-[[files]]
-file = "mods/masa-gadget.pw.toml"
-hash = "25d5111de934de6769c9bb9b5506cd61977f2a427d2ba9f187864584d75d4a6f"
+hash = "4c8868f5a6e947f48d8d90d8e9a19ee349b3882da09ff0eb8b3b2c39545cfebf"
 metafile = true
 
 [[files]]
@@ -451,7 +449,7 @@ metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "6e957b55d6f9333153edf2718183a4aaa8960f4551aad86ffb7b91e005ce0c79"
+hash = "e0b00c3f81947befb1f7b7424b16461b2805cb344e66542b868fd62c645bca56"
 metafile = true
 
 [[files]]
@@ -471,7 +469,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "85549a8527681f0a07ff2835345f022d7293460797da66bc5af1f948ca1e44b3"
+hash = "a21dbd676882b344c8d7158e234f19d380598eb1b63492a34bd75dddc42cfedd"
 metafile = true
 
 [[files]]
@@ -606,7 +604,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "7879ac25052ab6064dc7df77777c37198cbb26a8e2382e05ff74e4a2ef2d7eb8"
+hash = "d918a7fd39a42c5510da9646649da38ece86c71f23b943dcec9fbfde5258722f"
 metafile = true
 
 [[files]]
@@ -626,12 +624,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "f5af69e13d07c3ba08ae183397c2b4dd12118fab85937650716b20c7b5f2fc72"
+hash = "510c22e3867c4e5263d46928292bbcafe3e6d58fa062959f4c02cecf4f319700"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "604f77dffbfc9c9008b8872d5a918f8993c1b8b1f2021cd4c7a98da81e1f8cf5"
+hash = "81736542ab6986f6af3cdaa90cc030a7c1c2085655c42095b2f981397e5bc8d6"
 metafile = true
 
 [[files]]
@@ -661,7 +659,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "a73b4b7a889438f774e82d69a2f0f70cf70bb034d5f2640db5c5c66dc1a27801"
+hash = "0dc4a9460a5f22cb0a2b60e8d9409de9d068833139996837662de378813410c4"
 metafile = true
 
 [[files]]

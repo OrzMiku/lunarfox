@@ -210,7 +210,7 @@ metafile = true
 
 [[files]]
 file = "mods/clean-f3.pw.toml"
-hash = "4d9f43c04fcc0568c500b66e8bcce383b9e3d8ee883cae5d08d5b1655149a8b2"
+hash = "84bef3444755e4ac4af763eb3ccbbb8f9f4a4697ecf2ec75235e2356a79dcded"
 metafile = true
 
 [[files]]
@@ -290,7 +290,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "ebd92e07834dae22ebb7340a1112ac20d79869ec12ef5107938f564dee2661d2"
+hash = "c7763ceed9929d3364030c01a4602628ebf46a028d55e7dd06f5aeb6280d36a3"
 metafile = true
 
 [[files]]
@@ -480,7 +480,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "e2ebf7eefe0119002329c02a7121e262821b0f6d9d6e164f818b07aeeec1c396"
+hash = "8c8a415665b41e96e7afd7503a94fa58998677801eab82931112314459723ffd"
 metafile = true
 
 [[files]]
@@ -535,7 +535,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "638567f499675815cb60744092dc3ebb8a7d889500604e190074aca83f055030"
+hash = "ab7d9307655620cda164ae36ce31ee630e825c9d9a2030ef22563032ab6435d6"
 metafile = true
 
 [[files]]
@@ -630,12 +630,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "fd007bcf905871988768819cdef84262b3caac08c65d7a16211264bf288eeff8"
+hash = "f8a60dd8a54e7885be9c1a4c85ce9dd77dc7454ea817da555bf1bd01da64d89e"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "12262a6fc189ddd24d3231a59054e07c3cd12dcba364055244f41e8331f139fb"
+hash = "c5234ec87e6bea9194af7f6ff70d820a32ddcad7199cc0b7ee92b11f6e6edf38"
 metafile = true
 
 [[files]]
@@ -665,7 +665,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "a73b4b7a889438f774e82d69a2f0f70cf70bb034d5f2640db5c5c66dc1a27801"
+hash = "0dc4a9460a5f22cb0a2b60e8d9409de9d068833139996837662de378813410c4"
 metafile = true
 
 [[files]]
