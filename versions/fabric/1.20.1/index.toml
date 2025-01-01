@@ -17,6 +17,10 @@ file = "config/yosbr/config/defaultoptions/keybindings.txt"
 hash = "6517f3d5e5683093845a9937906e0858407fa7888cdb68993586e7ef33e47bc5"
 
 [[files]]
+file = "config/yosbr/config/dsurround/dsurround.json"
+hash = "4214583f48dd7cd440a6054c8ccbe99b0a784044682375e981d608003e38b068"
+
+[[files]]
 file = "config/yosbr/config/entityculling.json"
 hash = "3955e3822546d7193b0432b91ba89e233a7b4aaf88cbf2883d1931c77bbc9fdb"
 
