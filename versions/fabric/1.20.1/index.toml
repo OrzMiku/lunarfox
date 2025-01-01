@@ -259,6 +259,11 @@ hash = "5200b85159d7ceff7799d42b99928fc83551792a27a3a7b06a2832ce2fbc8563"
 metafile = true
 
 [[files]]
+file = "mods/dynamicsurroundingsfabric.pw.toml"
+hash = "6bf279de64daa6f416d8e776c2f9ce4a36e52be22d4ef9e6a6380f0a0443f7cf"
+metafile = true
+
+[[files]]
 file = "mods/ebe.pw.toml"
 hash = "c9102ad224c1496927d326707ee2cd2a2cfd6f278f05e23a19aa45395306daf6"
 metafile = true
@@ -306,6 +311,11 @@ metafile = true
 [[files]]
 file = "mods/fabricskyboxes.pw.toml"
 hash = "d38f50aad915b4c2f6ee7dfe1a480970def9dd312932504c4f008cbe17988306"
+metafile = true
+
+[[files]]
+file = "mods/fallingleaves.pw.toml"
+hash = "fff1e00559f13c092b17fa83804279cf70191d7a99a4a98a4eb6bb30ac9a78db"
 metafile = true
 
 [[files]]
