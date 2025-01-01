@@ -46,7 +46,7 @@ hash = "2fee62477522b340fb814284e126749bd7858d2f7c17a2400d09644e5c4d725d"
 
 [[files]]
 file = "config/yosbr/config/immediatelyfast.json"
-hash = "e7b55ec7360a7ca63a096d825c4485d89d9166f8074e059e07ae39d15b48d1e4"
+hash = "8bc58d4ab49fc2606a7ae6c7614e4ad3f5a5c29b894fbdaa2bc3d8730acacd2c"
 
 [[files]]
 file = "config/yosbr/config/inventoryprofilesnext/inventoryprofiles.json"
@@ -435,7 +435,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "95fb2702c76c1dee3e37b534c196f9184f320e99260f9990689374a7f073214e"
+hash = "1c798c7c4a800b7e39a8d2859b99f2c397de811de11fca11a429e3e4b65268af"
 metafile = true
 
 [[files]]
