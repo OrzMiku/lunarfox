@@ -21,6 +21,10 @@ file = "config/yosbr/config/dsurround/dsurround.json"
 hash = "4214583f48dd7cd440a6054c8ccbe99b0a784044682375e981d608003e38b068"
 
 [[files]]
+file = "config/yosbr/config/dsurround/soundconfig.json"
+hash = "47fd777d562f6bbe60e08ee1e56ab01bb3728a6eaeb7e780bfa3242c15739cc4"
+
+[[files]]
 file = "config/yosbr/config/entityculling.json"
 hash = "3955e3822546d7193b0432b91ba89e233a7b4aaf88cbf2883d1931c77bbc9fdb"
 
