@@ -145,6 +145,11 @@ hash = "385f6606afc7086a39eaceec2df95e0c2c5d7aa3a3b31cb67e2a337eb10a4167"
 metafile = true
 
 [[files]]
+file = "mods/better-ping-display-fabric.pw.toml"
+hash = "b8e99cb5d0340da918037b444e1f106dbe4dc90d4efcd7780e7f6b4072116452"
+metafile = true
+
+[[files]]
 file = "mods/better-stats.pw.toml"
 hash = "1fcc771366f6bf06deb079e6ae76fcee6500eedd38955a4959dc138a80a2a3da"
 metafile = true
@@ -197,6 +202,16 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "df15648dd4d4e27dd0c45ab4e78277c45886b77a698b129f4ce2d2bc337f7044"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "7986f751d84536043edd1e67178554f6d4c3f01409feae6c151afa7854db5fa2"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "084c3698a6e4ca2eac0a362d9fc0e3896501a76d2cb57c8da6bdaaa7515a5752"
 metafile = true
 
 [[files]]
@@ -384,6 +399,11 @@ hash = "78946e7851174a7462125185cb6306f5bac4fe5b90a3f4396cd8a79d56084661"
 metafile = true
 
 [[files]]
+file = "mods/modernfix.pw.toml"
+hash = "348bd2931980c466e83f985747904f271c82ef7e23a4e33bbe9b882b0e7e5c94"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "73690bd10798a8d38fbd2001b083cbe09c57997c81945ec545f3c572b2441799"
 metafile = true
@@ -469,6 +489,11 @@ hash = "21e83124511eeb2134e3f8b42450b43318aab4bbbd05b187993ca79fd2d2a130"
 metafile = true
 
 [[files]]
+file = "mods/searchables.pw.toml"
+hash = "88b3e60772a80810c112a6abaab8f1cc04652d08d3c1f3644de5bb126d793670"
+metafile = true
+
+[[files]]
 file = "mods/simple-discord-rpc.pw.toml"
 hash = "3c398cf79509a5aa51bb2c4ba73d2777300fd2b4dd750246be963d5e9342209a"
 metafile = true
@@ -501,6 +526,11 @@ metafile = true
 [[files]]
 file = "mods/tweakeroo.pw.toml"
 hash = "6b3c217dff9042118994a4d55b3d149390943d054808a1ecc978c50dbca65fe1"
+metafile = true
+
+[[files]]
+file = "mods/universal-shortcuts.pw.toml"
+hash = "b493e7aff7f1c135aa1c09b8fead2966c96b199a257cf6723ef3b6d599d58d8d"
 metafile = true
 
 [[files]]
