@@ -206,7 +206,7 @@
 
 	[[custom.variables]]
 		name = "desc"
-		value = "A performance modpack using NeoForge with QOL-improving mods and OptiFine alternatives."
+		value = "A performance modpack with QOL-improving mods and OptiFine alternatives. Better performance and a more convenient vanilla game experience."
 
 [dimension_overrides]
 	enabled = false

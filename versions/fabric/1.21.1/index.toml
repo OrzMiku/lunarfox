@@ -86,7 +86,7 @@ hash = "f546f5a9367d113277de4051e3c14b898dea9490d9bd9f8240f222e0ea062c22"
 
 [[files]]
 file = "config/yosbr/config/simple-rpc/simple-rpc.toml"
-hash = "8d64153ef86a1f263b384bfc32d57833a009301dd04c0416c5d85cec409a7cfe"
+hash = "7ecd1e16647ed5c3020e6da57b0501279495edf697e31bb5e33936b62e02cb64"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
