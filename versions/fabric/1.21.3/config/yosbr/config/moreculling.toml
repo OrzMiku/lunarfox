@@ -1,0 +1,4 @@
+version = 1
+useBlockStateCulling = false
+itemFrameLODRange = 128
+itemFrame3FaceCullingRange = 4.0

@@ -1,0 +1,13 @@
+name = "ViaFabricPlus"
+filename = "ViaFabricPlus-3.5.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/rIC2XJV4/versions/aGCp2EGW/ViaFabricPlus-3.5.3.jar"
+hash-format = "sha512"
+hash = "4be01d46028820fd816d87f9609c628683e44974757c6453eb1697654b74d5987153cd52d8707758e55c5175783e00b52b17d10e949aa546ce3e230ba9d30a87"
+
+[update]
+[update.modrinth]
+mod-id = "rIC2XJV4"
+version = "aGCp2EGW"
