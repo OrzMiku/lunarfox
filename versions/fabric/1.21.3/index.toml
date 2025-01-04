@@ -41,10 +41,6 @@ file = "config/yosbr/config/minihud.json"
 hash = "435f7811c796b2352fee74985081994d69f881f9f0b6a0499ba39fbc40ee3f0b"
 
 [[files]]
-file = "config/yosbr/config/modernfix-mixins.properties"
-hash = "cb9a30676675fb246b52a7c086e052dc3e4a4aaedc387ee21c3297ec25423f42"
-
-[[files]]
 file = "config/yosbr/config/moreculling.toml"
 hash = "48f6e83fcdededcc1503e58a00de88b76e32a5174662c6916ae34b1c739a8616"
 
@@ -74,7 +70,7 @@ hash = "7a77699610a11349d279b6dfacb335c629179a682b7780b72a3e441f816da837"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "21e3e516b4f99a86a807f130c16352bd93674861c0f4c26ef57167fcced36dec"
+hash = "f6e91322b3c074b0566f620f362e57021910499f135d57625c5c0bdadb790a8a"
 
 [[files]]
 file = "icon.png"
@@ -377,7 +373,7 @@ metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "1d1edcd545d8ce0252488071aaa0d69fb7bfe9a937a21117f00e4b122f049ce3"
+hash = "03b88e6c07796d391b9ea91b68af2a0bc3bf66b87d7f1faa298d581be40cc365"
 metafile = true
 
 [[files]]
