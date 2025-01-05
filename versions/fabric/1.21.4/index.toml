@@ -110,6 +110,10 @@ hash = "04277af31d7c79fcfa5d134c040fbec38db299875b6ba92db0d184bc1f5d9593"
 metafile = true
 
 [[files]]
+file = "mods/animatica-0.6.2+1.21.4.jar"
+hash = "1c66e7d79ac23386a682e9748f86524594438d68286d473bc123ac77ddd77788"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "417e4f42790407e6fb4dfcb03cd4abcdf3aa00f4dcef3f3a2edec1a3e1a9a3ef"
 metafile = true
@@ -282,6 +286,10 @@ metafile = true
 file = "mods/fast-ip-ping.pw.toml"
 hash = "41504449b69a32068d2db598dfbc8d3690690e16a3a6d5cc1af256fbead1f653"
 metafile = true
+
+[[files]]
+file = "mods/fastquit-3.0.0+1.21.4.jar"
+hash = "ed9f739de930c3104b8f22abd4ea05027f3700d68cc9a590f9bb1dd1554992fc"
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"

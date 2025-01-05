@@ -90,6 +90,10 @@ file = "mods/MasaGadget-mc1.21.3-fabric-4.0.382-pull_request.jar"
 hash = "5d1a5a710b9c2bde77aff741ec01505085be2c969253963c637e22ce8099903a"
 
 [[files]]
+file = "mods/animatica-0.6.1+1.21.2.jar"
+hash = "6661d6b31561bb17ce13ee65e62ff787f0c341926bf6f532f6cdacf9a20bf50b"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "417e4f42790407e6fb4dfcb03cd4abcdf3aa00f4dcef3f3a2edec1a3e1a9a3ef"
 metafile = true
@@ -205,9 +209,18 @@ hash = "6e6ded037a92f9c49c89f9a44cc8fa644973a862a3414e27ba3a98ab40abbd3f"
 metafile = true
 
 [[files]]
+file = "mods/durability-tooltip.pw.toml"
+hash = "a47138a91677a89d84e5ab37da1f501f4770ab07e51ae8ce6fdd27fb2d14f026"
+metafile = true
+
+[[files]]
 file = "mods/dynamiccrosshair.pw.toml"
 hash = "8549f3aaf5b1119e6ea0b1d9b4d5759a7e89ffb33e8069bbaee7a98584f5d337"
 metafile = true
+
+[[files]]
+file = "mods/enhancedblockentities-0.10.2+1.21.2.jar"
+hash = "38c227dc1baa746906ac15e603a6b70c4c53260f922c3580649e319802137324"
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
@@ -222,6 +235,11 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "5f1a6a01656d731f01a26bc4d68670ab9ce3984deb33bd4b1fe2e8351e8d7d1c"
+metafile = true
+
+[[files]]
+file = "mods/esf.pw.toml"
+hash = "03ff6ba60d550b285dadec9bf0344e81d5c188648d383e00f869abdd01a19ab8"
 metafile = true
 
 [[files]]
@@ -247,6 +265,11 @@ metafile = true
 [[files]]
 file = "mods/fast-ip-ping.pw.toml"
 hash = "41504449b69a32068d2db598dfbc8d3690690e16a3a6d5cc1af256fbead1f653"
+metafile = true
+
+[[files]]
+file = "mods/fastquit.pw.toml"
+hash = "4387abb74dcfc93f9381c109fe76e7161ca7a91a1a642db4781b47f650c4ddab"
 metafile = true
 
 [[files]]
@@ -467,6 +490,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "e43454084839b810fa0fbc9a5193fca1d72470ecbc06d2138538306f08cb2849"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "8e009ac87710fbd8f5990285d36ab2b4755e932664ca1bcb9cdfac116d6e3b6d"
 metafile = true
 
 [[files]]
