@@ -151,7 +151,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "1fcc771366f6bf06deb079e6ae76fcee6500eedd38955a4959dc138a80a2a3da"
+hash = "73e0cb72af02c0399c345df40ba0d856fa8fb1adc9b6fcbdd2c54f614fdbdab4"
 metafile = true
 
 [[files]]
@@ -196,7 +196,7 @@ metafile = true
 
 [[files]]
 file = "mods/clean-f3.pw.toml"
-hash = "84bef3444755e4ac4af763eb3ccbbb8f9f4a4697ecf2ec75235e2356a79dcded"
+hash = "b5af3194d6df56cc66492a178625a37947027a7d761eb29153f33869508a6863"
 metafile = true
 
 [[files]]
@@ -246,7 +246,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "0f63df0b45aa0c992668d92019caaf050b742b23705c05046ce173697d009eec"
+hash = "187026fe5d603008a4b30559103487f0ebf08682bf3e470ab743227f5265a422"
 metafile = true
 
 [[files]]
@@ -325,7 +325,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "127d7a682272ce34d92d7df93b7e495b744a967d894e52d1c59227e96319a95b"
+hash = "31ace44873127d8fcf90009159895ff9e8bb1c921638c2829ecc159c19e74f3a"
 metafile = true
 
 [[files]]
@@ -455,7 +455,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "1c798c7c4a800b7e39a8d2859b99f2c397de811de11fca11a429e3e4b65268af"
+hash = "805814886210c15142af2643c6e927cca553a3feca244f1be1d309630b527e2a"
 metafile = true
 
 [[files]]
@@ -535,7 +535,7 @@ metafile = true
 
 [[files]]
 file = "mods/viafabricplus.pw.toml"
-hash = "159cde8bf16f5c30487a711ef74b70183dfad0a4aaf5d3b041be499d5101d72c"
+hash = "313a0ce174f2250de5edf1f1819e23ad1090417227f7e4e76b1271823f9ec8cd"
 metafile = true
 
 [[files]]
@@ -590,7 +590,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "0dc4a9460a5f22cb0a2b60e8d9409de9d068833139996837662de378813410c4"
+hash = "f2ee5af84e4339e060a2d9ed661b0f6c3738686f9c3b6232fdddc82202e7f10a"
 metafile = true
 
 [[files]]

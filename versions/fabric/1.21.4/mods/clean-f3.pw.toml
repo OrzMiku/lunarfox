@@ -3,11 +3,11 @@ filename = "CleanF3-mc1.20.x-0.4.9.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/5lvjfaRs/versions/OVOgbDMQ/CleanF3-mc1.20.x-0.4.9.jar"
+url = "https://cdn.modrinth.com/data/5lvjfaRs/versions/9H6pR3bj/CleanF3-mc1.20.x-0.4.9.jar"
 hash-format = "sha512"
-hash = "7242610aaf2d03ae4b08d58f0248b70e7cc413032cdbede2668888f54be7460d778b769eb12c10e57f2a1949939dd63f44e8ba42a17d9a00491d808172976628"
+hash = "88bfd8ba3161f256a2f3a79ca22da467f7b194d8ffd8bf2d4672b64946235823dc978ca010a859120bc36c6a4584d78cb5441bd57e56663ee4e2eba9c2da3dc5"
 
 [update]
 [update.modrinth]
 mod-id = "5lvjfaRs"
-version = "OVOgbDMQ"
+version = "9H6pR3bj"

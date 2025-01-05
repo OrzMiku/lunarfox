@@ -218,7 +218,7 @@ metafile = true
 
 [[files]]
 file = "mods/clean-f3.pw.toml"
-hash = "84bef3444755e4ac4af763eb3ccbbb8f9f4a4697ecf2ec75235e2356a79dcded"
+hash = "b5af3194d6df56cc66492a178625a37947027a7d761eb29153f33869508a6863"
 metafile = true
 
 [[files]]
@@ -553,7 +553,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "ab7d9307655620cda164ae36ce31ee630e825c9d9a2030ef22563032ab6435d6"
+hash = "d94f0ab447725c1b03c339e40e71a3390263c1fbec3428b77cd9324ce7945a79"
 metafile = true
 
 [[files]]
@@ -683,7 +683,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "0dc4a9460a5f22cb0a2b60e8d9409de9d068833139996837662de378813410c4"
+hash = "f2ee5af84e4339e060a2d9ed661b0f6c3738686f9c3b6232fdddc82202e7f10a"
 metafile = true
 
 [[files]]

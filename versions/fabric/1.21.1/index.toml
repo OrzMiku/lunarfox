@@ -118,12 +118,12 @@ hash = "8d6ea69e9afa36b8d99f12acf3f4994c22e23fc2a2b31eba78d4352b053b80e8"
 metafile = true
 
 [[files]]
-file = "mods/MagicLib-mc1.21.1-fabric-0.8.654-beta.jar"
-hash = "dede4823d5b99c792136e799d4ea3fbb12421240a99a1d5fcb33c7ef91ae2def"
+file = "mods/MagicLib-mc1.21.1-fabric-0.8.658-rc.jar"
+hash = "83614cf3654fa966c6f50c70d127543af52bda1f448fbb4d8c8d628a1baa8094"
 
 [[files]]
-file = "mods/MasaGadget-mc1.21.1-fabric-4.0.376-beta.jar"
-hash = "b4224880eea9ba9656f55de75c5cbf226cde53d1a61b85606962b90208c827db"
+file = "mods/MasaGadget-mc1.21.1-fabric-4.0.382-pull_request.jar"
+hash = "21104b64a534df216b6c6d726f135665953367a9acb2ebe554ec8b19c43b6636"
 
 [[files]]
 file = "mods/animatica.pw.toml"
@@ -172,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "ccde3290b7c187f1604334482954bbb6452509690caaeccc8dda0b08d7320a09"
+hash = "d512e7b29840fb39f4a98004c47f0f45b08696f221abc1ff3301c7ea1725f676"
 metafile = true
 
 [[files]]
@@ -222,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/clean-f3.pw.toml"
-hash = "62d4e4e1c6ff2279ada7f7dc020358d08c17c2fd13a3d33c99dc07e064fa37f9"
+hash = "0e7e531cc4fe9b6b35e2303b1c5206f15b604e81fce789a14c5c1d9160b68f16"
 metafile = true
 
 [[files]]
@@ -542,7 +542,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "d14d1b9e55ad3a3f0a384d1117f0328125532df9f627a0dd94b724a02f9dea0c"
+hash = "014ec365d8f28a907b9d0dec956bbf7704903363892a4db7d6d492e95fd57953"
 metafile = true
 
 [[files]]
@@ -672,7 +672,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "0dc4a9460a5f22cb0a2b60e8d9409de9d068833139996837662de378813410c4"
+hash = "f2ee5af84e4339e060a2d9ed661b0f6c3738686f9c3b6232fdddc82202e7f10a"
 metafile = true
 
 [[files]]
