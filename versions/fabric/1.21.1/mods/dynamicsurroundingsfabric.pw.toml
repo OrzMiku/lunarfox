@@ -1,13 +1,13 @@
 name = "Dynamic Surroundings"
-filename = "dynamicsurroundings-fabric-1.21.1-0.4.1.jar"
+filename = "dynamicsurroundings-fabric-1.21.1-0.4.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/H7fshfpD/versions/VlUUODKD/dynamicsurroundings-fabric-1.21.1-0.4.1.jar"
+url = "https://cdn.modrinth.com/data/H7fshfpD/versions/PdSOBhyc/dynamicsurroundings-fabric-1.21.1-0.4.2.jar"
 hash-format = "sha512"
-hash = "b2636863e2c70a526c2d79b96a650e901307a4077ecf3c9d15bbe7f0434c09c9250865ca99075bfc0efc4cb18146bfe37237a54f8f9e0b12c60d6f854b9d56f7"
+hash = "9259a7ec7ec3303661a50569dac1dc4a1fdaf481e12cbfa180a4f49838985b5088be70425315b0bdffde212ddeffbd8805437b07aca636f508ea49c109419e7c"
 
 [update]
 [update.modrinth]
 mod-id = "H7fshfpD"
-version = "VlUUODKD"
+version = "PdSOBhyc"

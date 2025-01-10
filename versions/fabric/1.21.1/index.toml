@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/badpackets.pw.toml"
-hash = "46854a47bdc94fd145b934ff20e923041dac7e603217fc01aa8cd5bc96045c14"
+hash = "6ff12e37227232226f2fe51c0e34386540d417d06c75cb951eac01f8947bea68"
 metafile = true
 
 [[files]]
@@ -267,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamicsurroundingsfabric.pw.toml"
-hash = "d9b86676f48d9f98b8b120abcc87c1a5c595cd3105f7648246be73f6c03b787c"
+hash = "6269a762579b50b12cb8150e3f304de168b091630605079b56427b68ebd795f0"
 metafile = true
 
 [[files]]
@@ -367,7 +367,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "e76885945cd82a93ecb6839917ccbabd37597e16dbbd3e5336b56306bbf7ca3a"
+hash = "439c4e7a20a96daef235db0f8c0d5793928e7bb24a349bf9bb8bcbe5bbe0fa40"
 metafile = true
 
 [[files]]
@@ -427,7 +427,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "7f28714f40625286882d261b1b0dddbc79acf4d484abaec2267f19e8622d73d1"
+hash = "750c8deb19a16740f2d78d8cd8f2481f6cd135fa236b78c6071a62f682c7d497"
 metafile = true
 
 [[files]]
@@ -542,7 +542,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "014ec365d8f28a907b9d0dec956bbf7704903363892a4db7d6d492e95fd57953"
+hash = "4e2a5affa408b2a81b4b1c12af73def4f46bc2f7b9b65109b6d621f5be22a2fc"
 metafile = true
 
 [[files]]

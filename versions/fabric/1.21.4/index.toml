@@ -130,7 +130,7 @@ metafile = true
 
 [[files]]
 file = "mods/badpackets.pw.toml"
-hash = "025ce95e52fae5b52f3d93a11a2186b6d58bc292dc9655b3f47e7d0d1de9479d"
+hash = "6ff12e37227232226f2fe51c0e34386540d417d06c75cb951eac01f8947bea68"
 metafile = true
 
 [[files]]
@@ -260,7 +260,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "40aa9a34a6ae8d39fb3e8fb8d7ae2edfd17fee124300a1ea26c65f06cff89de9"
+hash = "010dbda409c0c2f96ae0b2ede06f1c3583b1c4ac634d145b45606238f89784a6"
 metafile = true
 
 [[files]]
@@ -279,7 +279,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "3f1f166eb0399cdbc24dddcb4c31b635fae042ed551bb0c52aa38b41fa94a33c"
+hash = "9392d9f8c9077d61294f3eb90f7c0df013000fb9d191124689771612e8f6d04a"
 metafile = true
 
 [[files]]
@@ -358,7 +358,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "2ef95df1f458f796f5af5f7db3f6a75b2bdace7b4d59bf0e3b5a2c29979a8e02"
+hash = "60ce985c3bf7db91eeaa94327b0ec0f440eb6215d1fa0270e122bcbf5ba0f5ff"
 metafile = true
 
 [[files]]
@@ -413,12 +413,12 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "73690bd10798a8d38fbd2001b083cbe09c57997c81945ec545f3c572b2441799"
+hash = "e0ee868032501d71c583621a03fbb7317aa4997c234f5efe59fe498e10e0bf9b"
 metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "8cd7ef0e7719d1e7edc6d68a3723ccb13a0b6adcf5fc38346692f725396484b5"
+hash = "190da82bace64fdc2a741dd665568ad65d0c82b38e71e219edd3af2c76a1db3b"
 metafile = true
 
 [[files]]
@@ -463,7 +463,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "805814886210c15142af2643c6e927cca553a3feca244f1be1d309630b527e2a"
+hash = "90b2c0e8794bdb55fe220160c69248bf7ff68450f98d81d2436cbf2fb94df19b"
 metafile = true
 
 [[files]]
@@ -543,7 +543,7 @@ metafile = true
 
 [[files]]
 file = "mods/viafabricplus.pw.toml"
-hash = "313a0ce174f2250de5edf1f1819e23ad1090417227f7e4e76b1271823f9ec8cd"
+hash = "fa5aeb4b2a7099ab28c4d2751f2b053fc42401c46162b7e3f579ffc5198a0489"
 metafile = true
 
 [[files]]

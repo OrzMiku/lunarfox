@@ -82,10 +82,6 @@ hash = "a32b41dea1b23ec896f2a522af6f0d460c3a9052b1b0c9bac0fccd56c4a0c507"
 metafile = true
 
 [[files]]
-file = "mods/MagicLib-mc1.21.3-fabric-0.8.658-rc.jar"
-hash = "4e2fddbe83dc9e3d68c675c0aa6d83358a6a8d93f552fc69980eb8c4bff5bb03"
-
-[[files]]
 file = "mods/MasaGadget-mc1.21.3-fabric-4.0.382-pull_request.jar"
 hash = "5d1a5a710b9c2bde77aff741ec01505085be2c969253963c637e22ce8099903a"
 
@@ -110,7 +106,7 @@ metafile = true
 
 [[files]]
 file = "mods/badpackets.pw.toml"
-hash = "025ce95e52fae5b52f3d93a11a2186b6d58bc292dc9655b3f47e7d0d1de9479d"
+hash = "6ff12e37227232226f2fe51c0e34386540d417d06c75cb951eac01f8947bea68"
 metafile = true
 
 [[files]]
@@ -334,7 +330,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "2ef95df1f458f796f5af5f7db3f6a75b2bdace7b4d59bf0e3b5a2c29979a8e02"
+hash = "60ce985c3bf7db91eeaa94327b0ec0f440eb6215d1fa0270e122bcbf5ba0f5ff"
 metafile = true
 
 [[files]]
@@ -345,6 +341,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "0d50516f7ba174f3bc8fb4c12e1200d82649ca5e3b3f42de408d420bfa13fd2d"
+metafile = true
+
+[[files]]
+file = "mods/magiclib.pw.toml"
+hash = "e6ab5702be1b3621f8de1102f57aba3153e08c400692b90d497551ec0ca08828"
 metafile = true
 
 [[files]]

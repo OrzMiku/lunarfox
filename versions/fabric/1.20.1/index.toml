@@ -6,7 +6,7 @@ hash = "16cddeb9f397c98232ce28778089369f32bfce744eda1233d9805ab415b5ab68"
 
 [[files]]
 file = "config/yosbr/config/chatpatches.json"
-hash = "510b70fce28f2f3e4d2f60f9ce208a1cebcb51f18272defcbb7082227d8322a7"
+hash = "0623905a25c9b6c8387f7a6a0256ea005f727c63c689d2cc7cc77f74e912f7e4"
 
 [[files]]
 file = "config/yosbr/config/cull-less-leaves.json"
@@ -14,7 +14,7 @@ hash = "4d9bc732c63f8e4a725dc04b56251a38ad7702975db97563a1b0a85483759c07"
 
 [[files]]
 file = "config/yosbr/config/defaultoptions/keybindings.txt"
-hash = "6517f3d5e5683093845a9937906e0858407fa7888cdb68993586e7ef33e47bc5"
+hash = "ed198b34d91d1fb777da215b8b80f9e29d101a26465a5415c242c9cec40fcf87"
 
 [[files]]
 file = "config/yosbr/config/dsurround/dsurround.json"
@@ -66,7 +66,7 @@ hash = "43df9e4a3e60edd220983a2b9c52106471a763861a873ed43593c726eca90014"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
-hash = "528421f4b1cd80891b57c08dc78fc14873310950601c382ae3331dc753268ebd"
+hash = "a16387cc6923b69281bc50cac2705ac7793f0fa6d622dd20c88f1ee07d772729"
 
 [[files]]
 file = "config/yosbr/config/masa_gadget_mod.json"
@@ -86,19 +86,11 @@ hash = "48f6e83fcdededcc1503e58a00de88b76e32a5174662c6916ae34b1c739a8616"
 
 [[files]]
 file = "config/yosbr/config/puzzle.json"
-hash = "f546f5a9367d113277de4051e3c14b898dea9490d9bd9f8240f222e0ea062c22"
-
-[[files]]
-file = "config/yosbr/config/simple-rpc/simple-rpc.toml"
-hash = "7ecd1e16647ed5c3020e6da57b0501279495edf697e31bb5e33936b62e02cb64"
-
-[[files]]
-file = "config/yosbr/config/sodium-options.json"
-hash = "c4761746550675a74932a4792054d8c5f6c229f43b9ac0a5fe3a4e3d1e5b9941"
+hash = "1d47fa191792c248182fc7cc2925072a426396e5f8902687287e39e788c231eb"
 
 [[files]]
 file = "config/yosbr/config/xaerominimap.txt"
-hash = "7e510e4dd1479e9ce3314b1064eeb3d19606211d35112b87128fc08802588bb1"
+hash = "9b8a5035b157ce6e2039d34de3542bc63c92c69a3a4cc7b48a588facc5017c59"
 
 [[files]]
 file = "config/yosbr/config/xaeroplus.txt"
@@ -106,7 +98,7 @@ hash = "07df139d1d60edc1db5d7a26d13803c794aff97bb48d342d8e2dd4916038b39f"
 
 [[files]]
 file = "config/yosbr/config/xaeroworldmap.txt"
-hash = "7a77699610a11349d279b6dfacb335c629179a682b7780b72a3e441f816da837"
+hash = "b0df40e07391a60294d7bffb9772cabe8096d61c41c8680fbfad927d3a6a5a6b"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -368,7 +360,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "06f6cbaf95381911443f034ee5f47f218335fdfb2d5f64686b29b771971978cb"
+hash = "34dd1cbde7b82d5992e010b2e31b2eb0b51c2fd330564a75fcdc907a9795bc49"
 metafile = true
 
 [[files]]
@@ -448,7 +440,7 @@ metafile = true
 
 [[files]]
 file = "mods/magiclib.pw.toml"
-hash = "eed906c594009c462209597741efc462cad2445c8301a8c20ec8a7a929da36e3"
+hash = "4d5d58744bb10192dbca3be3b5a8703c40bcfa9e3b7752341b86edbe761027f7"
 metafile = true
 
 [[files]]

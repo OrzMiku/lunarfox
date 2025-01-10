@@ -1,4 +1,5 @@
 ignoreUpdate:1
+updateNotification:false
 caveMaps:2
 lockNorth:true
 uiScale:3
