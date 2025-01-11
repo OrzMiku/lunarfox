@@ -17,14 +17,6 @@ file = "config/yosbr/config/defaultoptions/keybindings.txt"
 hash = "ed198b34d91d1fb777da215b8b80f9e29d101a26465a5415c242c9cec40fcf87"
 
 [[files]]
-file = "config/yosbr/config/dsurround/dsurround.json"
-hash = "4214583f48dd7cd440a6054c8ccbe99b0a784044682375e981d608003e38b068"
-
-[[files]]
-file = "config/yosbr/config/dsurround/soundconfig.json"
-hash = "47fd777d562f6bbe60e08ee1e56ab01bb3728a6eaeb7e780bfa3242c15739cc4"
-
-[[files]]
 file = "config/yosbr/config/entityculling.json"
 hash = "3955e3822546d7193b0432b91ba89e233a7b4aaf88cbf2883d1931c77bbc9fdb"
 
@@ -256,11 +248,6 @@ metafile = true
 [[files]]
 file = "mods/dynamiccrosshair.pw.toml"
 hash = "5200b85159d7ceff7799d42b99928fc83551792a27a3a7b06a2832ce2fbc8563"
-metafile = true
-
-[[files]]
-file = "mods/dynamicsurroundingsfabric.pw.toml"
-hash = "6bf279de64daa6f416d8e776c2f9ce4a36e52be22d4ef9e6a6380f0a0443f7cf"
 metafile = true
 
 [[files]]
