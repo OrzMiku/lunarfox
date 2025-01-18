@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "08934eee57062f77648ace8c6fe393a6072e13a013ce519f7009d6f1e4733c24"
+hash = "48d47327b3e356a1f40a05ae5f2709b16a169cfc4500711bfdbef20157ac462b"
 metafile = true
 
 [[files]]
@@ -347,7 +347,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "34dd1cbde7b82d5992e010b2e31b2eb0b51c2fd330564a75fcdc907a9795bc49"
+hash = "9785349f8a7f87dedf7dea38d2fd7cc51161e254cea0337268424c6a4df8faad"
 metafile = true
 
 [[files]]
@@ -367,7 +367,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "1d7d3fd534ffae2521350fddde6d146a6fc8f767c82018f9bf536c16641ae759"
+hash = "465d7aac3ab99e38561354e331b640016f9ea82379b4d1e56b417bef8a881e92"
 metafile = true
 
 [[files]]
@@ -417,7 +417,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "470d30cd94b769b646f714432ba4cd01969910f6016957a6b218d2d2900d914c"
+hash = "a08a445002542d96a8481654c3f4b5e2d3c064f77b477aeaa3a1d1c3cd396ca8"
 metafile = true
 
 [[files]]
@@ -512,7 +512,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "91157ca968c3964386434db92a70625a33356d325e5ea584ba5dba43920b12d4"
+hash = "77077befda9c8531484703975b697a82b076c16ec968f8fb198c99362a0fced0"
 metafile = true
 
 [[files]]
@@ -552,7 +552,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "9e8acfb4a78d7ab91a16321aa432d01c27a62fd60f7ae51a816c63f135bc983f"
+hash = "b96a146dd0ab82bd15fe85dd8450c771f5adf321c98b0a706ce919a65c81c6fd"
 metafile = true
 
 [[files]]
@@ -662,7 +662,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "f2ee5af84e4339e060a2d9ed661b0f6c3738686f9c3b6232fdddc82202e7f10a"
+hash = "555b0b264cf4f00066cb2365c3335fc78c09331bcbe81c94aae7d6cb91778e6c"
 metafile = true
 
 [[files]]

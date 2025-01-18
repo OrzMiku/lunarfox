@@ -300,7 +300,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "449df63a848616f27d4643b44b7d640191273f959304aa00a35aed127d6029ea"
+hash = "9f6c03f232358da6d4ca217e7c9e674f03b7f504bdc824fc15b87b54a035a444"
 metafile = true
 
 [[files]]
@@ -340,7 +340,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "0d50516f7ba174f3bc8fb4c12e1200d82649ca5e3b3f42de408d420bfa13fd2d"
+hash = "dd076db8a72c9bd258e8a0f9020dee0ba13a1d276c2f6e3e6403941c7f2af0b1"
 metafile = true
 
 [[files]]
@@ -420,7 +420,7 @@ metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "debb2ce524fd9b39326829af4112043ca2356ac6977bacef2b2735d3b1cd8dc7"
+hash = "b3b5c1fdf24678872fff81d452de862e7ae0c187c0ab9d261dfc5509d6a1bd0a"
 metafile = true
 
 [[files]]
@@ -445,7 +445,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "375ae78c4e4cb43a9a172f6866de6011d4d01eaaede76d23a38a157663e43ff2"
+hash = "55a727cabdd9d6e84fb0232b49d0dfa207751002e7f1f63b959baa35e2f29868"
 metafile = true
 
 [[files]]
@@ -455,7 +455,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "f97b1947f3524bbdd2a891931864004a79a0a08b746fea35cff42391e1c65686"
+hash = "b736ad8457632e01078268f115bf1511da71a9576f9449f81113cf135c950ef0"
 metafile = true
 
 [[files]]
@@ -570,7 +570,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "f2ee5af84e4339e060a2d9ed661b0f6c3738686f9c3b6232fdddc82202e7f10a"
+hash = "555b0b264cf4f00066cb2365c3335fc78c09331bcbe81c94aae7d6cb91778e6c"
 metafile = true
 
 [[files]]
