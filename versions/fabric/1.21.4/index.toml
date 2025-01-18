@@ -6,7 +6,7 @@ hash = "16cddeb9f397c98232ce28778089369f32bfce744eda1233d9805ab415b5ab68"
 
 [[files]]
 file = "config/yosbr/config/chatpatches.json"
-hash = "510b70fce28f2f3e4d2f60f9ce208a1cebcb51f18272defcbb7082227d8322a7"
+hash = "0623905a25c9b6c8387f7a6a0256ea005f727c63c689d2cc7cc77f74e912f7e4"
 
 [[files]]
 file = "config/yosbr/config/defaultoptions/keybindings.txt"
@@ -54,7 +54,7 @@ hash = "43df9e4a3e60edd220983a2b9c52106471a763861a873ed43593c726eca90014"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
-hash = "528421f4b1cd80891b57c08dc78fc14873310950601c382ae3331dc753268ebd"
+hash = "a16387cc6923b69281bc50cac2705ac7793f0fa6d622dd20c88f1ee07d772729"
 
 [[files]]
 file = "config/yosbr/config/masa_gadget_mod.json"
@@ -74,19 +74,11 @@ hash = "48f6e83fcdededcc1503e58a00de88b76e32a5174662c6916ae34b1c739a8616"
 
 [[files]]
 file = "config/yosbr/config/puzzle.json"
-hash = "f546f5a9367d113277de4051e3c14b898dea9490d9bd9f8240f222e0ea062c22"
-
-[[files]]
-file = "config/yosbr/config/simple-rpc/simple-rpc.toml"
-hash = "7ecd1e16647ed5c3020e6da57b0501279495edf697e31bb5e33936b62e02cb64"
-
-[[files]]
-file = "config/yosbr/config/sodium-options.json"
-hash = "c4761746550675a74932a4792054d8c5f6c229f43b9ac0a5fe3a4e3d1e5b9941"
+hash = "1d47fa191792c248182fc7cc2925072a426396e5f8902687287e39e788c231eb"
 
 [[files]]
 file = "config/yosbr/config/xaerominimap.txt"
-hash = "7e510e4dd1479e9ce3314b1064eeb3d19606211d35112b87128fc08802588bb1"
+hash = "9b8a5035b157ce6e2039d34de3542bc63c92c69a3a4cc7b48a588facc5017c59"
 
 [[files]]
 file = "config/yosbr/config/xaeroplus.txt"
@@ -94,7 +86,7 @@ hash = "07df139d1d60edc1db5d7a26d13803c794aff97bb48d342d8e2dd4916038b39f"
 
 [[files]]
 file = "config/yosbr/config/xaeroworldmap.txt"
-hash = "7a77699610a11349d279b6dfacb335c629179a682b7780b72a3e441f816da837"
+hash = "b0df40e07391a60294d7bffb9772cabe8096d61c41c8680fbfad927d3a6a5a6b"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -108,6 +100,14 @@ hash = "7ed2443085370e3427bd3e803037356811af68ad3fc131947a89cc89f2103fc7"
 file = "mods/3dskinlayers.pw.toml"
 hash = "04277af31d7c79fcfa5d134c040fbec38db299875b6ba92db0d184bc1f5d9593"
 metafile = true
+
+[[files]]
+file = "mods/MagicLib-mc1.21.4-fabric-0.8.662-stable.jar"
+hash = "46e0ada2e8dc989d5f9a7a9def0d55d2e5fb60a0de1a5fec339926fe858aa42c"
+
+[[files]]
+file = "mods/MasaGadget-mc1.21.4-fabric-4.0.394-pull_request.jar"
+hash = "fd11a844d5881f889c44b29d211aa7b11c5b3da99a567578d7e1ab6356b0a8fe"
 
 [[files]]
 file = "mods/animatica-0.6.2+1.21.4.jar"
