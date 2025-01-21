@@ -377,7 +377,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "390c9242cd4bc9eac27379a72081e5e60b6af0ba39706bb4b43dd55399c664f8"
+hash = "9189950e68af278daaef951d8ef23b06f567f27d8c9f50df898ac0117d35c93c"
 metafile = true
 
 [[files]]
@@ -507,7 +507,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "8ada718700562cd7d463a2677113b44ee7436be093f97579638b06411a8376a2"
+hash = "a8078c293137a45a0061a6ff6468c9dce4e5e80e4bb88772c2f5a54a9ff9f16e"
 metafile = true
 
 [[files]]
@@ -552,7 +552,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "b96a146dd0ab82bd15fe85dd8450c771f5adf321c98b0a706ce919a65c81c6fd"
+hash = "fb53720ae88ceae5766d15a3e85da6d9ab4648f09c769cc2c68fa30dd8a120ea"
 metafile = true
 
 [[files]]
@@ -622,12 +622,12 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "fa63da011518d23dbe2828f9963dea54eea3e6ed098e8096b0a33d9922b4b01b"
+hash = "92a8b5cc6eb7903194f6ebd12feb77af8b2f54643658066d34051a4c7e5307b7"
 metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "f8a60dd8a54e7885be9c1a4c85ce9dd77dc7454ea817da555bf1bd01da64d89e"
+hash = "84510fe16123a5d26541f3874b97e849d3eec370bc85a328c552b21b5847cedb"
 metafile = true
 
 [[files]]

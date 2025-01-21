@@ -186,7 +186,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "9084e480228d4f64b2b6a7fee52576b7206c3185d9985c4e736e90532d6e4a86"
+hash = "81e4f49a487458c6fe082ab652bc7e0c2bc1b5778fc4baab719b358bfb1c6a3c"
 metafile = true
 
 [[files]]
@@ -416,7 +416,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "d89fd4dac3a09fa8dd3c11143a95de26be31da26c0cfd3e2b5dec9565c9f54d4"
+hash = "bc213d7a99082681c3b76ec0a08d2c7b697eff9327c314497b52e64bc7d9d78d"
 metafile = true
 
 [[files]]
@@ -496,7 +496,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "2413fcb171198ce6ff6f2dbc2bc77fde132865558fce5873a2ba2a1d397d52a0"
+hash = "e19a1b0c45de95f0ada6cc360dc74a0512e781f5ba0e4e610403e74cc97e6839"
 metafile = true
 
 [[files]]
@@ -511,7 +511,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-core.pw.toml"
-hash = "950f7fc2af62b9f8033b9652f89e2a3889194b1826c18b5554bd9376d9806110"
+hash = "00f608a4eb5338ec23c0174eff2a5dc8a8c4795ed634820c1b32c26b62ebc3bb"
 metafile = true
 
 [[files]]
@@ -541,7 +541,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "83ce101db612de96e813d6ef316b363cdeb0ed5bba8d3ad5abd3d4009dce8afe"
+hash = "cd2bb400be723ce95a52ac5c2ab83ef4a3be11e02a2aac76ac29a368093b5a1e"
 metafile = true
 
 [[files]]
@@ -611,12 +611,12 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "c1cc1d81340678bd9166e2c07ac3dc150411d2c743ba684a8493ead7361dfdc0"
+hash = "238e74ca3028bda29e85fbcbc2c0f0325096b8e16cee5f933e02f6080c2b73b7"
 metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "510c22e3867c4e5263d46928292bbcafe3e6d58fa062959f4c02cecf4f319700"
+hash = "0d7e8581e2d21d1b46868f4311fc752ecf3e0b7d7ed879aa87a1170941a65939"
 metafile = true
 
 [[files]]

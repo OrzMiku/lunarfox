@@ -177,12 +177,12 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "7e01e21989c0b58b0f947238d907839585c3afb1a978d1f2ce22bcf46ef90cfa"
+hash = "e9b878a33e2dcc2bb2a347977d4d6e0f65be41924c8ccf02b1491fffc6ebbe05"
 metafile = true
 
 [[files]]
 file = "mods/chatpatches.pw.toml"
-hash = "1d09cb0ea635df4e7f2b191b765a34ed7c6d2a1866bc3a64b8d15b935d317cf2"
+hash = "c6ff2d3ab280f2808e579ec8ccdfec7e2483650717a931bcebecd1c183d49ffd"
 metafile = true
 
 [[files]]
@@ -360,7 +360,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "7f419d8fb92a7567a747f3f448b357c1c31198826ce3e0e61966489561bfdf67"
+hash = "f4070441d1f1bdeb3e6a594b5ba1c3f314b8f13815a67619cb38621c0f6a1fec"
 metafile = true
 
 [[files]]
@@ -390,7 +390,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "031d0811bba637ad2fe66d491157e4c1173eba73c1a5fb75a7886d65d8a2bad6"
+hash = "ce318cf843b034ce8b829cfd8c0c2eb0431283f5b8fb4c38ecf67e79cf5b44c4"
 metafile = true
 
 [[files]]
@@ -440,7 +440,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "fcb0df05d20aaabd18d184009b26d34873a402ff4152f8079428d8e5e4921450"
+hash = "d2e8ba48532b0a3bbcaeb92b133a85e30bec4ddadf45b0d6df679375817e10a2"
 metafile = true
 
 [[files]]
@@ -485,7 +485,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "b736ad8457632e01078268f115bf1511da71a9576f9449f81113cf135c950ef0"
+hash = "14948a17a7f41a3d28b049b71f28322c46545c1315cedf5577cba464000469bc"
 metafile = true
 
 [[files]]
@@ -555,12 +555,12 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "4565949d79e28400a957d79d41c9c1ffa43b1e4e6150fcbbc55fdcbcbd4bf8ec"
+hash = "0023ef3b55890daf6a60b58748a11ae0e6447b884599d43774431e7c1dcc89fa"
 metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "b6aa3860f35335abf8a33f9899871d391a6c721eedde5003bf02d4a9d97e72f4"
+hash = "eec50e0081a1064516fcfa2a2207b4d931047df478ba0fd8f19d2cb2cbab8250"
 metafile = true
 
 [[files]]
