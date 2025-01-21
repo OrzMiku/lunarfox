@@ -102,14 +102,6 @@ hash = "04277af31d7c79fcfa5d134c040fbec38db299875b6ba92db0d184bc1f5d9593"
 metafile = true
 
 [[files]]
-file = "mods/MagicLib-mc1.21.4-fabric-0.8.662-stable.jar"
-hash = "46e0ada2e8dc989d5f9a7a9def0d55d2e5fb60a0de1a5fec339926fe858aa42c"
-
-[[files]]
-file = "mods/MasaGadget-mc1.21.4-fabric-4.0.394-pull_request.jar"
-hash = "fd11a844d5881f889c44b29d211aa7b11c5b3da99a567578d7e1ab6356b0a8fe"
-
-[[files]]
 file = "mods/animatica-0.6.2+1.21.4.jar"
 hash = "1c66e7d79ac23386a682e9748f86524594438d68286d473bc123ac77ddd77788"
 
@@ -372,8 +364,18 @@ hash = "7f419d8fb92a7567a747f3f448b357c1c31198826ce3e0e61966489561bfdf67"
 metafile = true
 
 [[files]]
+file = "mods/magiclib.pw.toml"
+hash = "a9ddc5125a43eebb433953d234bffeb58ea463098fa8874374408cb41d0fcddf"
+metafile = true
+
+[[files]]
 file = "mods/malilib.pw.toml"
 hash = "13f4a38022d7e100dc13b05b0513b6693f2de8a5d8a8ee6d40d8099981c4a929"
+metafile = true
+
+[[files]]
+file = "mods/masa-gadget-dev.pw.toml"
+hash = "e4d6bd173f509ef871d4fe5a293d136f8ab9bb5bd96bc3e625817af71fe18da1"
 metafile = true
 
 [[files]]
