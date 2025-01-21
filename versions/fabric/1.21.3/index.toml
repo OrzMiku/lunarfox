@@ -74,10 +74,6 @@ hash = "a32b41dea1b23ec896f2a522af6f0d460c3a9052b1b0c9bac0fccd56c4a0c507"
 metafile = true
 
 [[files]]
-file = "mods/MasaGadget-mc1.21.3-fabric-4.0.382-pull_request.jar"
-hash = "5d1a5a710b9c2bde77aff741ec01505085be2c969253963c637e22ce8099903a"
-
-[[files]]
 file = "mods/animatica-0.6.1+1.21.2.jar"
 hash = "6661d6b31561bb17ce13ee65e62ff787f0c341926bf6f532f6cdacf9a20bf50b"
 
@@ -343,6 +339,11 @@ metafile = true
 [[files]]
 file = "mods/malilib.pw.toml"
 hash = "1d5d0deac51251634611e971c8c124548c2977acea2f832c7310923966e87e4f"
+metafile = true
+
+[[files]]
+file = "mods/masa-gadget-dev.pw.toml"
+hash = "9890d6999e0e568c54621558b1307d2f5d46d47a6c6279748d4b1892da8aa7f8"
 metafile = true
 
 [[files]]
