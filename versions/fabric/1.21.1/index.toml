@@ -77,6 +77,10 @@ file = "config/yosbr/config/puzzle.json"
 hash = "1d47fa191792c248182fc7cc2925072a426396e5f8902687287e39e788c231eb"
 
 [[files]]
+file = "config/yosbr/config/tweakeroo.json"
+hash = "61959e34930508cde414a11b937b544727ba3aa18712751b510ad5cec99eebeb"
+
+[[files]]
 file = "config/yosbr/config/xaerominimap.txt"
 hash = "9b8a5035b157ce6e2039d34de3542bc63c92c69a3a4cc7b48a588facc5017c59"
 
@@ -268,12 +272,12 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "475da70de7c8640079840d78d8e3a5e11472ba8db1a471d64ca05498a0ffd4b0"
+hash = "56a8cddbad703d1168bb4249ce07f5280a9f43ca1129e30a13030942b232bce6"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "e0060dd5608032c12619d942e2004f7a1635ebadaef3b928445d2211f082f01f"
+hash = "7bac418be4f003dc98ecacaac516120320f02f3eceef0541989bc98f89fc8608"
 metafile = true
 
 [[files]]
@@ -329,11 +333,6 @@ metafile = true
 [[files]]
 file = "mods/forge-early-loading-screen-fabric.pw.toml"
 hash = "f0f8656af933452235ad0442aafe207a1ba2062b818b634a071441ce5ee7a724"
-metafile = true
-
-[[files]]
-file = "mods/freecam.pw.toml"
-hash = "e6abaf6651fb78a65ca5275091519a865db0e8cd915ebe1a19a2e585faf46879"
 metafile = true
 
 [[files]]
@@ -658,12 +657,12 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "e6996ecb68a6c690558f589e7194d7df23a186ab8b75f0f67cfed069a280470b"
+hash = "b90b25b61edd0dfe3bb3074e2343351c7a427d24bb1fa42c642a157b0fd887e4"
 metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
-hash = "d222003558c856ef20e0865b26d03f92d1a6015bc6c6d637169bdbbfdbafcf3c"
+hash = "fd18eb54847fd18feba9db1e9960c741cdaa6083c984773f8f79ae22182fad76"
 metafile = true
 
 [[files]]
