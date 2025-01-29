@@ -186,7 +186,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "732bc85d460b6399677e5b768318a0d6cc02822b9d005015ec4e16d9730e260a"
+hash = "46203bc91f628f59d1951f38277b56cd8599b84feabf1c92b191dde256ed8883"
 metafile = true
 
 [[files]]
@@ -281,7 +281,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "56a8cddbad703d1168bb4249ce07f5280a9f43ca1129e30a13030942b232bce6"
+hash = "34470ed19902dfae2e2e8618bb0f680b2e07b30c72ed3bcd41a55154c5ac0e7f"
 metafile = true
 
 [[files]]
@@ -291,7 +291,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "3d0bf4d56ea941f856200934fdc2fb4952fe513d469f47bdb5fc586f99f16097"
+hash = "bb9a29a48b27e7abc0799d4393240ae2cdcf7d64341c9a63347769173f8bda2e"
 metafile = true
 
 [[files]]
@@ -346,7 +346,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "9785349f8a7f87dedf7dea38d2fd7cc51161e254cea0337268424c6a4df8faad"
+hash = "b949a5fa30a0198a928c82a0df032740aad132d54bf7d07b6e91b5e9d2de3819"
 metafile = true
 
 [[files]]
@@ -356,7 +356,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "2e441b5e21e8db1cd9102216ce4b8d1a25d77a026182e00f6324aadda402f715"
+hash = "b24899fa80266f775c2a5ad945f01fced39a3d747ac633cdd20f52cb9c921aac"
 metafile = true
 
 [[files]]
@@ -476,7 +476,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "8c8a415665b41e96e7afd7503a94fa58998677801eab82931112314459723ffd"
+hash = "fac1ce75868b8cea1e0f09388444adb81ee8bedb3dc86d3206e49182905acff7"
 metafile = true
 
 [[files]]
@@ -531,7 +531,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "d94f0ab447725c1b03c339e40e71a3390263c1fbec3428b77cd9324ce7945a79"
+hash = "4ed4c53133bd790c4baa66ff7f6d46d04bd73289fa0b842b6dbfcd62c03fa8eb"
 metafile = true
 
 [[files]]
@@ -621,17 +621,17 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "92a8b5cc6eb7903194f6ebd12feb77af8b2f54643658066d34051a4c7e5307b7"
+hash = "42b03bd78980dd1e525a93151ebb39956ff002f555e0c5b2c52dac615a6a0a0b"
 metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "84510fe16123a5d26541f3874b97e849d3eec370bc85a328c552b21b5847cedb"
+hash = "8f60fbf1c20172aa171c702fd81fb4cb20c867f0de6354997eee80f9e5ed4cf7"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "c5234ec87e6bea9194af7f6ff70d820a32ddcad7199cc0b7ee92b11f6e6edf38"
+hash = "7dc91f6396e7bc0b79036b4435647faf2da4fb060af207f498fc83b08bb9b6e6"
 metafile = true
 
 [[files]]
