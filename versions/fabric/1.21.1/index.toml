@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "d9e211ad471614e8f1d7b9e2869931d364b6756942b01bc74def9550d782cf43"
+hash = "442cbacfd1aa433a097424752267ed1de73b72a3ef054c2a469b48c89ac02d24"
 metafile = true
 
 [[files]]
@@ -182,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "eb25b6e862f12cde8c6bba78bed7cf1861c41badd932e650f43ba0e5246c5e3a"
+hash = "619a164f121506ba4af904ba821b6d7f4b5a7a2a2595b4581390cf6762a2d505"
 metafile = true
 
 [[files]]
@@ -222,12 +222,12 @@ metafile = true
 
 [[files]]
 file = "mods/craterlib.pw.toml"
-hash = "17d7afb45ba7db7596ff9dcff2c3daaa5677c0ae8209b783bac956cee12b4d63"
+hash = "07d0b0c99622a7565dbc38e6937e3d93d5f0dde72d43637b667baf01fef5c1c5"
 metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "3c2f0bff7c03aaee08732e2074af4c1cf1f5d3201c5bc3ad9000b8760cba2b41"
+hash = "edbdb08293a1a41bc4d76f73a8531d0bf4495a9735a0492e7c7bbd7e858cac1e"
 metafile = true
 
 [[files]]
@@ -272,7 +272,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "34470ed19902dfae2e2e8618bb0f680b2e07b30c72ed3bcd41a55154c5ac0e7f"
+hash = "06a6eb5eb9e1ccd8d9047617152f082a53a63f46a3ef9ca7fc34735a80d4848d"
 metafile = true
 
 [[files]]
@@ -302,7 +302,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "64cb6caa0f5c16d4b80097193fa05a4fe6f9b0dd39cd3184483b7b82be95c0f3"
+hash = "4b83cb7a5527bbade6055a9be461254920ab51fab00c2f37f936fe8314224722"
 metafile = true
 
 [[files]]
@@ -337,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "cf6c6961eee1091b52d236db2c1996a521abd58065be02f11b434f4dcbe233e8"
+hash = "516d90166c8b7ce7393d4926aaff6eae6dcdc0966b16338d4ecb51dd2a4b118c"
 metafile = true
 
 [[files]]
@@ -357,7 +357,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "cb9c720339709045fa249c1a1e9af5985ac7b66132859d049e9942dc4b9b20c3"
+hash = "d9319486a934c22c87fe6dc911b080248675cd714a766ffbc5501d4f26fb14f4"
 metafile = true
 
 [[files]]
@@ -367,7 +367,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "d739e616ea79c0c4aeb56cd97da58f6468f1f83138374e50019dbf61751a88a3"
+hash = "e0307f1494884e4a65583e0c5d29b4bbae913a884d7e6c9f94f4ab8d7a010245"
 metafile = true
 
 [[files]]
@@ -397,7 +397,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "750c8deb19a16740f2d78d8cd8f2481f6cd135fa236b78c6071a62f682c7d497"
+hash = "748433d77931f89c6b606897642ba862bf124c6b368359c697ffdd51911ca8e4"
 metafile = true
 
 [[files]]
@@ -517,7 +517,7 @@ metafile = true
 
 [[files]]
 file = "mods/peek.pw.toml"
-hash = "68387e289217b66d059dd55a3866f7477659e675300dc5dd577e67410249a6d0"
+hash = "e7ec7aea6fd312cca23b121b96368091cedcf8866ae044fedaf55d477e402a99"
 metafile = true
 
 [[files]]
@@ -617,7 +617,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "6df23d25d6f958f9fbe15273dc537e364d771e5ccae2b53e393bdc8f9c093f53"
+hash = "6039a8cb2f6316841b374168fdd1b2731a5cb68354bf1059cadbf74141f2f5f9"
 metafile = true
 
 [[files]]
@@ -652,7 +652,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "555b0b264cf4f00066cb2365c3335fc78c09331bcbe81c94aae7d6cb91778e6c"
+hash = "40bc975eb6a7840353e999e0c3e9fea9123aec9b7888cb540b65a7843adea043"
 metafile = true
 
 [[files]]

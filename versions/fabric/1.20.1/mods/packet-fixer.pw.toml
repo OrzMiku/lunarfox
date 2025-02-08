@@ -1,13 +1,13 @@
 name = "Packet Fixer"
-filename = "packetfixer-fabric-1.4.3-1.19-to-1.20.1.jar"
+filename = "packetfixer-fabric-1.4.4-1.19-to-1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/c7m1mi73/versions/rSTMy1US/packetfixer-fabric-1.4.3-1.19-to-1.20.1.jar"
+url = "https://cdn.modrinth.com/data/c7m1mi73/versions/gFOHug3S/packetfixer-fabric-1.4.4-1.19-to-1.20.1.jar"
 hash-format = "sha512"
-hash = "b8afd4a3ec3d18eacea40b5dfc7bdb3fed9e37316f941ae6e136d3829abea0fabf680eb1145cb1902c64855abb43d1749e40a484efb3cdd46f9fa64ab4a702e3"
+hash = "137896d843c574234ab3c0eb63790960f361edf96b6a15e25ca07f1ef8476d91f9f15d18ddb473a5fd8432b90e0cb7958d6f07e4ca309a1205d21b6b65ca2d29"
 
 [update]
 [update.modrinth]
 mod-id = "c7m1mi73"
-version = "rSTMy1US"
+version = "gFOHug3S"

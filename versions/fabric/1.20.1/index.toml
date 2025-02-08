@@ -136,7 +136,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "48d47327b3e356a1f40a05ae5f2709b16a169cfc4500711bfdbef20157ac462b"
+hash = "51bf0094ac5d2fb93108a92de4e1385657c97463962455d08dfbbb513f1c1fd1"
 metafile = true
 
 [[files]]
@@ -186,7 +186,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "46203bc91f628f59d1951f38277b56cd8599b84feabf1c92b191dde256ed8883"
+hash = "97930270e62043237fbf013a316a7cf16a0e931d6c209af95e51bcfc360037a7"
 metafile = true
 
 [[files]]
@@ -226,7 +226,7 @@ metafile = true
 
 [[files]]
 file = "mods/craterlib.pw.toml"
-hash = "31ffd2f02b7279711224a5307fa896084e7395bffa6c1a28d34aca2e8c9869be"
+hash = "0f7107860d1b6e374d3acfa8bdc724b478bed6ba3955a412b50a763962391a4e"
 metafile = true
 
 [[files]]
@@ -281,7 +281,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "34470ed19902dfae2e2e8618bb0f680b2e07b30c72ed3bcd41a55154c5ac0e7f"
+hash = "06a6eb5eb9e1ccd8d9047617152f082a53a63f46a3ef9ca7fc34735a80d4848d"
 metafile = true
 
 [[files]]
@@ -311,7 +311,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "99c856c75baa4e3240d7cf30eb8e4c3410eedcc376fb4657b0cf140008fd9e5d"
+hash = "1c3aa8def8ab98286cd69c14f3ff21bc80388e27ee3a8880ae8ee5041fd43da4"
 metafile = true
 
 [[files]]
@@ -346,7 +346,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "b949a5fa30a0198a928c82a0df032740aad132d54bf7d07b6e91b5e9d2de3819"
+hash = "7fcd61647cb58f7d690016a19c9e89e7280dcd1a31f57c66426ac95ec0e66653"
 metafile = true
 
 [[files]]
@@ -516,7 +516,7 @@ metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "cfad168ce51851bd8401b0e16465d5cc735b701e900e970af193d36e2ae98541"
+hash = "50f151c3a9b15c190a3fe92605bf26baabf71a6eb08d587f75e00dad465b4965"
 metafile = true
 
 [[files]]
@@ -526,12 +526,12 @@ metafile = true
 
 [[files]]
 file = "mods/peek.pw.toml"
-hash = "cac93d31c2d7737b3ab63655f32b752a7a89e21f1a4bf13542f51aa2be2b0571"
+hash = "ad57f7ccc215c0bcd5d86218094c09a8a7d6f5a693e39e54e8ad99a68008a87e"
 metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "4ed4c53133bd790c4baa66ff7f6d46d04bd73289fa0b842b6dbfcd62c03fa8eb"
+hash = "c0082417dfdfb3db54f90e364b3db42544dcc3089baaa5ce2da35be0e0562d1d"
 metafile = true
 
 [[files]]
@@ -626,7 +626,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "8f60fbf1c20172aa171c702fd81fb4cb20c867f0de6354997eee80f9e5ed4cf7"
+hash = "5939bea23dd2ab359f7beaacb0b5f4bdfddd234038d3e6a995a03c6a97e96775"
 metafile = true
 
 [[files]]
@@ -661,7 +661,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "555b0b264cf4f00066cb2365c3335fc78c09331bcbe81c94aae7d6cb91778e6c"
+hash = "40bc975eb6a7840353e999e0c3e9fea9123aec9b7888cb540b65a7843adea043"
 metafile = true
 
 [[files]]
