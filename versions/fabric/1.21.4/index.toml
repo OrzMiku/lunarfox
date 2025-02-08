@@ -131,7 +131,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "1d4ebec859304b06b2113e802828d81b6a5ee61354d4f8227dc8526119c3a643"
+hash = "1302e6b58e327b786793fd2547191eaa658632210806ea9cbec2531f60ede30f"
 metafile = true
 
 [[files]]
@@ -181,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "2d8cbd2690a7b827a695f8ade1cdd4e750aaf5c35e7735d3c377cf0e7997fa78"
+hash = "3336cf0d20487bc291a660653908372b4f87c200b947d09ba8bbb010d6adc715"
 metafile = true
 
 [[files]]
@@ -280,7 +280,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "9392d9f8c9077d61294f3eb90f7c0df013000fb9d191124689771612e8f6d04a"
+hash = "ddbebb52a3c44430807e2ab000ff6c1162b446f3d4cce19f7490bdb777c62bc3"
 metafile = true
 
 [[files]]
@@ -319,7 +319,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "77caf9a66f2d4b09eecd48aae413eee4179d934215a275a08315ff205a8ec1b3"
+hash = "12e124b843f09e9af9c1cf0221a231dc76e071a97c2f443e3d03c3bdb76a3bd2"
 metafile = true
 
 [[files]]
@@ -354,7 +354,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "60ce985c3bf7db91eeaa94327b0ec0f440eb6215d1fa0270e122bcbf5ba0f5ff"
+hash = "b5ca8fbc8a150538fffc7c1045f73556b1814eeb47af11c69a42320b71e90bb9"
 metafile = true
 
 [[files]]
@@ -414,7 +414,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "189ffd9cebd2dd46397826288ab8946429bdd47e1d43e0000159ebbf34757c25"
+hash = "a874985359eaa4317b3242136fe65b86207a6d5ab55e0b4aa8f37b90727f0487"
 metafile = true
 
 [[files]]
@@ -604,7 +604,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "6209a6f492ed52defac24ce65c789303391f2af101bb4c4cfdf6a00eb0e9a2b3"
+hash = "40bc975eb6a7840353e999e0c3e9fea9123aec9b7888cb540b65a7843adea043"
 metafile = true
 
 [[files]]
