@@ -86,7 +86,7 @@ hash = "61959e34930508cde414a11b937b544727ba3aa18712751b510ad5cec99eebeb"
 
 [[files]]
 file = "config/yosbr/config/xaerominimap.txt"
-hash = "9b8a5035b157ce6e2039d34de3542bc63c92c69a3a4cc7b48a588facc5017c59"
+hash = "805d874877e6bb962ac09c250b3d2a084ec599b2242dd1fa36860623c2024890"
 
 [[files]]
 file = "config/yosbr/config/xaeroplus.txt"
@@ -98,7 +98,7 @@ hash = "b0df40e07391a60294d7bffb9772cabe8096d61c41c8680fbfad927d3a6a5a6b"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "2b49077f1a1562cca27ec285ed7a2726690a49c4907c0824d36a433813e4a1fa"
+hash = "2f7c596ab96b2c458020f27d233f08015898151b6839c01b261d48c32debece9"
 
 [[files]]
 file = "icon.png"
@@ -311,7 +311,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "1c3aa8def8ab98286cd69c14f3ff21bc80388e27ee3a8880ae8ee5041fd43da4"
+hash = "776b1ae3cb09dfc8e71f98a22cfc9696d272c1613f8a1eb5106d2be099770db8"
 metafile = true
 
 [[files]]
@@ -396,7 +396,7 @@ metafile = true
 
 [[files]]
 file = "mods/ksyxis.pw.toml"
-hash = "3dd9d3933a5a332de135d0ecf252d367844ea71e895fc63648fc7339b95feeb3"
+hash = "7c6239fe970cd45a1f680493b9fceef6870afcfd2de72086bfef3f765bd3c4c6"
 metafile = true
 
 [[files]]
@@ -516,7 +516,7 @@ metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "50f151c3a9b15c190a3fe92605bf26baabf71a6eb08d587f75e00dad465b4965"
+hash = "b9d9c684d66d9826ca06b715fa4aba4d121b8459bd02b0b0de7726e822a258b6"
 metafile = true
 
 [[files]]
