@@ -34,7 +34,11 @@ hash = "85852998716ad19e37ed5040d2e444807f46273ff78b1b7154435433b0022fc5"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customizablemenus.txt"
-hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
+hash = "9773ad7514d9fc689be40b9a6a60bd751d06472aae28187af6899110908c2dcd"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/customization/options_screen_layout.txt"
+hash = "ea160b063103edd6b95b5121d3c6d919155cf42d207803ef1bb978e8c80b7ab8"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/title_screen_layout.txt"
