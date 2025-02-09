@@ -1,12 +1,20 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Client.json"
+hash = "32dc5f1d73b05e70f3fc5a18f58c5d81a095484a0f93a1da6d1883966ff4e296"
+
+[[files]]
 file = "config/yosbr/config/badoptimizations.txt"
 hash = "16cddeb9f397c98232ce28778089369f32bfce744eda1233d9805ab415b5ab68"
 
 [[files]]
 file = "config/yosbr/config/chatpatches.json"
 hash = "0623905a25c9b6c8387f7a6a0256ea005f727c63c689d2cc7cc77f74e912f7e4"
+
+[[files]]
+file = "config/yosbr/config/clean-debug.json"
+hash = "b734ab348594bd12e6212619c14151f6a5b65b6ac446c351ab908461ac58c53c"
 
 [[files]]
 file = "config/yosbr/config/defaultoptions/keybindings.txt"
@@ -70,7 +78,7 @@ hash = "cb9a30676675fb246b52a7c086e052dc3e4a4aaedc387ee21c3297ec25423f42"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
-hash = "2fc145c8c3714612d2960a618ba87bbba8b3d786196222a0928da8601933ddaf"
+hash = "7d27acae23534f1cbfd7c5b3b8758e28f4f1dc402ee97f630a88aefd5b2eec2e"
 
 [[files]]
 file = "config/yosbr/config/particle_core_config.toml"
@@ -79,6 +87,10 @@ hash = "d8a425573e8ac83176f1023a99e9678c8b98b991cbca6764dbf73e6df110760f"
 [[files]]
 file = "config/yosbr/config/puzzle.json"
 hash = "1d47fa191792c248182fc7cc2925072a426396e5f8902687287e39e788c231eb"
+
+[[files]]
+file = "config/yosbr/config/threadtweak.json"
+hash = "b4c1cc5fc213225d64e685a3b632092e909386ab41bd9925f9cf7efd53d1ad46"
 
 [[files]]
 file = "config/yosbr/config/tweakeroo.json"
@@ -162,11 +174,6 @@ metafile = true
 [[files]]
 file = "mods/betteraddserver.pw.toml"
 hash = "3ea66dbd8e333b67a5bc50af4462622d8d5e7e65f89b2563430be515063eb5a5"
-metafile = true
-
-[[files]]
-file = "mods/bobby.pw.toml"
-hash = "8bc168948c5f92a10252f12ad4f41caeefbe508f0326fc4185217d60c4cb2292"
 metafile = true
 
 [[files]]
@@ -527,11 +534,6 @@ metafile = true
 [[files]]
 file = "mods/polytone.pw.toml"
 hash = "45a38bb7a3378fddd0eb6f75e114449c4f1afbf78014cc4e79401bd20c28e5fb"
-metafile = true
-
-[[files]]
-file = "mods/puzzle.pw.toml"
-hash = "f25ee383f37be1c7033e1ba1e57a85c76b07ca59d4afcfcc234c12b9f5c4f964"
 metafile = true
 
 [[files]]
