@@ -73,6 +73,10 @@ file = "config/yosbr/config/moreculling.toml"
 hash = "2fc145c8c3714612d2960a618ba87bbba8b3d786196222a0928da8601933ddaf"
 
 [[files]]
+file = "config/yosbr/config/particle_core_config.toml"
+hash = "d8a425573e8ac83176f1023a99e9678c8b98b991cbca6764dbf73e6df110760f"
+
+[[files]]
 file = "config/yosbr/config/puzzle.json"
 hash = "1d47fa191792c248182fc7cc2925072a426396e5f8902687287e39e788c231eb"
 
