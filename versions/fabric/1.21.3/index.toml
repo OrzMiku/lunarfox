@@ -42,7 +42,7 @@ hash = "435f7811c796b2352fee74985081994d69f881f9f0b6a0499ba39fbc40ee3f0b"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
-hash = "48f6e83fcdededcc1503e58a00de88b76e32a5174662c6916ae34b1c739a8616"
+hash = "2fc145c8c3714612d2960a618ba87bbba8b3d786196222a0928da8601933ddaf"
 
 [[files]]
 file = "config/yosbr/config/puzzle.json"
