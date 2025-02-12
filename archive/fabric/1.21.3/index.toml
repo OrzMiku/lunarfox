@@ -452,10 +452,6 @@ hash = "55a727cabdd9d6e84fb0232b49d0dfa207751002e7f1f63b959baa35e2f29868"
 metafile = true
 
 [[files]]
-file = "mods/reflex-1.0.0-1.21.3.jar"
-hash = "2045fb1d41595d876196da1c8d8b96a80010e9b5d065d54950e8c5b3b077f7ce"
-
-[[files]]
 file = "mods/rei.pw.toml"
 hash = "833a93b83630904a6b24dc73776b02b3bfe08b42c02b211ac3f5bcae57032dc3"
 metafile = true
