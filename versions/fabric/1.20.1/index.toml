@@ -13,6 +13,10 @@ file = "config/yosbr/config/badoptimizations.txt"
 hash = "16cddeb9f397c98232ce28778089369f32bfce744eda1233d9805ab415b5ab68"
 
 [[files]]
+file = "config/yosbr/config/betteradvancements.json"
+hash = "e5f6ace68c722b5e4ea32f9935ca0b8dfbea1d22f1b8599a339bde0456605973"
+
+[[files]]
 file = "config/yosbr/config/chatpatches.json"
 hash = "0623905a25c9b6c8387f7a6a0256ea005f727c63c689d2cc7cc77f74e912f7e4"
 
