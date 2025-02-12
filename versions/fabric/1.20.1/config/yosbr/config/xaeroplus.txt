@@ -1,2 +1,0 @@
-[XP] Minimap FPS Limiter:true
-[XP] Minimap FPS Limit:30.0

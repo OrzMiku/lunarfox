@@ -101,10 +101,6 @@ file = "config/yosbr/config/xaerominimap.txt"
 hash = "805d874877e6bb962ac09c250b3d2a084ec599b2242dd1fa36860623c2024890"
 
 [[files]]
-file = "config/yosbr/config/xaeroplus.txt"
-hash = "07df139d1d60edc1db5d7a26d13803c794aff97bb48d342d8e2dd4916038b39f"
-
-[[files]]
 file = "config/yosbr/config/xaeroworldmap.txt"
 hash = "b0df40e07391a60294d7bffb9772cabe8096d61c41c8680fbfad927d3a6a5a6b"
 
@@ -570,11 +566,6 @@ metafile = true
 [[files]]
 file = "mods/wavey-capes.pw.toml"
 hash = "ff46d9d0cb8e6c228b93508bef548f1011c802b63c8f90324e39ea5875ba5e32"
-metafile = true
-
-[[files]]
-file = "mods/xaeroplus.pw.toml"
-hash = "2494948959aa4a04d42aa2fbcf48b5f0185cc7e8307bb3e096238e5bbbcef1f4"
 metafile = true
 
 [[files]]
