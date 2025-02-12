@@ -1,2 +1,0 @@
-ignoreUpdate:1
-updateNotification:false

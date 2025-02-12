@@ -313,7 +313,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "4b83cb7a5527bbade6055a9be461254920ab51fab00c2f37f936fe8314224722"
+hash = "f548fe7a721a908652bf41bb053f9e748473b33882477b9ac09c1b200b42f696"
 metafile = true
 
 [[files]]
@@ -508,7 +508,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "e19a1b0c45de95f0ada6cc360dc74a0512e781f5ba0e4e610403e74cc97e6839"
+hash = "42e99ea03a01f933a334dfdfb6babbdcc5d9b38c076e4d3c821a96a9730318b7"
 metafile = true
 
 [[files]]
@@ -518,7 +518,7 @@ metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "b3b5c1fdf24678872fff81d452de862e7ae0c187c0ab9d261dfc5509d6a1bd0a"
+hash = "2bd57cd896c1e51222c575404fb502750ee1efdf18d5a5483eb85fea835209de"
 metafile = true
 
 [[files]]
@@ -527,13 +527,8 @@ hash = "00f608a4eb5338ec23c0174eff2a5dc8a8c4795ed634820c1b32c26b62ebc3bb"
 metafile = true
 
 [[files]]
-file = "mods/peek.pw.toml"
-hash = "e7ec7aea6fd312cca23b121b96368091cedcf8866ae044fedaf55d477e402a99"
-metafile = true
-
-[[files]]
 file = "mods/polytone.pw.toml"
-hash = "45a38bb7a3378fddd0eb6f75e114449c4f1afbf78014cc4e79401bd20c28e5fb"
+hash = "89d48794d3123be496df357d2c1be7d0a037e9f771308d95c6cc1dfedbe6f6ce"
 metafile = true
 
 [[files]]
@@ -542,8 +537,13 @@ hash = "55a727cabdd9d6e84fb0232b49d0dfa207751002e7f1f63b959baa35e2f29868"
 metafile = true
 
 [[files]]
+file = "mods/reflex-antilag.pw.toml"
+hash = "d374072630e59909c765a9e7b5bce3f2476ff0aa3606c4d9b5e8a48a04b649b5"
+metafile = true
+
+[[files]]
 file = "mods/rei.pw.toml"
-hash = "2b5992d7db76dfced45cb28b943f6e23e91ddc348ca403b38fb9fff0d3dc88f6"
+hash = "409354e36032c760b5d1b25cbf00d4c85e684903445f980e7751d865538ace62"
 metafile = true
 
 [[files]]
@@ -623,12 +623,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "6039a8cb2f6316841b374168fdd1b2731a5cb68354bf1059cadbf74141f2f5f9"
+hash = "a62f09af00a0cc488950a43b73f97d9bc83d11f4bd7cb8fabad52ff0900b9f0e"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "72d513e2ebaf41b7db63f777eabbbc45fc074d92f5eb9a76af15a2d7bb958146"
+hash = "802475843d28b3251396cf88b76ce440ff0fe6baa85291553f9d2868e8d0b6eb"
 metafile = true
 
 [[files]]

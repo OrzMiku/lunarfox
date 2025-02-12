@@ -321,7 +321,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "776b1ae3cb09dfc8e71f98a22cfc9696d272c1613f8a1eb5106d2be099770db8"
+hash = "5416337e747125b44160a67b2192f16cf31ea34599465c9f0934e086ecb91899"
 metafile = true
 
 [[files]]
@@ -516,7 +516,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "a8078c293137a45a0061a6ff6468c9dce4e5e80e4bb88772c2f5a54a9ff9f16e"
+hash = "e3aba078ee7198fe064fd970c7304eb6de18fc3e2c9eb3bf2ba123b907e0f1c3"
 metafile = true
 
 [[files]]
@@ -535,18 +535,18 @@ hash = "9b1f2dbaa07862f0130713cd67764ebadbc0419fc3a5f335bd82300425ae0af6"
 metafile = true
 
 [[files]]
-file = "mods/peek.pw.toml"
-hash = "ad57f7ccc215c0bcd5d86218094c09a8a7d6f5a693e39e54e8ad99a68008a87e"
-metafile = true
-
-[[files]]
 file = "mods/polytone.pw.toml"
-hash = "c0082417dfdfb3db54f90e364b3db42544dcc3089baaa5ce2da35be0e0562d1d"
+hash = "4c5f6795048ed7ed38aaf83e6464aad87f4c6757193f38ca14de4d8a3d265937"
 metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "4a7d1e46795d2d83b18db85d8dbc63740a1d337e12d2b9e550378de59f2b23ab"
+metafile = true
+
+[[files]]
+file = "mods/reflex-antilag.pw.toml"
+hash = "d7f4bcc0deebef34aab44d78b48b936c704e7c6e7b3fba1aacc02b3950e494fb"
 metafile = true
 
 [[files]]
@@ -631,12 +631,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "5939bea23dd2ab359f7beaacb0b5f4bdfddd234038d3e6a995a03c6a97e96775"
+hash = "61cbf772c56e3182158621c2321a0a329ceba556c35219eed23242ccbb2950d2"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "7dc91f6396e7bc0b79036b4435647faf2da4fb060af207f498fc83b08bb9b6e6"
+hash = "7f8373ddb35a3d5ed84797a5f55917b67f839c9ed06666240c87687b19efaadc"
 metafile = true
 
 [[files]]

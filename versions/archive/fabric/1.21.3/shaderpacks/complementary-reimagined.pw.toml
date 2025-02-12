@@ -1,0 +1,13 @@
+name = "Complementary Shaders - Reimagined"
+filename = "ComplementaryReimagined_r5.4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/HVnmMxH1/versions/b45ALGLG/ComplementaryReimagined_r5.4.zip"
+hash-format = "sha512"
+hash = "5680bdbf7eb54adc4c00be2d20e3c384cff8031fd7c877653fb84d2f55108b23e45085be0fcd7ad5ee11bcff0679b2e3122f1c03e78d4d5d9fffaf53ca3bb934"
+
+[update]
+[update.modrinth]
+mod-id = "HVnmMxH1"
+version = "b45ALGLG"

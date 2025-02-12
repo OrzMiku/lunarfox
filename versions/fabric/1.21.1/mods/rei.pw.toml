@@ -1,13 +1,13 @@
-filename = 'RoughlyEnoughItems-16.0.788-fabric.jar'
-name = 'Roughly Enough Items'
-side = 'both'
+name = "Roughly Enough Items"
+filename = "RoughlyEnoughItems-16.0.797-fabric.jar"
+side = "both"
 
 [download]
-hash = '18cd1de6ade93aa5d150d22037999476c5c8cb5692d1e920074669edafe0f6903407e599c8896dd7658832310aa9fb4c97f23603b5a96f5b6820e107b44ad1f1'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/nfn13YXA/versions/F3B8X7NS/RoughlyEnoughItems-16.0.788-fabric.jar'
+url = "https://cdn.modrinth.com/data/nfn13YXA/versions/1cn50o6f/RoughlyEnoughItems-16.0.797-fabric.jar"
+hash-format = "sha512"
+hash = "6433486cb139d6a1d09d681eeeddb9f1dd37fb8c55b5e69e99b376561c0df093e1f85e65c402f3f015b8072fc1a4f8fcb441309587fb47ffe31be38f207ac2c1"
 
+[update]
 [update.modrinth]
-mod-id = 'nfn13YXA'
-version = 'F3B8X7NS'
+mod-id = "nfn13YXA"
+version = "1cn50o6f"
