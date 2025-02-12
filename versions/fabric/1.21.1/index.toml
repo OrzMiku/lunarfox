@@ -392,11 +392,6 @@ hash = "34d75daff8b8260780d97bbc2dc545739399df1d5ac304eeb2f80e23354cf3af"
 metafile = true
 
 [[files]]
-file = "mods/krypton.pw.toml"
-hash = "00f1df4e1e1a9e59585bcfebab306305c9f02b13d69aaa854098b2bf1b650cc7"
-metafile = true
-
-[[files]]
 file = "mods/ksyxis.pw.toml"
 hash = "7c6239fe970cd45a1f680493b9fceef6870afcfd2de72086bfef3f765bd3c4c6"
 metafile = true
