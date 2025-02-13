@@ -154,11 +154,6 @@ hash = "e0cf59ae504142b4c4e6e702cc3209e0d6c37ca428d6d0b15a40d430c0b4364d"
 metafile = true
 
 [[files]]
-file = "mods/badpackets.pw.toml"
-hash = "2b153d649184fcf793de475b3b3beaf238f7b558226ffc57896096a7ddcd99ad"
-metafile = true
-
-[[files]]
 file = "mods/balm.pw.toml"
 hash = "51bf0094ac5d2fb93108a92de4e1385657c97463962455d08dfbbb513f1c1fd1"
 metafile = true
@@ -194,11 +189,6 @@ hash = "0cc9069aeee558e036c7afd064d37d9f468ea1138705da0fe4aad64d95312f79"
 metafile = true
 
 [[files]]
-file = "mods/capes.pw.toml"
-hash = "ec2c437fe50a3f8ea6077215974ba9f769cb94eb29432156cbbe43137a74013f"
-metafile = true
-
-[[files]]
 file = "mods/carpet.pw.toml"
 hash = "f912004cc3c195008c32edf5ad4108639eb36530221886034cdd03b7916a220a"
 metafile = true
@@ -211,11 +201,6 @@ metafile = true
 [[files]]
 file = "mods/chatpatches.pw.toml"
 hash = "0b98721023b797c05cc48bee4bccdd5851e55551275baec2a7c1ff2a548e12d1"
-metafile = true
-
-[[files]]
-file = "mods/cicada.pw.toml"
-hash = "bb3551627861be5fd2d873508992ffa2ca65dbcad3056d6df0cb101b5ad87cba"
 metafile = true
 
 [[files]]
@@ -246,11 +231,6 @@ metafile = true
 [[files]]
 file = "mods/craterlib.pw.toml"
 hash = "0f7107860d1b6e374d3acfa8bdc724b478bed6ba3955a412b50a763962391a4e"
-metafile = true
-
-[[files]]
-file = "mods/creativecore.pw.toml"
-hash = "6957ba2519b78040639a1368df90ec5197cb3e0cd24764aed30efce4cb182e6c"
 metafile = true
 
 [[files]]
@@ -344,11 +324,6 @@ hash = "86cbfa8adbbb8be527f95aca49b427f892aa780773df141dfd7f4ffd02740bbd"
 metafile = true
 
 [[files]]
-file = "mods/fix-keyboard-on-linux.pw.toml"
-hash = "5a8192cd49c550ee71786080679660576b3a86e8b4e6c979c1f5cd3c2e6b138e"
-metafile = true
-
-[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "d5db994a9bdf835c0bda791ef6a0eed315f77a1dc5bab1ce04003a9ab5a4b01f"
 metafile = true
@@ -404,11 +379,6 @@ hash = "d6be91dc0a2aca23ee640818d8a8295c85ddb2db6e0413669ecac9600b01eef0"
 metafile = true
 
 [[files]]
-file = "mods/ksyxis.pw.toml"
-hash = "7c6239fe970cd45a1f680493b9fceef6870afcfd2de72086bfef3f765bd3c4c6"
-metafile = true
-
-[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "62dcbd50ca504de26da23305b6e1578298b6cfd14fb98118fcd471cf128d4337"
 metafile = true
@@ -426,11 +396,6 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "a08a445002542d96a8481654c3f4b5e2d3c064f77b477aeaa3a1d1c3cd396ca8"
-metafile = true
-
-[[files]]
-file = "mods/macos-input-fixes.pw.toml"
-hash = "3ba523b0e2a61388644998f4ce0e34bffe2b4bbe59d5b4bd8e467e52fc4fc21a"
 metafile = true
 
 [[files]]
@@ -471,11 +436,6 @@ metafile = true
 [[files]]
 file = "mods/mixintrace.pw.toml"
 hash = "6cd55df8041a48cb7f5f95ea4520f5ed59064e71ff9dab8b0e02bb922b68c9cb"
-metafile = true
-
-[[files]]
-file = "mods/modelfix.pw.toml"
-hash = "435267c3230ba1439f50fa32c3ed3993a4123f870681451aa95acdde5d52622e"
 metafile = true
 
 [[files]]

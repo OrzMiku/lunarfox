@@ -145,11 +145,6 @@ hash = "fe5f1014f6711013213e118c9defb3c41357d0ebdaa658f15d35c76839e419a0"
 metafile = true
 
 [[files]]
-file = "mods/badpackets.pw.toml"
-hash = "6ff12e37227232226f2fe51c0e34386540d417d06c75cb951eac01f8947bea68"
-metafile = true
-
-[[files]]
 file = "mods/balm.pw.toml"
 hash = "1302e6b58e327b786793fd2547191eaa658632210806ea9cbec2531f60ede30f"
 metafile = true
@@ -185,11 +180,6 @@ hash = "04caaca613928c8d4e1d3015332a74a43be6ee0fd7693011d2aa91f56d13f768"
 metafile = true
 
 [[files]]
-file = "mods/capes.pw.toml"
-hash = "f85c908d960ca1baf260bbcfa672b1bf46b633c9d71870c43a14be5b4187904a"
-metafile = true
-
-[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "3336cf0d20487bc291a660653908372b4f87c200b947d09ba8bbb010d6adc715"
 metafile = true
@@ -197,11 +187,6 @@ metafile = true
 [[files]]
 file = "mods/chatpatches.pw.toml"
 hash = "c6ff2d3ab280f2808e579ec8ccdfec7e2483650717a931bcebecd1c183d49ffd"
-metafile = true
-
-[[files]]
-file = "mods/cicada.pw.toml"
-hash = "efe6d58f7ba80105053486bb6321bd1e364cf3bae9077d907b9e205413a80629"
 metafile = true
 
 [[files]]
@@ -227,11 +212,6 @@ metafile = true
 [[files]]
 file = "mods/craterlib.pw.toml"
 hash = "ab3f072a135236fced46bf7930409643fd0eb23ff24d27bc8eb8d08597f8700c"
-metafile = true
-
-[[files]]
-file = "mods/creativecore.pw.toml"
-hash = "4af38b0d0c0809710a3b939f68b2ae314ebf6d82676fa3a512a46a8ad80c6fc9"
 metafile = true
 
 [[files]]
@@ -308,11 +288,6 @@ hash = "1ef554f7a8d5f7ed4bc21316e034eeef3430dc306012c0a706bd4c3e4ac253aa"
 metafile = true
 
 [[files]]
-file = "mods/fix-keyboard-on-linux.pw.toml"
-hash = "b61351d4cb91d8e79e43c53479d9fef060c3c84d4562a6d6f866412cc6c8a399"
-metafile = true
-
-[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "4b257578b2973f4e99ae3192989f7ba4db19e9eca99ea396a1479c8a6cd9ca88"
 metafile = true
@@ -350,11 +325,6 @@ metafile = true
 [[files]]
 file = "mods/konkrete.pw.toml"
 hash = "dafb84b20ceb9f80a2f98170a05b90a7225bc476f64593af2a51d332055b2e8b"
-metafile = true
-
-[[files]]
-file = "mods/ksyxis.pw.toml"
-hash = "7c6239fe970cd45a1f680493b9fceef6870afcfd2de72086bfef3f765bd3c4c6"
 metafile = true
 
 [[files]]
@@ -418,11 +388,6 @@ hash = "209d432e4b0526b7e79be8e919080867c46c33e8e6081d7703e045c3d253e1fd"
 metafile = true
 
 [[files]]
-file = "mods/modelfix.pw.toml"
-hash = "78946e7851174a7462125185cb6306f5bac4fe5b90a3f4396cd8a79d56084661"
-metafile = true
-
-[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "a874985359eaa4317b3242136fe65b86207a6d5ab55e0b4aa8f37b90727f0487"
 metafile = true
@@ -470,11 +435,6 @@ metafile = true
 [[files]]
 file = "mods/particle-core.pw.toml"
 hash = "26af8dd5c551fac4488fc9979cf8616ac71df8dae2a9547c80ef92c6e95d3d05"
-metafile = true
-
-[[files]]
-file = "mods/placeholder-api.pw.toml"
-hash = "6b2abdc14fca0b9b42b5678e7c65af8b93d5032f0e4b0d2fbd93295903489d50"
 metafile = true
 
 [[files]]
