@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "LICENSE.md"
-hash = "7113a72837f790ccb46a08b1fe6bba973d00fd202fd76dd1717cca4ed1ee2e10"
+hash = "86c7177aee9a372328bcabbc6c8afb48ff6fb0ef6448a1b3ab05e67b8a1f9629"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -30,7 +30,7 @@ hash = "4d9bc732c63f8e4a725dc04b56251a38ad7702975db97563a1b0a85483759c07"
 
 [[files]]
 file = "config/yosbr/config/defaultoptions/keybindings.txt"
-hash = "ed198b34d91d1fb777da215b8b80f9e29d101a26465a5415c242c9cec40fcf87"
+hash = "d7cc6237c84dd90f8c629eeaddc58352740d7ce26fa09db40092617668e874d3"
 
 [[files]]
 file = "config/yosbr/config/entityculling.json"
@@ -71,6 +71,10 @@ hash = "2fee62477522b340fb814284e126749bd7858d2f7c17a2400d09644e5c4d725d"
 [[files]]
 file = "config/yosbr/config/immediatelyfast.json"
 hash = "8bc58d4ab49fc2606a7ae6c7614e4ad3f5a5c29b894fbdaa2bc3d8730acacd2c"
+
+[[files]]
+file = "config/yosbr/config/inventoryhud.json"
+hash = "22114ef1ca0544700c7d2883a740193b22347ae97ccf33daace70b7fb5a0c06b"
 
 [[files]]
 file = "config/yosbr/config/inventoryprofilesnext/inventoryprofiles.json"
@@ -351,6 +355,11 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "3d41978dc3fd1d7b7eebe51a7c04e49707e7e7c66f764a1bed0cc214e4032995"
+metafile = true
+
+[[files]]
+file = "mods/inventory-hud-forge.pw.toml"
+hash = "db8be814b3e4ca8f976d4595714aaaa5a236b1d473808fc85ea16c3272d217ed"
 metafile = true
 
 [[files]]

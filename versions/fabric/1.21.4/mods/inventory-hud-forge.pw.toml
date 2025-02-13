@@ -1,0 +1,13 @@
+name = "Inventory HUD+"
+filename = "inventoryhud.fabric.1.21.4-3.4.27.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3c1e1ca30c196080f899ec490bb60d8f6221dfbc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5967065
+project-id = 357540
