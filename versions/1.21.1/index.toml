@@ -151,7 +151,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "442cbacfd1aa433a097424752267ed1de73b72a3ef054c2a469b48c89ac02d24"
+hash = "79659a9d52c19ad0c56771356fe9ca457e20f7636894695a2b7a9609ab21720f"
 metafile = true
 
 [[files]]
@@ -431,7 +431,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "6a246ebc26087cf6b91289857e8f26477bd5e2dcc7d037531f54129eed71de2e"
+hash = "231afd59f1962780e25bcd4065cb7a4ed9cee5ee46dae8f66d1a9d79c1386e87"
 metafile = true
 
 [[files]]
@@ -491,7 +491,7 @@ metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "2bd57cd896c1e51222c575404fb502750ee1efdf18d5a5483eb85fea835209de"
+hash = "5466b2266c5d07a965914b3a5557baf1d44a097e5b906fe457608105ef9901ee"
 metafile = true
 
 [[files]]

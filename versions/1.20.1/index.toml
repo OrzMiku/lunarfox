@@ -159,7 +159,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "51bf0094ac5d2fb93108a92de4e1385657c97463962455d08dfbbb513f1c1fd1"
+hash = "570a28cd724428a0fae1f4ebbc04ca5d50c08935b10e75fe288515904292dcdf"
 metafile = true
 
 [[files]]
@@ -499,7 +499,7 @@ metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "b9d9c684d66d9826ca06b715fa4aba4d121b8459bd02b0b0de7726e822a258b6"
+hash = "82c9f3b080b24f089af2bdfa5b1c608b22855bbd7dc8b3b84b13412581715a1f"
 metafile = true
 
 [[files]]
