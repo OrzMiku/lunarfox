@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "LICENSE.md"
-hash = "3010e6b585da442dce98224b6679b9561a3275cccc43246d20c293e9c19f1cf6"
+hash = "e3aea44f1d6d0e815ddd492a157b0913dd7e8e9d25a04dfad4c1ce2fac4aec3c"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -404,6 +404,11 @@ metafile = true
 [[files]]
 file = "mods/mixintrace.pw.toml"
 hash = "209d432e4b0526b7e79be8e919080867c46c33e8e6081d7703e045c3d253e1fd"
+metafile = true
+
+[[files]]
+file = "mods/modern-ui.pw.toml"
+hash = "76094c9cf65ea8cbbd41635f01e0161f6d3e349adadd4d29143e7800756c8243"
 metafile = true
 
 [[files]]

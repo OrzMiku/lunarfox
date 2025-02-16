@@ -1,7 +1,3 @@
-- **ModernUI-Fabric-1.21.4-3.11.1.11-SNAPSHOT-universal.jar**
-  Licensed under [LGPL-3.0](https://opensource.org/licenses/LGPL-3.0)
-  Source Code: [GitHub](https://github.com/BloCamLimb/ModernUI-MC/)
-
 - **fastquit-3.0.0+1.21.4.jar**
   Licensed under [MIT](https://opensource.org/licenses/MIT)
   Source Code: [GitHub](https://github.com/megabyte6/FastQuit)
