@@ -126,10 +126,6 @@ hash = "04277af31d7c79fcfa5d134c040fbec38db299875b6ba92db0d184bc1f5d9593"
 metafile = true
 
 [[files]]
-file = "mods/ModernUI-Fabric-1.21.4-3.11.1.11-SNAPSHOT-universal.jar"
-hash = "85e5f1713c48b2532424b1a0d44fb517c433f6534cee3df91b87bce467d84b58"
-
-[[files]]
 file = "mods/animatica-0.6.2+1.21.4.jar"
 hash = "1c66e7d79ac23386a682e9748f86524594438d68286d473bc123ac77ddd77788"
 
