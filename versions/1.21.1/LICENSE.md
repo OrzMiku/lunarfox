@@ -1,7 +1,8 @@
-- **reflex-1.0.0+mc1.21.1.jar**  
-  Licensed under [CC-0](https://creativecommons.org/publicdomain/zero/1.0/)
-  Source Code: [GitHub](https://github.com/Tythee/Minecraft-Reflex)
+- **Reflex AntiLag**  
+  - ARR (All Rights Reserved), [allowed to distribute in modpacks.](https://github.com/Tythee/Minecraft-Reflex/issues/2)
+  - Source Code: [GitHub](https://github.com/Tythee/Minecraft-Reflex)
+  - Source Code(may be built from): [GitHub](https://github.com/OrzMiku/Minecraft-Reflex)
 
-- **inventoryhud.fabric.1.21.1-3.4.26.jar**
-  ARR (All Rights Reserved), free to use in modpacks and other content (videos, streams, etc.).
-  Homepage: [CurseForge](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge)
+- **Inventory HUD Plus**
+  - ARR (All Rights Reserved), free to use in modpacks and other content (videos, streams, etc.).
+  - Homepage: [CurseForge](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge)

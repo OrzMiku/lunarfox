@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "LICENSE.md"
-hash = "86c7177aee9a372328bcabbc6c8afb48ff6fb0ef6448a1b3ab05e67b8a1f9629"
+hash = "0f8207c414a9ac431839f02acbf124060949171bcb66178f71efe4a422cdeceb"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -159,7 +159,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "570a28cd724428a0fae1f4ebbc04ca5d50c08935b10e75fe288515904292dcdf"
+hash = "bf9a89d3fafcb9358a15bed12864f02f340531048b07e983bde14cf7a5a7852f"
 metafile = true
 
 [[files]]
@@ -523,9 +523,8 @@ hash = "4a7d1e46795d2d83b18db85d8dbc63740a1d337e12d2b9e550378de59f2b23ab"
 metafile = true
 
 [[files]]
-file = "mods/reflex-antilag.pw.toml"
-hash = "d7f4bcc0deebef34aab44d78b48b936c704e7c6e7b3fba1aacc02b3950e494fb"
-metafile = true
+file = "mods/reflex-1.0.2+mc1.20.1.jar"
+hash = "1f600034c1b8fd6877585394ea39ff34e42ae383ab4ba0bfee1e306b1a3aa897"
 
 [[files]]
 file = "mods/rei.pw.toml"
