@@ -547,11 +547,6 @@ hash = "830270b8e5a34f5621720ae09c4cf716a65d8003a30d585c8b817aba1fde9ac8"
 metafile = true
 
 [[files]]
-file = "mods/simple-discord-rpc.pw.toml"
-hash = "3c398cf79509a5aa51bb2c4ba73d2777300fd2b4dd750246be963d5e9342209a"
-metafile = true
-
-[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "6b7e9ed619297a29eb6db95f860734144876aa68922de63a05409b65ad8bd163"
 metafile = true
@@ -613,7 +608,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "41c7ba12533210f34233faa05bd14f304f4f61eb724a412f408207551db4e2d8"
+hash = "d5763cae561c3c23d431275e5d930a43bae2cc8e71f39a50a1b3d15b70a5b3f5"
 metafile = true
 
 [[files]]
@@ -638,7 +633,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "40bc975eb6a7840353e999e0c3e9fea9123aec9b7888cb540b65a7843adea043"
+hash = "e6e8807859717ef8894593dc1368719d3cfcab0ee2acd9cb2e0ee647a2b27c0e"
 metafile = true
 
 [[files]]

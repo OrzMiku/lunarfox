@@ -176,7 +176,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "3425aac08255d8539fdf9a782681466edb126d20a91fc70f51a460193e42060e"
+hash = "f0b75ae2e4267051bff34cd2380de6072013ab1f348f63512fbb2eedce7ef99d"
 metafile = true
 
 [[files]]
@@ -256,7 +256,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "3039ab6ea60a5424d3b7d31f8fbfe16d3988b9a0bb7c670ba949743f63695ebd"
+hash = "71e384f643d16f13d509c543c26e81542baa22599365d6c16d867cd1eeda5acd"
 metafile = true
 
 [[files]]
@@ -324,7 +324,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "378702f2d208656b4b5ca6592a5cd9e3ce560e45af8152dacd518acfb2e68dd4"
+hash = "e03fc0b0c151c5c072ac399d27b5c4268a093c41be73f3b1578d050bb49211f3"
 metafile = true
 
 [[files]]
@@ -419,7 +419,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "ab67da9e3ec06c7cc38dc673629ce04e287cb5e67baad18f7ea419a3e4fe8e2d"
+hash = "c37dcee10bedbb5b6c68c76488d904e9da59431b9d0220566c12ec28c1069212"
 metafile = true
 
 [[files]]
@@ -497,11 +497,6 @@ hash = "7ead84f8df46c7e292fb00079d11aa78d15724398b150db11d06e6713583fcb0"
 metafile = true
 
 [[files]]
-file = "mods/simple-discord-rpc.pw.toml"
-hash = "3c398cf79509a5aa51bb2c4ba73d2777300fd2b4dd750246be963d5e9342209a"
-metafile = true
-
-[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "56a0e243140dc1dbdb89c5a7a1cbcbe6e8d6da5499242bd1eabf548bbb8e3481"
 metafile = true
@@ -553,7 +548,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "5f8545851fde0b0f0bf9a478d7cb82c7b921e8288638b7ed16b1bfb3f752e95b"
+hash = "2c4a9d332322cfb1234c8b90f474b5b23ae487c706b7e1e00a0dc7dcf53bb306"
 metafile = true
 
 [[files]]
@@ -578,7 +573,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "40bc975eb6a7840353e999e0c3e9fea9123aec9b7888cb540b65a7843adea043"
+hash = "e6e8807859717ef8894593dc1368719d3cfcab0ee2acd9cb2e0ee647a2b27c0e"
 metafile = true
 
 [[files]]
