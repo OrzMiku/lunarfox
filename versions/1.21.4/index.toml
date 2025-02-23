@@ -97,6 +97,10 @@ file = "config/yosbr/config/particle_core_config.toml"
 hash = "d8a425573e8ac83176f1023a99e9678c8b98b991cbca6764dbf73e6df110760f"
 
 [[files]]
+file = "config/yosbr/config/roughlyenoughitems/config.json5"
+hash = "c550f46ad5ec34377e2b77a84f553ef1ac02bd9515219a8b4c0239ce036a966a"
+
+[[files]]
 file = "config/yosbr/config/threadtweak.json"
 hash = "b4c1cc5fc213225d64e685a3b632092e909386ab41bd9925f9cf7efd53d1ad46"
 
@@ -468,8 +472,8 @@ hash = "55a727cabdd9d6e84fb0232b49d0dfa207751002e7f1f63b959baa35e2f29868"
 metafile = true
 
 [[files]]
-file = "mods/reflex-1.0.2+mc1.21.4.jar"
-hash = "daf621156db61eca5b96005679bb51f6d1f620dd71375381fa8244b2e510b1b1"
+file = "mods/reflex-1.0.3+mc1.21.4.jar"
+hash = "b960abebf754fa784e02faab0013a066f476fc55ce1d4414f9049d49d428d245"
 
 [[files]]
 file = "mods/rei.pw.toml"
