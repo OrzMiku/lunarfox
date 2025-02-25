@@ -1,3 +1,7 @@
+# 江湖路远，后会有期
+
+[从 Minecraft 到现实：一场迟来的告别](https://miku.show/archives/12/)
+
 <div align="center">
   <a href="https://github.com/OrzMiku/lunarfox">
     <img src="https://cdn.modrinth.com/data/r7CwLIIr/cfd4314a75bb775ade08fe0e9ada9cf9a913f6a5_96.webp" alt="Logo">
