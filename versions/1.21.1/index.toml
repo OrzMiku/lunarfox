@@ -101,6 +101,10 @@ file = "config/yosbr/config/puzzle.json"
 hash = "1d47fa191792c248182fc7cc2925072a426396e5f8902687287e39e788c231eb"
 
 [[files]]
+file = "config/yosbr/config/roughlyenoughitems/config.json5"
+hash = "c550f46ad5ec34377e2b77a84f553ef1ac02bd9515219a8b4c0239ce036a966a"
+
+[[files]]
 file = "config/yosbr/config/threadtweak.json"
 hash = "b4c1cc5fc213225d64e685a3b632092e909386ab41bd9925f9cf7efd53d1ad46"
 
@@ -515,8 +519,8 @@ hash = "55a727cabdd9d6e84fb0232b49d0dfa207751002e7f1f63b959baa35e2f29868"
 metafile = true
 
 [[files]]
-file = "mods/reflex-1.0.2+mc1.21.1.jar"
-hash = "96747f5ea823faaeb64dada1f6c555aaae8daf7377cde829245e9f6072c9672c"
+file = "mods/reflex-1.0.3+mc1.21.1.jar"
+hash = "7446c54604b9b9d4d40fd163773c9055935942b9e0483c744081e7704abc8939"
 
 [[files]]
 file = "mods/rei.pw.toml"
