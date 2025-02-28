@@ -8,7 +8,7 @@ enable_lightmap_caching: true
 # Higher values will result in less frequent updates
 # to block lighting, but better performance.
 # Values below 2 will disable hte optimization.
-lightmap_time_change_needed_for_update: 20
+lightmap_time_change_needed_for_update: 100
 
 # Whether the sky's color should be cached unless you're on a biome border.
 enable_sky_color_caching: true
@@ -16,7 +16,7 @@ enable_sky_color_caching: true
 # be recalculated with our own calculation. Higher values will result in
 # the sky updating less frequently, but slightly better performance.
 # Values below 2 will all have the same effect.
-skycolor_time_change_needed_for_update: 3
+skycolor_time_change_needed_for_update: 6
 
 # Whether we should avoid calling debug renderers
 # and their calculations if there are no debug entries to render
@@ -59,7 +59,7 @@ enable_remove_tutorial_if_not_demo: true
 
 # Whether BadOptimizations <version> should be added onto
 # the left text of the F3 menu.
-show_f3_text: true
+show_f3_text: false
 
 # Some config options will be force-disabled if certain mods are present
 # due to incompatibilities (e.g. entity rendering caching

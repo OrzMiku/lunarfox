@@ -10,7 +10,7 @@ hash = "32dc5f1d73b05e70f3fc5a18f58c5d81a095484a0f93a1da6d1883966ff4e296"
 
 [[files]]
 file = "config/yosbr/config/badoptimizations.txt"
-hash = "16cddeb9f397c98232ce28778089369f32bfce744eda1233d9805ab415b5ab68"
+hash = "433b1a765266b184296d05b838ad91cfff7eab0f3254ebab42124daea851bb78"
 
 [[files]]
 file = "config/yosbr/config/betteradvancements.json"
@@ -146,12 +146,12 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "1684387f4ee3f54531891837e612435e0dcb5ae18954edca0b74518aa5d3d898"
+hash = "f676c2672db0ae62b195d038c4798cd73971e7c7d956c2224cda796e05c785c3"
 metafile = true
 
 [[files]]
 file = "mods/better-advancements.pw.toml"
-hash = "42674c06a0b941affd63f100d0ae85cbe977c79f7711a4616fe9a60caef509e7"
+hash = "f5f1edd0186c5e711f3ea2f36fd3437311755dbd4cc5bcece4ea12fe053afc2b"
 metafile = true
 
 [[files]]
@@ -241,7 +241,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "49f8089d53aa0e40f6b9551e7931d4f502faf07f0c72fb7e1d6d8bc471a09482"
+hash = "c666d4a01300098976b31693779d4f6130e939a6275823f0e8995921401d65a8"
 metafile = true
 
 [[files]]
@@ -270,12 +270,12 @@ metafile = true
 
 [[files]]
 file = "mods/fallingleaves.pw.toml"
-hash = "7bd635c7e8d673a0eb043d6837db2423d7a79ab1c8673c1cf3e12508989f40a5"
+hash = "937e9c66908ede3a91ffce2196385789575527324973b75ab10a35f4e4524651"
 metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "8376368040d62400b3d15ee15bc7b3d4149123e8b5b07715ef7b460816c721aa"
+hash = "3ec16b2656b208d75471decae64aa8877bc0292882bfcfa430ec4d196db618f2"
 metafile = true
 
 [[files]]
@@ -309,7 +309,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "c7acf68591c9e2e380d2fa7f01bd3b8f37a9e91ee53c59e043c4189a86c162a9"
+hash = "f293bc44a5350f8c10eca8b634e0f2b7f10aa240bad0239a0735a5631cc00091"
 metafile = true
 
 [[files]]
@@ -389,7 +389,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "b9315485edf9afc7934690bd4391c8b551e4d3816f094c77352dfec956f40b63"
+hash = "a6b3b40b885317b6b01d4e63a9d3680daa2600e574ea6180c161c641eb6ffe33"
 metafile = true
 
 [[files]]
@@ -419,7 +419,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "c37dcee10bedbb5b6c68c76488d904e9da59431b9d0220566c12ec28c1069212"
+hash = "0c32fe0ba692994312c8934087ea948fb4326cb02412adb646a9f21c37de0ccc"
 metafile = true
 
 [[files]]
@@ -473,7 +473,7 @@ hash = "daf621156db61eca5b96005679bb51f6d1f620dd71375381fa8244b2e510b1b1"
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "c402f34f2fcf28c0955adadf0265810e875fc0b576098636bfd986dcd9dbec39"
+hash = "9a53bc41ea5265170f6a87285744c158834881ec706c68c2b8101f740396b36b"
 metafile = true
 
 [[files]]
@@ -508,7 +508,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "d6ff2d13b8fec782d3a55207c90470591fd5aa36d4fab3562f8334a66cab60ab"
+hash = "d9c1bcc4b8ab05e309cd5cb88caf280dfd6901bcc679a7b504af1dcdb7b6a8d2"
 metafile = true
 
 [[files]]
@@ -553,7 +553,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "4b7c266cf6c560aec780394f515cbe880c72fb07286f60694823fde3b926f184"
+hash = "e3384cdf4e1bd7f9869278ef734bd28ff942e1cebc18111ecc2004bc2ab15247"
 metafile = true
 
 [[files]]
