@@ -190,7 +190,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "3336cf0d20487bc291a660653908372b4f87c200b947d09ba8bbb010d6adc715"
+hash = "c22a79e12714a5cbef7623b480bf066cd49e5710286abee69e5fc06484f3234e"
 metafile = true
 
 [[files]]
@@ -358,7 +358,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "be1bd0d63844c008fffe131b9912ff54733e20d715ee602947253676af07b3f0"
+hash = "780f22d956d790752ca7bae61c8aa9b32f87457e5fdc305069bdea72d3d37880"
 metafile = true
 
 [[files]]
@@ -373,7 +373,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "13f4a38022d7e100dc13b05b0513b6693f2de8a5d8a8ee6d40d8099981c4a929"
+hash = "d0af0219628ebf4ec7b48a66fc88c3c0dc896195b11476c3a86fb5e73c3c705c"
 metafile = true
 
 [[files]]
@@ -398,7 +398,7 @@ metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "f79baa6d61e51f67be6417450db3e49f9b56c4602c82692a3adc24f6e0a5d133"
+hash = "ab73712b95dc33bc4c1e706f480cd5a81e23b18d29960296308116a993a7f834"
 metafile = true
 
 [[files]]
@@ -482,7 +482,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "14948a17a7f41a3d28b049b71f28322c46545c1315cedf5577cba464000469bc"
+hash = "fe56e851eb796c9a20491ddb6034fb3b51baf762f09b9daecfe756df602e7349"
 metafile = true
 
 [[files]]
@@ -527,12 +527,12 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "6b3c217dff9042118994a4d55b3d149390943d054808a1ecc978c50dbca65fe1"
+hash = "0bfe8d0a4dc04d45a0b3c1efdc283f9482a1f1a6f5380cf50138ac3f49113ffa"
 metafile = true
 
 [[files]]
 file = "mods/viafabricplus.pw.toml"
-hash = "254018dd2a263b82756876408d594f0907ea1e4611260365c1e5cfa2dccc0d81"
+hash = "c462f49426404ef8c6eb3208e3e34cdd3dcc452dbbdb881d2a2da45ce3e254f3"
 metafile = true
 
 [[files]]

@@ -405,7 +405,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "18cb7175c008b0abc8e60875504d800ed3c00893225b25400031e7b52f3138d8"
+hash = "6f4665f1684aed12b53927753b4f7e15e57ed2cd81ace6db227f5dc704841c2d"
 metafile = true
 
 [[files]]
@@ -420,7 +420,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "4c8868f5a6e947f48d8d90d8e9a19ee349b3882da09ff0eb8b3b2c39545cfebf"
+hash = "67a8e6384e83bdd773822fa894542f9b1e7373bb2fc10196f739f914702c6243"
 metafile = true
 
 [[files]]
@@ -445,7 +445,7 @@ metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "e0b00c3f81947befb1f7b7424b16461b2805cb344e66542b868fd62c645bca56"
+hash = "18cfd02f268502966a31efea316aebf26edeb701286bd9eee1b7dd5b027a6381"
 metafile = true
 
 [[files]]
@@ -529,7 +529,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "cd2bb400be723ce95a52ac5c2ab83ef4a3be11e02a2aac76ac29a368093b5a1e"
+hash = "6cb3f472f42ed4fcf48e4145e9b13621009c2cfb872d0e67df24f8a643f28076"
 metafile = true
 
 [[files]]
@@ -579,7 +579,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "d918a7fd39a42c5510da9646649da38ece86c71f23b943dcec9fbfde5258722f"
+hash = "62769ec5701008e3897061dafbf805c15db0ea9c202179cb10bbd2fd552aaa26"
 metafile = true
 
 [[files]]

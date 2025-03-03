@@ -378,7 +378,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "956298b1bbab6d8bfb5074b169d8d24d04d688182edf8af885bbefc6cc1d9c27"
+hash = "99efc9e805ce2888680d3cacb9be65733c6d4a8cfcb77e1976205f758db24346"
 metafile = true
 
 [[files]]
@@ -537,7 +537,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "fb53720ae88ceae5766d15a3e85da6d9ab4648f09c769cc2c68fa30dd8a120ea"
+hash = "b6db84c2fde960f8c358e510a1c9972a0903ff03ed0d004042b2fdf31ac08210"
 metafile = true
 
 [[files]]
