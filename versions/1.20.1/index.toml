@@ -452,11 +452,6 @@ hash = "e5bf9057e940554a9d6f653af4118d64f09040871c7ada034a697d630fedcab5"
 metafile = true
 
 [[files]]
-file = "mods/mixintrace.pw.toml"
-hash = "6cd55df8041a48cb7f5f95ea4520f5ed59064e71ff9dab8b0e02bb922b68c9cb"
-metafile = true
-
-[[files]]
 file = "mods/modern-ui.pw.toml"
 hash = "a497f0dc1832314a54531e6dd730db97ee0db8645e6ec02c1f68377b842f1c97"
 metafile = true
