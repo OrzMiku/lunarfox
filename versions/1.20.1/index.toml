@@ -527,8 +527,8 @@ hash = "4a7d1e46795d2d83b18db85d8dbc63740a1d337e12d2b9e550378de59f2b23ab"
 metafile = true
 
 [[files]]
-file = "mods/reflex-1.0.3+mc1.20.1.jar"
-hash = "30344c4d66929bd159cbecf2f12beb52746602b25727626eae571184fb09bca2"
+file = "mods/reflex-1.0.3-mc1.20.1.jar"
+hash = "bfd0c405fda2d34f7eae0d6a626882c90ff8b76831cb4703beec76d6a7ef0b18"
 
 [[files]]
 file = "mods/rei.pw.toml"
@@ -562,7 +562,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "11ad5fd79e9295c8855e3be8b3bf9bf4538598863822e4281a6c3a73b10b5159"
+hash = "ecf8e1df2361e5f1d090f83eee16c449ff1021dfb2da46474a72726406d5d535"
 metafile = true
 
 [[files]]

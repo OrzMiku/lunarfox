@@ -463,7 +463,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "0350ebc0042d86eb03d1ef9c3615ded0a45e0e75a641fd6077b8d5e2fc3f6164"
+hash = "ac4fde4c694476c63ba9347435fc6a61a66f75461916d64bfafaf5ad7208d673"
 metafile = true
 
 [[files]]
@@ -472,8 +472,8 @@ hash = "55a727cabdd9d6e84fb0232b49d0dfa207751002e7f1f63b959baa35e2f29868"
 metafile = true
 
 [[files]]
-file = "mods/reflex-1.0.3+mc1.21.4.jar"
-hash = "b960abebf754fa784e02faab0013a066f476fc55ce1d4414f9049d49d428d245"
+file = "mods/reflex-1.0.3-mc1.21.4.jar"
+hash = "b369776ad61615145bd1dee692c228b50d39501454ecbcacf4e7fb164624592b"
 
 [[files]]
 file = "mods/rei.pw.toml"
