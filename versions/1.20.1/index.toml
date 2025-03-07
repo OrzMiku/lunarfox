@@ -343,7 +343,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "7fcd61647cb58f7d690016a19c9e89e7280dcd1a31f57c66426ac95ec0e66653"
+hash = "b14dee29e8484c1f489581af8c87e280927803fda83a325b1a45efe697d00a97"
 metafile = true
 
 [[files]]
@@ -353,7 +353,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "362e0fe2f1141bb2fa76d1a135daddf8ad62a122079a10d08553e28b1b05df9a"
+hash = "733f3075781ea22bf1a1a107b03b2bfb49f77d69b6f9be666827361c453eda25"
 metafile = true
 
 [[files]]

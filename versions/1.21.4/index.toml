@@ -298,7 +298,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "2041332a08d6cb723727bba746a859181c10f6d8a3e9d5d79cc53fd6d6973773"
+hash = "22b5b185b7bb958675eec297276e20564befde977e92a7e3438149b1e97a6235"
 metafile = true
 
 [[files]]
@@ -308,7 +308,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "f293bc44a5350f8c10eca8b634e0f2b7f10aa240bad0239a0735a5631cc00091"
+hash = "c29648a250d8b767119dd0526bc1ddbbdba5b1b29d7c82c1578e506682ca495b"
 metafile = true
 
 [[files]]
@@ -378,7 +378,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcwifipnp.pw.toml"
-hash = "75fee06a4e89bcb6c685a11ad866f520cb724bff731cab70a83a8de479f6e25d"
+hash = "6ee14d0da5357bb80b86748a96e69f8faae4bcc3a93bfa7c7c82bf5cb4dbfb02"
 metafile = true
 
 [[files]]
@@ -453,7 +453,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "ac4fde4c694476c63ba9347435fc6a61a66f75461916d64bfafaf5ad7208d673"
+hash = "57208c1e45d6f4ae349523fe250f90f59709115eebcd20a25c6d31df2488d595"
 metafile = true
 
 [[files]]

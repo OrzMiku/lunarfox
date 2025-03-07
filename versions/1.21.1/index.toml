@@ -335,7 +335,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "516d90166c8b7ce7393d4926aaff6eae6dcdc0966b16338d4ecb51dd2a4b118c"
+hash = "d4ebde657a2201455a13405b549eb06a272171eaf399ff1c9928a5df96600283"
 metafile = true
 
 [[files]]
@@ -345,7 +345,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "15696f3e6f7e6ebde679e7013c5df0446b46517b6f134b9982d23a4e6737016f"
+hash = "1ae94cf22660a97d2dff4ee44679d5ef67c7484c2d7cd12cc324ab0f7da84652"
 metafile = true
 
 [[files]]
@@ -425,7 +425,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcwifipnp.pw.toml"
-hash = "75fee06a4e89bcb6c685a11ad866f520cb724bff731cab70a83a8de479f6e25d"
+hash = "6ee14d0da5357bb80b86748a96e69f8faae4bcc3a93bfa7c7c82bf5cb4dbfb02"
 metafile = true
 
 [[files]]
@@ -460,7 +460,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "d328d80a8bc972ea5141c4d3519ddb85286a6b3b619dcdbe0661084b639a1187"
+hash = "d7ce4a626ebc024513cb5e64af0c068b58856639aeab448acbc38d7787886a6c"
 metafile = true
 
 [[files]]
@@ -500,7 +500,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "ba5b73332eff2b7f474ffbf7520dba20096cb56b11634ff672ce1a4fad1ca5bf"
+hash = "a6fcd1135e6a392b264d547f5960acfd60237ac2e30bee9ae1a9e27930ad89d3"
 metafile = true
 
 [[files]]
