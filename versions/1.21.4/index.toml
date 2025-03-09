@@ -10,7 +10,7 @@ hash = "32dc5f1d73b05e70f3fc5a18f58c5d81a095484a0f93a1da6d1883966ff4e296"
 
 [[files]]
 file = "config/yosbr/config/badoptimizations.txt"
-hash = "433b1a765266b184296d05b838ad91cfff7eab0f3254ebab42124daea851bb78"
+hash = "23b96a18c6da194512a4291f186776c8bc4eb62a6f230bf723dd5d188ea7a555"
 
 [[files]]
 file = "config/yosbr/config/betteradvancements.json"
@@ -27,10 +27,6 @@ hash = "b734ab348594bd12e6212619c14151f6a5b65b6ac446c351ab908461ac58c53c"
 [[files]]
 file = "config/yosbr/config/defaultoptions/keybindings.txt"
 hash = "16608e1f65ef0c2312bf0c778506e64f3835a3a68bfbeececfbbe4218d07b8df"
-
-[[files]]
-file = "config/yosbr/config/entityculling.json"
-hash = "3955e3822546d7193b0432b91ba89e233a7b4aaf88cbf2883d1931c77bbc9fdb"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/assets/icon_16x.png"
@@ -58,7 +54,7 @@ hash = "7743d45c18fe7fdfbf28b0bb9ecee0d0d6b2e7bb5dedddaed6dd36cffdc78a61"
 
 [[files]]
 file = "config/yosbr/config/ferritecore.mixin.properties"
-hash = "2fee62477522b340fb814284e126749bd7858d2f7c17a2400d09644e5c4d725d"
+hash = "1fbbea658d8af2a751857e70cf2d5930a24490cc4c24f8db9b49630a818b895c"
 
 [[files]]
 file = "config/yosbr/config/immediatelyfast.json"
@@ -71,10 +67,6 @@ hash = "22114ef1ca0544700c7d2883a740193b22347ae97ccf33daace70b7fb5a0c06b"
 [[files]]
 file = "config/yosbr/config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "43df9e4a3e60edd220983a2b9c52106471a763861a873ed43593c726eca90014"
-
-[[files]]
-file = "config/yosbr/config/iris.properties"
-hash = "a16387cc6923b69281bc50cac2705ac7793f0fa6d622dd20c88f1ee07d772729"
 
 [[files]]
 file = "config/yosbr/config/masa_gadget_mod.json"
@@ -94,15 +86,11 @@ hash = "7d27acae23534f1cbfd7c5b3b8758e28f4f1dc402ee97f630a88aefd5b2eec2e"
 
 [[files]]
 file = "config/yosbr/config/particle_core_config.toml"
-hash = "d8a425573e8ac83176f1023a99e9678c8b98b991cbca6764dbf73e6df110760f"
+hash = "e6a4e36d2099ea5efe19e0fd4fddc65fbafd88eafb81f0fb3d5e9f6193d37bbb"
 
 [[files]]
 file = "config/yosbr/config/roughlyenoughitems/config.json5"
 hash = "c550f46ad5ec34377e2b77a84f553ef1ac02bd9515219a8b4c0239ce036a966a"
-
-[[files]]
-file = "config/yosbr/config/threadtweak.json"
-hash = "b4c1cc5fc213225d64e685a3b632092e909386ab41bd9925f9cf7efd53d1ad46"
 
 [[files]]
 file = "config/yosbr/config/tweakeroo.json"
