@@ -12,3 +12,8 @@
 
 - [Wiki (EN)](https://qdocs.miku.show/en/lunarfox/) | [Wiki (简体中文)](https://qdocs.miku.show/lunarfox)
 - [Modrinth](https://modrinth.com/modpack/lunarfox)
+- [StarFox](https://github.com/OrzMiku/starfox)
+
+## Credits
+
+- [Simply Optimized](https://modrinth.com/modpack/sop): Some config files are from this modpack.
