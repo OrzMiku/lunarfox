@@ -30,7 +30,7 @@ hash = "4d9bc732c63f8e4a725dc04b56251a38ad7702975db97563a1b0a85483759c07"
 
 [[files]]
 file = "config/yosbr/config/customwindowtitle-client.toml"
-hash = "f84abeb744c0eabb04077b7b5efe9437019a094220633f127b3496019efdc603"
+hash = "c517791e86a0bf8734cc539613d0c122a05fe665d12285426fa7787e030d00df"
 
 [[files]]
 file = "config/yosbr/config/defaultoptions/keybindings.txt"
