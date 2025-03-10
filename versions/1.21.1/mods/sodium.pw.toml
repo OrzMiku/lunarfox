@@ -1,6 +1,6 @@
 name = "Sodium"
 filename = "sodium-fabric-0.6.9+mc1.21.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/AANobbMI/versions/26nVNc41/sodium-fabric-0.6.9%2Bmc1.21.1.jar"

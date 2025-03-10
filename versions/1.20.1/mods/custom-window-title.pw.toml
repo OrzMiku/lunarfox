@@ -1,0 +1,13 @@
+name = "Custom Window Title"
+filename = "CustomWindowTitle-Fabric-1.20+v1.2.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/RGH5gtzF/versions/ueiehBDu/CustomWindowTitle-Fabric-1.20%2Bv1.2.0.jar"
+hash-format = "sha512"
+hash = "7c4692b673b6544e9d3757c5e27e8685bb0872ea89baab97e861cf99fceb85fd74f7a06017b577b8183960fa3ae4f4665a20f96bc8ffa683695967979ec7d441"
+
+[update]
+[update.modrinth]
+mod-id = "RGH5gtzF"
+version = "ueiehBDu"

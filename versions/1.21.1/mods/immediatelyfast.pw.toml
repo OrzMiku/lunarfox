@@ -1,6 +1,6 @@
 name = "ImmediatelyFast"
 filename = "ImmediatelyFast-Fabric-1.6.1+1.21.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/Eau5kQoZ/ImmediatelyFast-Fabric-1.6.1%2B1.21.1.jar"
