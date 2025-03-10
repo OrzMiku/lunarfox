@@ -25,32 +25,12 @@ file = "config/yosbr/config/clean-debug.json"
 hash = "b734ab348594bd12e6212619c14151f6a5b65b6ac446c351ab908461ac58c53c"
 
 [[files]]
+file = "config/yosbr/config/customwindowtitle-client.toml"
+hash = "f84abeb744c0eabb04077b7b5efe9437019a094220633f127b3496019efdc603"
+
+[[files]]
 file = "config/yosbr/config/defaultoptions/keybindings.txt"
 hash = "16608e1f65ef0c2312bf0c778506e64f3835a3a68bfbeececfbbe4218d07b8df"
-
-[[files]]
-file = "config/yosbr/config/fancymenu/assets/icon_16x.png"
-hash = "fb91559d1807749d934df916afa06a051a9e993bf11255a3f02acde7c9f59009"
-
-[[files]]
-file = "config/yosbr/config/fancymenu/assets/icon_32x.png"
-hash = "940d70ea14411b82c04527dfee88d3e277088a58bea1af5443ca767521850d0a"
-
-[[files]]
-file = "config/yosbr/config/fancymenu/assets/icon_mac.icns"
-hash = "85852998716ad19e37ed5040d2e444807f46273ff78b1b7154435433b0022fc5"
-
-[[files]]
-file = "config/yosbr/config/fancymenu/customizablemenus.txt"
-hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
-
-[[files]]
-file = "config/yosbr/config/fancymenu/customization/title_screen_layout.txt"
-hash = "dc078654f8ac799ba738758049d58c7479e95aa730e9c4c13fc2a89dbddd7218"
-
-[[files]]
-file = "config/yosbr/config/fancymenu/options.txt"
-hash = "7743d45c18fe7fdfbf28b0bb9ecee0d0d6b2e7bb5dedddaed6dd36cffdc78a61"
 
 [[files]]
 file = "config/yosbr/config/ferritecore.mixin.properties"
@@ -243,7 +223,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "71e384f643d16f13d509c543c26e81542baa22599365d6c16d867cd1eeda5acd"
+hash = "8b8abe0b0bfbabe50f9e37c5b165535de5868459b89634db74dcdd1d83babf4d"
 metafile = true
 
 [[files]]
@@ -258,11 +238,6 @@ metafile = true
 [[files]]
 file = "mods/fallingleaves.pw.toml"
 hash = "937e9c66908ede3a91ffce2196385789575527324973b75ab10a35f4e4524651"
-metafile = true
-
-[[files]]
-file = "mods/fancymenu.pw.toml"
-hash = "3ec16b2656b208d75471decae64aa8877bc0292882bfcfa430ec4d196db618f2"
 metafile = true
 
 [[files]]
@@ -366,7 +341,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcwifipnp.pw.toml"
-hash = "6ee14d0da5357bb80b86748a96e69f8faae4bcc3a93bfa7c7c82bf5cb4dbfb02"
+hash = "fa24bb41ce81fff1289c07fa4e3cd424f7c87a87f2cfdfa63992bb77ba575df4"
 metafile = true
 
 [[files]]
@@ -441,7 +416,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "57208c1e45d6f4ae349523fe250f90f59709115eebcd20a25c6d31df2488d595"
+hash = "439b8dc09f9ad9fadcd3f474b21ab6686efa229f89ff271c415337ca3cb2e2da"
 metafile = true
 
 [[files]]
@@ -555,5 +530,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "e6e8807859717ef8894593dc1368719d3cfcab0ee2acd9cb2e0ee647a2b27c0e"
+hash = "c5ecb30262c296e6733e4bd404a895b49083511dc851d9d288e3dec0d3dc5c26"
 metafile = true

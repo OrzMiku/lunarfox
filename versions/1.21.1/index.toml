@@ -25,32 +25,12 @@ file = "config/yosbr/config/clean-debug.json"
 hash = "b734ab348594bd12e6212619c14151f6a5b65b6ac446c351ab908461ac58c53c"
 
 [[files]]
+file = "config/yosbr/config/customwindowtitle-client.toml"
+hash = "f84abeb744c0eabb04077b7b5efe9437019a094220633f127b3496019efdc603"
+
+[[files]]
 file = "config/yosbr/config/defaultoptions/keybindings.txt"
 hash = "ed59af65d3ad35dd87e22dbf7eb950a110909f1bfc3b4f01ab291cd8fffa672f"
-
-[[files]]
-file = "config/yosbr/config/fancymenu/assets/icon_16x.png"
-hash = "fb91559d1807749d934df916afa06a051a9e993bf11255a3f02acde7c9f59009"
-
-[[files]]
-file = "config/yosbr/config/fancymenu/assets/icon_32x.png"
-hash = "940d70ea14411b82c04527dfee88d3e277088a58bea1af5443ca767521850d0a"
-
-[[files]]
-file = "config/yosbr/config/fancymenu/assets/icon_mac.icns"
-hash = "85852998716ad19e37ed5040d2e444807f46273ff78b1b7154435433b0022fc5"
-
-[[files]]
-file = "config/yosbr/config/fancymenu/customizablemenus.txt"
-hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
-
-[[files]]
-file = "config/yosbr/config/fancymenu/customization/title_screen_layout.txt"
-hash = "dc078654f8ac799ba738758049d58c7479e95aa730e9c4c13fc2a89dbddd7218"
-
-[[files]]
-file = "config/yosbr/config/fancymenu/options.txt"
-hash = "373f502680db2fae9f576b8f001e21cff62c16784e98b058e09b941c011d407c"
 
 [[files]]
 file = "config/yosbr/config/ferritecore.mixin.properties"
@@ -292,11 +272,6 @@ hash = "8945ea290647fec8b91c24bd81821ee1d73d84a968d23260dbee24ceb951db4d"
 metafile = true
 
 [[files]]
-file = "mods/fancymenu.pw.toml"
-hash = "583db02f6a60be2321bec8293490ba37fc2fe2ddc7664ea2ce57cc28e2fadc74"
-metafile = true
-
-[[files]]
 file = "mods/fast-ip-ping.pw.toml"
 hash = "1ec38039048a3d705581e89d3ed42fd3d222138ee21eb6bc249581b660cd63af"
 metafile = true
@@ -333,7 +308,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "1ae94cf22660a97d2dff4ee44679d5ef67c7484c2d7cd12cc324ab0f7da84652"
+hash = "cb6a9685fe9aaf227448c40b9104b3f82ec1676c803fd0900971ef127b0dbc6a"
 metafile = true
 
 [[files]]

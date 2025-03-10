@@ -29,36 +29,12 @@ file = "config/yosbr/config/cull-less-leaves.json"
 hash = "4d9bc732c63f8e4a725dc04b56251a38ad7702975db97563a1b0a85483759c07"
 
 [[files]]
+file = "config/yosbr/config/customwindowtitle-client.toml"
+hash = "f84abeb744c0eabb04077b7b5efe9437019a094220633f127b3496019efdc603"
+
+[[files]]
 file = "config/yosbr/config/defaultoptions/keybindings.txt"
 hash = "d7cc6237c84dd90f8c629eeaddc58352740d7ce26fa09db40092617668e874d3"
-
-[[files]]
-file = "config/yosbr/config/fancymenu/assets/icon_16x.png"
-hash = "fb91559d1807749d934df916afa06a051a9e993bf11255a3f02acde7c9f59009"
-
-[[files]]
-file = "config/yosbr/config/fancymenu/assets/icon_32x.png"
-hash = "940d70ea14411b82c04527dfee88d3e277088a58bea1af5443ca767521850d0a"
-
-[[files]]
-file = "config/yosbr/config/fancymenu/assets/icon_mac.icns"
-hash = "85852998716ad19e37ed5040d2e444807f46273ff78b1b7154435433b0022fc5"
-
-[[files]]
-file = "config/yosbr/config/fancymenu/customizablemenus.txt"
-hash = "9773ad7514d9fc689be40b9a6a60bd751d06472aae28187af6899110908c2dcd"
-
-[[files]]
-file = "config/yosbr/config/fancymenu/customization/options_screen_layout.txt"
-hash = "ea160b063103edd6b95b5121d3c6d919155cf42d207803ef1bb978e8c80b7ab8"
-
-[[files]]
-file = "config/yosbr/config/fancymenu/customization/title_screen_layout.txt"
-hash = "dc078654f8ac799ba738758049d58c7479e95aa730e9c4c13fc2a89dbddd7218"
-
-[[files]]
-file = "config/yosbr/config/fancymenu/options.txt"
-hash = "67016129a8f09bdde49d20e66f9e0bdf33e5d3711392a12fd7c433930cc84ed0"
 
 [[files]]
 file = "config/yosbr/config/ferritecore.mixin.properties"
@@ -297,11 +273,6 @@ metafile = true
 [[files]]
 file = "mods/fallingleaves.pw.toml"
 hash = "fff1e00559f13c092b17fa83804279cf70191d7a99a4a98a4eb6bb30ac9a78db"
-metafile = true
-
-[[files]]
-file = "mods/fancymenu.pw.toml"
-hash = "e3a146dc640566debff6d9e5171987ec1c58b0a59db1cc79d4486988e11a3666"
 metafile = true
 
 [[files]]
