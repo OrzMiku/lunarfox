@@ -40,4 +40,3 @@ The modpack includes many QoL mods such as map mods, item managers, and inventor
 ## ⭐ Credits
 
 - [Simply Optimized](https://modrinth.com/modpack/sop): Some config files are from this modpack.
-- [StarFox](https://github.com/OrzMiku/starfox): The base of LunarFox modpack.

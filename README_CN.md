@@ -40,4 +40,3 @@ LunarFox 使用一系列模组来替代 OptiFine 的功能。详细列表请参�
 ## ⭐ 致谢
 
 - [Simply Optimized](https://modrinth.com/modpack/sop)：部分配置文件来自此整合包。
-- [StarFox](https://modrinth.com/modpack/starfox)：LunarFox整合包的基础。
