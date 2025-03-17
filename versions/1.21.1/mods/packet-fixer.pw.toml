@@ -1,13 +1,13 @@
 name = "Packet Fixer"
-filename = "packetfixer-fabric-2.1.0-1.21-to-1.21.3.jar"
+filename = "packetfixer-fabric-2.1.1-1.21-to-1.21.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/c7m1mi73/versions/ODUOFMIU/packetfixer-fabric-2.1.0-1.21-to-1.21.3.jar"
+url = "https://cdn.modrinth.com/data/c7m1mi73/versions/XBM9PO5r/packetfixer-fabric-2.1.1-1.21-to-1.21.3.jar"
 hash-format = "sha512"
-hash = "1ce2ea02a0e0f9459a662dd72d0108b44dcbe4b8e134653fd494390b4594656707e5aa65735b413f086dbcdccfb794534909faa09c1fce899cbb14e25fc51b12"
+hash = "a8d5833aec01786c0fd0a894d367e4c9a54cdd737fc6747282a758f612c0c7c06379ee47b1905e6858c9038cc73c210a756ce688f6a02785a1c4629ff382d70f"
 
 [update]
 [update.modrinth]
 mod-id = "c7m1mi73"
-version = "ODUOFMIU"
+version = "XBM9PO5r"

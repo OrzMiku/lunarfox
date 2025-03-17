@@ -1,0 +1,13 @@
+name = "Reflex AntiLag"
+filename = "reflex-fabric-1.0.4+mc1.21.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8dbb6c3dc1d5090ae253e534430d8bf192fc8f0f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6306774
+project-id = 1197629

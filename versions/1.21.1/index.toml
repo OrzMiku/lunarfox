@@ -77,6 +77,10 @@ file = "config/yosbr/config/roughlyenoughitems/config.json5"
 hash = "c550f46ad5ec34377e2b77a84f553ef1ac02bd9515219a8b4c0239ce036a966a"
 
 [[files]]
+file = "config/yosbr/config/threadtweak.json"
+hash = "545cbe317c5146bacb9e13c7c03a605f0b6bd6e1ddaf1a05f8be8537d6f8b0ce"
+
+[[files]]
 file = "config/yosbr/config/tweakeroo.json"
 hash = "61959e34930508cde414a11b937b544727ba3aa18712751b510ad5cec99eebeb"
 
@@ -154,16 +158,6 @@ metafile = true
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "8829b085ef87ddd7a4f74ae547f24c22a3ad307bc0b031b22a81e282976980ec"
-metafile = true
-
-[[files]]
-file = "mods/calcmod.pw.toml"
-hash = "a24e24cfef4fd0152ffdd8721eaff94e5fa12ff4a77e021b78ffc97cf2948614"
-metafile = true
-
-[[files]]
-file = "mods/carpet.pw.toml"
-hash = "bbff83f5167e56b5cfd947b314b3193110d94425c2f45b385e19624a7c5346ef"
 metafile = true
 
 [[files]]
@@ -253,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "fe95430d433104d44c741c22d8f4d0db4678756311acacccddec49e3a39a4091"
+hash = "e4c09a4bae742c95550964bae4b83e5c44ca5913d464d84d885f8b8fc2b2f7d4"
 metafile = true
 
 [[files]]
@@ -303,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "d4ebde657a2201455a13405b549eb06a272171eaf399ff1c9928a5df96600283"
+hash = "fdf65254b212f6f7ca9720e7ed140bac478efdd89f4313816557d1dc828e0852"
 metafile = true
 
 [[files]]
@@ -313,7 +307,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "a8f5d734693741ac07444701c7e93729f5424ed0cf8fc398b2be1062d2c4aeee"
+hash = "e0249b9f22e21c0eddf854e68e28537bf98e8c766c73b6e29a8194f0e9b2c345"
 metafile = true
 
 [[files]]
@@ -328,7 +322,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "d9319486a934c22c87fe6dc911b080248675cd714a766ffbc5501d4f26fb14f4"
+hash = "b6653291aeb568dc19db4c978ed0d518a3455b47e472323024d89df4401d9626"
 metafile = true
 
 [[files]]
@@ -338,7 +332,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "e0307f1494884e4a65583e0c5d29b4bbae913a884d7e6c9f94f4ab8d7a010245"
+hash = "91214995e2b30821c37d785bb66c9e83a03ebc7ec3596c24ec7036c982f8f286"
 metafile = true
 
 [[files]]
@@ -358,12 +352,12 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "0802f98909f8ef394056804e4772be187ff3143c9d4038ccb7dc3dcacfe535fc"
+hash = "cec885fcaeede117597c4619de2f122d40e3b633be5d4449d77037e8d290b50e"
 metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "748433d77931f89c6b606897642ba862bf124c6b368359c697ffdd51911ca8e4"
+hash = "4073dcb02890479837bed6c892a15ab1d57fb2561395b7afd93f9b790f349d01"
 metafile = true
 
 [[files]]
@@ -373,7 +367,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "cbf6e68bef5fab8963274c8637e81366e1f1ddf8c59b7cc81181e2928358ee43"
+hash = "972db8c2fec6fb2f3545554062d4cd19364778e30d8f079221fe0d459efa8517"
 metafile = true
 
 [[files]]
@@ -428,7 +422,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "37ad8a6ebc1409d9d5c828aaa95ce5438ec56dae7b4d6b51a741464193caf2ec"
+hash = "6be43ffc708ac329843aee99ededc692ecf6461ee8e409d373f55fc5494db5af"
 metafile = true
 
 [[files]]
@@ -458,7 +452,7 @@ metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "5466b2266c5d07a965914b3a5557baf1d44a097e5b906fe457608105ef9901ee"
+hash = "09310a353a089bbae9a97e349331201f3f820b33551ded2851889d56bd035eff"
 metafile = true
 
 [[files]]
@@ -468,7 +462,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "81100457acdbbbf53aede560227a33a1ea3aef29bfcd85b863c816fb389d961e"
+hash = "639f5cbd5c4b37661e88af1b520d4cf6701cb274a340575f3e234cc9295179c7"
 metafile = true
 
 [[files]]
@@ -477,12 +471,9 @@ hash = "55a727cabdd9d6e84fb0232b49d0dfa207751002e7f1f63b959baa35e2f29868"
 metafile = true
 
 [[files]]
-file = "mods/reflex-1.0.3-mc1.21.1.jar"
-hash = "1fd95ab81b106057d18ac9e4e7a23b754ec73c69f36dd272f2bd5b2e08d39759"
-
-[[files]]
-file = "mods/reflex-fabric-1.0.4+mc1.21.1.jar"
-hash = "1d2322de2e1f52139ed8217133c707a3653a85147e5536e8179f114694d17722"
+file = "mods/reflex-antilag.pw.toml"
+hash = "d916d213938c273c4ae151068d06cb690bb81dd9d5996a07a5f29dba09fee1f7"
+metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
@@ -535,6 +526,11 @@ hash = "ae748003d606ac1919fca72d5ce28c499b8c93b66f6bbc9a35ce8046f1ad358b"
 metafile = true
 
 [[files]]
+file = "mods/threadtweak.pw.toml"
+hash = "1c137d989a144a658c564d77658919ed50c6a09ea8624037976425f0b4c7128e"
+metafile = true
+
+[[files]]
 file = "mods/tweakeroo.pw.toml"
 hash = "62769ec5701008e3897061dafbf805c15db0ea9c202179cb10bbd2fd552aaa26"
 metafile = true
@@ -556,7 +552,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "802475843d28b3251396cf88b76ce440ff0fe6baa85291553f9d2868e8d0b6eb"
+hash = "965605e33e2dcff863f4f0a957f290303e08c940153dc112a2f7c326afa47355"
 metafile = true
 
 [[files]]
@@ -586,5 +582,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "c5ecb30262c296e6733e4bd404a895b49083511dc851d9d288e3dec0d3dc5c26"
+hash = "e39ebed36242a2a7842ef5b189e28df2e3350ad143643407c2435c21234aa42e"
 metafile = true

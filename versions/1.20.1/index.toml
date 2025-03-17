@@ -81,6 +81,10 @@ file = "config/yosbr/config/roughlyenoughitems/config.json5"
 hash = "c550f46ad5ec34377e2b77a84f553ef1ac02bd9515219a8b4c0239ce036a966a"
 
 [[files]]
+file = "config/yosbr/config/threadtweak.json"
+hash = "545cbe317c5146bacb9e13c7c03a605f0b6bd6e1ddaf1a05f8be8537d6f8b0ce"
+
+[[files]]
 file = "config/yosbr/config/tweakeroo.json"
 hash = "61959e34930508cde414a11b937b544727ba3aa18712751b510ad5cec99eebeb"
 
@@ -158,16 +162,6 @@ metafile = true
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "64a244469b7ce7be7e6ceabedd69d17e573a0b92d6e29c661fc6c490afa965d8"
-metafile = true
-
-[[files]]
-file = "mods/calcmod.pw.toml"
-hash = "0cc9069aeee558e036c7afd064d37d9f468ea1138705da0fe4aad64d95312f79"
-metafile = true
-
-[[files]]
-file = "mods/carpet.pw.toml"
-hash = "f912004cc3c195008c32edf5ad4108639eb36530221886034cdd03b7916a220a"
 metafile = true
 
 [[files]]
@@ -257,7 +251,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "c7763ceed9929d3364030c01a4602628ebf46a028d55e7dd06f5aeb6280d36a3"
+hash = "c10109cdaa93bb556aa99268af1dce6ca784cd21f4b97800aaad908e761e7b15"
 metafile = true
 
 [[files]]
@@ -307,7 +301,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "b14dee29e8484c1f489581af8c87e280927803fda83a325b1a45efe697d00a97"
+hash = "db1c59e9b1ed0585101398c45723e2b0de6ab348d4ac2d4fa00632826d0d7e94"
 metafile = true
 
 [[files]]
@@ -317,7 +311,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "733f3075781ea22bf1a1a107b03b2bfb49f77d69b6f9be666827361c453eda25"
+hash = "68985a3f3d2a6f829783c1bdbd27f195556992fc2c0a9738656acccf38d8c97a"
 metafile = true
 
 [[files]]
@@ -342,7 +336,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "9189950e68af278daaef951d8ef23b06f567f27d8c9f50df898ac0117d35c93c"
+hash = "d5faaf6d7e4be8bdf9b1b200edee175c2704ce13abad9d1951a4d4a45b432d4e"
 metafile = true
 
 [[files]]
@@ -362,7 +356,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "62dcbd50ca504de26da23305b6e1578298b6cfd14fb98118fcd471cf128d4337"
+hash = "871823f9cddce5616209687d3c2434cefcafd43c30b61c9024da87a3b9b9e9e9"
 metafile = true
 
 [[files]]
@@ -472,7 +466,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "032dcf6ee146f299a8410405275548bf606a22c9e9cf3173b21148e3d7d4d99e"
+hash = "2519c2fa370c3b500615e4c81de0e9e73ac60a72b80e853da35aed2d96065c33"
 metafile = true
 
 [[files]]
@@ -481,12 +475,9 @@ hash = "4a7d1e46795d2d83b18db85d8dbc63740a1d337e12d2b9e550378de59f2b23ab"
 metafile = true
 
 [[files]]
-file = "mods/reflex-1.0.3-mc1.20.1.jar"
-hash = "bfd0c405fda2d34f7eae0d6a626882c90ff8b76831cb4703beec76d6a7ef0b18"
-
-[[files]]
-file = "mods/reflex-fabric-1.0.4+mc1.20.1.jar"
-hash = "76495268351a0821b9597eed3a7ebf47414eabbbc731c24a3df706315c148273"
+file = "mods/reflex-antilag.pw.toml"
+hash = "c1be93e722931cfa64df6f01994295fbfd40ffdb3dc8899b66a6a94b7370101e"
+metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
@@ -510,7 +501,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "6b7e9ed619297a29eb6db95f860734144876aa68922de63a05409b65ad8bd163"
+hash = "8ad07191dfdea31249b4416a390c1cdf1d4ff1938cf9f8a617f98f7a08c5356c"
 metafile = true
 
 [[files]]
@@ -539,6 +530,11 @@ hash = "dd91661737679e7beca29723f2ae3730febb87eba59c905bbad311755749a31c"
 metafile = true
 
 [[files]]
+file = "mods/threadtweak.pw.toml"
+hash = "1c137d989a144a658c564d77658919ed50c6a09ea8624037976425f0b4c7128e"
+metafile = true
+
+[[files]]
 file = "mods/tweakeroo.pw.toml"
 hash = "9b51c35206dd74dac90e3cc3f2ff9e1c45552500e6a01be183bc64260a0e5815"
 metafile = true
@@ -560,7 +556,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "7f8373ddb35a3d5ed84797a5f55917b67f839c9ed06666240c87687b19efaadc"
+hash = "dba82d56d2514555ac3e326359a913c804b1a1137a6d696d80f73aadaf0ff62f"
 metafile = true
 
 [[files]]
@@ -590,5 +586,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "c5ecb30262c296e6733e4bd404a895b49083511dc851d9d288e3dec0d3dc5c26"
+hash = "e39ebed36242a2a7842ef5b189e28df2e3350ad143643407c2435c21234aa42e"
 metafile = true
