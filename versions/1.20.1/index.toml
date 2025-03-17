@@ -481,7 +481,7 @@ metafile = true
 
 [[files]]
 file = "mods/reflex-antilag.pw.toml"
-hash = "c1be93e722931cfa64df6f01994295fbfd40ffdb3dc8899b66a6a94b7370101e"
+hash = "be934a3f611e9babce254dc77f0e7444a32611536870e4804fa2436a260a94b2"
 metafile = true
 
 [[files]]

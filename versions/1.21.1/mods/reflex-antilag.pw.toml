@@ -3,11 +3,11 @@ filename = "reflex-fabric-1.0.4+mc1.21.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "8181ad8ce86f6a89d8144e25e3aebf67a48e227b"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/WTVzusYD/versions/CVDe03Im/reflex-fabric-1.0.4%2Bmc1.21.1.jar"
+hash-format = "sha512"
+hash = "77f7ab29b1244137a71b964037e3d0b5acc8401d40a15d6cbe92685965d503e9792731c0c20b51003a00869f967a7fe8d373cdb3566521aa8d36b6dd9c25a34e"
 
 [update]
-[update.curseforge]
-file-id = 6306764
-project-id = 1197629
+[update.modrinth]
+mod-id = "WTVzusYD"
+version = "CVDe03Im"
