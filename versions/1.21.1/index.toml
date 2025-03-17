@@ -26,7 +26,7 @@ hash = "b734ab348594bd12e6212619c14151f6a5b65b6ac446c351ab908461ac58c53c"
 
 [[files]]
 file = "config/yosbr/config/customwindowtitle-client.toml"
-hash = "7b6a25670d8ee92a52de926fb3e83e2a3ce97cc681ad8ac8615303d6284b09d4"
+hash = "4e2dab0035bd092214d66a96a3ded2888545656ea03c14f97adb9542d9240f3d"
 
 [[files]]
 file = "config/yosbr/config/defaultoptions/keybindings.txt"
@@ -107,17 +107,17 @@ metafile = true
 
 [[files]]
 file = "mods/animatica.pw.toml"
-hash = "7fb96b88430b9152dc00ba8586c70cd60219627376f8387eeb9accc18ff2fc20"
+hash = "ff31791271197f8122fb52893e7e67d86ba038dd0e77e57227ef84de8f7e069e"
 metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "3dd513395c7859aec62069dcd308bf5e14ef4fc2c09758f55c800c8cfe33fee9"
+hash = "17fc9c6cab5ae0ea6973440f143ad6ffa4e5d373749c80077b631dbbe4df3f3b"
 metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "51c06553839c0f38ede8ddd6f1154467bc4c74c2f55b434d39d8954b0d5f24ce"
+hash = "1102440dd2533ba3a154419bb95ff1f81b858201eb0c44d2a2eea486c74e565a"
 metafile = true
 
 [[files]]
@@ -132,17 +132,17 @@ metafile = true
 
 [[files]]
 file = "mods/better-advancements.pw.toml"
-hash = "7e948fc1ae8fbe30298571287245633d7dfe3406825186cf43c1d185c44c047a"
+hash = "a7a6a8396dd3842912b9483e6dfd0f39d165700e7eab470d4eab2244fc5d624e"
 metafile = true
 
 [[files]]
 file = "mods/better-mount-hud.pw.toml"
-hash = "13e560730d7ad4e8c4be165944ae3b2181230fbca5c9f327eb1735d6ba79dafa"
+hash = "7c45c50ac2431db0dd3697e16a180a55ac0f2a753540b0bd310eb593b8b0bd0a"
 metafile = true
 
 [[files]]
 file = "mods/better-ping-display-fabric.pw.toml"
-hash = "60a9b40e6f4f91d1f93224f932a8a2ac71f3ae5504550c2bf6f0fc7a76b39fbe"
+hash = "b97914d02e3e24091a3fed92803b409ba5a3773668d81292b99e1cd735184996"
 metafile = true
 
 [[files]]
@@ -167,12 +167,12 @@ metafile = true
 
 [[files]]
 file = "mods/chatpatches.pw.toml"
-hash = "3deb5cfbf517c09dfd745b7e5c859a70288d5c6656f7f7cf78465a74a005ef81"
+hash = "384e3fc22ff7d5330be8b99fb0d59dde352f7fdf551808f16af2816b3ce09a8c"
 metafile = true
 
 [[files]]
 file = "mods/cit-resewn.pw.toml"
-hash = "39cbec61d113da2607cc0df329020b06457a258f04ad429ddba4b6769e85585f"
+hash = "6d511d91e17e09d36b0b0c7065b07eb604146bc9f3df0fbc932948aaf33aa440"
 metafile = true
 
 [[files]]
@@ -212,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/durability-tooltip.pw.toml"
-hash = "db5745b41aa722eaa91da3d366efb1e3fe6b8ccc44f4b937c5617079002ad450"
+hash = "a47138a91677a89d84e5ab37da1f501f4770ab07e51ae8ce6fdd27fb2d14f026"
 metafile = true
 
 [[files]]
@@ -242,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/esf.pw.toml"
-hash = "f47f842a1b7395d062ff4c2c2a1df876e1ce6606b07ed9a567e8af64333ccd09"
+hash = "ae5091b2d11b373e47e549dec8ac1e6d01741bcd89b93e216790021f6ea04047"
 metafile = true
 
 [[files]]
@@ -253,16 +253,6 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "bb9a29a48b27e7abc0799d4393240ae2cdcf7d64341c9a63347769173f8bda2e"
-metafile = true
-
-[[files]]
-file = "mods/fabricskyboxes-interop.pw.toml"
-hash = "b17f91d5834aa51b163a5727a3d480db7fc196d6443323e22fbc0c72491bad88"
-metafile = true
-
-[[files]]
-file = "mods/fabricskyboxes.pw.toml"
-hash = "52693eab2f0be57d3c4e4535e9b6ef91e3577c67dc3efcd1fa77c85cf5caf214"
 metafile = true
 
 [[files]]
@@ -288,11 +278,6 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "f9d89c62265e675839395d925f4162e3e93fda837ed50fbe3832f4ae9c58bebb"
-metafile = true
-
-[[files]]
-file = "mods/forge-early-loading-screen-fabric.pw.toml"
-hash = "f0f8656af933452235ad0442aafe207a1ba2062b818b634a071441ce5ee7a724"
 metafile = true
 
 [[files]]
@@ -417,7 +402,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "b025f11822333b2c36f5b742dba3c2ac821e013bbace6c1c42189a6782fd4b9b"
+hash = "d917697e84a95f857a447d26f94d93169a5a62176c93193cdf80c8d8bc1e280a"
 metafile = true
 
 [[files]]
@@ -427,7 +412,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "1ce222cd62a7e3f432432d0505a34f05165789b183f809533351c2bb163dff75"
+hash = "7fc969e77edc3b0b9946b42070fd858349a74555f0cf9648907241af8a3a2d25"
 metafile = true
 
 [[files]]
@@ -446,6 +431,16 @@ hash = "42e99ea03a01f933a334dfdfb6babbdcc5d9b38c076e4d3c821a96a9730318b7"
 metafile = true
 
 [[files]]
+file = "mods/nuit-interop.pw.toml"
+hash = "556fddf5f52f49d9acf41e4db737e5431c1b45e60f5e0c04ca1de70b01dd1d15"
+metafile = true
+
+[[files]]
+file = "mods/nuit.pw.toml"
+hash = "c78c2d26feb460adb112cda9ec5073f8968298f1d215eb8679fd67f55f3c3124"
+metafile = true
+
+[[files]]
 file = "mods/optigui.pw.toml"
 hash = "5501d478ef5237f12cf0a2e4b683954cf1482b43fdf090c6f5d9bec4409f3324"
 metafile = true
@@ -458,6 +453,11 @@ metafile = true
 [[files]]
 file = "mods/particle-core.pw.toml"
 hash = "00f608a4eb5338ec23c0174eff2a5dc8a8c4795ed634820c1b32c26b62ebc3bb"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "2e2c1b47b513663871e71c89a699c66ac9fcc97633f007ed064ce4410f220f5a"
 metafile = true
 
 [[files]]
@@ -492,12 +492,12 @@ metafile = true
 
 [[files]]
 file = "mods/screenshot-to-clipboard.pw.toml"
-hash = "21e83124511eeb2134e3f8b42450b43318aab4bbbd05b187993ca79fd2d2a130"
+hash = "86ff9b67d90f046045619aa571df7bad909e480711c5d8b8967e3efca84ad16a"
 metafile = true
 
 [[files]]
 file = "mods/searchables.pw.toml"
-hash = "6abfaeaf1b8a466c8812bfe3ca423845627914325b11daa3083a647d533dca03"
+hash = "8302da862578554b012b2cfe58a3c1e75b514d09f94d842e7303be41a2157aeb"
 metafile = true
 
 [[files]]
@@ -517,7 +517,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
-hash = "08bb89189feeb07c7796626c5bbeb6cba856d7916ca46eb9772d2cc40486fa40"
+hash = "8e009ac87710fbd8f5990285d36ab2b4755e932664ca1bcb9cdfac116d6e3b6d"
 metafile = true
 
 [[files]]
@@ -527,7 +527,7 @@ metafile = true
 
 [[files]]
 file = "mods/threadtweak.pw.toml"
-hash = "1c137d989a144a658c564d77658919ed50c6a09ea8624037976425f0b4c7128e"
+hash = "e77fe4473df0685a27bdc27f9a50c0dced4d298a2765301c2b1f0b11e078a887"
 metafile = true
 
 [[files]]
@@ -567,12 +567,12 @@ metafile = true
 
 [[files]]
 file = "mods/yosbr.pw.toml"
-hash = "0620edcd851e4387e07a3b3b34f7f1e8fb1a3382ae689b14aaa3e088da0d6120"
+hash = "1bb9b2e75c6934b1f18648e9b37e20abcf6a4a2547c7cdb0abe88407267e0c10"
 metafile = true
 
 [[files]]
 file = "mods/zume.pw.toml"
-hash = "82d88b47bd15c3cbe4c70dbdb592b5737380d035b0782e54a5d01712b31f7a73"
+hash = "434ac58bf0c398eb06d03856a3de1edf30aba72ff11ac953bda99e34132c0376"
 metafile = true
 
 [[files]]

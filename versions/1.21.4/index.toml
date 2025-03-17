@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "LICENSE.md"
-hash = "879dd64f7b6d01f56ae2864927c9ec156ff47d0a4e59baa9b0e34afd380b1cbf"
+hash = "6a2ba316e4ded6e0a43765a8242456ea033eb7ecdb58d60c540f5b7a71e97b4c"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -26,7 +26,7 @@ hash = "b734ab348594bd12e6212619c14151f6a5b65b6ac446c351ab908461ac58c53c"
 
 [[files]]
 file = "config/yosbr/config/customwindowtitle-client.toml"
-hash = "7b6a25670d8ee92a52de926fb3e83e2a3ce97cc681ad8ac8615303d6284b09d4"
+hash = "4e2dab0035bd092214d66a96a3ded2888545656ea03c14f97adb9542d9240f3d"
 
 [[files]]
 file = "config/yosbr/config/defaultoptions/keybindings.txt"
@@ -236,10 +236,6 @@ hash = "55834f322dc7d9a7d5365ac6b4dd5f6f72152f798bd87e68c9e373498c9fed12"
 metafile = true
 
 [[files]]
-file = "mods/fabric-carpet-1.21.4-1.4.161+v241203.jar"
-hash = "03114efd99c597a638643d8eb97b7dc485318c007750775d8a5e8c866b44ed76"
-
-[[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "bb9a29a48b27e7abc0799d4393240ae2cdcf7d64341c9a63347769173f8bda2e"
 metafile = true
@@ -410,6 +406,14 @@ hash = "db4c4bb1ceed1ac383c7f83c57386aeb9799e09a9c722ad4566556d80ee50570"
 metafile = true
 
 [[files]]
+file = "mods/nuit-fabric-1.0.0-snapshot+mc1.21.4-build.1.jar"
+hash = "3e9c489219ae8dcf36ba4b2b56813436e7e5726d5186d76cf361f85cb0e290ed"
+
+[[files]]
+file = "mods/nuit-interop-fabric-1.0.0-snapshot+mc1.21.4-build.218.jar"
+hash = "60a564f2f3df83b600539a8fe556ec7365209985adb1be9ee8e9dd48a2612783"
+
+[[files]]
 file = "mods/optigui.pw.toml"
 hash = "f59ab3633f781c5b5af3234f694da4c4d5195c9211b1ece7e410b54ec1a183eb"
 metafile = true
@@ -456,7 +460,7 @@ metafile = true
 
 [[files]]
 file = "mods/screenshot-to-clipboard.pw.toml"
-hash = "21e83124511eeb2134e3f8b42450b43318aab4bbbd05b187993ca79fd2d2a130"
+hash = "86ff9b67d90f046045619aa571df7bad909e480711c5d8b8967e3efca84ad16a"
 metafile = true
 
 [[files]]

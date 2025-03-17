@@ -30,7 +30,7 @@ hash = "4d9bc732c63f8e4a725dc04b56251a38ad7702975db97563a1b0a85483759c07"
 
 [[files]]
 file = "config/yosbr/config/customwindowtitle-client.toml"
-hash = "c517791e86a0bf8734cc539613d0c122a05fe665d12285426fa7787e030d00df"
+hash = "b7db04f1a74e8561ff5ed1c0b21cba7c9fc9e5a4a68c761bbfa6a025d17d2475"
 
 [[files]]
 file = "config/yosbr/config/defaultoptions/keybindings.txt"
@@ -295,11 +295,6 @@ hash = "d5db994a9bdf835c0bda791ef6a0eed315f77a1dc5bab1ce04003a9ab5a4b01f"
 metafile = true
 
 [[files]]
-file = "mods/forge-early-loading-screen-fabric.pw.toml"
-hash = "f0f8656af933452235ad0442aafe207a1ba2062b818b634a071441ce5ee7a724"
-metafile = true
-
-[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "db1c59e9b1ed0585101398c45723e2b0de6ab348d4ac2d4fa00632826d0d7e94"
 metafile = true
@@ -450,6 +445,16 @@ hash = "e3aba078ee7198fe064fd970c7304eb6de18fc3e2c9eb3bf2ba123b907e0f1c3"
 metafile = true
 
 [[files]]
+file = "mods/nuit-interop.pw.toml"
+hash = "a87febb1a064e3f9e9d7b3a2855f047356f5edd2fd520b1aade632b8bbe4da12"
+metafile = true
+
+[[files]]
+file = "mods/nuit.pw.toml"
+hash = "d38f50aad915b4c2f6ee7dfe1a480970def9dd312932504c4f008cbe17988306"
+metafile = true
+
+[[files]]
 file = "mods/optigui.pw.toml"
 hash = "6c61882bbd734f1260d930c860ecd183e089e3d878c4faccee0f73acf65c18b1"
 metafile = true
@@ -531,7 +536,7 @@ metafile = true
 
 [[files]]
 file = "mods/threadtweak.pw.toml"
-hash = "1c137d989a144a658c564d77658919ed50c6a09ea8624037976425f0b4c7128e"
+hash = "53b00436579bd2ea920ef8ae8b1464cb4744dbfd21055d8a3f4768019b78e5bc"
 metafile = true
 
 [[files]]
