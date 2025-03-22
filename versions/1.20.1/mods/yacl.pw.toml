@@ -1,13 +1,13 @@
 name = "YetAnotherConfigLib (YACL)"
-filename = "yet_another_config_lib_v3-3.6.3+1.20.1-fabric.jar"
+filename = "yet_another_config_lib_v3-3.6.5+1.20.1-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/1eAoo2KR/versions/kkPxieHD/yet_another_config_lib_v3-3.6.3%2B1.20.1-fabric.jar"
+url = "https://cdn.modrinth.com/data/1eAoo2KR/versions/WbNpnXcF/yet_another_config_lib_v3-3.6.5%2B1.20.1-fabric.jar"
 hash-format = "sha512"
-hash = "defa98c81b17122b759efc06726ee3ec28fcb16357788bfa6e766291cc8f85306f3830b55c33c74d0d7832a3cd85ad279b8064c293bc9525d1986dbde7283ca7"
+hash = "f02d80cade3f7c8f7d3ecaef7d1ab17e5d60bf55e3d4d2c6d1ccb7222cf1bdcdabe16ebb56a9ed91855c263e9b4eb4cfec70b93c11cac2dfd90341f6f43b1a77"
 
 [update]
 [update.modrinth]
 mod-id = "1eAoo2KR"
-version = "kkPxieHD"
+version = "WbNpnXcF"

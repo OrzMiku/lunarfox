@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "89794113ff010e9a39adfc25e377007a5bc02baf05ece63090e183bf400d25a5"
+hash = "d819f0dfea4e0d40cf7d3d699e722f24912c0ea81950eeac3377786084500f08"
 metafile = true
 
 [[files]]
@@ -247,12 +247,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "e4c09a4bae742c95550964bae4b83e5c44ca5913d464d84d885f8b8fc2b2f7d4"
+hash = "a19f6561d4d952aaf56c494326f4c59b0f276ab2f42f119e99ffb6fb62e7e7c9"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "bb9a29a48b27e7abc0799d4393240ae2cdcf7d64341c9a63347769173f8bda2e"
+hash = "97e7fb0bf5c563366b7c6121fa2decb67597107e5594932c6a098cccc980629e"
 metafile = true
 
 [[files]]
@@ -282,7 +282,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "fdf65254b212f6f7ca9720e7ed140bac478efdd89f4313816557d1dc828e0852"
+hash = "957f570521fb0b9bb3cbfc01e729b80a733cc245016b1e9724f5c9f923b6b3b0"
 metafile = true
 
 [[files]]
@@ -337,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "cec885fcaeede117597c4619de2f122d40e3b633be5d4449d77037e8d290b50e"
+hash = "b51341c6f2ff3732617d7ffa3b3ed3d09c05d2d24fbc243734aefbe47f149f83"
 metafile = true
 
 [[files]]
@@ -462,7 +462,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "639f5cbd5c4b37661e88af1b520d4cf6701cb274a340575f3e234cc9295179c7"
+hash = "a2ee7505582f3b186cea49a77c3b27e4dbfd2e207bad1dfe2e1d4d18208e0d81"
 metafile = true
 
 [[files]]
@@ -562,7 +562,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "b2e559bf66f44288db486503e72c61b3eb0f3bcb5a61a7a236918573ec13561a"
+hash = "195ecb321be0a68f2409abc326e7117a163ab734aa0f5bce08c0aec82bbf0a9d"
 metafile = true
 
 [[files]]
@@ -582,5 +582,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "e39ebed36242a2a7842ef5b189e28df2e3350ad143643407c2435c21234aa42e"
+hash = "d76d51b3d5d7b992b8cd9a70d3badf2f2b3267358da20601c0b3efa9abb62eac"
 metafile = true
