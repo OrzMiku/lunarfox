@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "d819f0dfea4e0d40cf7d3d699e722f24912c0ea81950eeac3377786084500f08"
+hash = "8a477fd3be42e9f9d039f59bfb436f235bd3f259bbd47a8c90c47fe2c34fc4fc"
 metafile = true
 
 [[files]]
@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "7af283ca94e8d0d24a7c5b5fd43c0b5c4bc4300c00754ae40dfb0b5d44ea6a17"
+hash = "7b87ea6e0623ada323e65fa0420e0827f6e88689898a0454376e460ad8cbc5dc"
 metafile = true
 
 [[files]]
@@ -197,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/craterlib.pw.toml"
-hash = "07d0b0c99622a7565dbc38e6937e3d93d5f0dde72d43637b667baf01fef5c1c5"
+hash = "9ffd6d39130c34ebb42bc82553df9755d0d3f393e30b562db3a47061cd5a8d44"
 metafile = true
 
 [[files]]
@@ -522,7 +522,7 @@ metafile = true
 
 [[files]]
 file = "mods/tcdcommons.pw.toml"
-hash = "ae748003d606ac1919fca72d5ce28c499b8c93b66f6bbc9a35ce8046f1ad358b"
+hash = "8ed9a53846c91f20200e7ca354d1a1c6dafb087ef5dd7e815a3d06e1c4062ca1"
 metafile = true
 
 [[files]]
@@ -562,7 +562,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "195ecb321be0a68f2409abc326e7117a163ab734aa0f5bce08c0aec82bbf0a9d"
+hash = "2df56a663766742477f2359265b6851e0370f4c26f33d0b8cca5b4ba992cf6fd"
 metafile = true
 
 [[files]]
@@ -577,10 +577,10 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fast-better-grass.pw.toml"
-hash = "8c602ce7585fa682923bd847fb5b6dfa560ce80ba7a7879007809bb4db4b740a"
+hash = "3545a5aeece1edd15cf0c31e39e12300110e7feac2f5343b6c209a4ae7d85680"
 metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "d76d51b3d5d7b992b8cd9a70d3badf2f2b3267358da20601c0b3efa9abb62eac"
+hash = "417a03bba15d98195747ce17b50fb6df207d9b11dc9b6882eab4ab0001f0b223"
 metafile = true
