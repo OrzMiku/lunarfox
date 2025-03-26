@@ -1,4 +1,4 @@
-name = "LunarFox"
+name = "ScalableLux"
 author = "OrzMiku"
 version = "1.1.2+mc1.21.4"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "e6272d2ffce31c08c66360d0100f317b53f4bbe2f33a6060ffeaf59ac8f204b0"
+hash = "a96ca62954bf6d2d5073d24ecc7c385628cd5112a272fccb31ab2a9e7ee7101b"
 
 [versions]
 fabric = "0.16.10"
