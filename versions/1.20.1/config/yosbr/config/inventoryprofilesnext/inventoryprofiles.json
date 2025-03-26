@@ -25,12 +25,5 @@
             "value": false
         },
         "type_visual_replace_failed_notification": "HOTBAR"
-    },
-    "Hotkeys": {
-        "sort_inventory": {
-            "main": {
-                "keys": "BUTTON_3"
-            }
-        }
     }
 }
