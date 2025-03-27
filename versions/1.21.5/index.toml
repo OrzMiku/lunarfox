@@ -173,6 +173,11 @@ hash = "4e482658ab6aa69ce77c0af8a3efbe0b7ce4ddb8ec6df2f4e25577c2af3a9875"
 metafile = true
 
 [[files]]
+file = "mods/reflex-antilag.pw.toml"
+hash = "c4152f0824a737e10502238c1c02d1869a766dae09940f3ffa50e8d0ca7d21b5"
+metafile = true
+
+[[files]]
 file = "mods/resourcify.pw.toml"
 hash = "2d77d2aa6a018790d81e93d8b211e03d5a620392592fa739be39b840a01ef471"
 metafile = true
