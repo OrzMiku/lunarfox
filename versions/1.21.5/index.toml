@@ -33,6 +33,11 @@ file = "icon.png"
 hash = "7ed2443085370e3427bd3e803037356811af68ad3fc131947a89cc89f2103fc7"
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "a292ee4afb698747e72ee869f7e77c234ec5be3214c945dab24b8101a8ea7742"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "fe5f1014f6711013213e118c9defb3c41357d0ebdaa658f15d35c76839e419a0"
 metafile = true
@@ -64,7 +69,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "df15648dd4d4e27dd0c45ab4e78277c45886b77a698b129f4ce2d2bc337f7044"
+hash = "13ae813426f52226d8363499d722df0933e84534f216eef127c198c18bcdbb6b"
 metafile = true
 
 [[files]]
@@ -108,6 +113,11 @@ hash = "23ac4e767c88f0bb8c2775546f0dc597f78cca545d3c34164fd317e7e013416f"
 metafile = true
 
 [[files]]
+file = "mods/gamma-utils.pw.toml"
+hash = "4f9cd87df11709b2b677a48ce7f76ec69bd82040d773ae139e6396864673e41b"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "9b7adaecaf408656fbb6011735c8003fa87a020dcc83783b1e0e71310e462cb3"
 metafile = true
@@ -124,7 +134,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "19fe1d1fcb536a2f0a1eed3d4ee3d0b89022ddbecf5f3b65c0a05fa9316c8103"
+hash = "279a5891055ba9ba7e5129324e0c4f1ba5299ceefcba2511e96a91bf51d072ea"
 metafile = true
 
 [[files]]
