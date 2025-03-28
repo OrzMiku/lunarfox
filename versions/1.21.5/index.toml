@@ -33,6 +33,11 @@ file = "icon.png"
 hash = "7ed2443085370e3427bd3e803037356811af68ad3fc131947a89cc89f2103fc7"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "9c5ffe0f93aec9ebca86a4e5171ccb51e283849eef1719c995d19c2480e2d07c"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "a292ee4afb698747e72ee869f7e77c234ec5be3214c945dab24b8101a8ea7742"
 metafile = true
@@ -93,6 +98,11 @@ hash = "b75bae23390b6e4c302b655b2865bbdaaf3bef825bc63ff63dc1b92134f9fa18"
 metafile = true
 
 [[files]]
+file = "mods/entityculling.pw.toml"
+hash = "138e20f1257a5fed553a89c8701a5c15f22986a2e8b77c87bea3eafa59995920"
+metafile = true
+
+[[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "2055e1138d7b9c4db4ab93f000e6a282d515cd206c326a887f9810669bb2ac01"
 metafile = true
@@ -108,8 +118,18 @@ hash = "97e7fb0bf5c563366b7c6121fa2decb67597107e5594932c6a098cccc980629e"
 metafile = true
 
 [[files]]
+file = "mods/fallingleaves.pw.toml"
+hash = "e27c3f85c52b55934f39a0cf7ff109bf4934570b48246e8a4ebe5462ff6c807c"
+metafile = true
+
+[[files]]
+file = "mods/fast-ip-ping.pw.toml"
+hash = "41504449b69a32068d2db598dfbc8d3690690e16a3a6d5cc1af256fbead1f653"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "23ac4e767c88f0bb8c2775546f0dc597f78cca545d3c34164fd317e7e013416f"
+hash = "af10334d5cb965e4255f864d8fe2c3bad90e571492bf61fd84fb55c9a9506d59"
 metafile = true
 
 [[files]]
@@ -168,8 +188,23 @@ hash = "f08109925ea37a67f4fe60eb44a0bbed52a8a14b9ee56da7173f8116363826b3"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "4aef3c4dbc01c945f4a30f63c03607aad77d16ab194983510c10ce516312e258"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "f1873dc9fe8a5cbea26ceffba3ec46098bce4eef7f4efd29ea849df9ccc2f66c"
+metafile = true
+
+[[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "4e482658ab6aa69ce77c0af8a3efbe0b7ce4ddb8ec6df2f4e25577c2af3a9875"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "55a727cabdd9d6e84fb0232b49d0dfa207751002e7f1f63b959baa35e2f29868"
 metafile = true
 
 [[files]]
@@ -188,6 +223,11 @@ hash = "3975d8351b1a246c8c2e13251ea4f86fee525ae772a51927c37407a88b03defb"
 metafile = true
 
 [[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "c9f6b6b65c3cae1d386dc3416e8b9f6bbdf6b0f5d51d2273d92d773797c894f6"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "477ec070ee28993084640f772e546e1eb6f02704af5bb378c813b52949f263ee"
 metafile = true
@@ -200,6 +240,11 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "7e779d2c04c75a90512781ade5c929102aae28c02bf0fcd78875111614b82005"
+metafile = true
+
+[[files]]
+file = "mods/wavey-capes.pw.toml"
+hash = "7c6d8dcec95023f027deff6645570ddccadc762545ae8fbd23b21499b15bc949"
 metafile = true
 
 [[files]]
