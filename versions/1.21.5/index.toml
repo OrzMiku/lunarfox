@@ -49,7 +49,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "6e2d7bd2a19568372ad05531847ed5f35ca67b55721f2b5985c9ccda4ee82d17"
+hash = "ef8018015d91a7c715017e85a2da8ecedf1774057116c63a2428e1a512fc25c3"
 metafile = true
 
 [[files]]
@@ -199,7 +199,7 @@ metafile = true
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
-hash = "4e482658ab6aa69ce77c0af8a3efbe0b7ce4ddb8ec6df2f4e25577c2af3a9875"
+hash = "764bd77698a443694f79bf744611890efd85cc8f1e59f16786879060d5bf92e3"
 metafile = true
 
 [[files]]
