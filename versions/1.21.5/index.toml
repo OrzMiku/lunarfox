@@ -49,7 +49,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "ef8018015d91a7c715017e85a2da8ecedf1774057116c63a2428e1a512fc25c3"
+hash = "0de0c9a25a731b3797a634f2984509b7b32b4496f7d880d054b7c7e18aba8c78"
 metafile = true
 
 [[files]]
@@ -105,6 +105,11 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "f2d2dd0de19a6b32d96c89edf875f1c40c2b949be575a5b82ce2da58750c2190"
+metafile = true
+
+[[files]]
+file = "mods/esf.pw.toml"
+hash = "b485baa8463264b932f798974a17f3edd963f5abe1c65da425529124a10a411a"
 metafile = true
 
 [[files]]
@@ -224,7 +229,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "c9f6b6b65c3cae1d386dc3416e8b9f6bbdf6b0f5d51d2273d92d773797c894f6"
+hash = "abe9878dcb237d56e2ba70c17db8c721c6c2b8e62b241bc333539d5bc6be938f"
 metafile = true
 
 [[files]]
