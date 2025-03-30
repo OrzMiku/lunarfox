@@ -25,6 +25,14 @@ file = "config/yosbr/config/moreculling.toml"
 hash = "7d27acae23534f1cbfd7c5b3b8758e28f4f1dc402ee97f630a88aefd5b2eec2e"
 
 [[files]]
+file = "config/yosbr/config/particle_core_config.toml"
+hash = "e6a4e36d2099ea5efe19e0fd4fddc65fbafd88eafb81f0fb3d5e9f6193d37bbb"
+
+[[files]]
+file = "config/yosbr/config/threadtweak.json"
+hash = "545cbe317c5146bacb9e13c7c03a605f0b6bd6e1ddaf1a05f8be8537d6f8b0ce"
+
+[[files]]
 file = "config/yosbr/options.txt"
 hash = "bdcf6d296d2ae1e872f3a5ab39297a2a56af86334d8b2f95582a31d7b27ab6ff"
 
@@ -133,6 +141,11 @@ hash = "41504449b69a32068d2db598dfbc8d3690690e16a3a6d5cc1af256fbead1f653"
 metafile = true
 
 [[files]]
+file = "mods/fastquit.pw.toml"
+hash = "08114da8c86093301d6b6e07349709395599c4731626058a27a5395dd6369ff4"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "af10334d5cb965e4255f864d8fe2c3bad90e571492bf61fd84fb55c9a9506d59"
 metafile = true
@@ -213,6 +226,11 @@ hash = "f1873dc9fe8a5cbea26ceffba3ec46098bce4eef7f4efd29ea849df9ccc2f66c"
 metafile = true
 
 [[files]]
+file = "mods/particle-core.pw.toml"
+hash = "26af8dd5c551fac4488fc9979cf8616ac71df8dae2a9547c80ef92c6e95d3d05"
+metafile = true
+
+[[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "764bd77698a443694f79bf744611890efd85cc8f1e59f16786879060d5bf92e3"
 metafile = true
@@ -260,6 +278,11 @@ metafile = true
 [[files]]
 file = "mods/tcdcommons.pw.toml"
 hash = "24050805ccbaac24f4fc352200756b903ac7ef473d99169275b3fbb9f1ebe1b0"
+metafile = true
+
+[[files]]
+file = "mods/threadtweak.pw.toml"
+hash = "1c137d989a144a658c564d77658919ed50c6a09ea8624037976425f0b4c7128e"
 metafile = true
 
 [[files]]
