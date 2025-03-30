@@ -288,6 +288,11 @@ hash = "1bb9b2e75c6934b1f18648e9b37e20abcf6a4a2547c7cdb0abe88407267e0c10"
 metafile = true
 
 [[files]]
+file = "mods/zume.pw.toml"
+hash = "434ac58bf0c398eb06d03856a3de1edf30aba72ff11ac953bda99e34132c0376"
+metafile = true
+
+[[files]]
 file = "resourcepacks/fast-better-grass.pw.toml"
 hash = "3545a5aeece1edd15cf0c31e39e12300110e7feac2f5343b6c209a4ae7d85680"
 metafile = true
