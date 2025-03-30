@@ -16,6 +16,8 @@ LunarFox is a performance modpack with quality of life mods and OptiFine alterna
 
 ## 📦 Features
 
+[Qingqiu Document | Full Feature List](https://qdocs.miku.show/en/lunarfox/features/)
+
 ### OptiFine Alternatives
 
 LunarFox uses a series of mods to replace OptiFine's functionality. For a detailed list, please refer to the Fabric Wiki: [OptiFine Alternatives](https://wiki.fabricmc.net/zh_cn:community:optifine_alternatives). If you don't want to install these mods manually, you can use the LunarFox modpack directly.
@@ -34,8 +36,6 @@ The modpack includes many QoL mods such as map mods, item managers, and inventor
 
 - When using the Litematic mod, you need to change it's hotkey or the `Open World Map` hotkey.
 - Found a bug or have a suggestion? Feel free to submit an Issue or Pull Request on [GitHub](https://github.com/OrzMiku/lunarfox).
-- For the Chinese community, you can join our [QQ channel](https://pd.qq.com/s/1vbkit4bj).
-- For non-Chinese communities, you can join our [Discord channel](https://discord.gg/z974WwPEJt).
 
 ## ⭐ Credits
 

@@ -16,6 +16,8 @@ LunarFox 是一个性能整合包，带有生活质量模组和 OptiFine 替代�
 
 ## 📦 特点
 
+[青丘文档 | 完整功能列表](https://qdocs.miku.show/lunarfox/features/)
+
 ### OptiFine 替代方案
 
 LunarFox 使用一系列模组来替代 OptiFine 的功能。详细列表请参见 Fabric Wiki：[OptiFine 替代品](https://wiki.fabricmc.net/zh_cn:community:optifine_alternatives)。如果你不想手动安装这些模组，可以直接使用 LunarFox 整合包。
@@ -34,8 +36,6 @@ LunarFox 使用一系列模组来替代 OptiFine 的功能。详细列表请参�
 
 - 使用 Litematic 模组时，需要更改其快捷键或 `打开世界地图` 的快捷键。
 - 发现问题或有建议？欢迎在 [GitHub](https://github.com/OrzMiku/lunarfox) 上提交 Issue 或 Pull Request。
-- 对于中文群体，您可以加入我们的 [QQ 频道](https://pd.qq.com/s/1vbkit4bj)。
-- 对于非中文群体，您可以加入我们的 [Discord 频道](https://discord.gg/z974WwPEJt)。
 
 ## ⭐ 致谢
 
