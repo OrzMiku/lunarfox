@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/OrzMiku/lunarfox">
-    <img src="https://cdn.modrinth.com/data/r7CwLIIr/cfd4314a75bb775ade08fe0e9ada9cf9a913f6a5_96.webp" alt="Logo">
+    <img src="https://cdn.modrinth.com/data/r7CwLIIr/images/2e792de45ffdd41d8c1c8b59a804f3500ad1ab03.png" alt="Logo">
   </a>
   <h1>LunarFox</h1>
   <p>
