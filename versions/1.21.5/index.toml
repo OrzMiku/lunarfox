@@ -193,9 +193,12 @@ hash = "27c7058823c0380892515c58cda6d6f3d5d9093eb12f624328c725c348a45039"
 metafile = true
 
 [[files]]
-file = "mods/iris.pw.toml"
+file = "mods/iris-fabric-1.8.11-snapshot+mc1.21.5-build.5589.jar"
+hash = "78c76c500b974f0cb9255f6f6dcc35d2cb7e5bf3f898d2fec0a63d694280def2"
+
+[[files]]
+file = "mods/iris.pw.toml.disabled"
 hash = "8dc8454a6e68e214420cacebb146c3b19eb3d9a678aa1b517545d637ad48fc53"
-metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
