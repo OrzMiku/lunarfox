@@ -13,12 +13,20 @@ file = "config/yosbr/config/defaultoptions/keybindings.txt"
 hash = "16608e1f65ef0c2312bf0c778506e64f3835a3a68bfbeececfbbe4218d07b8df"
 
 [[files]]
+file = "config/yosbr/config/ferritecore.mixin.properties"
+hash = "1fbbea658d8af2a751857e70cf2d5930a24490cc4c24f8db9b49630a818b895c"
+
+[[files]]
 file = "config/yosbr/config/immediatelyfast.json"
 hash = "8bc58d4ab49fc2606a7ae6c7614e4ad3f5a5c29b894fbdaa2bc3d8730acacd2c"
 
 [[files]]
 file = "config/yosbr/config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "8fa033afa83e6b5123c11bb293b0a5e632b4f76b2ca7d651350179fd435462c9"
+
+[[files]]
+file = "config/yosbr/config/minihud.json"
+hash = "435f7811c796b2352fee74985081994d69f881f9f0b6a0499ba39fbc40ee3f0b"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
@@ -31,6 +39,10 @@ hash = "e6a4e36d2099ea5efe19e0fd4fddc65fbafd88eafb81f0fb3d5e9f6193d37bbb"
 [[files]]
 file = "config/yosbr/config/threadtweak.json"
 hash = "545cbe317c5146bacb9e13c7c03a605f0b6bd6e1ddaf1a05f8be8537d6f8b0ce"
+
+[[files]]
+file = "config/yosbr/config/tweakeroo.json"
+hash = "61959e34930508cde414a11b937b544727ba3aa18712751b510ad5cec99eebeb"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -83,6 +95,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "13ae813426f52226d8363499d722df0933e84534f216eef127c198c18bcdbb6b"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "29d7fd038a05dea99cccce69c2141862ef0cfd430cc09bba4a2e90a1898435cf"
 metafile = true
 
 [[files]]
@@ -146,6 +163,11 @@ hash = "08114da8c86093301d6b6e07349709395599c4731626058a27a5395dd6369ff4"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "fbf9806c22ee5bccbe08f7dec15b742f5ae3a70caf186d6dce0d42f28790f559"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "af10334d5cb965e4255f864d8fe2c3bad90e571492bf61fd84fb55c9a9506d59"
 metafile = true
@@ -162,7 +184,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "9b7adaecaf408656fbb6011735c8003fa87a020dcc83783b1e0e71310e462cb3"
+hash = "2e06b604a52b4de2cd14a3debe656a75abbb876b769e116abb91f31de32cb4dc"
 metafile = true
 
 [[files]]
@@ -196,14 +218,26 @@ hash = "49afc11306b803a06e1631275e2dbf42d5e19dc71e2172a09205a1303b0b7cd3"
 metafile = true
 
 [[files]]
+file = "mods/litematica-fabric-1.21.5-0.22.0-sakura.1.jar"
+hash = "e1fcb399b4ad1be0bbbfd86d75bad93a256ccc339a7a7e9638bc866cfd24934b"
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "7f02f413a157cf69274d6e035096b84bc937bec49909a21010c79906eb90d632"
 metafile = true
 
 [[files]]
+file = "mods/malilib-fabric-1.21.5-0.24.0-sakura.3.jar"
+hash = "005bfacf71f976df46d71c587e3e0c43d726f7dfe19c3d96ce6070b4047679ad"
+
+[[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "a4800bbe9c5cf11ca7aaba207b22e6fdcd532aafd8f5979ac1cb99572a7ce4a4"
 metafile = true
+
+[[files]]
+file = "mods/minihud-fabric-1.21.5-0.35.0-sakura.1.jar"
+hash = "ade9c26b7b710bb3097fd469e789fa4c4173340c309d31dd7b3ea175d7e70745"
 
 [[files]]
 file = "mods/modmenu.pw.toml"
@@ -223,6 +257,11 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "f1873dc9fe8a5cbea26ceffba3ec46098bce4eef7f4efd29ea849df9ccc2f66c"
+metafile = true
+
+[[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "f968ac152dca0c9bcecdab598152f24fe2ec0ef34bfe57f63e24c2b94750e3ea"
 metafile = true
 
 [[files]]
@@ -284,6 +323,10 @@ metafile = true
 file = "mods/threadtweak.pw.toml"
 hash = "1c137d989a144a658c564d77658919ed50c6a09ea8624037976425f0b4c7128e"
 metafile = true
+
+[[files]]
+file = "mods/tweakeroo-fabric-1.21.5-0.24.0-sakura.1.jar"
+hash = "c74baa16b3081a51f4bc55d689ed4a7853fe988fdfecc070b979dd83bc1cb06a"
 
 [[files]]
 file = "mods/viafabricplus.pw.toml"
