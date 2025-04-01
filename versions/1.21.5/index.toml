@@ -265,6 +265,11 @@ hash = "f1873dc9fe8a5cbea26ceffba3ec46098bce4eef7f4efd29ea849df9ccc2f66c"
 metafile = true
 
 [[files]]
+file = "mods/optigui.pw.toml"
+hash = "9445550cf3fcfaaa145d60528e01c55d2fa798bcfc1232c141ddf3b94b6e0022"
+metafile = true
+
+[[files]]
 file = "mods/packet-fixer.pw.toml"
 hash = "f968ac152dca0c9bcecdab598152f24fe2ec0ef34bfe57f63e24c2b94750e3ea"
 metafile = true
