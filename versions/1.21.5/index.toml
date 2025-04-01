@@ -69,7 +69,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "0de0c9a25a731b3797a634f2984509b7b32b4496f7d880d054b7c7e18aba8c78"
+hash = "c4176fac05e1024f0badb12610d7930085ec526b3f208eab8f0a61d7773bb4f8"
 metafile = true
 
 [[files]]
@@ -78,8 +78,13 @@ hash = "7eec1f23021757cffb4d9cbb954da4e543cecfc5739a2b5f6d78b1ed6ea10ee6"
 metafile = true
 
 [[files]]
+file = "mods/betteraddserver.pw.toml"
+hash = "3ea66dbd8e333b67a5bc50af4462622d8d5e7e65f89b2563430be515063eb5a5"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "e339de89e3b69a540ebee06c3b6d1a060f42f9306f0f618f1139d7a96c43d8ca"
+hash = "ff3a2f8ab5e5cdf9e0b5302dec6cf82ee8e4d8e60832172e85c2d816015bb436"
 metafile = true
 
 [[files]]
@@ -296,7 +301,7 @@ metafile = true
 
 [[files]]
 file = "mods/searchables.pw.toml"
-hash = "2594ac52398e6550910175d3cb09637ae5140be9be522cfbd7f5479626155142"
+hash = "2b66d7a33b317c19b294fa1eee944f91b9e9eba82006dae9696145a3307c484b"
 metafile = true
 
 [[files]]
