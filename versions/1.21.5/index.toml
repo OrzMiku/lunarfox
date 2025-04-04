@@ -380,10 +380,10 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/spbr.pw.toml"
-hash = "548753d21db0577b2234e72897c4b3469d757c1ac1dec86855851be354de503c"
+hash = "b28f8a17ea972d857f6e73cb04efdfea6a814c3a52ecd04df7ee45fd53ca955a"
 metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "417a03bba15d98195747ce17b50fb6df207d9b11dc9b6882eab4ab0001f0b223"
+hash = "53730f97f8aadfa02f11f438e31473c07c37e1ed299b0ba6a2267b958224f079"
 metafile = true
