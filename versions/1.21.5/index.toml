@@ -223,8 +223,8 @@ hash = "49afc11306b803a06e1631275e2dbf42d5e19dc71e2172a09205a1303b0b7cd3"
 metafile = true
 
 [[files]]
-file = "mods/litematica-fabric-1.21.5-0.22.0-sakura.4.jar"
-hash = "ebb55a24e3df21edc1e0ad691e0e5fdd1ccfaf6ccd4e9d91dd463ce23537a2a6"
+file = "mods/litematica-fabric-1.21.5-0.22.0-sakura.5.jar"
+hash = "7d98bd7c5901016987b7ac546fe13dfa2c493f7e9d18bfb4a454b43969b242a7"
 
 [[files]]
 file = "mods/lithium.pw.toml"
@@ -232,8 +232,8 @@ hash = "7f02f413a157cf69274d6e035096b84bc937bec49909a21010c79906eb90d632"
 metafile = true
 
 [[files]]
-file = "mods/malilib-fabric-1.21.5-0.24.0-sakura.4.jar"
-hash = "0ac689e6c8fd19eabd5f666ddae70866afd64a6964ff6a22798c27b9ce827a5c"
+file = "mods/malilib-fabric-1.21.5-0.24.0-sakura.5.jar"
+hash = "45abd858852f020e6ba617466d479c5295824596d1bae66d9ec499e4bf4b13e6"
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
@@ -241,8 +241,8 @@ hash = "a4800bbe9c5cf11ca7aaba207b22e6fdcd532aafd8f5979ac1cb99572a7ce4a4"
 metafile = true
 
 [[files]]
-file = "mods/minihud-fabric-1.21.5-0.35.0-sakura.4.jar"
-hash = "d6377f15f689b874c989702d4b2a4e2018ef913a1110d04aeab79645c0eec5bc"
+file = "mods/minihud-fabric-1.21.5-0.35.0-sakura.5.jar"
+hash = "f9824ae2d9e1280903c1523072584db8fadc3595bb6b41057a309592bc18d441"
 
 [[files]]
 file = "mods/modmenu.pw.toml"
@@ -326,7 +326,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "477ec070ee28993084640f772e546e1eb6f02704af5bb378c813b52949f263ee"
+hash = "700caca572649f238e804258f79d25969031be3e1b01d0384eb54a13200caba6"
 metafile = true
 
 [[files]]
@@ -340,12 +340,12 @@ hash = "1c137d989a144a658c564d77658919ed50c6a09ea8624037976425f0b4c7128e"
 metafile = true
 
 [[files]]
-file = "mods/tweakeroo-fabric-1.21.5-0.24.0-sakura.1.jar"
-hash = "c74baa16b3081a51f4bc55d689ed4a7853fe988fdfecc070b979dd83bc1cb06a"
+file = "mods/tweakeroo-fabric-1.21.5-0.24.0-sakura.5.jar"
+hash = "0654e7c94e1b1566ecb915821e78bc4ecb170a5087ce18c7c3fd01a93cd14893"
 
 [[files]]
 file = "mods/viafabricplus.pw.toml"
-hash = "d2dc77db74aa9fbfc9c2b2c12fb4f73ee04327ccfee22f02b175fe5b217e7f80"
+hash = "14c61838d4360d5692fcda099cb05982ad9ef37dd27508fba4c0ba0d26983a50"
 metafile = true
 
 [[files]]

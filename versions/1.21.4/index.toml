@@ -118,7 +118,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "1c3375f22067ada8cbda01f5635803aceaf38358560cddf70127bc9836602839"
+hash = "4945c0aeeb4fdf7179e2419c2577780bae35bfa042cf2bd52885f6faf80406f7"
 metafile = true
 
 [[files]]
@@ -148,7 +148,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "1d5db1bb916b7efc637eb38dd583ded0765aec883faa30f3cf2464b1e82e1d40"
+hash = "62e99d55c3f95e732fbbb23572c70bd030a6c89f90844b8a74d1e527c0183696"
 metafile = true
 
 [[files]]
@@ -268,7 +268,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "e207355875ee4ab7a63eb7da6484c66335222c08b57d837c9c1022e83d847594"
+hash = "577a203a186c2227ceb80ebfe2567e1c4e296373086e8486476a92c88627125a"
 metafile = true
 
 [[files]]
@@ -481,7 +481,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "d9c1bcc4b8ab05e309cd5cb88caf280dfd6901bcc679a7b504af1dcdb7b6a8d2"
+hash = "09d2dbee70e91e8859e6f62e4181a80264d6dd24cc686fbedb93dda9f69fdfe6"
 metafile = true
 
 [[files]]
@@ -506,7 +506,7 @@ metafile = true
 
 [[files]]
 file = "mods/viafabricplus.pw.toml"
-hash = "b354ca27fde257fac3626d31148ca15b38e8c92fd62290178604de0322a47ae6"
+hash = "811a798221c7c9d01aa879f7b0a6c7c5609141317d3b069301d98d4bc915273f"
 metafile = true
 
 [[files]]
@@ -551,7 +551,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/spbr.pw.toml"
-hash = "548753d21db0577b2234e72897c4b3469d757c1ac1dec86855851be354de503c"
+hash = "b28f8a17ea972d857f6e73cb04efdfea6a814c3a52ecd04df7ee45fd53ca955a"
 metafile = true
 
 [[files]]

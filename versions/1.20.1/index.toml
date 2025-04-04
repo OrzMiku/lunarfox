@@ -292,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "3ab548f2dc3b40e9d544b020714390a160c4ad10aa4c2cb8d59e9605abdc818b"
+hash = "ebd0d16046fb2c4c48959e842febec628bf4df6096a4548e03347d264c1d0b9a"
 metafile = true
 
 [[files]]
@@ -507,7 +507,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-shadowy-path-blocks.pw.toml"
-hash = "85d1d46ce862ad175082a0fd7839d497ba066c053630dbd159c223a0e4646a6c"
+hash = "bf3a50b4962319fdc9bcdb9b56aa5af1d674a16740c36f5732cb8fe91aafb46f"
 metafile = true
 
 [[files]]
