@@ -1,0 +1,13 @@
+name = "Chat Patches"
+filename = "chatpatches-215.6.14.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/MOqt4Z5n/versions/FCFnpHOa/chatpatches-215.6.14.jar"
+hash-format = "sha512"
+hash = "060a25c7032ffd4674157354a7cc372b5520cd2f311935ad93b8eca64c8a912d74f3211d754f88fe9d9cbdbbcabbdee0496afd7911e24fdf0c89f3717c2e5a8c"
+
+[update]
+[update.modrinth]
+mod-id = "MOqt4Z5n"
+version = "FCFnpHOa"

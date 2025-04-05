@@ -58,6 +58,11 @@ hash = "9c5ffe0f93aec9ebca86a4e5171ccb51e283849eef1719c995d19c2480e2d07c"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "352fe01e3b8136cf2abf742ddc8e2cab45fd7f25f635df960053b8290e5dc2a4"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "a292ee4afb698747e72ee869f7e77c234ec5be3214c945dab24b8101a8ea7742"
 metafile = true
@@ -90,6 +95,11 @@ metafile = true
 [[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "9fc6f3e67904d607a85528ceb2d4d1ea97a5807df5bb24c1106070e605c78110"
+metafile = true
+
+[[files]]
+file = "mods/chatpatches.pw.toml"
+hash = "82597263b3f053dba289a782be0ea0e22b0b624c4f57e9e230f66592ca3db25d"
 metafile = true
 
 [[files]]
@@ -144,7 +154,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "760fa5f6840b4b5a929222cae241fe7d9166caad02caa9d5f67cf033536119e0"
+hash = "c09ef02727d7b388c8ece69dc61457495d3ad888d2b10f756749e926bd4cdaad"
 metafile = true
 
 [[files]]
@@ -237,7 +247,7 @@ hash = "45abd858852f020e6ba617466d479c5295824596d1bae66d9ec499e4bf4b13e6"
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "a4800bbe9c5cf11ca7aaba207b22e6fdcd532aafd8f5979ac1cb99572a7ce4a4"
+hash = "33ee37bdfc014335d6789dd4daa1d8966163487eb328c9eda4b126a8e2801539"
 metafile = true
 
 [[files]]
