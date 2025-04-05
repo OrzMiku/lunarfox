@@ -5,6 +5,10 @@ file = "config/yosbr/config/badoptimizations.txt"
 hash = "23b96a18c6da194512a4291f186776c8bc4eb62a6f230bf723dd5d188ea7a555"
 
 [[files]]
+file = "config/yosbr/config/chatpatches.json"
+hash = "0623905a25c9b6c8387f7a6a0256ea005f727c63c689d2cc7cc77f74e912f7e4"
+
+[[files]]
 file = "config/yosbr/config/clean-debug.json"
 hash = "b734ab348594bd12e6212619c14151f6a5b65b6ac446c351ab908461ac58c53c"
 
@@ -19,6 +23,10 @@ hash = "1fbbea658d8af2a751857e70cf2d5930a24490cc4c24f8db9b49630a818b895c"
 [[files]]
 file = "config/yosbr/config/immediatelyfast.json"
 hash = "8bc58d4ab49fc2606a7ae6c7614e4ad3f5a5c29b894fbdaa2bc3d8730acacd2c"
+
+[[files]]
+file = "config/yosbr/config/inventoryhud.json"
+hash = "22114ef1ca0544700c7d2883a740193b22347ae97ccf33daace70b7fb5a0c06b"
 
 [[files]]
 file = "config/yosbr/config/inventoryprofilesnext/inventoryprofiles.json"
@@ -200,6 +208,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "2e06b604a52b4de2cd14a3debe656a75abbb876b769e116abb91f31de32cb4dc"
+metafile = true
+
+[[files]]
+file = "mods/inventory-hud-forge.pw.toml"
+hash = "07c0442d69fa87dfeb06820209cb3dd50425164958736a924735ce258e96702f"
 metafile = true
 
 [[files]]
