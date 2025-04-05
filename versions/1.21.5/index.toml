@@ -367,11 +367,6 @@ file = "mods/tweakeroo-fabric-1.21.5-0.24.0-sakura.5.jar"
 hash = "0654e7c94e1b1566ecb915821e78bc4ecb170a5087ce18c7c3fd01a93cd14893"
 
 [[files]]
-file = "mods/viafabricplus.pw.toml"
-hash = "14c61838d4360d5692fcda099cb05982ad9ef37dd27508fba4c0ba0d26983a50"
-metafile = true
-
-[[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "7e779d2c04c75a90512781ade5c929102aae28c02bf0fcd78875111614b82005"
 metafile = true
