@@ -66,6 +66,10 @@ hash = "9c5ffe0f93aec9ebca86a4e5171ccb51e283849eef1719c995d19c2480e2d07c"
 metafile = true
 
 [[files]]
+file = "mods/ViaFabricPlus-4.1.2-SNAPSHOT.jar"
+hash = "54586b991f8d6d427724386b76659ef1f0bc66cdd45662589e46b7a3a995b8df"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "352fe01e3b8136cf2abf742ddc8e2cab45fd7f25f635df960053b8290e5dc2a4"
 metafile = true
