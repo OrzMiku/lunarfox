@@ -70,6 +70,10 @@ file = "mods/ViaFabricPlus-4.1.2-SNAPSHOT.jar"
 hash = "54586b991f8d6d427724386b76659ef1f0bc66cdd45662589e46b7a3a995b8df"
 
 [[files]]
+file = "mods/animatica-0.6.3+1.21.5.jar"
+hash = "11aca8c7d648852328466a7ee1f92ee43deda82f7b9be1b71bfef39e252b8347"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "352fe01e3b8136cf2abf742ddc8e2cab45fd7f25f635df960053b8290e5dc2a4"
 metafile = true
@@ -231,7 +235,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "279a5891055ba9ba7e5129324e0c4f1ba5299ceefcba2511e96a91bf51d072ea"
+hash = "5a67e5e6aa5c39c9920a3293d70ff2a5a7b90e34299483dce5933e512b63bbf0"
 metafile = true
 
 [[files]]
