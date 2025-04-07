@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/ViaFabricPlus-4.1.2-SNAPSHOT.jar"
-hash = "54586b991f8d6d427724386b76659ef1f0bc66cdd45662589e46b7a3a995b8df"
+hash = "6b393c78719e2bec85e7b9b119e080d3435311bc67be844753d003d32e54b25b"
 
 [[files]]
 file = "mods/animatica-0.6.3+1.21.5.jar"
@@ -210,7 +210,7 @@ metafile = true
 
 [[files]]
 file = "mods/gamma-utils.pw.toml"
-hash = "4f9cd87df11709b2b677a48ce7f76ec69bd82040d773ae139e6396864673e41b"
+hash = "a3e7e7b34dce944ad4e24370202bbd7c42335cfca76a156f3925da348eb67f56"
 metafile = true
 
 [[files]]
@@ -225,7 +225,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "27c7058823c0380892515c58cda6d6f3d5d9093eb12f624328c725c348a45039"
+hash = "7209419e78b7ee8e3abf7017f388959f8c44f7cb8ad4c0938058d38eccb8e67a"
 metafile = true
 
 [[files]]
@@ -259,12 +259,17 @@ hash = "7d98bd7c5901016987b7ac546fe13dfa2c493f7e9d18bfb4a454b43969b242a7"
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "7f02f413a157cf69274d6e035096b84bc937bec49909a21010c79906eb90d632"
+hash = "5c9683d8cfd28ef39e4153dfb560b79ed287baa2a5b7d9fadaeeedcaa566bb74"
 metafile = true
 
 [[files]]
 file = "mods/malilib-fabric-1.21.5-0.24.0-sakura.5.jar"
 hash = "45abd858852f020e6ba617466d479c5295824596d1bae66d9ec499e4bf4b13e6"
+
+[[files]]
+file = "mods/mcwifipnp.pw.toml"
+hash = "848f1eed33d9b8a7e2dcfa87e11067ef3672301265c3e4deed01c0fc88268880"
+metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
