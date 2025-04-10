@@ -70,10 +70,6 @@ hash = "9c5ffe0f93aec9ebca86a4e5171ccb51e283849eef1719c995d19c2480e2d07c"
 metafile = true
 
 [[files]]
-file = "mods/ViaFabricPlus-4.1.2-SNAPSHOT.jar"
-hash = "6b393c78719e2bec85e7b9b119e080d3435311bc67be844753d003d32e54b25b"
-
-[[files]]
 file = "mods/animatica-0.6.3+1.21.5.jar"
 hash = "11aca8c7d648852328466a7ee1f92ee43deda82f7b9be1b71bfef39e252b8347"
 
