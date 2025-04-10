@@ -80,7 +80,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "a292ee4afb698747e72ee869f7e77c234ec5be3214c945dab24b8101a8ea7742"
+hash = "a463f60553d19dc6cdb468e8a0f9faa73fd6694f8eb87fe11532c81e9c908dcf"
 metafile = true
 
 [[files]]
@@ -205,7 +205,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "9b464a0f35326b4d2c7f3f39c46a2403058e1871869e2e43fa137420bf20511e"
+hash = "27a03591c0d4c9f630c23828a3b3506e3d67635e2c7dbed2fe67aa1b03e52351"
 metafile = true
 
 [[files]]
@@ -380,13 +380,23 @@ file = "mods/tweakeroo-fabric-1.21.5-0.24.0-sakura.5.jar"
 hash = "0654e7c94e1b1566ecb915821e78bc4ecb170a5087ce18c7c3fd01a93cd14893"
 
 [[files]]
+file = "mods/viafabricplus.pw.toml"
+hash = "d98ea69d9c0567fd8f5e7005ddee897b18e13229c521ef2488793a0267a034c8"
+metafile = true
+
+[[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "7e779d2c04c75a90512781ade5c929102aae28c02bf0fcd78875111614b82005"
+hash = "dee7712131e72105b1a9dafe6e103308e33023a4a48ec3b3868298d8d6c4ed6c"
 metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
 hash = "7c6d8dcec95023f027deff6645570ddccadc762545ae8fbd23b21499b15bc949"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "4d57ceb87aa43fb6e35d006f42834976ddb4acedf33e5c46b66685bb4b7f6d7e"
 metafile = true
 
 [[files]]
