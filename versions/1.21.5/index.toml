@@ -254,8 +254,8 @@ hash = "49afc11306b803a06e1631275e2dbf42d5e19dc71e2172a09205a1303b0b7cd3"
 metafile = true
 
 [[files]]
-file = "mods/litematica-fabric-1.21.5-0.22.0-sakura.5.jar"
-hash = "7d98bd7c5901016987b7ac546fe13dfa2c493f7e9d18bfb4a454b43969b242a7"
+file = "mods/litematica-fabric-1.21.5-0.22.0-sakura.6.jar"
+hash = "197502a1154f7ec313ccfec805820fc2e63dc8b394cd0af226ed1bd458b2b540"
 
 [[files]]
 file = "mods/lithium.pw.toml"
@@ -263,8 +263,8 @@ hash = "5773d3e597b591a9cd1d6d0808aa5820ecfef9f95c3ebe88aae485980f032e8a"
 metafile = true
 
 [[files]]
-file = "mods/malilib-fabric-1.21.5-0.24.0-sakura.5.jar"
-hash = "45abd858852f020e6ba617466d479c5295824596d1bae66d9ec499e4bf4b13e6"
+file = "mods/malilib-fabric-1.21.5-0.24.0-sakura.6.jar"
+hash = "86fbbe77059d4fee5753b403dff201bb479244375930d55052e65afa80c59cc1"
 
 [[files]]
 file = "mods/mcwifipnp.pw.toml"
@@ -277,8 +277,8 @@ hash = "33ee37bdfc014335d6789dd4daa1d8966163487eb328c9eda4b126a8e2801539"
 metafile = true
 
 [[files]]
-file = "mods/minihud-fabric-1.21.5-0.35.0-sakura.5.jar"
-hash = "f9824ae2d9e1280903c1523072584db8fadc3595bb6b41057a309592bc18d441"
+file = "mods/minihud-fabric-1.21.5-0.35.0-sakura.6.jar"
+hash = "59f978fc1cae042bc44b89c81251f66d7f5276cda1d79e391026bde889c5b496"
 
 [[files]]
 file = "mods/modmenu.pw.toml"
