@@ -278,7 +278,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "f56578b8a2cf2de8d125e02262b7bcf0adcbc0498bf54886cee5e393689459f1"
+hash = "f5dd989a0235c1e8200a981c9c33c8f6a1201e66f4b2bcf4be22791d213a0c9d"
 metafile = true
 
 [[files]]
@@ -303,7 +303,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "b6653291aeb568dc19db4c978ed0d518a3455b47e472323024d89df4401d9626"
+hash = "dbe73be51648022963c7fa220274fc1121df529231a44451cfcf024d5ec78a77"
 metafile = true
 
 [[files]]
@@ -368,7 +368,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcwifipnp.pw.toml"
-hash = "fa24bb41ce81fff1289c07fa4e3cd424f7c87a87f2cfdfa63992bb77ba575df4"
+hash = "848f1eed33d9b8a7e2dcfa87e11067ef3672301265c3e4deed01c0fc88268880"
 metafile = true
 
 [[files]]
@@ -393,7 +393,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "6be9bf8af4c867d6cc7c680df870e2b878fbec4090160f3df3a8426c61216472"
+hash = "d2eef785df399c7b45f20ecc3d07e1749b4bff2b2f87dc1c47d3a339996569c2"
 metafile = true
 
 [[files]]
@@ -538,7 +538,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "aa0581977eb843b03a7355db30891609ff5af21daa694c0bde1921b4aad02a1b"
+hash = "c04f5b121bab90c54edf721c89c0c9e08dab96938dcc87a9690434d2d7f5e452"
 metafile = true
 
 [[files]]
@@ -583,5 +583,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "53730f97f8aadfa02f11f438e31473c07c37e1ed299b0ba6a2267b958224f079"
+hash = "459c51e286e28ac5bcf7b3840e84f7985f480ca8a2304827f5eafe73a322edea"
 metafile = true

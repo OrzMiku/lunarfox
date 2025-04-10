@@ -292,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "ebd0d16046fb2c4c48959e842febec628bf4df6096a4548e03347d264c1d0b9a"
+hash = "6ef4d5626e258509b479220129ccc987b3f9e8ac33a6a5e227772f3cde1dbb9f"
 metafile = true
 
 [[files]]
@@ -407,7 +407,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "fac1ce75868b8cea1e0f09388444adb81ee8bedb3dc86d3206e49182905acff7"
+hash = "10d0880665a5abd65af746a8c473048a8ac0b3803631b3bcf18cee2eba0a1f28"
 metafile = true
 
 [[files]]
@@ -592,5 +592,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "53730f97f8aadfa02f11f438e31473c07c37e1ed299b0ba6a2267b958224f079"
+hash = "459c51e286e28ac5bcf7b3840e84f7985f480ca8a2304827f5eafe73a322edea"
 metafile = true

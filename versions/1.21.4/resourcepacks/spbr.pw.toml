@@ -1,13 +1,13 @@
 name = "SPBR"
-filename = "SPBR-17_1.zip"
+filename = "SPBR-17_2.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/aNcOVoD7/versions/3kNA2DSs/SPBR-17_1.zip"
+url = "https://cdn.modrinth.com/data/aNcOVoD7/versions/ruAOXbE6/SPBR-17_2.zip"
 hash-format = "sha512"
-hash = "4671f46a74f19483ceea41a11277563da9f87beac8103019df27a5dc64f5275ea473f69899814bc8a12ce3b90a45970bffd095e9bdb8a4598104f35b2bd1be1e"
+hash = "ed672d71b06de51c7359fd1a6318a0de6c44de2d4d36fe53f7ca65df119dcd8a0bbc1d01f8c64c5f003ac1df8d990d1997450ac9aad6c9023dcbd897c5b9f959"
 
 [update]
 [update.modrinth]
 mod-id = "aNcOVoD7"
-version = "3kNA2DSs"
+version = "ruAOXbE6"

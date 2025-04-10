@@ -118,7 +118,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "4945c0aeeb4fdf7179e2419c2577780bae35bfa042cf2bd52885f6faf80406f7"
+hash = "08a4039bac6efd14b5257ac3df87680568d1372d4ab693e03a8aab88361580b9"
 metafile = true
 
 [[files]]
@@ -158,7 +158,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatpatches.pw.toml"
-hash = "ca4e6034049f4defcee9b8aab39888296ed389448c03ced8d10d6db99276fc70"
+hash = "cf394e1f4ef19c605669ed96c0c3c00837534e26d6da17b078aa3416d379438e"
 metafile = true
 
 [[files]]
@@ -268,12 +268,12 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "577a203a186c2227ceb80ebfe2567e1c4e296373086e8486476a92c88627125a"
+hash = "d9f961a99fe78334d7cd38c0d5f9d5c8ddae554bda204b53e4684f5d281cecf4"
 metafile = true
 
 [[files]]
 file = "mods/gamma-utils.pw.toml"
-hash = "4f9cd87df11709b2b677a48ce7f76ec69bd82040d773ae139e6396864673e41b"
+hash = "a3e7e7b34dce944ad4e24370202bbd7c42335cfca76a156f3925da348eb67f56"
 metafile = true
 
 [[files]]
@@ -328,7 +328,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "974a2f4fd6bff1195c326696fa9e246c3b6820ae0fefe96a011bef4e6912e43f"
+hash = "df9d69dc784ef61e99064407952d34c294f62fe1155b5260f825bd9a82e2f3a2"
 metafile = true
 
 [[files]]
@@ -348,7 +348,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcwifipnp.pw.toml"
-hash = "fa24bb41ce81fff1289c07fa4e3cd424f7c87a87f2cfdfa63992bb77ba575df4"
+hash = "848f1eed33d9b8a7e2dcfa87e11067ef3672301265c3e4deed01c0fc88268880"
 metafile = true
 
 [[files]]
@@ -358,7 +358,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "a4800bbe9c5cf11ca7aaba207b22e6fdcd532aafd8f5979ac1cb99572a7ce4a4"
+hash = "33ee37bdfc014335d6789dd4daa1d8966163487eb328c9eda4b126a8e2801539"
 metafile = true
 
 [[files]]
@@ -431,7 +431,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "71961578135f5043c71d9e50efd68195fbbd53f2d00346d3a66e2eff83971b69"
+hash = "72ae143a29339b05237519f59d23f3bae5b4adf672ce5195b07a4da8833c8eb6"
 metafile = true
 
 [[files]]
@@ -446,7 +446,7 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "9a53bc41ea5265170f6a87285744c158834881ec706c68c2b8101f740396b36b"
+hash = "35ab1c638ca39eccdcee2e76ee7c771930fc3e1788a76afcaa75e6d4c0efed71"
 metafile = true
 
 [[files]]
@@ -551,10 +551,10 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/spbr.pw.toml"
-hash = "b28f8a17ea972d857f6e73cb04efdfea6a814c3a52ecd04df7ee45fd53ca955a"
+hash = "bb95af6b60436ebfff18c9a3bc12b6693181f6d6517a6b1c5b8f2cecab0f4e4c"
 metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "53730f97f8aadfa02f11f438e31473c07c37e1ed299b0ba6a2267b958224f079"
+hash = "459c51e286e28ac5bcf7b3840e84f7985f480ca8a2304827f5eafe73a322edea"
 metafile = true
