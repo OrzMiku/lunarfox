@@ -62,7 +62,7 @@ hash = "805d874877e6bb962ac09c250b3d2a084ec599b2242dd1fa36860623c2024890"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "bdcf6d296d2ae1e872f3a5ab39297a2a56af86334d8b2f95582a31d7b27ab6ff"
+hash = "756d8902bfabd204d078a0ba15ca000226ed748384c648ebbf8b640e6b362290"
 
 [[files]]
 file = "icon.png"
@@ -110,6 +110,11 @@ metafile = true
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "be371b92fe5c461c432775db53386c4b08616f835aac739fb93c2aaf290b31e6"
+metafile = true
+
+[[files]]
+file = "mods/caxton.pw.toml"
+hash = "5d7dd5ea6cc624a87349607e633c9fe2ff878636dd7a5e2cf954c817158b1cbd"
 metafile = true
 
 [[files]]
@@ -439,11 +444,16 @@ hash = "3545a5aeece1edd15cf0c31e39e12300110e7feac2f5343b6c209a4ae7d85680"
 metafile = true
 
 [[files]]
+file = "resourcepacks/misans-font.pw.toml"
+hash = "77da2f66d0983eed7adc701c4ff3be2fbf6b33803d114b6a07b0d7bb22c594ea"
+metafile = true
+
+[[files]]
 file = "resourcepacks/spbr.pw.toml"
 hash = "bb95af6b60436ebfff18c9a3bc12b6693181f6d6517a6b1c5b8f2cecab0f4e4c"
 metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "459c51e286e28ac5bcf7b3840e84f7985f480ca8a2304827f5eafe73a322edea"
+hash = "c7fba5f4fcf669b23a37865cf687bce857f1f7295c8ec1fb7620583dee9625d3"
 metafile = true

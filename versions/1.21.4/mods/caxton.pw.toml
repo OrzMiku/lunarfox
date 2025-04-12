@@ -1,0 +1,13 @@
+name = "Caxton"
+filename = "caxton-0.6.0-alpha.6+1.21.4-FABRIC.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/k8iIgzXE/versions/YxdwBBpC/caxton-0.6.0-alpha.6%2B1.21.4-FABRIC.jar"
+hash-format = "sha512"
+hash = "d793a00c31c08df4cab3b42d78f6f0cb9799ad3ed3f0431ab7cc6d8bf7be27e412dd96d73ae64c88b54fdd43c7788a14988675f10eba51f14ce0e1ee7557bd76"
+
+[update]
+[update.modrinth]
+mod-id = "k8iIgzXE"
+version = "YxdwBBpC"

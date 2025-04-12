@@ -90,7 +90,7 @@ hash = "b0df40e07391a60294d7bffb9772cabe8096d61c41c8680fbfad927d3a6a5a6b"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "2f7c596ab96b2c458020f27d233f08015898151b6839c01b261d48c32debece9"
+hash = "e99093bd4c537cb165d545502332b622cbcc1dc6ce4ee615934b0f38ee438cb7"
 
 [[files]]
 file = "icon.png"
@@ -154,6 +154,11 @@ metafile = true
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "64a244469b7ce7be7e6ceabedd69d17e573a0b92d6e29c661fc6c490afa965d8"
+metafile = true
+
+[[files]]
+file = "mods/caxton.pw.toml"
+hash = "b3e70c84b5b005b7e727c5419c5579d457c0ddbf41de15de68ba6c37364b1fe9"
 metafile = true
 
 [[files]]
@@ -358,7 +363,7 @@ metafile = true
 
 [[files]]
 file = "mods/magiclib.pw.toml"
-hash = "4d5d58744bb10192dbca3be3b5a8703c40bcfa9e3b7752341b86edbe761027f7"
+hash = "da2e3fe55f77a6985c378e0256c7b601b7bca63572105a764174339fd40a4711"
 metafile = true
 
 [[files]]
@@ -389,11 +394,6 @@ metafile = true
 [[files]]
 file = "mods/minihud.pw.toml"
 hash = "e5bf9057e940554a9d6f653af4118d64f09040871c7ada034a697d630fedcab5"
-metafile = true
-
-[[files]]
-file = "mods/modern-ui.pw.toml"
-hash = "a497f0dc1832314a54531e6dd730db97ee0db8645e6ec02c1f68377b842f1c97"
 metafile = true
 
 [[files]]
@@ -577,11 +577,16 @@ hash = "3545a5aeece1edd15cf0c31e39e12300110e7feac2f5343b6c209a4ae7d85680"
 metafile = true
 
 [[files]]
+file = "resourcepacks/misans-font.pw.toml"
+hash = "f615f77ef7a4c3eac4e1f1d452c3fbb3bae3a3f1946e6ddbabccc2e0f65a20a6"
+metafile = true
+
+[[files]]
 file = "resourcepacks/spbr.pw.toml"
 hash = "1cc27f5b9dfe2a8cd3b8d43df0466b8086300e7cbd516785daf8910cee502f6e"
 metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "459c51e286e28ac5bcf7b3840e84f7985f480ca8a2304827f5eafe73a322edea"
+hash = "c7fba5f4fcf669b23a37865cf687bce857f1f7295c8ec1fb7620583dee9625d3"
 metafile = true

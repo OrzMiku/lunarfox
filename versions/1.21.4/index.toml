@@ -82,7 +82,7 @@ hash = "b0df40e07391a60294d7bffb9772cabe8096d61c41c8680fbfad927d3a6a5a6b"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "e91b13b8a46039cbf00ffd66d3e0ce38482343c8155d1a24cec1e6d4668d6754"
+hash = "168024ae8eba6c222fd118f56c98c532d646f4eeda2445d8e483a76ed3091f49"
 
 [[files]]
 file = "icon.png"
@@ -145,6 +145,11 @@ metafile = true
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "62e99d55c3f95e732fbbb23572c70bd030a6c89f90844b8a74d1e527c0183696"
+metafile = true
+
+[[files]]
+file = "mods/caxton.pw.toml"
+hash = "98dd52e1e1dbd86ef0e8a4feb4083d9882885f8e088a6c4f0cef474ee1354c0e"
 metafile = true
 
 [[files]]
@@ -279,7 +284,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "5f055dd476821cd7de6dd0498ffdbd458d1745444a3f74dabee44a3ca8115a82"
+hash = "6b9099f46e6640a285b5e0e05c0a4b2de173fe21cd37b15d13fc60522869e0bd"
 metafile = true
 
 [[files]]
@@ -309,7 +314,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "8d4742de404e20cf2bd15348dc278ee522be86aab5aa3c15699695812fe62516"
+hash = "5b2836651298cdc544306890ef5ed807f066bac2db4228e171edcd2c95e32f04"
 metafile = true
 
 [[files]]
@@ -324,7 +329,7 @@ metafile = true
 
 [[files]]
 file = "mods/magiclib.pw.toml"
-hash = "a9ddc5125a43eebb433953d234bffeb58ea463098fa8874374408cb41d0fcddf"
+hash = "66a8b27c2ce4649aa598d8c443ad8781f58c136424b39af9ff131bd2edf5da02"
 metafile = true
 
 [[files]]
@@ -355,11 +360,6 @@ metafile = true
 [[files]]
 file = "mods/minihud.pw.toml"
 hash = "ab73712b95dc33bc4c1e706f480cd5a81e23b18d29960296308116a993a7f834"
-metafile = true
-
-[[files]]
-file = "mods/modern-ui.pw.toml"
-hash = "76094c9cf65ea8cbbd41635f01e0161f6d3e349adadd4d29143e7800756c8243"
 metafile = true
 
 [[files]]
@@ -541,11 +541,16 @@ hash = "3545a5aeece1edd15cf0c31e39e12300110e7feac2f5343b6c209a4ae7d85680"
 metafile = true
 
 [[files]]
+file = "resourcepacks/misans-font.pw.toml"
+hash = "77da2f66d0983eed7adc701c4ff3be2fbf6b33803d114b6a07b0d7bb22c594ea"
+metafile = true
+
+[[files]]
 file = "resourcepacks/spbr.pw.toml"
 hash = "bb95af6b60436ebfff18c9a3bc12b6693181f6d6517a6b1c5b8f2cecab0f4e4c"
 metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "459c51e286e28ac5bcf7b3840e84f7985f480ca8a2304827f5eafe73a322edea"
+hash = "c7fba5f4fcf669b23a37865cf687bce857f1f7295c8ec1fb7620583dee9625d3"
 metafile = true

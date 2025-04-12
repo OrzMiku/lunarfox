@@ -5,5 +5,5 @@ guiScale:3
 maxFps:260
 renderDistance:8
 simulationDistance:6
-resourcePacks:["vanilla","fabric","file/SodiumTranslations.zip","continuity:default","continuity:glass_pane_culling_fix","file/Fast Better Grass.zip"]
+resourcePacks:["vanilla","fabric","file/SodiumTranslations.zip","continuity:default","continuity:glass_pane_culling_fix","file/MiSans Font.zip","file/Fast Better Grass.zip"]
 tutorialStep:none
