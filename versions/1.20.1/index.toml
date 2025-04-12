@@ -25,10 +25,6 @@ file = "config/yosbr/config/cull-less-leaves.json"
 hash = "4d9bc732c63f8e4a725dc04b56251a38ad7702975db97563a1b0a85483759c07"
 
 [[files]]
-file = "config/yosbr/config/customwindowtitle-client.toml"
-hash = "b7db04f1a74e8561ff5ed1c0b21cba7c9fc9e5a4a68c761bbfa6a025d17d2475"
-
-[[files]]
 file = "config/yosbr/config/defaultoptions/keybindings.txt"
 hash = "d7cc6237c84dd90f8c629eeaddc58352740d7ce26fa09db40092617668e874d3"
 
@@ -198,11 +194,6 @@ metafile = true
 [[files]]
 file = "mods/craterlib.pw.toml"
 hash = "2245beed2b8b7f2be3cb3b50528693fd1a307ba758aa9a80239510c2e26194ab"
-metafile = true
-
-[[files]]
-file = "mods/custom-window-title.pw.toml"
-hash = "54cb969b7cfdde6077ea24d46130186098483b7520dbe4219255f2efb9735931"
 metafile = true
 
 [[files]]

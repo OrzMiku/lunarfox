@@ -21,10 +21,6 @@ file = "config/yosbr/config/clean-debug.json"
 hash = "b734ab348594bd12e6212619c14151f6a5b65b6ac446c351ab908461ac58c53c"
 
 [[files]]
-file = "config/yosbr/config/customwindowtitle-client.toml"
-hash = "4e2dab0035bd092214d66a96a3ded2888545656ea03c14f97adb9542d9240f3d"
-
-[[files]]
 file = "config/yosbr/config/defaultoptions/keybindings.txt"
 hash = "ed59af65d3ad35dd87e22dbf7eb950a110909f1bfc3b4f01ab291cd8fffa672f"
 
@@ -194,11 +190,6 @@ metafile = true
 [[files]]
 file = "mods/craterlib.pw.toml"
 hash = "9ffd6d39130c34ebb42bc82553df9755d0d3f393e30b562db3a47061cd5a8d44"
-metafile = true
-
-[[files]]
-file = "mods/custom-window-title.pw.toml"
-hash = "09d3121e0f62df0f7543ec669a7d2465ccc257f8ece46eaa37c0d8597ec36c15"
 metafile = true
 
 [[files]]
