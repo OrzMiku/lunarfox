@@ -272,13 +272,8 @@ hash = "5773d3e597b591a9cd1d6d0808aa5820ecfef9f95c3ebe88aae485980f032e8a"
 metafile = true
 
 [[files]]
-file = "mods/magiclib.pw.toml"
-hash = "4a6209cc824ecf624f911fb042442ffb11909a27f5d7092039b27e23cdbd2395"
-metafile = true
-
-[[files]]
-file = "mods/malilib-fabric-1.21.5-0.24.0-sakura.6.jar"
-hash = "86fbbe77059d4fee5753b403dff201bb479244375930d55052e65afa80c59cc1"
+file = "mods/malilib-fabric-1.21.5-0.24.0-sakura.7.jar"
+hash = "bf69e011a6f797898008e6467bbeb4e88d5594c5a370268c9d23bd7db583bde9"
 
 [[files]]
 file = "mods/mcwifipnp.pw.toml"
@@ -291,8 +286,8 @@ hash = "33ee37bdfc014335d6789dd4daa1d8966163487eb328c9eda4b126a8e2801539"
 metafile = true
 
 [[files]]
-file = "mods/minihud-fabric-1.21.5-0.35.0-sakura.6.jar"
-hash = "59f978fc1cae042bc44b89c81251f66d7f5276cda1d79e391026bde889c5b496"
+file = "mods/minihud-fabric-1.21.5-0.35.0-sakura.7.jar"
+hash = "19e62001ab7fecefee9b7ff9a23995908badfdc197627746ead975c576c827f1"
 
 [[files]]
 file = "mods/modmenu.pw.toml"
