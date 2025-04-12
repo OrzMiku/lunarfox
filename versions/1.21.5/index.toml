@@ -45,6 +45,10 @@ file = "config/yosbr/config/particle_core_config.toml"
 hash = "e6a4e36d2099ea5efe19e0fd4fddc65fbafd88eafb81f0fb3d5e9f6193d37bbb"
 
 [[files]]
+file = "config/yosbr/config/roughlyenoughitems/config.json5"
+hash = "c550f46ad5ec34377e2b77a84f553ef1ac02bd9515219a8b4c0239ce036a966a"
+
+[[files]]
 file = "config/yosbr/config/threadtweak.json"
 hash = "545cbe317c5146bacb9e13c7c03a605f0b6bd6e1ddaf1a05f8be8537d6f8b0ce"
 
@@ -105,7 +109,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "ff3a2f8ab5e5cdf9e0b5302dec6cf82ee8e4d8e60832172e85c2d816015bb436"
+hash = "be371b92fe5c461c432775db53386c4b08616f835aac739fb93c2aaf290b31e6"
 metafile = true
 
 [[files]]
@@ -141,6 +145,11 @@ metafile = true
 [[files]]
 file = "mods/default-options.pw.toml"
 hash = "ddf6266079876a8ef0ba89b8a5f57fabc0bd4bc11af07325c2a5f33bb86cc682"
+metafile = true
+
+[[files]]
+file = "mods/durability-tooltip.pw.toml"
+hash = "a47138a91677a89d84e5ab37da1f501f4770ab07e51ae8ce6fdd27fb2d14f026"
 metafile = true
 
 [[files]]
@@ -225,7 +234,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "7209419e78b7ee8e3abf7017f388959f8c44f7cb8ad4c0938058d38eccb8e67a"
+hash = "05ba97e8318046da6b4ea4669da8f848fb4981516a8342b6e7b272eba320c587"
 metafile = true
 
 [[files]]
@@ -250,7 +259,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "49afc11306b803a06e1631275e2dbf42d5e19dc71e2172a09205a1303b0b7cd3"
+hash = "3c99ce9501ba667070c8cb9a44adfcef91b071983d3ab565acb11cca93469820"
 metafile = true
 
 [[files]]
@@ -260,6 +269,11 @@ hash = "197502a1154f7ec313ccfec805820fc2e63dc8b394cd0af226ed1bd458b2b540"
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "5773d3e597b591a9cd1d6d0808aa5820ecfef9f95c3ebe88aae485980f032e8a"
+metafile = true
+
+[[files]]
+file = "mods/magiclib.pw.toml"
+hash = "4a6209cc824ecf624f911fb042442ffb11909a27f5d7092039b27e23cdbd2395"
 metafile = true
 
 [[files]]
@@ -336,6 +350,11 @@ hash = "c4152f0824a737e10502238c1c02d1869a766dae09940f3ffa50e8d0ca7d21b5"
 metafile = true
 
 [[files]]
+file = "mods/rei.pw.toml"
+hash = "16dab060a6994675eb701cee03f8c4132419cb463c8f17cc1d2a5e38fd6ebb77"
+metafile = true
+
+[[files]]
 file = "mods/resourcify.pw.toml"
 hash = "2d77d2aa6a018790d81e93d8b211e03d5a620392592fa739be39b840a01ef471"
 metafile = true
@@ -363,6 +382,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "700caca572649f238e804258f79d25969031be3e1b01d0384eb54a13200caba6"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "8e009ac87710fbd8f5990285d36ab2b4755e932664ca1bcb9cdfac116d6e3b6d"
 metafile = true
 
 [[files]]
