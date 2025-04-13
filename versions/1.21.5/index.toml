@@ -396,7 +396,7 @@ metafile = true
 
 [[files]]
 file = "mods/threadtweak.pw.toml"
-hash = "1c137d989a144a658c564d77658919ed50c6a09ea8624037976425f0b4c7128e"
+hash = "ff0d87064f466d6dfa5151178cb805cea4169a6e85f47913b462758262a78024"
 metafile = true
 
 [[files]]
