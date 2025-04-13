@@ -365,6 +365,10 @@ hash = "3975d8351b1a246c8c2e13251ea4f86fee525ae772a51927c37407a88b03defb"
 metafile = true
 
 [[files]]
+file = "mods/screenshot-to-clipboard-fabric-1.0.11.jar"
+hash = "d1243739be55b039bfb3b1e407fe30ec6628e1ca234d03b71f725b0f7f063829"
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "2b66d7a33b317c19b294fa1eee944f91b9e9eba82006dae9696145a3307c484b"
 metafile = true
