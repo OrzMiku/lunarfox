@@ -1,0 +1,13 @@
+name = "Masa Gadget Dev"
+filename = "MasaGadget-mc1.21.5-fabric-4.0.390-development.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/qGUUhBWE/versions/IuM6tZh8/MasaGadget-mc1.21.5-fabric-4.0.390-development.jar"
+hash-format = "sha512"
+hash = "8005f35cf56a66150276aad9c5a297a668a49ae465f4c40c102c4c85171fe742473189cdba97bc80a5cd1ebf5133d9c6369c84fb2d4fadbfbbfd812f3e9cefbe"
+
+[update]
+[update.modrinth]
+mod-id = "qGUUhBWE"
+version = "IuM6tZh8"

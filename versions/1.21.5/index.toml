@@ -33,6 +33,10 @@ file = "config/yosbr/config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "8fa033afa83e6b5123c11bb293b0a5e632b4f76b2ca7d651350179fd435462c9"
 
 [[files]]
+file = "config/yosbr/config/masa_gadget_mod.json"
+hash = "e06a95ec2a838775dfeaa364f17be6a8f4521138055f8ccee8ff59f66d7464fa"
+
+[[files]]
 file = "config/yosbr/config/minihud.json"
 hash = "435f7811c796b2352fee74985081994d69f881f9f0b6a0499ba39fbc40ee3f0b"
 
@@ -292,8 +296,18 @@ hash = "5773d3e597b591a9cd1d6d0808aa5820ecfef9f95c3ebe88aae485980f032e8a"
 metafile = true
 
 [[files]]
+file = "mods/magiclib.pw.toml"
+hash = "26321734fbf69e0134856df1af2a16897b9b9aa3366bde85667a6dab2e2dc6fc"
+metafile = true
+
+[[files]]
 file = "mods/malilib-fabric-1.21.5-0.24.0-sakura.7.jar"
 hash = "bf69e011a6f797898008e6467bbeb4e88d5594c5a370268c9d23bd7db583bde9"
+
+[[files]]
+file = "mods/masa-gadget-dev.pw.toml"
+hash = "c0bce08cbbdc57f28c40b6fa9e72d65393bd8eaa63c591110388ec7ed02a5f09"
+metafile = true
 
 [[files]]
 file = "mods/mcwifipnp.pw.toml"
