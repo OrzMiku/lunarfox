@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/yosbr/config/ModernUI/bootstrap.properties"
-hash = "74a8773cc30d855f12a6bdada154a41e5c49eaa19f31234acd8a9327dabf044b"
-
-[[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
 hash = "32dc5f1d73b05e70f3fc5a18f58c5d81a095484a0f93a1da6d1883966ff4e296"
 
@@ -406,6 +402,11 @@ hash = "e5bf9057e940554a9d6f653af4118d64f09040871c7ada034a697d630fedcab5"
 metafile = true
 
 [[files]]
+file = "mods/modern-ui.pw.toml"
+hash = "a497f0dc1832314a54531e6dd730db97ee0db8645e6ec02c1f68377b842f1c97"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "10d0880665a5abd65af746a8c473048a8ac0b3803631b3bcf18cee2eba0a1f28"
 metafile = true
@@ -498,11 +499,6 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "830270b8e5a34f5621720ae09c4cf716a65d8003a30d585c8b817aba1fde9ac8"
-metafile = true
-
-[[files]]
-file = "mods/smooth-scroll.pw.toml"
-hash = "25d3b51b6da339f881c52fef43c02358020ed709eb9292f251efa69305bf2edd"
 metafile = true
 
 [[files]]
