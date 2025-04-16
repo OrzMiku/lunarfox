@@ -1,13 +1,13 @@
 name = "MagicLib"
-filename = "MagicLib-mc1.21.1-fabric-0.8.691-stable.jar"
+filename = "MagicLib-mc1.21.1-fabric-0.8.693-stable.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/mv1zH6ln/versions/ySULWcFK/MagicLib-mc1.21.1-fabric-0.8.691-stable.jar"
+url = "https://cdn.modrinth.com/data/mv1zH6ln/versions/ayNWKV8C/MagicLib-mc1.21.1-fabric-0.8.693-stable.jar"
 hash-format = "sha512"
-hash = "a33038dfef06cb3fdd46a857fc2205c60dfe36f7b7848e3f2c02e419ac44a59182b9212755916a6f41c7cbe3be48d781ec69a4896f8b41ac39b797924b0fff70"
+hash = "7e62f08c1b75d083cc62a7701202ab59cc1b2dcb9ade5f3b7cb50aaa0dba4f448552881eec94aea05de9461bf0bb70d3c630774789332b4657a57109cbc1a7c2"
 
 [update]
 [update.modrinth]
 mod-id = "mv1zH6ln"
-version = "ySULWcFK"
+version = "ayNWKV8C"

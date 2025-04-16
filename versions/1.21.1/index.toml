@@ -119,7 +119,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "955bb0f19b8da0ac72a5f8b9e014fd2e0c15647fb129542791f47bbeb26fef7e"
+hash = "9d1cbb1985de93e2ee506a3aa7a36b4489a35a735ea2c4e090bbf58b7cc29b09"
 metafile = true
 
 [[files]]
@@ -198,13 +198,28 @@ hash = "9ffd6d39130c34ebb42bc82553df9755d0d3f393e30b562db3a47061cd5a8d44"
 metafile = true
 
 [[files]]
+file = "mods/cubes-without-borders.pw.toml"
+hash = "7797b4dcd9c68b4555caf2629b0bff76f234ae04e8b42956e95ce2c65807049e"
+metafile = true
+
+[[files]]
 file = "mods/default-options.pw.toml"
 hash = "dce1b96093934b0dbd3b79f30e767f189e4255754d29d9f663d6a58c068e7052"
 metafile = true
 
 [[files]]
+file = "mods/draggable-lists.pw.toml"
+hash = "50de1919e6cc3104a4a2557b0644c15f5a56722cf76a19b194ec6ecf61bcae13"
+metafile = true
+
+[[files]]
 file = "mods/durability-tooltip.pw.toml"
 hash = "a47138a91677a89d84e5ab37da1f501f4770ab07e51ae8ce6fdd27fb2d14f026"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "71314f7a5609378c77f372c31d2c501a330cc901c6e4f6e060d7f3095d362086"
 metafile = true
 
 [[files]]
@@ -349,7 +364,7 @@ metafile = true
 
 [[files]]
 file = "mods/magiclib.pw.toml"
-hash = "606aa70ea9b14d9f864cd7586e524410e2398cda4b6c7b7e7dbc466253cfe434"
+hash = "d30a166bcbb588c67e46973c4bfe4c2edd1581d6ec921f4530c9b777437ac4ca"
 metafile = true
 
 [[files]]
@@ -439,7 +454,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-core.pw.toml"
-hash = "00f608a4eb5338ec23c0174eff2a5dc8a8c4795ed634820c1b32c26b62ebc3bb"
+hash = "c0969cf2bc2301c45c2bfcfc31a7132aad2bfbc893b340e804116dd6a3843f0b"
 metafile = true
 
 [[files]]
@@ -488,6 +503,11 @@ hash = "8302da862578554b012b2cfe58a3c1e75b514d09f94d842e7303be41a2157aeb"
 metafile = true
 
 [[files]]
+file = "mods/smooth-scroll.pw.toml"
+hash = "69d9366753ade6e5dbcbbac31372fae83d6b37b81a63a797a217aa69e97f2992"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "1af09f16a643df0f61f2c799e981aa0b8c109999f0784584a6eff9a81f1c00c1"
 metafile = true
@@ -529,7 +549,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "c04f5b121bab90c54edf721c89c0c9e08dab96938dcc87a9690434d2d7f5e452"
+hash = "99cc4bdfa44196b887c0b6ea48622f89a6a004866a9af47b929dabe5331e2605"
 metafile = true
 
 [[files]]

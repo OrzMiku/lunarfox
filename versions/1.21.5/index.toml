@@ -148,13 +148,28 @@ hash = "e386a79906673044c08bfee032e26ba12ce5c2b39e0094e151320d508ecc6ea0"
 metafile = true
 
 [[files]]
+file = "mods/cubes-without-borders.pw.toml"
+hash = "a90139b002d632ba9256cb3e7e877945bf8e3afa5b191d1adc83c5e3eb72da4c"
+metafile = true
+
+[[files]]
 file = "mods/default-options.pw.toml"
 hash = "ddf6266079876a8ef0ba89b8a5f57fabc0bd4bc11af07325c2a5f33bb86cc682"
 metafile = true
 
 [[files]]
+file = "mods/draggable-lists.pw.toml"
+hash = "1054c206e14e6bd9a9f101f88d1c4beb8b6657439257f9d5e8b40415c56673fc"
+metafile = true
+
+[[files]]
 file = "mods/durability-tooltip.pw.toml"
 hash = "a47138a91677a89d84e5ab37da1f501f4770ab07e51ae8ce6fdd27fb2d14f026"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "6776faa0af7b67803be2671ebc8c8d25f3ebbdb498cf7457b8bf6baea65a5f9b"
 metafile = true
 
 [[files]]
@@ -184,7 +199,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "c09ef02727d7b388c8ece69dc61457495d3ad888d2b10f756749e926bd4cdaad"
+hash = "9fb9f5a25c9ac4fd320b743148c049768bffeb38678194c1ab31a1946604ee9c"
 metafile = true
 
 [[files]]
@@ -331,7 +346,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-core.pw.toml"
-hash = "26af8dd5c551fac4488fc9979cf8616ac71df8dae2a9547c80ef92c6e95d3d05"
+hash = "35806b3163ce2405e55abcda320300fa7a133f2f67ad453c7d3631d68a5ba0e2"
 metafile = true
 
 [[files]]
@@ -371,6 +386,11 @@ hash = "d1243739be55b039bfb3b1e407fe30ec6628e1ca234d03b71f725b0f7f063829"
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "2b66d7a33b317c19b294fa1eee944f91b9e9eba82006dae9696145a3307c484b"
+metafile = true
+
+[[files]]
+file = "mods/smooth-scroll.pw.toml"
+hash = "c2dbf59c31a43c2364a553b28ebd8b0cbfbdeb21e051aec32266d3debc2faab8"
 metafile = true
 
 [[files]]
@@ -454,7 +474,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/spbr.pw.toml"
-hash = "b1deca7a9dca4d952c1f5dbc5ec415d9fb86c8b49e83f22c5bc5460cce4b9d18"
+hash = "d83a569d1e2be0a1ca358d41d144c3f51764aa3024c1dcf476d5080f98ff617a"
 metafile = true
 
 [[files]]

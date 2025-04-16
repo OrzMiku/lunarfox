@@ -1,0 +1,13 @@
+name = "Draggable Lists"
+filename = "draggable_lists-mc1.20-1.0.1-rev.824b2f3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/aLcHfalx/versions/heA62vSK/draggable_lists-mc1.20-1.0.1-rev.824b2f3.jar"
+hash-format = "sha512"
+hash = "2cefd98cf58aef72db7d15465c0313d057542d7ee0490a69d94b8d13f7b1b08b46dc84dca043d648568518b1d905d5ca750920025e90768d680a8293d984f42b"
+
+[update]
+[update.modrinth]
+mod-id = "aLcHfalx"
+version = "heA62vSK"

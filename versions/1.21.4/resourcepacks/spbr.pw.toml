@@ -3,11 +3,11 @@ filename = "SPBR-17_3.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/aNcOVoD7/versions/1XXjifq4/SPBR-17_3.zip"
+url = "https://cdn.modrinth.com/data/aNcOVoD7/versions/pkFFkb3C/SPBR-17_3.zip"
 hash-format = "sha512"
-hash = "d5ee013bf83fae2475bec679675ea224772dc7dd8ab92ed201274b5a9192423480562c95086781a29bbd97500479a8a4f2abb7de567ef46bd05b2ce1c60597e4"
+hash = "cffc05f03206da219d15161dfcd6801183652a96f20b270d35c7793691d41bfdddc577b07d58937830a8be9c2c55c1bc9cd791945f162aaad4d65eb479775409"
 
 [update]
 [update.modrinth]
 mod-id = "aNcOVoD7"
-version = "1XXjifq4"
+version = "pkFFkb3C"

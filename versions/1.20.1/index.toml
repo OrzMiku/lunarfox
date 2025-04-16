@@ -202,13 +202,28 @@ hash = "2245beed2b8b7f2be3cb3b50528693fd1a307ba758aa9a80239510c2e26194ab"
 metafile = true
 
 [[files]]
+file = "mods/cubes-without-borders.pw.toml"
+hash = "5944ed5a779d142aea9ccd8c466a20fa3d9233a29f2be1e5ae54fc15f5edd57e"
+metafile = true
+
+[[files]]
 file = "mods/default-options.pw.toml"
 hash = "907f03677673a5196780b33d0503a15387b181bcf6587b99cd47772e7096b067"
 metafile = true
 
 [[files]]
+file = "mods/draggable-lists.pw.toml"
+hash = "bfe939f563e561df6410a82e9f36ec3793634e470c9b729088072ff8824018ac"
+metafile = true
+
+[[files]]
 file = "mods/durability-tooltip.pw.toml"
 hash = "ab0a2eb7d496c659af26dd31070a778f84a7f88b17fc75fea4ad3e31075bf319"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "db3fa4102f18a949deabf4260b695a068552ed3f43b40a5dbb9ca7cb71a8bd6c"
 metafile = true
 
 [[files]]
@@ -363,7 +378,7 @@ metafile = true
 
 [[files]]
 file = "mods/magiclib.pw.toml"
-hash = "da2e3fe55f77a6985c378e0256c7b601b7bca63572105a764174339fd40a4711"
+hash = "05b25b8fdcb47bdfee83021456d1758bfa5c15bf5b9fcfb500ed863288520f64"
 metafile = true
 
 [[files]]
@@ -453,7 +468,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-core.pw.toml"
-hash = "9b1f2dbaa07862f0130713cd67764ebadbc0419fc3a5f335bd82300425ae0af6"
+hash = "8d6be021a4ecb4e7f97cbfd8deaad7524ff48a5af634247922ad63bd23555b14"
 metafile = true
 
 [[files]]
@@ -489,6 +504,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "830270b8e5a34f5621720ae09c4cf716a65d8003a30d585c8b817aba1fde9ac8"
+metafile = true
+
+[[files]]
+file = "mods/smooth-scroll.pw.toml"
+hash = "25d3b51b6da339f881c52fef43c02358020ed709eb9292f251efa69305bf2edd"
 metafile = true
 
 [[files]]
