@@ -117,11 +117,6 @@ hash = "be371b92fe5c461c432775db53386c4b08616f835aac739fb93c2aaf290b31e6"
 metafile = true
 
 [[files]]
-file = "mods/caxton.pw.toml"
-hash = "5d7dd5ea6cc624a87349607e633c9fe2ff878636dd7a5e2cf954c817158b1cbd"
-metafile = true
-
-[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "9fc6f3e67904d607a85528ceb2d4d1ea97a5807df5bb24c1106070e605c78110"
 metafile = true
@@ -479,11 +474,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/fast-better-grass.pw.toml"
 hash = "3545a5aeece1edd15cf0c31e39e12300110e7feac2f5343b6c209a4ae7d85680"
-metafile = true
-
-[[files]]
-file = "resourcepacks/misans-font.pw.toml"
-hash = "77da2f66d0983eed7adc701c4ff3be2fbf6b33803d114b6a07b0d7bb22c594ea"
 metafile = true
 
 [[files]]

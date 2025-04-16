@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/ModernUI/bootstrap.properties"
+hash = "74a8773cc30d855f12a6bdada154a41e5c49eaa19f31234acd8a9327dabf044b"
+
+[[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
 hash = "32dc5f1d73b05e70f3fc5a18f58c5d81a095484a0f93a1da6d1883966ff4e296"
 
@@ -82,7 +86,7 @@ hash = "b0df40e07391a60294d7bffb9772cabe8096d61c41c8680fbfad927d3a6a5a6b"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "168024ae8eba6c222fd118f56c98c532d646f4eeda2445d8e483a76ed3091f49"
+hash = "e91b13b8a46039cbf00ffd66d3e0ce38482343c8155d1a24cec1e6d4668d6754"
 
 [[files]]
 file = "icon.png"
@@ -148,11 +152,6 @@ hash = "62e99d55c3f95e732fbbb23572c70bd030a6c89f90844b8a74d1e527c0183696"
 metafile = true
 
 [[files]]
-file = "mods/caxton.pw.toml"
-hash = "98dd52e1e1dbd86ef0e8a4feb4083d9882885f8e088a6c4f0cef474ee1354c0e"
-metafile = true
-
-[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "c22a79e12714a5cbef7623b480bf066cd49e5710286abee69e5fc06484f3234e"
 metafile = true
@@ -205,11 +204,6 @@ metafile = true
 [[files]]
 file = "mods/durability-tooltip.pw.toml"
 hash = "a47138a91677a89d84e5ab37da1f501f4770ab07e51ae8ce6fdd27fb2d14f026"
-metafile = true
-
-[[files]]
-file = "mods/dynamic-fps.pw.toml"
-hash = "19183871606b6b95796af7ca4a16b81aa8cf29f22df8bb2fbd8dd6e9a66b5a63"
 metafile = true
 
 [[files]]
@@ -558,11 +552,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/fast-better-grass.pw.toml"
 hash = "3545a5aeece1edd15cf0c31e39e12300110e7feac2f5343b6c209a4ae7d85680"
-metafile = true
-
-[[files]]
-file = "resourcepacks/misans-font.pw.toml"
-hash = "77da2f66d0983eed7adc701c4ff3be2fbf6b33803d114b6a07b0d7bb22c594ea"
 metafile = true
 
 [[files]]
