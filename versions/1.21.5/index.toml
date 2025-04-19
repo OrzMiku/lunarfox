@@ -113,7 +113,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "be371b92fe5c461c432775db53386c4b08616f835aac739fb93c2aaf290b31e6"
+hash = "5e260748e4ca7ff45ed6efb8e23a312c22929a25149a43b09c0c7da18a394dfe"
 metafile = true
 
 [[files]]
@@ -138,7 +138,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "29d7fd038a05dea99cccce69c2141862ef0cfd430cc09bba4a2e90a1898435cf"
+hash = "b37d9f4fb121ed3f9e766cebf90007f9ed73cd082571772364deb6a05f8d2123"
 metafile = true
 
 [[files]]
@@ -273,7 +273,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "c3fda5f4bda7791d585772f6164efa57e78c70308f3f3beb32ae49271fc084a9"
+hash = "4847958325b3120f07c26395f42a2710154b73105a1d3dc89ad7553404f60014"
 metafile = true
 
 [[files]]
@@ -282,8 +282,8 @@ hash = "3c99ce9501ba667070c8cb9a44adfcef91b071983d3ab565acb11cca93469820"
 metafile = true
 
 [[files]]
-file = "mods/litematica-fabric-1.21.5-0.22.0-sakura.6.jar"
-hash = "197502a1154f7ec313ccfec805820fc2e63dc8b394cd0af226ed1bd458b2b540"
+file = "mods/litematica-fabric-1.21.5-0.22.0-sakura.8.jar"
+hash = "a2309ef50f86d2910e5b9928ace1e29b0e9919ae1d946679de696d38468f24bd"
 
 [[files]]
 file = "mods/lithium.pw.toml"
@@ -483,5 +483,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "c7fba5f4fcf669b23a37865cf687bce857f1f7295c8ec1fb7620583dee9625d3"
+hash = "6fed808df2d693d4e2b5e75e5080e3b1e3dbf0c644cacaf46b8ea3cc919a522b"
 metafile = true

@@ -348,7 +348,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "b4f42a6d80526e217e9f0f9fa698f6ef81697b94880803bcd5a14dd284bcb4b6"
+hash = "0bba28a22142b66cfcd3571316091e3d2c91ae8132fabb014b5666e8144b63f5"
 metafile = true
 
 [[files]]
@@ -378,7 +378,7 @@ metafile = true
 
 [[files]]
 file = "mods/masa-gadget.pw.toml"
-hash = "5fdba4d0cade069ce69195b4d694060d9a970c1b32c7c5e3859680eb92f633c5"
+hash = "e36fc805b7cbcaef8e4db611d601b6d6f07e71479104ad6e0a41112a6c0ce490"
 metafile = true
 
 [[files]]
@@ -593,5 +593,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "c7fba5f4fcf669b23a37865cf687bce857f1f7295c8ec1fb7620583dee9625d3"
+hash = "6fed808df2d693d4e2b5e75e5080e3b1e3dbf0c644cacaf46b8ea3cc919a522b"
 metafile = true
