@@ -74,7 +74,7 @@ def setup_logging(log_file: pathlib.Path, verbose: bool) -> None:
     Args:
         log_file: Path to the log file.
         verbose: If True, set console level to DEBUG, otherwise INFO.
-                 File logger is always DEBUG.
+                File logger is always DEBUG.
     """
     console_log_level = logging.DEBUG if verbose else logging.INFO
     # Set root logger level to the lowest level handled (DEBUG)
@@ -165,9 +165,9 @@ def scan_directory(
     # Check target directory existence once
     target_exists = target_dir.is_dir()
     if not target_exists:
-         logging.debug(f"{item_kind.capitalize()} target directory does not exist: {target_dir}. Cannot check for existing items.")
-         # If target doesn't exist, we can't compare, but packwiz add will fail anyway later if dir is needed.
-         # Scan proceeds, but existence check is skipped.
+        logging.debug(f"{item_kind.capitalize()} target directory does not exist: {target_dir}. Cannot check for existing items.")
+        # If target doesn't exist, we can't compare, but packwiz add will fail anyway later if dir is needed.
+        # Scan proceeds, but existence check is skipped.
 
     logging.info(f"Comparing against target directory: {target_dir}")
     try:
@@ -175,8 +175,8 @@ def scan_directory(
             # Basic filtering (ensure it's a file with relevant suffix, though the primary
             # identifier will be the base name derived from it).
             if not entry.is_file() or not entry.name.endswith(suffixes):
-                 logging.debug(f"Skipping non-matching entry: {entry.name}")
-                 continue
+                logging.debug(f"Skipping non-matching entry: {entry.name}")
+                continue
 
             base_name = get_base_name(entry)
             if not base_name: # Should not happen with current get_base_name logic, but defensive check
@@ -193,7 +193,7 @@ def scan_directory(
                 # Log even if target doesn't exist, indicates potential addition
                 logging.info(f"Found potential new {item_kind}: {entry.name} (Base: {base_name})")
                 if base_name not in new_item_names: # Avoid duplicates if source has both .jar and .pw.toml
-                     new_item_names.append(base_name)
+                    new_item_names.append(base_name)
 
     except OSError as e:
         logging.error(f"Error reading source directory '{source_dir}': {e}")
@@ -248,9 +248,9 @@ def confirm_addition(names: List[str], skip_confirmation: bool) -> bool:
             logging.warning("Confirmation aborted by user (EOF).")
             return False
         except KeyboardInterrupt: # Handle Ctrl+C
-             print("\nConfirmation interrupted.")
-             logging.warning("Confirmation interrupted by user (KeyboardInterrupt).")
-             return False
+            print("\nConfirmation interrupted.")
+            logging.warning("Confirmation interrupted by user (KeyboardInterrupt).")
+            return False
 
 
 def run_packwiz_command(
@@ -310,10 +310,10 @@ def run_packwiz_command(
 
             # Log stdout/stderr regardless of success for debugging
             if stdout:
-                 logging.debug(f"packwiz stdout for '{item_name}':\n{stdout.strip()}")
+                logging.debug(f"packwiz stdout for '{item_name}':\n{stdout.strip()}")
             if stderr:
-                 # Log stderr as warning even on success, as it might contain useful info
-                 logging.warning(f"packwiz stderr for '{item_name}':\n{stderr.strip()}")
+                # Log stderr as warning even on success, as it might contain useful info
+                logging.warning(f"packwiz stderr for '{item_name}':\n{stderr.strip()}")
 
             # Check return code *after* logging output
             if proc.returncode == 0:
@@ -333,19 +333,19 @@ def run_packwiz_command(
                 return False, output
 
         except FileNotFoundError:
-             error_message = f"'{packwiz_exe}' command not found. Make sure it's installed and in the system PATH or provide the full path via --packwiz-cmd."
-             logging.critical(error_message) # Critical error: environment setup issue
-             return False, error_message # No point retrying
+            error_message = f"'{packwiz_exe}' command not found. Make sure it's installed and in the system PATH or provide the full path via --packwiz-cmd."
+            logging.critical(error_message) # Critical error: environment setup issue
+            return False, error_message # No point retrying
         except subprocess.TimeoutExpired:
             # Ensure the process is terminated
             proc.kill()
             # Attempt to capture any final output fragments (optional, best effort)
             try:
-                 stdout_frag, stderr_frag = proc.communicate(timeout=1)
-                 if stdout_frag: logging.warning(f"Timeout stdout fragment for '{item_name}':\n{stdout_frag.strip()}")
-                 if stderr_frag: logging.warning(f"Timeout stderr fragment for '{item_name}':\n{stderr_frag.strip()}")
+                stdout_frag, stderr_frag = proc.communicate(timeout=1)
+                if stdout_frag: logging.warning(f"Timeout stdout fragment for '{item_name}':\n{stdout_frag.strip()}")
+                if stderr_frag: logging.warning(f"Timeout stderr fragment for '{item_name}':\n{stderr_frag.strip()}")
             except Exception: # Catch errors during the post-timeout communicate
-                 logging.warning(f"Could not get final output fragments for '{item_name}' after timeout kill.")
+                logging.warning(f"Could not get final output fragments for '{item_name}' after timeout kill.")
 
             timeout_message = f"Command timed out after {timeout}s for '{item_name}'"
             if attempt < max_retries:
@@ -503,18 +503,18 @@ def main() -> int:
         if not source_root.is_absolute():
             source_root = (script_cwd / source_root).resolve()
         if not source_root.is_dir():
-             print(f"Error: Source root directory not found: {source_root}", file=sys.stderr)
-             return 1
+            print(f"Error: Source root directory not found: {source_root}", file=sys.stderr)
+            return 1
 
         packwiz_dir = pathlib.Path(args.packwiz_dir)
         if not packwiz_dir.is_absolute():
-             packwiz_dir = (script_cwd / packwiz_dir).resolve()
+            packwiz_dir = (script_cwd / packwiz_dir).resolve()
         if not packwiz_dir.is_dir():
-             print(f"Error: Packwiz project directory not found: {packwiz_dir}", file=sys.stderr)
-             return 1
+            print(f"Error: Packwiz project directory not found: {packwiz_dir}", file=sys.stderr)
+            return 1
         if not (packwiz_dir / 'pack.toml').is_file():
-             print(f"Error: Packwiz directory '{packwiz_dir}' does not contain a pack.toml file.", file=sys.stderr)
-             return 1
+            print(f"Error: Packwiz directory '{packwiz_dir}' does not contain a pack.toml file.", file=sys.stderr)
+            return 1
 
         log_dir_path = pathlib.Path(args.log_dir)
         if not log_dir_path.is_absolute():

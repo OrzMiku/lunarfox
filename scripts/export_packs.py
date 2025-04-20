@@ -59,7 +59,7 @@ def setup_logging(log_file: pathlib.Path, verbose: bool) -> None:
     Args:
         log_file: Path to the log file.
         verbose: If True, set console level to DEBUG, otherwise INFO.
-                 File logger is always DEBUG.
+                File logger is always DEBUG.
     """
     console_log_level = logging.DEBUG if verbose else logging.INFO
     # Set root logger level to the lowest level handled (DEBUG)
@@ -193,10 +193,10 @@ def run_packwiz_export(
 
         # Log stdout/stderr regardless of success for debugging
         if result.stdout:
-             logging.debug(f"packwiz stdout:\n{result.stdout.strip()}")
+            logging.debug(f"packwiz stdout:\n{result.stdout.strip()}")
         if result.stderr:
-             # Log stderr as warning even on success, as it might contain useful info
-             logging.warning(f"packwiz stderr:\n{result.stderr.strip()}")
+            # Log stderr as warning even on success, as it might contain useful info
+            logging.warning(f"packwiz stderr:\n{result.stderr.strip()}")
 
         # Check return code *after* logging output
         if result.returncode != 0:
@@ -266,8 +266,8 @@ def rename_mrpack(mrpack_file: pathlib.Path, commit_hash: Optional[str]) -> Opti
 
     # Prevent adding hash if it seems already present (simple check)
     if safe_hash in base_name:
-         logging.info(f"Commit hash '{safe_hash}' seems to already be in filename '{mrpack_file.name}', skipping rename.")
-         return mrpack_file
+        logging.info(f"Commit hash '{safe_hash}' seems to already be in filename '{mrpack_file.name}', skipping rename.")
+        return mrpack_file
 
     new_name = f"{base_name}-{safe_hash}{extension}"
     new_path = mrpack_file.with_name(new_name)

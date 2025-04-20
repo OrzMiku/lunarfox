@@ -62,7 +62,7 @@ def setup_logging(log_file: pathlib.Path, verbose: bool) -> None:
     Args:
         log_file: Path to the log file.
         verbose: If True, set console level to DEBUG, otherwise INFO.
-                 File logger is always DEBUG.
+                File logger is always DEBUG.
     """
     console_log_level = logging.DEBUG if verbose else logging.INFO
     root_logger = logging.getLogger()
@@ -182,9 +182,9 @@ def run_packwiz_update(
             stdout, stderr = process.communicate()
             logging.error(f"'{cmd_str}' timed out after {timeout} seconds in '{version_dir}'.")
             if stdout:
-                 logging.debug(f"packwiz stdout (before timeout):\n{stdout.strip()}")
+                logging.debug(f"packwiz stdout (before timeout):\n{stdout.strip()}")
             if stderr:
-                 logging.warning(f"packwiz stderr (before timeout):\n{stderr.strip()}")
+                logging.warning(f"packwiz stderr (before timeout):\n{stderr.strip()}")
             return False # Indicate failure
 
         # Log stdout/stderr after completion
