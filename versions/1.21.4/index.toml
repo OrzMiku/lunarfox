@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/ModernUI/bootstrap.properties"
-hash = "74a8773cc30d855f12a6bdada154a41e5c49eaa19f31234acd8a9327dabf044b"
-
-[[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
 hash = "32dc5f1d73b05e70f3fc5a18f58c5d81a095484a0f93a1da6d1883966ff4e296"
 
@@ -118,7 +114,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "08a4039bac6efd14b5257ac3df87680568d1372d4ab693e03a8aab88361580b9"
+hash = "20c9fdba8a7c8542d98ad0b0af22a81ab0d2caa1d9a09490e716ddf8255ad65b"
 metafile = true
 
 [[files]]

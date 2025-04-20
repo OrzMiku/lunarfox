@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "c4176fac05e1024f0badb12610d7930085ec526b3f208eab8f0a61d7773bb4f8"
+hash = "9d2e2634ad3f8642ee01bb1b4fbfd79f7f7baf6f1e718f2932396ab3a47653a3"
 metafile = true
 
 [[files]]
@@ -457,7 +457,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "4d57ceb87aa43fb6e35d006f42834976ddb4acedf33e5c46b66685bb4b7f6d7e"
+hash = "9396d9a51a10010f62b45b265a7bed369e0c6f6850f462636e96948044f69966"
 metafile = true
 
 [[files]]
