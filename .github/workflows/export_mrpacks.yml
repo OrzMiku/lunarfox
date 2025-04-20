@@ -51,7 +51,7 @@ jobs:
 
       - name: Run Export Script
         run: |
-          python export_packs.py ${{ steps.vars.outputs.sha_short }} \
+          python scripts/export_packs.py ${{ steps.vars.outputs.sha_short }} \
             --versions-dir ${{ env.VERSIONS_DIR }} \
             --log-dir ${{ env.LOG_DIR }} \
             --verbose
