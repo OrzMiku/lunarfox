@@ -36,8 +36,9 @@ jobs:
         run: |
           echo "Verifying packwiz command..."
           which packwiz
-          packwiz version || (echo "❌ ERROR: packwiz command not found after installation attempt!" && exit 1)
-          echo "✅ packwiz command found and working."
+          # Use 'packwiz --help' as a simple check that the command runs successfully
+          packwiz --help || (echo "❌ ERROR: packwiz command failed to execute!" && exit 1)
+          echo "✅ packwiz command appears to be working."
 
       - name: Set up Python
         uses: actions/setup-python@v5
