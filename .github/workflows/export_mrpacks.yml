@@ -1,0 +1,64 @@
+name: Export Modpacks
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+env:
+  VERSIONS_DIR: versions
+  LOG_DIR: logs
+
+jobs:
+  export-and-upload:
+    name: Export and Upload Modpacks
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: '1.21'
+
+      - name: Install packwiz
+        run: |
+          echo "Installing packwiz..."
+          go install github.com/packwiz/packwiz@latest
+          echo "Adding Go binary paths to GITHUB_PATH..."
+          echo "$(go env GOPATH)/bin" >> $GITHUB_PATH
+          echo "$HOME/go/bin" >> $GITHUB_PATH
+
+      - name: Verify packwiz installation
+        run: |
+          echo "Verifying packwiz command..."
+          which packwiz
+          packwiz version || (echo "❌ ERROR: packwiz command not found after installation attempt!" && exit 1)
+          echo "✅ packwiz command found and working."
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Get short commit hash
+        id: vars
+        run: echo "sha_short=$(git rev-parse --short HEAD)" >> $GITHUB_OUTPUT
+
+      - name: Run Export Script
+        run: |
+          python export_packs.py ${{ steps.vars.outputs.sha_short }} \
+            --versions-dir ${{ env.VERSIONS_DIR }} \
+            --log-dir ${{ env.LOG_DIR }} \
+            --verbose
+
+      - name: Upload Modpack Artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: lunarfox-snapshot-${{ steps.vars.outputs.sha_short }}
+          path: ${{ env.VERSIONS_DIR }}/**/*.mrpack
+          if-no-files-found: error
+          retention-days: 30
