@@ -5,6 +5,4 @@
 *.mrpack
 
 # Other files
-tools/
-list*.txt
-log*.txt
+*.log
