@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "9d2e2634ad3f8642ee01bb1b4fbfd79f7f7baf6f1e718f2932396ab3a47653a3"
+hash = "ddddb56ff70d64c6b46a9e17d129ebe9b4d234f873b14e955ee6b4be28318bf9"
 metafile = true
 
 [[files]]
@@ -277,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "4847958325b3120f07c26395f42a2710154b73105a1d3dc89ad7553404f60014"
+hash = "4f91b0b457fcd875c378c1ab161ac57fbbfb06f5a99ca97c606addb6d6daa6c4"
 metafile = true
 
 [[files]]
@@ -286,8 +286,9 @@ hash = "3c99ce9501ba667070c8cb9a44adfcef91b071983d3ab565acb11cca93469820"
 metafile = true
 
 [[files]]
-file = "mods/litematica-fabric-1.21.5-0.22.0-sakura.8.jar"
-hash = "a2309ef50f86d2910e5b9928ace1e29b0e9919ae1d946679de696d38468f24bd"
+file = "mods/litematica.pw.toml"
+hash = "c28270c5094622e397e0c3b63a6bbea8f4728f13131dcbb57092cb8248716d54"
+metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
@@ -300,8 +301,9 @@ hash = "26321734fbf69e0134856df1af2a16897b9b9aa3366bde85667a6dab2e2dc6fc"
 metafile = true
 
 [[files]]
-file = "mods/malilib-fabric-1.21.5-0.24.0-sakura.7.jar"
-hash = "bf69e011a6f797898008e6467bbeb4e88d5594c5a370268c9d23bd7db583bde9"
+file = "mods/malilib.pw.toml"
+hash = "5a37ce08c65a93e7b4299631b5544c590a6c69028071e9ce06eef57c4f434555"
+metafile = true
 
 [[files]]
 file = "mods/masa-gadget-dev.pw.toml"
@@ -315,12 +317,13 @@ metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "33ee37bdfc014335d6789dd4daa1d8966163487eb328c9eda4b126a8e2801539"
+hash = "77c1125246a7662f4674018015a8c67152af405b7a3abe9cb249ebb36a264ea5"
 metafile = true
 
 [[files]]
-file = "mods/minihud-fabric-1.21.5-0.35.0-sakura.7.jar"
-hash = "19e62001ab7fecefee9b7ff9a23995908badfdc197627746ead975c576c827f1"
+file = "mods/minihud.pw.toml"
+hash = "72f88706e6540c9feb5e429db69eb63a1c26ead1e60a656f780f2305a45ab872"
+metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
@@ -437,8 +440,9 @@ hash = "ff0d87064f466d6dfa5151178cb805cea4169a6e85f47913b462758262a78024"
 metafile = true
 
 [[files]]
-file = "mods/tweakeroo-fabric-1.21.5-0.24.0-sakura.5.jar"
-hash = "0654e7c94e1b1566ecb915821e78bc4ecb170a5087ce18c7c3fd01a93cd14893"
+file = "mods/tweakeroo.pw.toml"
+hash = "b81951c3a84a39e148433adf2c4d721a004d6ede7c103f0d3d0f44bee7e0e3ff"
+metafile = true
 
 [[files]]
 file = "mods/viafabricplus.pw.toml"
@@ -457,12 +461,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "f1523a7f11b8a894313062ff7b4cf6d856c10acbbc62a55cd22152eab51976a5"
+hash = "c6882c758dc6cadb98d476f199cad6aaccd1664ea4bd1bcfbf94afd496815a7c"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "926ed5de25641c4b2e7335be89fff5c116fc9330dd131f6c62ed8a8cb0ff36f0"
+hash = "46ab58f542323ab1bc92744d9ddd6ff0ba277a5c6250730bb88ba6ff2e101da7"
 metafile = true
 
 [[files]]

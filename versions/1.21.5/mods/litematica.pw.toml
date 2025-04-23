@@ -1,0 +1,13 @@
+name = "Litematica"
+filename = "litematica-fabric-1.21.5-0.22.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/bEpr0Arc/versions/WditPaDO/litematica-fabric-1.21.5-0.22.0.jar"
+hash-format = "sha512"
+hash = "aa9421a54c6eb38796ec4e6960cc09188c05f0853efddaf389693b654a8ffa762bd4d5fb6a26b57df080e2b2c09288dcd7e85e6a670179a5c0fbf07ed74bf4f7"
+
+[update]
+[update.modrinth]
+mod-id = "bEpr0Arc"
+version = "WditPaDO"
