@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "ddddb56ff70d64c6b46a9e17d129ebe9b4d234f873b14e955ee6b4be28318bf9"
+hash = "f3cc395cc784c7dd37910c6d3665eb3cb01606d1d4d50599f22fb400416e0d0c"
 metafile = true
 
 [[files]]
@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "f08f24336232a13e6a898549a796c914f9a82ea4152e1b67f4099cd64c5b3677"
+hash = "b76a42634708684b630a18fb517239a3b6c2a4b545dab3c740bdd6ea5bf27884"
 metafile = true
 
 [[files]]
@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatpatches.pw.toml"
-hash = "82597263b3f053dba289a782be0ea0e22b0b624c4f57e9e230f66592ca3db25d"
+hash = "c1a20b2bba51cb198384a2bf098fa393351701221b763cc3059a297e77d2dc0d"
 metafile = true
 
 [[files]]
