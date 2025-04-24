@@ -1,0 +1,29 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Update Packs",
+            "type": "process",
+            "command": "python",
+            "args": [
+                "${workspaceFolder}/scripts/update_packs.py",
+            ],
+            "options": {
+                "cwd": "${workspaceFolder}"
+            },
+            "problemMatcher": []
+        },
+        {
+            "label": "Export Packs",
+            "type": "process",
+            "command": "python",
+            "args": [
+                "${workspaceFolder}/scripts/export_packs.py",
+            ],
+            "options": {
+                "cwd": "${workspaceFolder}"
+            },
+            "problemMatcher": []
+        }
+    ]
+}
