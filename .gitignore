@@ -6,3 +6,6 @@
 
 # Other files
 *.log
+
+# Python cache files
+__pycache__/

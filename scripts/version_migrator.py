@@ -3,26 +3,51 @@
 
 import argparse
 import logging
-import os
 import pathlib
 import subprocess
 import sys
 import time
 from datetime import datetime
-from typing import List, Optional, Tuple, Set
+from typing import List, Optional, Tuple, Dict, Any
 
-# --- Constants ---
+# --- TOML Parsing Import ---
+# Try importing tomllib (Python 3.11+) first, then fall back to tomli
+try:
+    import tomllib
+    _TOML_LOADER = tomllib.load
+    _TOML_LIB_NAME = "tomllib"
+except ImportError:
+    try:
+        import tomli
+        _TOML_LOADER = tomli.load
+        _TOML_LIB_NAME = "tomli"
+    except ImportError:
+        _TOML_LOADER = None
+        _TOML_LIB_NAME = None
+        # Warning will be logged later if TOML parsing is attempted
+
+# --- Shared Utilities Import ---
+try:
+    from script_utils import (
+        setup_logging, resolve_path,
+        DEFAULT_LOG_DIR_NAME, DEFAULT_PACKWIZ_COMMAND,
+        LOG_FORMAT, CONSOLE_DATE_FORMAT, FILE_LOG_DATE_FORMAT # Keep LOG_FORMAT etc. if setup_logging uses them directly
+    )
+except ImportError as e:
+    print(f"Error: Failed to import from script_utils.py. Make sure it exists in the 'scripts' directory. Details: {e}", file=sys.stderr)
+    sys.exit(1)
+
+
+# --- Script Specific Constants ---
 # Default directory names (relative to source_root or packwiz_dir)
 DEFAULT_MODS_DIR_NAME = "mods"
 DEFAULT_RESOURCEPACKS_DIR_NAME = "resourcepacks"
-DEFAULT_LOG_DIR_NAME = "logs" # Relative to CWD by default
 
 # File suffixes to scan for
 MOD_SUFFIXES: Tuple[str, ...] = ('.pw.toml', '.jar')
 RESOURCEPACK_SUFFIXES: Tuple[str, ...] = ('.pw.toml',) # Usually only managed via pw.toml
 
 # Packwiz command details
-DEFAULT_PACKWIZ_COMMAND = "packwiz" # Base command, specific args added later
 PACKWIZ_BASE_ARGS = ["mr", "add"]
 PACKWIZ_CONFIRM_INPUT: str = 'Y\n' # Input to send for confirmation prompts
 
@@ -30,86 +55,54 @@ PACKWIZ_CONFIRM_INPUT: str = 'Y\n' # Input to send for confirmation prompts
 DEFAULT_MAX_RETRIES: int = 3
 DEFAULT_CMD_TIMEOUT: int = 60 # Increased default timeout
 
-# Logging formats
-LOG_FORMAT = "[%(asctime)s][%(levelname)s] %(message)s"
-CONSOLE_DATE_FORMAT = "%H:%M:%S" # Use simpler format for console
-FILE_LOG_DATE_FORMAT = "%Y-%m-%d %H:%M:%S" # More detailed for file
-
-# --- Color Formatter Class (Borrowed from Script 1 / Original Script 2) ---
-class ColorFormatter(logging.Formatter):
-    """
-    A logging formatter that adds ANSI color codes to log levels and timestamp
-    for console output.
-    """
-    LEVEL_COLORS = {
-        logging.DEBUG:    '\033[36m',  # Cyan
-        logging.INFO:     '\033[32m',  # Green
-        logging.WARNING:  '\033[33m',  # Yellow
-        logging.ERROR:    '\033[31m',  # Red
-        logging.CRITICAL: '\033[1;31m', # Bold Red
-    }
-    TIMESTAMP_COLOR = '\033[90m' # Dim Gray for timestamp
-    RESET = '\033[0m'
-
-    def formatTime(self, record: logging.LogRecord, datefmt: Optional[str] = None) -> str:
-        """Formats the timestamp and adds color."""
-        formatted_time = super().formatTime(record, datefmt)
-        return f"{self.TIMESTAMP_COLOR}{formatted_time}{self.RESET}"
-
-    def format(self, record: logging.LogRecord) -> str:
-        """Formats the log record with colors for level and timestamp."""
-        level_color = self.LEVEL_COLORS.get(record.levelno, '')
-        original_levelname = record.levelname
-        record.levelname = f"{level_color}{original_levelname}{self.RESET}"
-        formatted_message = super().format(record)
-        # Restore original levelname (good practice)
-        record.levelname = original_levelname
-        return formatted_message
-
-# --- Logging Setup Function (Adapted from Script 1) ---
-def setup_logging(log_file: pathlib.Path, verbose: bool) -> None:
-    """
-    Configures root logger for file and console output.
-
-    Args:
-        log_file: Path to the log file.
-        verbose: If True, set console level to DEBUG, otherwise INFO.
-                File logger is always DEBUG.
-    """
-    console_log_level = logging.DEBUG if verbose else logging.INFO
-    # Set root logger level to the lowest level handled (DEBUG)
-    # Clear existing handlers to prevent duplication if called multiple times
-    root_logger = logging.getLogger()
-    if root_logger.hasHandlers():
-        root_logger.handlers.clear()
-    root_logger.setLevel(logging.DEBUG)
-
-    # File Handler (detailed, no color, logs everything from DEBUG up)
-    try:
-        # Ensure log directory exists
-        log_file.parent.mkdir(parents=True, exist_ok=True)
-        fh = logging.FileHandler(log_file, encoding='utf-8', mode='a')
-        fh.setLevel(logging.DEBUG)
-        fh.setFormatter(logging.Formatter(LOG_FORMAT, datefmt=FILE_LOG_DATE_FORMAT))
-        root_logger.addHandler(fh)
-        # Log the file path *after* adding the handler
-        logging.debug(f"Logging detailed output to file: {log_file}")
-    except (IOError, OSError) as e:
-        # Use print as logging might not be fully set up for file output yet
-        print(f"Warning: Could not configure file logging to {log_file}: {e}", file=sys.stderr)
-        # Continue without file logging if it fails
-
-    # Console Handler (colored, level depends on verbosity, outputs to stdout)
-    ch = logging.StreamHandler(sys.stdout) # Log informational messages to stdout
-    ch.setLevel(console_log_level) # Set level based on verbose flag
-    ch.setFormatter(ColorFormatter(LOG_FORMAT, datefmt=CONSOLE_DATE_FORMAT))
-    root_logger.addHandler(ch)
-
-    # Prevent noisy libraries (if any were used) from flooding logs - good practice
-    logging.getLogger("requests").setLevel(logging.WARNING)
-    logging.getLogger("urllib3").setLevel(logging.WARNING)
 
 # --- Core Logic ---
+
+def _get_packwiz_target_dirs(packwiz_dir: pathlib.Path) -> Tuple[str, str]:
+    """
+    Attempts to read mods and resourcepacks directory names from pack.toml.
+    Falls back to defaults if pack.toml is missing, invalid, or TOML library is unavailable.
+
+    Args:
+        packwiz_dir: The path to the packwiz project directory.
+
+    Returns:
+        A tuple containing (mods_dir_name, resourcepacks_dir_name).
+    """
+    pack_toml_path = packwiz_dir / "pack.toml"
+    mods_folder = DEFAULT_MODS_DIR_NAME
+    resourcepacks_folder = DEFAULT_RESOURCEPACKS_DIR_NAME
+
+    if not _TOML_LOADER:
+        logging.warning("No TOML library (tomllib or tomli) found. Using default target directory names "
+                        f"('{DEFAULT_MODS_DIR_NAME}', '{DEFAULT_RESOURCEPACKS_DIR_NAME}'). "
+                        "Install 'tomli' (pip install tomli) on Python < 3.11 for dynamic detection.")
+        return mods_folder, resourcepacks_folder
+
+    if not pack_toml_path.is_file():
+        logging.warning(f"pack.toml not found in '{packwiz_dir}'. Using default target directory names.")
+        return mods_folder, resourcepacks_folder
+
+    logging.info(f"Attempting to read target directories from '{pack_toml_path}' using {_TOML_LIB_NAME}.")
+    try:
+        with open(pack_toml_path, "rb") as f: # TOML loaders expect binary mode
+            pack_data: Dict[str, Any] = _TOML_LOADER(f)
+
+        # Safely access nested keys
+        meta_section = pack_data.get("meta", {})
+        mods_folder = meta_section.get("mods-folder", DEFAULT_MODS_DIR_NAME)
+        resourcepacks_folder = meta_section.get("resourcepacks-folder", DEFAULT_RESOURCEPACKS_DIR_NAME)
+
+        logging.info(f"Determined target directories from pack.toml: mods='{mods_folder}', resourcepacks='{resourcepacks_folder}'")
+
+    except Exception as e: # Catch potential TOML parsing errors or other issues
+        logging.error(f"Failed to read or parse '{pack_toml_path}': {e}. Falling back to default target directory names.")
+        # Reset to defaults just in case they were partially modified before error
+        mods_folder = DEFAULT_MODS_DIR_NAME
+        resourcepacks_folder = DEFAULT_RESOURCEPACKS_DIR_NAME
+
+    return mods_folder, resourcepacks_folder
+
 
 def get_base_name(path: pathlib.Path) -> str:
     """
@@ -234,7 +227,7 @@ def confirm_addition(names: List[str], skip_confirmation: bool) -> bool:
     while True:
         try:
             # Use raw string for prompt to avoid interpreting backslashes
-            ans = input(r"\nProceed with 'packwiz mr add' for these items? [y/N]: ").strip().lower()
+            ans = input(r"Proceed with 'packwiz mr add' for these items? [y/N]: ").strip().lower()
             if ans in ('y', 'yes'):
                 logging.info("User confirmed addition.")
                 return True
@@ -429,11 +422,21 @@ def main() -> int:
     """
     Main function to parse arguments and orchestrate the packwiz import process.
 
+    IMPORTANT: This script assumes that the filenames in the source directories
+    (e.g., `source_root/mods/some-mod.jar` or `source_root/mods/another-mod.pw.toml`)
+    correspond directly to the Modrinth/CurseForge slug or ID required by
+    `packwiz mr add` after removing the `.jar` or `.pw.toml` suffix.
+    Ensure your source files are named appropriately.
+
     Returns:
         Exit code (0 for success, 1 for errors).
     """
     parser = argparse.ArgumentParser(
-        description='Scans source directories and adds new mods/resourcepacks to a packwiz instance using `packwiz mr add`.',
+        description=(
+            'Scans source directories and adds new mods/resourcepacks to a packwiz instance '
+            'using `packwiz mr add`. Assumes source filenames (minus suffix) are valid '
+            'Modrinth/CurseForge slugs/IDs.'
+        ),
         formatter_class=argparse.ArgumentDefaultsHelpFormatter
         )
     parser.add_argument(
@@ -461,13 +464,13 @@ def main() -> int:
     parser.add_argument(
         '--packwiz-cmd',
         type=str,
-        default=DEFAULT_PACKWIZ_COMMAND,
+        default=DEFAULT_PACKWIZ_COMMAND, # Use shared constant
         help="Path or command name for the packwiz executable."
         )
     parser.add_argument(
         '--log-dir',
         type=str,
-        default=DEFAULT_LOG_DIR_NAME,
+        default=DEFAULT_LOG_DIR_NAME, # Use shared constant
         help='Directory to store log files (relative to CWD or absolute).'
         )
     parser.add_argument(
