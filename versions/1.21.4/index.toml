@@ -109,7 +109,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "fe5f1014f6711013213e118c9defb3c41357d0ebdaa658f15d35c76839e419a0"
+hash = "57c157ebf3f36495fa14668c3906e70726a83564c7d0071507fc85baa106626c"
 metafile = true
 
 [[files]]
@@ -344,7 +344,7 @@ metafile = true
 
 [[files]]
 file = "mods/masa-gadget-dev.pw.toml"
-hash = "1130be987a2c96f639470a09119baf9ca588c8ed26567c0d983470b27340d96a"
+hash = "df01fb244c8e6072733a0ec5894bbe588ca7f420e936c6cb64a98581934e6046"
 metafile = true
 
 [[files]]
@@ -512,7 +512,7 @@ metafile = true
 
 [[files]]
 file = "mods/viafabricplus.pw.toml"
-hash = "811a798221c7c9d01aa879f7b0a6c7c5609141317d3b069301d98d4bc915273f"
+hash = "d5a6f65c0a04360a54bf687bcdc429d5ff9399c15e832e9f6a43efcbfba2ec01"
 metafile = true
 
 [[files]]

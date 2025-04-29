@@ -118,7 +118,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "e0cf59ae504142b4c4e6e702cc3209e0d6c37ca428d6d0b15a40d430c0b4364d"
+hash = "adf5896d6329adf0234a6ff63e6b7244c9fb3b304c1f6f4f7bdb44b72d38bb36"
 metafile = true
 
 [[files]]
@@ -378,7 +378,7 @@ metafile = true
 
 [[files]]
 file = "mods/masa-gadget.pw.toml"
-hash = "e36fc805b7cbcaef8e4db611d601b6d6f07e71479104ad6e0a41112a6c0ce490"
+hash = "c9ba6989c2601cbfea69ea0544dd6288e328c977a750e76d7c30be8c152b4961"
 metafile = true
 
 [[files]]
