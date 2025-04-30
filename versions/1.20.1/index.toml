@@ -85,6 +85,10 @@ file = "config/yosbr/config/xaerominimap.txt"
 hash = "805d874877e6bb962ac09c250b3d2a084ec599b2242dd1fa36860623c2024890"
 
 [[files]]
+file = "config/yosbr/config/xaeroplus.txt"
+hash = "b7c5f9eae2724e1da18af59e9369ddfd9d7b1c437ec6517603f22f0ff3bfcd3a"
+
+[[files]]
 file = "config/yosbr/config/xaeroworldmap.txt"
 hash = "b0df40e07391a60294d7bffb9772cabe8096d61c41c8680fbfad927d3a6a5a6b"
 
@@ -147,8 +151,18 @@ hash = "c4c11bc748458978b676b2a5cef87b5b8548c2289e9c199f225f941fb1593c9d"
 metafile = true
 
 [[files]]
+file = "mods/better-third-person.pw.toml"
+hash = "6d7c5793f88c52421dc11f48b3bf12400e7a451b9297e80fe33b776cc2af2c1d"
+metafile = true
+
+[[files]]
 file = "mods/betteraddserver.pw.toml"
 hash = "fa61d57519670b9b42eddcf31e9edce79d15275a536501c43257030fbf54c789"
+metafile = true
+
+[[files]]
+file = "mods/bobby.pw.toml"
+hash = "62392ad801b58819a5821bdbde21686cf338cf0416ece1721db551f8d2497db3"
 metafile = true
 
 [[files]]
@@ -352,6 +366,11 @@ hash = "d7cf7b5f76fdd8f9c63a95c9d82bce7162321232675b53d7b54aebaf537d70e0"
 metafile = true
 
 [[files]]
+file = "mods/language-reload.pw.toml"
+hash = "e2e40b63c7c0aff577b89078a3205cb3ddc773b5c648e2beefe0883efa18e40d"
+metafile = true
+
+[[files]]
 file = "mods/libipn.pw.toml"
 hash = "cc298019c2d3a47a97e72363b942fe408e5ecb7ff476fe08155793f2f1578317"
 metafile = true
@@ -368,7 +387,7 @@ metafile = true
 
 [[files]]
 file = "mods/magiclib.pw.toml"
-hash = "05b25b8fdcb47bdfee83021456d1758bfa5c15bf5b9fcfb500ed863288520f64"
+hash = "98178c5569586dfba6521fc93e1bf46ae88c0b37dfef1e0d6858f8c827d769af"
 metafile = true
 
 [[files]]
@@ -472,6 +491,11 @@ hash = "19ffee4641700ca73e541a59638b0798a2d8fd66b5541d3fbc24a32ca7b62be1"
 metafile = true
 
 [[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "a9769ced0531122518321833966d375196753db1c3a47b975aed4bb6837fae7a"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "4a7d1e46795d2d83b18db85d8dbc63740a1d337e12d2b9e550378de59f2b23ab"
 metafile = true
@@ -489,6 +513,11 @@ metafile = true
 [[files]]
 file = "mods/resourcify.pw.toml"
 hash = "b6db84c2fde960f8c358e510a1c9972a0903ff03ed0d004042b2fdf31ac08210"
+metafile = true
+
+[[files]]
+file = "mods/rrls.pw.toml"
+hash = "83164a6af3923e28cadf9d404f059bf74aa4f0842fc1ca0f6e7cf1e686044875"
 metafile = true
 
 [[files]]
@@ -514,6 +543,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "ecf8e1df2361e5f1d090f83eee16c449ff1021dfb2da46474a72726406d5d535"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "d2fbb82f0d2b6112b8b941bb25d7a3bd00deeb6cff220a13feb1248f42ef64d7"
 metafile = true
 
 [[files]]
@@ -554,6 +588,11 @@ metafile = true
 [[files]]
 file = "mods/wavey-capes.pw.toml"
 hash = "3d9269ee3abd9c59ea81890ce33b59c9caa903cab2e90854f1e414223956a81e"
+metafile = true
+
+[[files]]
+file = "mods/xaeroplus.pw.toml"
+hash = "eb0fdd727ec43e047379fb741cb2e0fc2ae7c6bf6214e9e146de6b7b6c28311b"
 metafile = true
 
 [[files]]

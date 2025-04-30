@@ -1,13 +1,28 @@
-name = "MagicLib"
-filename = "MagicLib-mc1.21.5-fabric-0.8.693-stable.jar"
+# TODO: 临时使用 Dev 版本，等到 MagicLib 发布新的稳定版后删除
+name = "MagicLib Dev"
+filename = "MagicLib-mc1.21.5-fabric-0.8.697-beta.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/mv1zH6ln/versions/sAov1EBS/MagicLib-mc1.21.5-fabric-0.8.693-stable.jar"
+url = "https://cdn.modrinth.com/data/JOGZQCse/versions/bldVI7Mb/MagicLib-mc1.21.5-fabric-0.8.697-beta.jar"
 hash-format = "sha512"
-hash = "4d6748b7bcb7ea6a96b73ef76d55ce107a5bd37c6f174a9c5f4dd96f2df7f0b3c8ff56ef638f0bc4712bda72dcd28181f50a1a2d44e6cb0a33c38821759345ef"
+hash = "a24a6801262a1917d9cdce247c45e1b18e9725f47997c12487ed2d05491637b83906c4f4208c2c01a7b02e6a85b3d54f0daea251755af2c22321864b818b35e1"
 
 [update]
 [update.modrinth]
-mod-id = "mv1zH6ln"
-version = "sAov1EBS"
+mod-id = "JOGZQCse"
+version = "bldVI7Mb"
+
+# name = "MagicLib"
+# filename = "MagicLib-mc1.21.5-fabric-0.8.693-stable.jar"
+# side = "both"
+
+# [download]
+# url = "https://cdn.modrinth.com/data/mv1zH6ln/versions/sAov1EBS/MagicLib-mc1.21.5-fabric-0.8.693-stable.jar"
+# hash-format = "sha512"
+# hash = "4d6748b7bcb7ea6a96b73ef76d55ce107a5bd37c6f174a9c5f4dd96f2df7f0b3c8ff56ef638f0bc4712bda72dcd28181f50a1a2d44e6cb0a33c38821759345ef"
+
+# [update]
+# [update.modrinth]
+# mod-id = "mv1zH6ln"
+# version = "sAov1EBS"
