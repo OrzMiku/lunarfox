@@ -1,2 +1,5 @@
 [XP] Minimap FPS Limiter:true
 [XP] Minimap FPS Limit:60.0
+[XP] Disable Xaero Internet Access:true
+[XP] Fast Mapping:true
+[XP] Sodium/Embeddium Setting Integration:false

@@ -9,10 +9,6 @@ file = "config/yosbr/config/NoChatReports/NCR-Client.json"
 hash = "32dc5f1d73b05e70f3fc5a18f58c5d81a095484a0f93a1da6d1883966ff4e296"
 
 [[files]]
-file = "config/yosbr/config/badoptimizations.txt"
-hash = "23b96a18c6da194512a4291f186776c8bc4eb62a6f230bf723dd5d188ea7a555"
-
-[[files]]
 file = "config/yosbr/config/betteradvancements.json"
 hash = "e5f6ace68c722b5e4ea32f9935ca0b8dfbea1d22f1b8599a339bde0456605973"
 
@@ -31,10 +27,6 @@ hash = "ed59af65d3ad35dd87e22dbf7eb950a110909f1bfc3b4f01ab291cd8fffa672f"
 [[files]]
 file = "config/yosbr/config/ferritecore.mixin.properties"
 hash = "1fbbea658d8af2a751857e70cf2d5930a24490cc4c24f8db9b49630a818b895c"
-
-[[files]]
-file = "config/yosbr/config/immediatelyfast.json"
-hash = "8bc58d4ab49fc2606a7ae6c7614e4ad3f5a5c29b894fbdaa2bc3d8730acacd2c"
 
 [[files]]
 file = "config/yosbr/config/inventoryhud.json"
@@ -65,16 +57,8 @@ file = "config/yosbr/config/particle_core_config.toml"
 hash = "e6a4e36d2099ea5efe19e0fd4fddc65fbafd88eafb81f0fb3d5e9f6193d37bbb"
 
 [[files]]
-file = "config/yosbr/config/puzzle.json"
-hash = "1d47fa191792c248182fc7cc2925072a426396e5f8902687287e39e788c231eb"
-
-[[files]]
 file = "config/yosbr/config/roughlyenoughitems/config.json5"
-hash = "c550f46ad5ec34377e2b77a84f553ef1ac02bd9515219a8b4c0239ce036a966a"
-
-[[files]]
-file = "config/yosbr/config/threadtweak.json"
-hash = "545cbe317c5146bacb9e13c7c03a605f0b6bd6e1ddaf1a05f8be8537d6f8b0ce"
+hash = "df75a831b653f15d4dd3dc701a672eecf7e85b76a54e9652b8bc7c21c8015348"
 
 [[files]]
 file = "config/yosbr/config/tweakeroo.json"
@@ -86,7 +70,7 @@ hash = "805d874877e6bb962ac09c250b3d2a084ec599b2242dd1fa36860623c2024890"
 
 [[files]]
 file = "config/yosbr/config/xaeroplus.txt"
-hash = "b7c5f9eae2724e1da18af59e9369ddfd9d7b1c437ec6517603f22f0ff3bfcd3a"
+hash = "bc3310ca9023361bb3c316e47be8d28e3bcd05fd980617d60ab6d500b87f2762"
 
 [[files]]
 file = "config/yosbr/config/xaeroworldmap.txt"
@@ -94,7 +78,7 @@ hash = "b0df40e07391a60294d7bffb9772cabe8096d61c41c8680fbfad927d3a6a5a6b"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "5a45f240c513f99e0c8ef94c0399405ed72afdf5ceee2c65163d5d6ac40945b1"
+hash = "5ce517538bdf01406d14954a0638431798a6fa903da557de7163da1bde0bff8c"
 
 [[files]]
 file = "icon.png"
@@ -563,11 +547,6 @@ metafile = true
 [[files]]
 file = "mods/tcdcommons.pw.toml"
 hash = "8ed9a53846c91f20200e7ca354d1a1c6dafb087ef5dd7e815a3d06e1c4062ca1"
-metafile = true
-
-[[files]]
-file = "mods/threadtweak.pw.toml"
-hash = "e77fe4473df0685a27bdc27f9a50c0dced4d298a2765301c2b1f0b11e078a887"
 metafile = true
 
 [[files]]
