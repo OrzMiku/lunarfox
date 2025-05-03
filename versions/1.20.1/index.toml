@@ -21,10 +21,6 @@ file = "config/yosbr/config/defaultoptions/keybindings.txt"
 hash = "d7cc6237c84dd90f8c629eeaddc58352740d7ce26fa09db40092617668e874d3"
 
 [[files]]
-file = "config/yosbr/config/ferritecore.mixin.properties"
-hash = "1fbbea658d8af2a751857e70cf2d5930a24490cc4c24f8db9b49630a818b895c"
-
-[[files]]
 file = "config/yosbr/config/immediatelyfast.json"
 hash = "8bc58d4ab49fc2606a7ae6c7614e4ad3f5a5c29b894fbdaa2bc3d8730acacd2c"
 
