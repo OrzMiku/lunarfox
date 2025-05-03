@@ -172,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "619a164f121506ba4af904ba821b6d7f4b5a7a2a2595b4581390cf6762a2d505"
+hash = "fefaa3673902c685deb83401f4eea8f331d3608e6b6ce36c7bfdae8b02441135"
 metafile = true
 
 [[files]]
@@ -632,5 +632,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "6fed808df2d693d4e2b5e75e5080e3b1e3dbf0c644cacaf46b8ea3cc919a522b"
+hash = "d89e131bf71f7e2f972086b1f45e39dac4aaec90fa54b75ebb54655513aa5928"
 metafile = true

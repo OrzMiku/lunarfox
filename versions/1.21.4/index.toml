@@ -163,7 +163,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "c22a79e12714a5cbef7623b480bf066cd49e5710286abee69e5fc06484f3234e"
+hash = "a8b8e89a322aae5f20d15a3aa21cd5f47e14853f36b9303e3ef0fa717660115a"
 metafile = true
 
 [[files]]
@@ -451,7 +451,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "1caa2814a90844bdd1d43f1a8bcbf9ee0a96b70d2f65fa14e193def4cc756536"
+hash = "e0f0d669474ff2d0937b16971a24edbd6d1be0eca58f1b4503b320a9b1159dae"
 metafile = true
 
 [[files]]
@@ -601,5 +601,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "6fed808df2d693d4e2b5e75e5080e3b1e3dbf0c644cacaf46b8ea3cc919a522b"
+hash = "d89e131bf71f7e2f972086b1f45e39dac4aaec90fa54b75ebb54655513aa5928"
 metafile = true

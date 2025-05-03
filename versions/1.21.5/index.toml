@@ -131,7 +131,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "97947febb0df8ed3c2e419e0bf8cb8ad2aae0ffee225bf2a2ee337a5b9401fa6"
+hash = "8ed23c3ec447637602420d187577c42e3434a91e330a17098380385dfeb82fff"
 metafile = true
 
 [[files]]
@@ -216,7 +216,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "12d88ff814663555fb216d47884a166374a76210ea7c75814daa6e897203abbf"
+hash = "39e74c68e13599c9f8a5e00a07085988d34e3757e56be89503dd2259ebd12f5d"
 metafile = true
 
 [[files]]
@@ -535,5 +535,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "6fed808df2d693d4e2b5e75e5080e3b1e3dbf0c644cacaf46b8ea3cc919a522b"
+hash = "d89e131bf71f7e2f972086b1f45e39dac4aaec90fa54b75ebb54655513aa5928"
 metafile = true
