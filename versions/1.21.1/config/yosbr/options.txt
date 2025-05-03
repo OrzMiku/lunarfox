@@ -1,5 +1,6 @@
 version:3955
 advancedItemTooltips:true
+entityShadows:false
 enableVsync:false
 maxFps:260
 resourcePacks:["vanilla","fabric","file/SodiumTranslations.zip","continuity:default","continuity:glass_pane_culling_fix","file/Fast Better Grass.zip"]

@@ -62,7 +62,7 @@ hash = "b0df40e07391a60294d7bffb9772cabe8096d61c41c8680fbfad927d3a6a5a6b"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "d99005b6ae01afc68e1425b9757ffb5be25610a7033e168f092f3f5171560675"
+hash = "69141109a8137df1e539367fc40aee0b2ddb965b5946d7b6035b59dc1f9fcb34"
 
 [[files]]
 file = "icon.png"
@@ -100,16 +100,6 @@ metafile = true
 [[files]]
 file = "mods/better-stats.pw.toml"
 hash = "7eec1f23021757cffb4d9cbb954da4e543cecfc5739a2b5f6d78b1ed6ea10ee6"
-metafile = true
-
-[[files]]
-file = "mods/better-third-person.pw.toml"
-hash = "74c01cc05241bb689fbb6bb7a26aebb4897b272fdbbf33f57c04fc453bfa75eb"
-metafile = true
-
-[[files]]
-file = "mods/betteraddserver.pw.toml"
-hash = "3ea66dbd8e333b67a5bc50af4462622d8d5e7e65f89b2563430be515063eb5a5"
 metafile = true
 
 [[files]]
@@ -153,23 +143,8 @@ hash = "e386a79906673044c08bfee032e26ba12ce5c2b39e0094e151320d508ecc6ea0"
 metafile = true
 
 [[files]]
-file = "mods/cubes-without-borders.pw.toml"
-hash = "a90139b002d632ba9256cb3e7e877945bf8e3afa5b191d1adc83c5e3eb72da4c"
-metafile = true
-
-[[files]]
 file = "mods/default-options.pw.toml"
 hash = "ddf6266079876a8ef0ba89b8a5f57fabc0bd4bc11af07325c2a5f33bb86cc682"
-metafile = true
-
-[[files]]
-file = "mods/draggable-lists.pw.toml"
-hash = "1054c206e14e6bd9a9f101f88d1c4beb8b6657439257f9d5e8b40415c56673fc"
-metafile = true
-
-[[files]]
-file = "mods/durability-tooltip.pw.toml"
-hash = "a47138a91677a89d84e5ab37da1f501f4770ab07e51ae8ce6fdd27fb2d14f026"
 metafile = true
 
 [[files]]
@@ -198,11 +173,6 @@ hash = "f2d2dd0de19a6b32d96c89edf875f1c40c2b949be575a5b82ce2da58750c2190"
 metafile = true
 
 [[files]]
-file = "mods/esf.pw.toml"
-hash = "b485baa8463264b932f798974a17f3edd963f5abe1c65da425529124a10a411a"
-metafile = true
-
-[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "39e74c68e13599c9f8a5e00a07085988d34e3757e56be89503dd2259ebd12f5d"
 metafile = true
@@ -210,11 +180,6 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "97e7fb0bf5c563366b7c6121fa2decb67597107e5594932c6a098cccc980629e"
-metafile = true
-
-[[files]]
-file = "mods/fallingleaves.pw.toml"
-hash = "e27c3f85c52b55934f39a0cf7ff109bf4934570b48246e8a4ebe5462ff6c807c"
 metafile = true
 
 [[files]]
@@ -250,11 +215,6 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "b145e5dd9741ce6de8408c8c60f9a657f02fd417ddf710a87f2af506b6297256"
-metafile = true
-
-[[files]]
-file = "mods/inventory-hud-forge.pw.toml"
-hash = "07c0442d69fa87dfeb06820209cb3dd50425164958736a924735ce258e96702f"
 metafile = true
 
 [[files]]
@@ -422,28 +382,13 @@ hash = "2b66d7a33b317c19b294fa1eee944f91b9e9eba82006dae9696145a3307c484b"
 metafile = true
 
 [[files]]
-file = "mods/smooth-scroll.pw.toml"
-hash = "c2dbf59c31a43c2364a553b28ebd8b0cbfbdeb21e051aec32266d3debc2faab8"
-metafile = true
-
-[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "abe9878dcb237d56e2ba70c17db8c721c6c2b8e62b241bc333539d5bc6be938f"
 metafile = true
 
 [[files]]
-file = "mods/sodium-shadowy-path-blocks.pw.toml"
-hash = "b91aa8ca577a8397296c43e06f54e8246cbdacd44afa08ab6188323c441ac359"
-metafile = true
-
-[[files]]
 file = "mods/sodium.pw.toml"
 hash = "700caca572649f238e804258f79d25969031be3e1b01d0384eb54a13200caba6"
-metafile = true
-
-[[files]]
-file = "mods/sound-physics-remastered.pw.toml"
-hash = "6e6d211a726a79c4e9ce7a82ced3c06fd61d19a5c4a583531388962930e835fd"
 metafile = true
 
 [[files]]

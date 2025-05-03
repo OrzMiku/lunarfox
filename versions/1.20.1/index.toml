@@ -78,7 +78,7 @@ hash = "b0df40e07391a60294d7bffb9772cabe8096d61c41c8680fbfad927d3a6a5a6b"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "b52b096bb55e06bec1f78e3962f26f341b395ec3427c914a9ed3bec3c4a9d993"
+hash = "3a7bb2c7083dcef755f248de82486b69de052f582e758ada34dbb2238404b191"
 
 [[files]]
 file = "icon.png"
@@ -135,16 +135,6 @@ hash = "c4c11bc748458978b676b2a5cef87b5b8548c2289e9c199f225f941fb1593c9d"
 metafile = true
 
 [[files]]
-file = "mods/better-third-person.pw.toml"
-hash = "6d7c5793f88c52421dc11f48b3bf12400e7a451b9297e80fe33b776cc2af2c1d"
-metafile = true
-
-[[files]]
-file = "mods/betteraddserver.pw.toml"
-hash = "fa61d57519670b9b42eddcf31e9edce79d15275a536501c43257030fbf54c789"
-metafile = true
-
-[[files]]
 file = "mods/bobby.pw.toml"
 hash = "62392ad801b58819a5821bdbde21686cf338cf0416ece1721db551f8d2497db3"
 metafile = true
@@ -195,23 +185,8 @@ hash = "2245beed2b8b7f2be3cb3b50528693fd1a307ba758aa9a80239510c2e26194ab"
 metafile = true
 
 [[files]]
-file = "mods/cubes-without-borders.pw.toml"
-hash = "5944ed5a779d142aea9ccd8c466a20fa3d9233a29f2be1e5ae54fc15f5edd57e"
-metafile = true
-
-[[files]]
 file = "mods/default-options.pw.toml"
 hash = "907f03677673a5196780b33d0503a15387b181bcf6587b99cd47772e7096b067"
-metafile = true
-
-[[files]]
-file = "mods/draggable-lists.pw.toml"
-hash = "bfe939f563e561df6410a82e9f36ec3793634e470c9b729088072ff8824018ac"
-metafile = true
-
-[[files]]
-file = "mods/durability-tooltip.pw.toml"
-hash = "ab0a2eb7d496c659af26dd31070a778f84a7f88b17fc75fea4ad3e31075bf319"
 metafile = true
 
 [[files]]
@@ -237,11 +212,6 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "431846491318f66fdef523f169044383847e75d3e1ff36cccd2bf8cb10e85ae8"
-metafile = true
-
-[[files]]
-file = "mods/esf.pw.toml"
-hash = "a200126de897cb674e4a5095ecec2afa3eaf2d2480e75cb9931011a3477bea45"
 metafile = true
 
 [[files]]
@@ -307,11 +277,6 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "cb85864ff2d3936a5ab4f7e7ccf763dbda0153412ba52c95a63b29677a012aaf"
-metafile = true
-
-[[files]]
-file = "mods/inventory-hud-forge.pw.toml"
-hash = "db8be814b3e4ca8f976d4595714aaaa5a236b1d473808fc85ea16c3272d217ed"
 metafile = true
 
 [[files]]
@@ -520,18 +485,8 @@ hash = "8ad07191dfdea31249b4416a390c1cdf1d4ff1938cf9f8a617f98f7a08c5356c"
 metafile = true
 
 [[files]]
-file = "mods/sodium-shadowy-path-blocks.pw.toml"
-hash = "bf3a50b4962319fdc9bcdb9b56aa5af1d674a16740c36f5732cb8fe91aafb46f"
-metafile = true
-
-[[files]]
 file = "mods/sodium.pw.toml"
 hash = "ecf8e1df2361e5f1d090f83eee16c449ff1021dfb2da46474a72726406d5d535"
-metafile = true
-
-[[files]]
-file = "mods/sound-physics-remastered.pw.toml"
-hash = "d2fbb82f0d2b6112b8b941bb25d7a3bd00deeb6cff220a13feb1248f42ef64d7"
 metafile = true
 
 [[files]]
