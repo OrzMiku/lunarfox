@@ -375,12 +375,12 @@ hash = "5d2e07cd857d24d53067a6909b01c078e542dd9b372204c974449ba416713d4e"
 metafile = true
 
 [[files]]
-file = "mods/nuit-fabric-1.0.0-snapshot+mc1.21.4-build.1.jar"
-hash = "3e9c489219ae8dcf36ba4b2b56813436e7e5726d5186d76cf361f85cb0e290ed"
+file = "mods/nuit-fabric-1.0.0-snapshot+mc1.21.4-build.19.jar"
+hash = "132ddf56ed274fd384859b22d9853d1d81bbb1cdff02454e44fee4ae0663857e"
 
 [[files]]
-file = "mods/nuit-interop-fabric-1.0.0-snapshot+mc1.21.4-build.218.jar"
-hash = "60a564f2f3df83b600539a8fe556ec7365209985adb1be9ee8e9dd48a2612783"
+file = "mods/nuit-interop-fabric-1.0.0-snapshot+mc1.21.4-build.10.jar"
+hash = "48befedfa2679ec94e03bebf416c3be836d42429ebdaa6faf7c9a29675f14ef3"
 
 [[files]]
 file = "mods/optigui.pw.toml"
