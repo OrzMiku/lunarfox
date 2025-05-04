@@ -17,17 +17,10 @@ file = "config/yosbr/config/defaultoptions/keybindings.txt"
 hash = "16608e1f65ef0c2312bf0c778506e64f3835a3a68bfbeececfbbe4218d07b8df"
 
 [[files]]
-<<<<<<< HEAD
-=======
-file = "config/yosbr/config/ferritecore.mixin.properties"
-hash = "1fbbea658d8af2a751857e70cf2d5930a24490cc4c24f8db9b49630a818b895c"
-
-[[files]]
 file = "config/yosbr/config/immediatelyfast.json"
 hash = "8bc58d4ab49fc2606a7ae6c7614e4ad3f5a5c29b894fbdaa2bc3d8730acacd2c"
 
 [[files]]
->>>>>>> parent of 20a4dae (chore: 配置文件清理)
 file = "config/yosbr/config/inventoryhud.json"
 hash = "22114ef1ca0544700c7d2883a740193b22347ae97ccf33daace70b7fb5a0c06b"
 
@@ -77,11 +70,7 @@ hash = "b0df40e07391a60294d7bffb9772cabe8096d61c41c8680fbfad927d3a6a5a6b"
 
 [[files]]
 file = "config/yosbr/options.txt"
-<<<<<<< HEAD
-hash = "69141109a8137df1e539367fc40aee0b2ddb965b5946d7b6035b59dc1f9fcb34"
-=======
-hash = "bdcf6d296d2ae1e872f3a5ab39297a2a56af86334d8b2f95582a31d7b27ab6ff"
->>>>>>> parent of 20a4dae (chore: 配置文件清理)
+hash = "f2d7b5dfe98155c8063a6d8fee9f7636202985d2de4c2ec3ab52e89faf488bc4"
 
 [[files]]
 file = "icon.png"
@@ -128,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "8ed23c3ec447637602420d187577c42e3434a91e330a17098380385dfeb82fff"
+hash = "19a7e79a2992d580491aa110433df935a6d6addf280f87442843135e334715ca"
 metafile = true
 
 [[files]]
@@ -248,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "5a67e5e6aa5c39c9920a3293d70ff2a5a7b90e34299483dce5933e512b63bbf0"
+hash = "4efb88bbc5474a684e35b75238d66c00caba82befec0b967a08f843d13bcac7f"
 metafile = true
 
 [[files]]
@@ -318,7 +307,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "f08109925ea37a67f4fe60eb44a0bbed52a8a14b9ee56da7173f8116363826b3"
+hash = "8d250e4781a41beb98270b2f36e042415067f92081c6fcf843d7ea89a61b4cdc"
 metafile = true
 
 [[files]]

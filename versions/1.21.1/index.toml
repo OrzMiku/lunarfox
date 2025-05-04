@@ -29,17 +29,10 @@ file = "config/yosbr/config/defaultoptions/keybindings.txt"
 hash = "ed59af65d3ad35dd87e22dbf7eb950a110909f1bfc3b4f01ab291cd8fffa672f"
 
 [[files]]
-<<<<<<< HEAD
-=======
-file = "config/yosbr/config/ferritecore.mixin.properties"
-hash = "1fbbea658d8af2a751857e70cf2d5930a24490cc4c24f8db9b49630a818b895c"
-
-[[files]]
 file = "config/yosbr/config/immediatelyfast.json"
 hash = "8bc58d4ab49fc2606a7ae6c7614e4ad3f5a5c29b894fbdaa2bc3d8730acacd2c"
 
 [[files]]
->>>>>>> parent of 20a4dae (chore: 配置文件清理)
 file = "config/yosbr/config/inventoryhud.json"
 hash = "22114ef1ca0544700c7d2883a740193b22347ae97ccf33daace70b7fb5a0c06b"
 
@@ -97,11 +90,7 @@ hash = "b0df40e07391a60294d7bffb9772cabe8096d61c41c8680fbfad927d3a6a5a6b"
 
 [[files]]
 file = "config/yosbr/options.txt"
-<<<<<<< HEAD
-hash = "9a83e04a536474e05541c39696231d8a954d11f13b258038fe4ff6088206a078"
-=======
-hash = "5a45f240c513f99e0c8ef94c0399405ed72afdf5ceee2c65163d5d6ac40945b1"
->>>>>>> parent of 20a4dae (chore: 配置文件清理)
+hash = "953c7ed3ea7deffd170608b0a74e2e9b1cc94d6301f9f850be815ca3a96a655b"
 
 [[files]]
 file = "icon.png"

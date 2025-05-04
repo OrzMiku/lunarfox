@@ -6,15 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-<<<<<<< HEAD
-<<<<<<< HEAD
-hash = "421837c515693d03d6debc0d0928302a9dbc697201107e944e1900c204db01a4"
-=======
-hash = "e06287be10d94eb4539d088b4dff0f751e641a67dd50cde9c55950c7276923b4"
->>>>>>> parent of 20a4dae (chore: 配置文件清理)
-=======
-hash = "421837c515693d03d6debc0d0928302a9dbc697201107e944e1900c204db01a4"
->>>>>>> ca52086da68a529a4c02310dd6d0a5226a02795a
+hash = "fe531ebbbdcf457a3dfaa0719bc1aeaf5afb8376fd064f90e9194f20e14782b3"
 
 [versions]
 fabric = "0.16.10"
