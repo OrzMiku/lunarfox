@@ -46,7 +46,7 @@ hash = "435f7811c796b2352fee74985081994d69f881f9f0b6a0499ba39fbc40ee3f0b"
 
 [[files]]
 file = "config/yosbr/config/modernfix-mixins.properties"
-hash = "1ecb0122e09834a0fa715191f7ae9866310303d66153b9bcf112a832ced3ef62"
+hash = "d8f165e35901ad5409ef7e9ae4f1be80d3a4f4d4f5a7ce0f1b2062fd4a4b9c84"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
