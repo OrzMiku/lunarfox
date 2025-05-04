@@ -5,6 +5,10 @@ file = "config/yosbr/config/NoChatReports/NCR-Client.json"
 hash = "32dc5f1d73b05e70f3fc5a18f58c5d81a095484a0f93a1da6d1883966ff4e296"
 
 [[files]]
+file = "config/yosbr/config/badoptimizations.txt"
+hash = "23b96a18c6da194512a4291f186776c8bc4eb62a6f230bf723dd5d188ea7a555"
+
+[[files]]
 file = "config/yosbr/config/betteradvancements.json"
 hash = "e5f6ace68c722b5e4ea32f9935ca0b8dfbea1d22f1b8599a339bde0456605973"
 
@@ -21,6 +25,17 @@ file = "config/yosbr/config/defaultoptions/keybindings.txt"
 hash = "16608e1f65ef0c2312bf0c778506e64f3835a3a68bfbeececfbbe4218d07b8df"
 
 [[files]]
+<<<<<<< HEAD
+=======
+file = "config/yosbr/config/ferritecore.mixin.properties"
+hash = "1fbbea658d8af2a751857e70cf2d5930a24490cc4c24f8db9b49630a818b895c"
+
+[[files]]
+file = "config/yosbr/config/immediatelyfast.json"
+hash = "8bc58d4ab49fc2606a7ae6c7614e4ad3f5a5c29b894fbdaa2bc3d8730acacd2c"
+
+[[files]]
+>>>>>>> parent of 20a4dae (chore: 配置文件清理)
 file = "config/yosbr/config/inventoryhud.json"
 hash = "22114ef1ca0544700c7d2883a740193b22347ae97ccf33daace70b7fb5a0c06b"
 
@@ -50,7 +65,11 @@ hash = "e6a4e36d2099ea5efe19e0fd4fddc65fbafd88eafb81f0fb3d5e9f6193d37bbb"
 
 [[files]]
 file = "config/yosbr/config/roughlyenoughitems/config.json5"
-hash = "df75a831b653f15d4dd3dc701a672eecf7e85b76a54e9652b8bc7c21c8015348"
+hash = "c550f46ad5ec34377e2b77a84f553ef1ac02bd9515219a8b4c0239ce036a966a"
+
+[[files]]
+file = "config/yosbr/config/threadtweak.json"
+hash = "545cbe317c5146bacb9e13c7c03a605f0b6bd6e1ddaf1a05f8be8537d6f8b0ce"
 
 [[files]]
 file = "config/yosbr/config/tweakeroo.json"
@@ -62,7 +81,7 @@ hash = "805d874877e6bb962ac09c250b3d2a084ec599b2242dd1fa36860623c2024890"
 
 [[files]]
 file = "config/yosbr/config/xaeroplus.txt"
-hash = "bc3310ca9023361bb3c316e47be8d28e3bcd05fd980617d60ab6d500b87f2762"
+hash = "b7c5f9eae2724e1da18af59e9369ddfd9d7b1c437ec6517603f22f0ff3bfcd3a"
 
 [[files]]
 file = "config/yosbr/config/xaeroworldmap.txt"
@@ -70,7 +89,11 @@ hash = "b0df40e07391a60294d7bffb9772cabe8096d61c41c8680fbfad927d3a6a5a6b"
 
 [[files]]
 file = "config/yosbr/options.txt"
+<<<<<<< HEAD
 hash = "e13502fd0511220f34e33b8d17a2dbe4119cf2d44993c8fd82999d3d106fb146"
+=======
+hash = "e91b13b8a46039cbf00ffd66d3e0ce38482343c8155d1a24cec1e6d4668d6754"
+>>>>>>> parent of 20a4dae (chore: 配置文件清理)
 
 [[files]]
 file = "icon.png"
@@ -198,6 +221,11 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "187026fe5d603008a4b30559103487f0ebf08682bf3e470ab743227f5265a422"
+metafile = true
+
+[[files]]
+file = "mods/esf.pw.toml"
+hash = "a97c934ea59dc0ae8667409437fa9f3063af1946cfb22bf7ceb6f8c8eb9f0bca"
 metafile = true
 
 [[files]]
@@ -456,6 +484,11 @@ metafile = true
 [[files]]
 file = "mods/tcdcommons.pw.toml"
 hash = "3273d96b0b01d6d976741979c1a66965665522548de69bba69a6f30d9a0c8c9f"
+metafile = true
+
+[[files]]
+file = "mods/threadtweak.pw.toml"
+hash = "ff0d87064f466d6dfa5151178cb805cea4169a6e85f47913b462758262a78024"
 metafile = true
 
 [[files]]
