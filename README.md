@@ -2,10 +2,6 @@
 
 [![Logo](https://cdn.modrinth.com/data/r7CwLIIr/images/2e792de45ffdd41d8c1c8b59a804f3500ad1ab03.png)](https://github.com/OrzMiku/lunarfox)
 
-A performance modpack with QOL mods and OptiFine alternatives.
-
-**The recent license has been changed to BSD 3 Clause, effective for all released files.**
-
 LunarFox is a performance modpack with quality of life mods and OptiFine alternatives. This modpack includes some out-of-the-box mod configurations and good performance settings.
 
 ## 📦 Features

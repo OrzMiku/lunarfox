@@ -2,10 +2,6 @@
 
 [![Logo](https://cdn.modrinth.com/data/r7CwLIIr/images/2e792de45ffdd41d8c1c8b59a804f3500ad1ab03.png)](https://github.com/OrzMiku/lunarfox)
 
-一个包含QOL模组和OptiFine替代品的性能优化整合包。
-
-**最近的许可证已更改为BSD 3条款，适用于所有已发布的文件。**
-
 LunarFox 是一个性能整合包，带有生活质量模组和 OptiFine 替代方案。该整合包包括一些开箱即用的模组配置和良好的性能配置。
 
 ## 📦 特点

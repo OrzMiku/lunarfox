@@ -1,12 +1,12 @@
 name = "LunarFox"
 author = "OrzMiku"
-version = "1.1.4-beta.2.hotfix+mc1.21.4"
+version = "1.1.4-beta.3.hotfix+mc1.21.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "c240ad8f81b18bedb8511675cea7cb01061347247cd725348461155aead374cc"
+hash = "3fdc6e975ddf3ba1e57b6796d23d029107e68fe62d77dcf77867ced3068c36d8"
 
 [versions]
 fabric = "0.16.10"

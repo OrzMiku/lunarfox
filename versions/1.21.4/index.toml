@@ -46,7 +46,7 @@ hash = "435f7811c796b2352fee74985081994d69f881f9f0b6a0499ba39fbc40ee3f0b"
 
 [[files]]
 file = "config/yosbr/config/modernfix-mixins.properties"
-hash = "d8f165e35901ad5409ef7e9ae4f1be80d3a4f4d4f5a7ce0f1b2062fd4a4b9c84"
+hash = "23ff320c5872b7e8def2635764e912e7617333b800aa07db155ed34c6c992a0e"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
@@ -314,7 +314,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "780f22d956d790752ca7bae61c8aa9b32f87457e5fdc305069bdea72d3d37880"
+hash = "66e84ef483bb2a4d05f477f440f5d11c7500db9178464c00b88eeca7e058bd1f"
 metafile = true
 
 [[files]]
@@ -329,7 +329,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "d0af0219628ebf4ec7b48a66fc88c3c0dc896195b11476c3a86fb5e73c3c705c"
+hash = "f7e23e7fe8a8a92cebf1012f44ced149c27b7400b67f50d92eb3f095e4f45474"
 metafile = true
 
 [[files]]
@@ -354,7 +354,7 @@ metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "ab73712b95dc33bc4c1e706f480cd5a81e23b18d29960296308116a993a7f834"
+hash = "7d009dfe20583ff6c1176b1716096c02920e1003ed0933095507b97543b18d09"
 metafile = true
 
 [[files]]
