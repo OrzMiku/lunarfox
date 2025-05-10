@@ -114,7 +114,12 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "f3cc395cc784c7dd37910c6d3665eb3cb01606d1d4d50599f22fb400416e0d0c"
+hash = "6fb0631bc3e59ddf9b2fd27da5a7fefd01dc460545844128daedb82492ae0a95"
+metafile = true
+
+[[files]]
+file = "mods/better-ping-display-fabric.pw.toml"
+hash = "1335f4fda7324a2a6a79f564f6f1255fcb60116f6ff8ce86d212c8caf6dfc5ae"
 metafile = true
 
 [[files]]
@@ -139,7 +144,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "9fc6f3e67904d607a85528ceb2d4d1ea97a5807df5bb24c1106070e605c78110"
+hash = "2cf850f2efd53156d011279577f1a749368b990835c193e0e5218b83d43143f6"
 metafile = true
 
 [[files]]
@@ -179,7 +184,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "6776faa0af7b67803be2671ebc8c8d25f3ebbdb498cf7457b8bf6baea65a5f9b"
+hash = "a119aa71d4ec78d6ef21bc8c409a2e2a938d493b7f7aacfa63c0998e8d370e11"
 metafile = true
 
 [[files]]
@@ -209,17 +214,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "39e74c68e13599c9f8a5e00a07085988d34e3757e56be89503dd2259ebd12f5d"
+hash = "524f0edfbfb4f402042dc470dcd1ab21abf12808f2d15c9a688ccb176d2d63c6"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "97e7fb0bf5c563366b7c6121fa2decb67597107e5594932c6a098cccc980629e"
-metafile = true
-
-[[files]]
-file = "mods/fallingleaves.pw.toml"
-hash = "e27c3f85c52b55934f39a0cf7ff109bf4934570b48246e8a4ebe5462ff6c807c"
 metafile = true
 
 [[files]]
@@ -259,7 +259,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "05ba97e8318046da6b4ea4669da8f848fb4981516a8342b6e7b272eba320c587"
+hash = "781569b236e3803e831888850b61c9765aa031c3db3a73730586f3868b186658"
 metafile = true
 
 [[files]]
@@ -269,7 +269,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "4efb88bbc5474a684e35b75238d66c00caba82befec0b967a08f843d13bcac7f"
+hash = "ced9729e413bbe2bd78889cbd3d3e93ae56b06c9728972a06ff03afe8a0f4eba"
 metafile = true
 
 [[files]]
@@ -358,7 +358,7 @@ metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "4044051a3cb2ae86edab32775bbe99f2c379afde47d7fe0b1f8ff2897447a59e"
+hash = "ea1d303d34de75ef3745a218e1e48fa72cc0e04265142ed27345fdede5b1d954"
 metafile = true
 
 [[files]]
@@ -384,6 +384,11 @@ metafile = true
 [[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "37d94eccb60749412f669a737642a603eb549225c9a49c45320a0ca097dfc513"
+metafile = true
+
+[[files]]
+file = "mods/polytone.pw.toml"
+hash = "794cc08a62d7b8472efbacc12d38d495f55084fd05a2004d945243167fbaaeea"
 metafile = true
 
 [[files]]
@@ -452,7 +457,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "b81951c3a84a39e148433adf2c4d721a004d6ede7c103f0d3d0f44bee7e0e3ff"
+hash = "77bd1906c36bb69d572f003c69d3e83a95e0b75dd7779fc36935888152288ef8"
 metafile = true
 
 [[files]]
@@ -477,7 +482,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "c6882c758dc6cadb98d476f199cad6aaccd1664ea4bd1bcfbf94afd496815a7c"
+hash = "130159e2b3734e4013e2ad5040e6a80b14a004d75a921dc24633d906636500e8"
 metafile = true
 
 [[files]]
@@ -512,5 +517,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "d89e131bf71f7e2f972086b1f45e39dac4aaec90fa54b75ebb54655513aa5928"
+hash = "5da6e73153e45cdb9868fb82c1e1fb8ccbaf88c2f5dd4c06858d6939f07e8ac4"
 metafile = true

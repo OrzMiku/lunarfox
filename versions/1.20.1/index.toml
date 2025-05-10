@@ -115,7 +115,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "af35b89dd62818ffb579ca1aa2314fb7bec49cbc4eda1d312b1733c50f6be352"
+hash = "25e84d006fb6fc1c72a9c9dae65e4063ba41865e92d2ca28ccfac406a75577cd"
 metafile = true
 
 [[files]]
@@ -545,7 +545,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "dba82d56d2514555ac3e326359a913c804b1a1137a6d696d80f73aadaf0ff62f"
+hash = "a2f8f9c0410885c429945a8e5142a3b4bbaa63bf147f9b2fdd035113b404344f"
 metafile = true
 
 [[files]]
@@ -580,5 +580,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "d89e131bf71f7e2f972086b1f45e39dac4aaec90fa54b75ebb54655513aa5928"
+hash = "5da6e73153e45cdb9868fb82c1e1fb8ccbaf88c2f5dd4c06858d6939f07e8ac4"
 metafile = true

@@ -114,7 +114,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "67b86212e029e2e9ce542fff4389051ff6eb2ec87cf9ecaaa3874e571def0681"
+hash = "9afe26ace273b4d8315ab8a0a63692f5027af099569380ec96c5688b424a92e6"
 metafile = true
 
 [[files]]
@@ -274,7 +274,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "6b9099f46e6640a285b5e0e05c0a4b2de173fe21cd37b15d13fc60522869e0bd"
+hash = "ef4df118b077c1cccc07e0a71105418cba81bf95d5ce676382448121cf86ff1d"
 metafile = true
 
 [[files]]
@@ -492,7 +492,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "0bfe8d0a4dc04d45a0b3c1efdc283f9482a1f1a6f5380cf50138ac3f49113ffa"
+hash = "39c73faa3c0d4344f08c3ccb598d08f48c47c2cb9b951e585644f99cd688773f"
 metafile = true
 
 [[files]]
@@ -517,7 +517,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "9325b307b5396a19c7cb40298491652770c37c4d52c2993474f7916aee970c55"
+hash = "4df5815612166934dfcc4beca0dd622f8f25c56836d60bca734152b07dfe6e7e"
 metafile = true
 
 [[files]]
@@ -552,5 +552,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "d89e131bf71f7e2f972086b1f45e39dac4aaec90fa54b75ebb54655513aa5928"
+hash = "5da6e73153e45cdb9868fb82c1e1fb8ccbaf88c2f5dd4c06858d6939f07e8ac4"
 metafile = true

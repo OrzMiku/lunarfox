@@ -123,7 +123,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "ef031e859a6f4fc358334863d71fd87a3107924ed40ec8e380600a509886eee2"
+hash = "4092817e6f13ebf37ab245093b1d917eca8652f5ed276a8d3fb5bfd480c6529a"
 metafile = true
 
 [[files]]
@@ -158,7 +158,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "f1cd14f50ca02adbc84ad0b78a540f4486fd0e38ed601bb27575c94811e48b87"
+hash = "17b40cfda4539840d350572bc5693a5984e862ecb58c2458f33822a074381bc4"
 metafile = true
 
 [[files]]
@@ -238,7 +238,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "7e27ab32357a80c066e6cdfabafc87f31f778a1ebaefe03f82e38d0763de760b"
+hash = "71c1a36f3a6dc674f1b89e3d254a8e67d2a831b70f66c64e37cc998c419ad977"
 metafile = true
 
 [[files]]
@@ -293,7 +293,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "d7c7ed83d7caaeec410c6e0bf83033b4fa50e90a0d6c3d9fdf1dcd5b71583f73"
+hash = "6c4ef6e64b14ef35375a3983e8cc0c1ca174777183e7f22c34cefe10ee155eb7"
 metafile = true
 
 [[files]]
@@ -453,7 +453,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "e472525bdf77a8e470e8b2875445053754a8f3c4ba28b0643cf80869eba79f54"
+hash = "c0a587657cdec84d1fa9293e61637c0e7b5b18afa1fa3525b77d92453a1dc218"
 metafile = true
 
 [[files]]
@@ -523,7 +523,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "62769ec5701008e3897061dafbf805c15db0ea9c202179cb10bbd2fd552aaa26"
+hash = "7e8438329b0662463fd5d11b8af802cd6e8f3b471f4a7ef4d25d77e8ac5cca1f"
 metafile = true
 
 [[files]]
@@ -548,7 +548,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "965605e33e2dcff863f4f0a957f290303e08c940153dc112a2f7c326afa47355"
+hash = "4c619f59ba3938230be5b97775d73d0c37ee5ad2080390e96ecfbf7fbb84ef67"
 metafile = true
 
 [[files]]
@@ -583,5 +583,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "d89e131bf71f7e2f972086b1f45e39dac4aaec90fa54b75ebb54655513aa5928"
+hash = "5da6e73153e45cdb9868fb82c1e1fb8ccbaf88c2f5dd4c06858d6939f07e8ac4"
 metafile = true
