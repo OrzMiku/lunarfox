@@ -114,7 +114,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "9afe26ace273b4d8315ab8a0a63692f5027af099569380ec96c5688b424a92e6"
+hash = "afc94cfae2ef42b6859099b23ec3cbf56a2ef0fbbed5fb5a60eb2115b337c6c5"
 metafile = true
 
 [[files]]
@@ -324,7 +324,7 @@ metafile = true
 
 [[files]]
 file = "mods/magiclib.pw.toml"
-hash = "ac4a5ef786d6e7dee7e8900bd59f699b63566dab2687fac23117dab1f4c2306b"
+hash = "eac2e8d8a2ff721d15abdce36d1d2ce8230516dd6c758c74f7ef04d3f7ae7752"
 metafile = true
 
 [[files]]
@@ -349,7 +349,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "77c1125246a7662f4674018015a8c67152af405b7a3abe9cb249ebb36a264ea5"
+hash = "58b90c52266f89c339a35bd46378d8059d56949d5926c7b25da98719d0b38065"
 metafile = true
 
 [[files]]
@@ -422,7 +422,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "e0f0d669474ff2d0937b16971a24edbd6d1be0eca58f1b4503b320a9b1159dae"
+hash = "b33df2a834b3576200f63aeb2262f43e7b23b7f31355feecf9539d388d9a45e5"
 metafile = true
 
 [[files]]

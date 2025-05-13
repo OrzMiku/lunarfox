@@ -115,7 +115,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "25e84d006fb6fc1c72a9c9dae65e4063ba41865e92d2ca28ccfac406a75577cd"
+hash = "00d2687db44c8f22d17472eb96c97f952a6b3ae9c023ef148ac6bce492e3d39c"
 metafile = true
 
 [[files]]
@@ -350,7 +350,7 @@ metafile = true
 
 [[files]]
 file = "mods/magiclib.pw.toml"
-hash = "98178c5569586dfba6521fc93e1bf46ae88c0b37dfef1e0d6858f8c827d769af"
+hash = "ec0122364de21d96992ae661e163efbd5ad83917533b623e0b1db5fe2bdf63ae"
 metafile = true
 
 [[files]]

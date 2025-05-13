@@ -114,7 +114,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "6fb0631bc3e59ddf9b2fd27da5a7fefd01dc460545844128daedb82492ae0a95"
+hash = "7ab25b67d9bde4f04f5ebfa0527948a315ee72a9d7e64b9efc2a1dff891cf7d1"
 metafile = true
 
 [[files]]
@@ -214,7 +214,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "524f0edfbfb4f402042dc470dcd1ab21abf12808f2d15c9a688ccb176d2d63c6"
+hash = "08d4ccb59b4068787d57a323c46c336a883dccf6a42ea684976a40f2cc9a69f6"
 metafile = true
 
 [[files]]
@@ -304,7 +304,7 @@ metafile = true
 
 [[files]]
 file = "mods/magiclib.pw.toml"
-hash = "d403ec8a757d9b2e1aceb59b5f51e75c952d872ed04e9e9bc94074e2ee801a09"
+hash = "4dde7b71455aabee6b2a34f779901518272a21a265f57c24cab91900dc3fa6c1"
 metafile = true
 
 [[files]]
@@ -324,7 +324,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "77c1125246a7662f4674018015a8c67152af405b7a3abe9cb249ebb36a264ea5"
+hash = "58b90c52266f89c339a35bd46378d8059d56949d5926c7b25da98719d0b38065"
 metafile = true
 
 [[files]]
@@ -413,7 +413,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "298bc1610cfe67d645582babb847d195a6bf69d8819171124f046d6d51f2f1e1"
+hash = "4bdb139f7f4329e080df6b9467c73391652dd85665a6a37dbce799f08baaa219"
 metafile = true
 
 [[files]]
