@@ -237,6 +237,11 @@ hash = "ae5091b2d11b373e47e549dec8ac1e6d01741bcd89b93e216790021f6ea04047"
 metafile = true
 
 [[files]]
+file = "mods/euphoria-patches.pw.toml"
+hash = "52a0532915e92bc6945b1afcc425cb660c5a18788d83f44c9eacf82e82034955"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "71c1a36f3a6dc674f1b89e3d254a8e67d2a831b70f66c64e37cc998c419ad977"
 metafile = true
@@ -584,4 +589,14 @@ metafile = true
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
 hash = "5da6e73153e45cdb9868fb82c1e1fb8ccbaf88c2f5dd4c06858d6939f07e8ac4"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "3385e33cb8e2cbf402562dcb68669cc2905fec01b4be9fe27a516010c5aaff87"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "9025311f42fe8ab581987962c9c6b3ec5a50f5afc803e9d867dc580cb0b66190"
 metafile = true
