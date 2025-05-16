@@ -198,7 +198,7 @@ metafile = true
 
 [[files]]
 file = "mods/craterlib.pw.toml"
-hash = "9ffd6d39130c34ebb42bc82553df9755d0d3f393e30b562db3a47061cd5a8d44"
+hash = "c080f3b4cdad3dcd8cc5777a93bf470d2fb5b0976dee09c40fec674cd8849474"
 metafile = true
 
 [[files]]
@@ -248,7 +248,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "97e7fb0bf5c563366b7c6121fa2decb67597107e5594932c6a098cccc980629e"
+hash = "967a780be97bec40b8bca4945a053ee4fbd05d58e218c4fb803959ac0d0c7f08"
 metafile = true
 
 [[files]]
@@ -393,7 +393,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "d2eef785df399c7b45f20ecc3d07e1749b4bff2b2f87dc1c47d3a339996569c2"
+hash = "aef4285546f962adb1b2fa9a1c9c379431d581b781ccdfe8f42f069d1845da31"
 metafile = true
 
 [[files]]

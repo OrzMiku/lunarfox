@@ -1,13 +1,13 @@
 name = "CraterLib"
-filename = "CraterLib-Fabric-1.21.3-2.1.4.jar"
+filename = "CraterLib-Fabric-1.21.3-2.1.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Nn8Wasaq/versions/SORpQLLM/CraterLib-Fabric-1.21.3-2.1.4.jar"
+url = "https://cdn.modrinth.com/data/Nn8Wasaq/versions/JAVuxguJ/CraterLib-Fabric-1.21.3-2.1.5.jar"
 hash-format = "sha512"
-hash = "2831bfbc740bad3adfb0474460b293f58215e3ea80457355ec321ebd973a29ee9373e71ecf631b6bab329aa1d87cf9fba484c9ebfcd133e71293b317e5554b7e"
+hash = "f8d4addf19fca3c4a139e5b2bc2996ea316aa9c532bd7653e6188f3f95f574a64ae79c0f9fd848f21c386812186393715421515e938213201b867373b192685a"
 
 [update]
 [update.modrinth]
 mod-id = "Nn8Wasaq"
-version = "SORpQLLM"
+version = "JAVuxguJ"
