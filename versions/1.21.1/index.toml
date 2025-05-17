@@ -548,7 +548,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "db1b58837002c72eb24694d5321172a3a94060cfbca09fbef5057ab4a0718363"
+hash = "8a40d25e22c0f735e7e41c6138afaf9fc2d0ffeaa2f9c9141a2b83c2f912764c"
 metafile = true
 
 [[files]]
@@ -558,7 +558,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "1807fbe474298e2ef5bab6cf77187f01017c61166fc57c335b26d9217d8b2172"
+hash = "8d95879fa57a927317ac19e1de091366d11c1db1f100011af2f087a98325078e"
 metafile = true
 
 [[files]]
