@@ -123,7 +123,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "418113be8ddd63987f3bbd7f4b4d93b291f1d1ee7664a365a05cc2981c5743c1"
+hash = "8ca1f3659495dcfb10a353ec80f1e6dd9f273c8763260d11b56df181f3fc86d9"
 metafile = true
 
 [[files]]
@@ -238,7 +238,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "52a0532915e92bc6945b1afcc425cb660c5a18788d83f44c9eacf82e82034955"
+hash = "6051d046ed89cecdd83ff7bfcc4c1065270a5d3898c578f2ade354b607e63dd3"
 metafile = true
 
 [[files]]
@@ -393,7 +393,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "aef4285546f962adb1b2fa9a1c9c379431d581b781ccdfe8f42f069d1845da31"
+hash = "e82c4d4a21b46e5e0c71750f4843a9816f79c0fc1ecda31df8f40c43daa30d12"
 metafile = true
 
 [[files]]

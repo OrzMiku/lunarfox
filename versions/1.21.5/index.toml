@@ -214,12 +214,12 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "52a0532915e92bc6945b1afcc425cb660c5a18788d83f44c9eacf82e82034955"
+hash = "6051d046ed89cecdd83ff7bfcc4c1065270a5d3898c578f2ade354b607e63dd3"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "08d4ccb59b4068787d57a323c46c336a883dccf6a42ea684976a40f2cc9a69f6"
+hash = "7a6f0b29e5002753456d2fb78734c2a64a4713f58304df0114cd529091eb5909"
 metafile = true
 
 [[files]]
@@ -259,7 +259,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "b145e5dd9741ce6de8408c8c60f9a657f02fd417ddf710a87f2af506b6297256"
+hash = "d5e9cba7c6d829f50503cd92834b2224e854b4f1eb6b8b03333f0ba3c1c61d01"
 metafile = true
 
 [[files]]
@@ -517,7 +517,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/spbr.pw.toml"
-hash = "d83a569d1e2be0a1ca358d41d144c3f51764aa3024c1dcf476d5080f98ff617a"
+hash = "9610863ac642dbcecf4c0f542dd1a9de07b1f29ad17272551bf83eb9f20dddef"
 metafile = true
 
 [[files]]

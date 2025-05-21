@@ -114,7 +114,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "afc94cfae2ef42b6859099b23ec3cbf56a2ef0fbbed5fb5a60eb2115b337c6c5"
+hash = "570daa00ea71077b1cffb1b1767c9529a85679e7e2abe25be74183f14a01e106"
 metafile = true
 
 [[files]]
@@ -224,7 +224,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "52a0532915e92bc6945b1afcc425cb660c5a18788d83f44c9eacf82e82034955"
+hash = "6051d046ed89cecdd83ff7bfcc4c1065270a5d3898c578f2ade354b607e63dd3"
 metafile = true
 
 [[files]]
@@ -427,7 +427,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "b33df2a834b3576200f63aeb2262f43e7b23b7f31355feecf9539d388d9a45e5"
+hash = "8693fcbeb82c4aeb8be9a85e9cd150555a475ebca62491a2940c5e7ef092f2f3"
 metafile = true
 
 [[files]]
@@ -552,7 +552,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/spbr.pw.toml"
-hash = "d83a569d1e2be0a1ca358d41d144c3f51764aa3024c1dcf476d5080f98ff617a"
+hash = "9610863ac642dbcecf4c0f542dd1a9de07b1f29ad17272551bf83eb9f20dddef"
 metafile = true
 
 [[files]]
