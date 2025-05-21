@@ -33,6 +33,10 @@ file = "config/yosbr/config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "8fa033afa83e6b5123c11bb293b0a5e632b4f76b2ca7d651350179fd435462c9"
 
 [[files]]
+file = "config/yosbr/config/litematica.json"
+hash = "0186b89fc19e5b7b36902eed03061ff03530a15c86de6090c98f488bdaf51f73"
+
+[[files]]
 file = "config/yosbr/config/masa_gadget_mod.json"
 hash = "e06a95ec2a838775dfeaa364f17be6a8f4521138055f8ccee8ff59f66d7464fa"
 
