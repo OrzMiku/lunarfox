@@ -2,23 +2,27 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
-hash = "32dc5f1d73b05e70f3fc5a18f58c5d81a095484a0f93a1da6d1883966ff4e296"
+hash = "58c9e639e6458fdcdd201f080187df717242571a32d6406479b7624468ca66e9"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Encryption.json"
+hash = "d3a2bc7eb8deb5392488d5be3e9f1a497094df6cd4ae6a3d559e8a476ff528a3"
 
 [[files]]
 file = "config/yosbr/config/betteradvancements.json"
 hash = "e5f6ace68c722b5e4ea32f9935ca0b8dfbea1d22f1b8599a339bde0456605973"
 
 [[files]]
+file = "config/yosbr/config/betterf3.json"
+hash = "4390b5fe8c58026bde80a1ed5d39be658b4c18b7a512fc156a2773f5eaac7387"
+
+[[files]]
 file = "config/yosbr/config/chatpatches.json"
 hash = "0623905a25c9b6c8387f7a6a0256ea005f727c63c689d2cc7cc77f74e912f7e4"
 
 [[files]]
-file = "config/yosbr/config/clean-debug.json"
-hash = "b734ab348594bd12e6212619c14151f6a5b65b6ac446c351ab908461ac58c53c"
-
-[[files]]
 file = "config/yosbr/config/defaultoptions/keybindings.txt"
-hash = "16608e1f65ef0c2312bf0c778506e64f3835a3a68bfbeececfbbe4218d07b8df"
+hash = "e049c57e84f89dfbd8701ae6534ff3ae487dcda32223e2e7a2e408cbcd1c272c"
 
 [[files]]
 file = "config/yosbr/config/ferritecore.mixin.properties"
@@ -46,7 +50,7 @@ hash = "435f7811c796b2352fee74985081994d69f881f9f0b6a0499ba39fbc40ee3f0b"
 
 [[files]]
 file = "config/yosbr/config/modernfix-mixins.properties"
-hash = "23ff320c5872b7e8def2635764e912e7617333b800aa07db155ed34c6c992a0e"
+hash = "34fd5b68e050674c8bd93dab2931ba9568ad782aae1a01b23805f74a14a673a4"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
@@ -143,6 +147,11 @@ hash = "5dbc7a1bbd2254a9d7c654478850bd532e94fc55c39103f118216be7f5ceea2b"
 metafile = true
 
 [[files]]
+file = "mods/betterf3.pw.toml"
+hash = "cbc0973dadd8e4a191ce8e819f212bcfb58708885b4a46a9de7afa29e71aadad"
+metafile = true
+
+[[files]]
 file = "mods/bobby.pw.toml"
 hash = "783f6391e53272943cce060fd820d1c5b7cbdf94df1341f250bf09eaa296171c"
 metafile = true
@@ -153,6 +162,16 @@ hash = "62e99d55c3f95e732fbbb23572c70bd030a6c89f90844b8a74d1e527c0183696"
 metafile = true
 
 [[files]]
+file = "mods/calcmod.pw.toml"
+hash = "04caaca613928c8d4e1d3015332a74a43be6ee0fd7693011d2aa91f56d13f768"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "34f76ee3754c91d7493931fdf0df27e8788b336277efc90ced549ec27a1fc5b7"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "a8b8e89a322aae5f20d15a3aa21cd5f47e14853f36b9303e3ef0fa717660115a"
 metafile = true
@@ -160,11 +179,6 @@ metafile = true
 [[files]]
 file = "mods/chatpatches.pw.toml"
 hash = "891441dc6dc607f8da7fe409ac7add8459275d73b53a72914bb6c096f5c22351"
-metafile = true
-
-[[files]]
-file = "mods/clean-f3.pw.toml"
-hash = "b5af3194d6df56cc66492a178625a37947027a7d761eb29153f33869508a6863"
 metafile = true
 
 [[files]]
@@ -190,6 +204,11 @@ metafile = true
 [[files]]
 file = "mods/default-options.pw.toml"
 hash = "b5758663f4a01658d7849601cfc18bb216e749aeccc6f3e1f72ff549e98fc560"
+metafile = true
+
+[[files]]
+file = "mods/draggable-lists.pw.toml"
+hash = "b05b29c2dfb64e57df673fe7d8784d2ddfa9b6d98d7113122e6bf21292d53965"
 metafile = true
 
 [[files]]
@@ -273,6 +292,16 @@ hash = "a3e7e7b34dce944ad4e24370202bbd7c42335cfca76a156f3925da348eb67f56"
 metafile = true
 
 [[files]]
+file = "mods/held-item-info.pw.toml"
+hash = "25d8b382e17472cec7236a07182c693e4d01525af7cb668944582a85abfac8a1"
+metafile = true
+
+[[files]]
+file = "mods/highlight.pw.toml"
+hash = "3f44251b2d7b9a9d55ed0005eec132d7d33e92ba276879a878fd91fe94864a44"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "5b6cadef65019131a6e7d362b81bb25871330db67ef6c6b1d552e1fbd975e3be"
 metafile = true
@@ -285,6 +314,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "e03fc0b0c151c5c072ac399d27b5c4268a093c41be73f3b1578d050bb49211f3"
+metafile = true
+
+[[files]]
+file = "mods/itemswapper.pw.toml"
+hash = "279560123342bd353f1e7c48bf76e4e476248ab0461e7f0cf9529978f5859b76"
 metafile = true
 
 [[files]]
@@ -426,6 +460,16 @@ hash = "347b83e3d6d07e189ce87fe8cce7861bf145e37221c1f108ada1e58ed733cedc"
 metafile = true
 
 [[files]]
+file = "mods/peek.pw.toml"
+hash = "b7c723dce4117091617f16fa65934db140601c5364b9d253b770ccae08818e5e"
+metafile = true
+
+[[files]]
+file = "mods/pick-up-notifier.pw.toml"
+hash = "84adeffc48bfd88598f36bce40516fdc83defa8c393f6f30101705b0d5656d50"
+metafile = true
+
+[[files]]
 file = "mods/polytone.pw.toml"
 hash = "8693fcbeb82c4aeb8be9a85e9cd150555a475ebca62491a2940c5e7ef092f2f3"
 metafile = true
@@ -433,6 +477,11 @@ metafile = true
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "448aa826133211f5fc4814b6955a515d8306d13ff03a96372176282a4954802c"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "cdff637d469d95a02e8e7475fce950c0d25bdacf8ae1246c93eea78ad7e16d39"
 metafile = true
 
 [[files]]
@@ -481,6 +530,11 @@ hash = "09d2dbee70e91e8859e6f62e4181a80264d6dd24cc686fbedb93dda9f69fdfe6"
 metafile = true
 
 [[files]]
+file = "mods/stendhal.pw.toml"
+hash = "ef09549b50c6d26e7796f9019c7af46bf0b90fd89362286325030194373ada82"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "8e009ac87710fbd8f5990285d36ab2b4755e932664ca1bcb9cdfac116d6e3b6d"
 metafile = true
@@ -493,6 +547,11 @@ metafile = true
 [[files]]
 file = "mods/threadtweak.pw.toml"
 hash = "ff0d87064f466d6dfa5151178cb805cea4169a6e85f47913b462758262a78024"
+metafile = true
+
+[[files]]
+file = "mods/title-fixer.pw.toml"
+hash = "27a11ffa5d6172ef941c23b18d83216818ead38f7c28b7302327971dc40cd8a4"
 metafile = true
 
 [[files]]
@@ -558,6 +617,16 @@ metafile = true
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
 hash = "a89dd43f376e990c515fe6b6b0875d9bbf51063bf3d1afa02a720039ffa651a6"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bsl-shaders-classic.pw.toml"
+hash = "12f0f4fb508a6a178b3a725503d0802978b4bebdf678bccc5f81a5655a0db4c4"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bsl-shaders.pw.toml"
+hash = "d30923bf5cfb4988a372508cb461d8077609d79a38d0b170785804c7ad15f16e"
 metafile = true
 
 [[files]]

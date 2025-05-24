@@ -5,16 +5,24 @@ file = "config/fabric_loader_dependencies.json"
 hash = "5287b32edcac91203df51c442436bab5ed42e3add3303406f9cdd832a912249a"
 
 [[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Client.json"
+hash = "58c9e639e6458fdcdd201f080187df717242571a32d6406479b7624468ca66e9"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Encryption.json"
+hash = "d3a2bc7eb8deb5392488d5be3e9f1a497094df6cd4ae6a3d559e8a476ff528a3"
+
+[[files]]
+file = "config/yosbr/config/betterf3.json"
+hash = "4390b5fe8c58026bde80a1ed5d39be658b4c18b7a512fc156a2773f5eaac7387"
+
+[[files]]
 file = "config/yosbr/config/chatpatches.json"
 hash = "0623905a25c9b6c8387f7a6a0256ea005f727c63c689d2cc7cc77f74e912f7e4"
 
 [[files]]
-file = "config/yosbr/config/clean-debug.json"
-hash = "b734ab348594bd12e6212619c14151f6a5b65b6ac446c351ab908461ac58c53c"
-
-[[files]]
 file = "config/yosbr/config/defaultoptions/keybindings.txt"
-hash = "16608e1f65ef0c2312bf0c778506e64f3835a3a68bfbeececfbbe4218d07b8df"
+hash = "401781fbae4b779f46d23e96cd6c4cea33f6cc97cdf79f6735901bea4bc9588b"
 
 [[files]]
 file = "config/yosbr/config/ferritecore.mixin.properties"
@@ -142,6 +150,11 @@ hash = "74c01cc05241bb689fbb6bb7a26aebb4897b272fdbbf33f57c04fc453bfa75eb"
 metafile = true
 
 [[files]]
+file = "mods/betterf3.pw.toml"
+hash = "dc1578a021bb4e5699524f5216d8aa9b08c9d30bfbfe0bc72bf07f5391c3f3b5"
+metafile = true
+
+[[files]]
 file = "mods/bobby.pw.toml"
 hash = "5dccb53650c19b933db206e676ef00f1d1d0129f6d072a53e5111421ea461cf6"
 metafile = true
@@ -152,6 +165,16 @@ hash = "fd210aacfcb5d3c0f0356b6862aec3f8afe8432624ed7454971d4350b4fa748c"
 metafile = true
 
 [[files]]
+file = "mods/calcmod.pw.toml"
+hash = "6df3e228c8d79cd14de683a5de571cf0f0fbcd412d48db463240e47b893b9a81"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "b341ba6158b0e2168a4d09ed6a733b976ab13667125907e595921fd77dfe73d3"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "2cf850f2efd53156d011279577f1a749368b990835c193e0e5218b83d43143f6"
 metafile = true
@@ -159,11 +182,6 @@ metafile = true
 [[files]]
 file = "mods/chatpatches.pw.toml"
 hash = "c1a20b2bba51cb198384a2bf098fa393351701221b763cc3059a297e77d2dc0d"
-metafile = true
-
-[[files]]
-file = "mods/clean-f3.pw.toml"
-hash = "b5af3194d6df56cc66492a178625a37947027a7d761eb29153f33869508a6863"
 metafile = true
 
 [[files]]
@@ -189,6 +207,11 @@ metafile = true
 [[files]]
 file = "mods/default-options.pw.toml"
 hash = "ddf6266079876a8ef0ba89b8a5f57fabc0bd4bc11af07325c2a5f33bb86cc682"
+metafile = true
+
+[[files]]
+file = "mods/draggable-lists.pw.toml"
+hash = "4387d5254a034da9decb1703df564fec40116d12536480ab7d406679b80a8b20"
 metafile = true
 
 [[files]]
@@ -267,6 +290,16 @@ hash = "a3e7e7b34dce944ad4e24370202bbd7c42335cfca76a156f3925da348eb67f56"
 metafile = true
 
 [[files]]
+file = "mods/held-item-info.pw.toml"
+hash = "f2f1f50c4ea90248c09bdd33c0cd3153fc00b35d0876f2bc128f570ca976131a"
+metafile = true
+
+[[files]]
+file = "mods/highlight.pw.toml"
+hash = "5310ba63bbcf2f482337b63f9a76154904935653a47279850e556c3120f35339"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "d5e9cba7c6d829f50503cd92834b2224e854b4f1eb6b8b03333f0ba3c1c61d01"
 metafile = true
@@ -279,6 +312,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "623f91f5cb2cfe0e7c3a6fc48ae5984dfad62e85389e2567ab5421f7d9d02c51"
+metafile = true
+
+[[files]]
+file = "mods/itemswapper.pw.toml"
+hash = "905ad2c3a8554cc6d702bbf1177eecb424d74f4bd4044b58bf8960939550ea04"
 metafile = true
 
 [[files]]
@@ -391,13 +429,18 @@ hash = "13c3726cb4534f0a924b1d77a6ae0ab4939d0b2cf9e38eeda5829d5e65e96b0f"
 metafile = true
 
 [[files]]
-file = "mods/paginatedadvancements.pw.toml"
-hash = "c9f156a56c3647f8003cc76e36accacf12406be6febeb35341e6f7df7a8dcaaa"
+file = "mods/particle-core.pw.toml"
+hash = "35806b3163ce2405e55abcda320300fa7a133f2f67ad453c7d3631d68a5ba0e2"
 metafile = true
 
 [[files]]
-file = "mods/particle-core.pw.toml"
-hash = "35806b3163ce2405e55abcda320300fa7a133f2f67ad453c7d3631d68a5ba0e2"
+file = "mods/peek.pw.toml"
+hash = "60d0144b96953b5a886a0017b1056aa74fd12eff994665a1e4c97df2243d533b"
+metafile = true
+
+[[files]]
+file = "mods/pick-up-notifier.pw.toml"
+hash = "60839cfc3cb0ad0f4618dbe25b674ed317deecf3ae067b30913f26e8ac29df9a"
 metafile = true
 
 [[files]]
@@ -413,6 +456,11 @@ metafile = true
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "670aaf37ebb497d2d2906adb33c46c086f6b544f365fe562196f40a3a2d9f27c"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "48c6c412644a17079cdbe40dce811d9e513d3e8c1b0dc52c1b07a64662ffa516"
 metafile = true
 
 [[files]]
@@ -460,6 +508,11 @@ hash = "700caca572649f238e804258f79d25969031be3e1b01d0384eb54a13200caba6"
 metafile = true
 
 [[files]]
+file = "mods/stendhal.pw.toml"
+hash = "700c474b7dbb3d6cf743c4262fa01233c0c2ada4976f8cadc942606eb7afe76b"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "8e009ac87710fbd8f5990285d36ab2b4755e932664ca1bcb9cdfac116d6e3b6d"
 metafile = true
@@ -472,6 +525,11 @@ metafile = true
 [[files]]
 file = "mods/threadtweak.pw.toml"
 hash = "ff0d87064f466d6dfa5151178cb805cea4169a6e85f47913b462758262a78024"
+metafile = true
+
+[[files]]
+file = "mods/title-fixer.pw.toml"
+hash = "27a11ffa5d6172ef941c23b18d83216818ead38f7c28b7302327971dc40cd8a4"
 metafile = true
 
 [[files]]
@@ -537,6 +595,16 @@ metafile = true
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
 hash = "a89dd43f376e990c515fe6b6b0875d9bbf51063bf3d1afa02a720039ffa651a6"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bsl-shaders-classic.pw.toml"
+hash = "12f0f4fb508a6a178b3a725503d0802978b4bebdf678bccc5f81a5655a0db4c4"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bsl-shaders.pw.toml"
+hash = "d30923bf5cfb4988a372508cb461d8077609d79a38d0b170785804c7ad15f16e"
 metafile = true
 
 [[files]]
