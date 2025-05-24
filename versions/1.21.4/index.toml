@@ -403,8 +403,8 @@ hash = "5d2e07cd857d24d53067a6909b01c078e542dd9b372204c974449ba416713d4e"
 metafile = true
 
 [[files]]
-file = "mods/nuit-fabric-1.0.0-snapshot+mc1.21.4-build.19.jar"
-hash = "132ddf56ed274fd384859b22d9853d1d81bbb1cdff02454e44fee4ae0663857e"
+file = "mods/nuit-fabric-1.0.0-snapshot+mc1.21.4-build.20.jar"
+hash = "ca436e4863c157a987b9b5db6c79d7c849e8ead38db5ec59949f4dc19ff46543"
 
 [[files]]
 file = "mods/nuit-interop-fabric-1.0.0-snapshot+mc1.21.4-build.10.jar"
@@ -557,7 +557,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "5da6e73153e45cdb9868fb82c1e1fb8ccbaf88c2f5dd4c06858d6939f07e8ac4"
+hash = "a89dd43f376e990c515fe6b6b0875d9bbf51063bf3d1afa02a720039ffa651a6"
 metafile = true
 
 [[files]]
