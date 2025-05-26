@@ -161,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "fd210aacfcb5d3c0f0356b6862aec3f8afe8432624ed7454971d4350b4fa748c"
+hash = "2049b19e9e60ae9e341754c2ef3fb15a918737c6d937eac643900bf5580b1f43"
 metafile = true
 
 [[files]]
@@ -246,12 +246,12 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "6051d046ed89cecdd83ff7bfcc4c1065270a5d3898c578f2ade354b607e63dd3"
+hash = "15faa54abc7793ee327d09869a907fcd017b01daf49c12aade732d3231cbc1d9"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "7a6f0b29e5002753456d2fb78734c2a64a4713f58304df0114cd529091eb5909"
+hash = "fee206a23f1e16df638415ce80292e973b23aaf3883affc826458a32a6797092"
 metafile = true
 
 [[files]]

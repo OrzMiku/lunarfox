@@ -50,7 +50,7 @@ hash = "435f7811c796b2352fee74985081994d69f881f9f0b6a0499ba39fbc40ee3f0b"
 
 [[files]]
 file = "config/yosbr/config/modernfix-mixins.properties"
-hash = "fe3adb9d049595fc11313a201722b5612621b3b2f3afc622c8442a504a5a3eb7"
+hash = "e5c9726f99bb306f542509a638a3c227d68468ed5681668a051ef135b0806a15"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
@@ -249,7 +249,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "6051d046ed89cecdd83ff7bfcc4c1065270a5d3898c578f2ade354b607e63dd3"
+hash = "15faa54abc7793ee327d09869a907fcd017b01daf49c12aade732d3231cbc1d9"
 metafile = true
 
 [[files]]
