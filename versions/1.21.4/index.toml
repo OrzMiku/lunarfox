@@ -112,6 +112,11 @@ hash = "848c49f2ead5e1e71d7be95d2d9e1cb992631faf91500b9c59e72d61afca33fd"
 metafile = true
 
 [[files]]
+file = "mods/axolotl-buckets.pw.toml"
+hash = "c8dcaae7debe9b4c212794a93b0b169ee7d351271140f2580e54a953b46638cd"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "57c157ebf3f36495fa14668c3906e70726a83564c7d0071507fc85baa106626c"
 metafile = true
@@ -134,6 +139,11 @@ metafile = true
 [[files]]
 file = "mods/better-ping-display-fabric.pw.toml"
 hash = "b8e99cb5d0340da918037b444e1f106dbe4dc90d4efcd7780e7f6b4072116452"
+metafile = true
+
+[[files]]
+file = "mods/better-selection.pw.toml"
+hash = "951a3ebbb40279875b6a05dc43628273110421c03975827ef1e4c148d2649ad4"
 metafile = true
 
 [[files]]
@@ -527,6 +537,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "09d2dbee70e91e8859e6f62e4181a80264d6dd24cc686fbedb93dda9f69fdfe6"
+metafile = true
+
+[[files]]
+file = "mods/status-effect-bars.pw.toml"
+hash = "8ee85cf9163551e114d900f00a24849ea55d915b30143b778f8125baa792d6da"
 metafile = true
 
 [[files]]

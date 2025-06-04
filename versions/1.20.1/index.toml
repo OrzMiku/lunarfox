@@ -113,6 +113,11 @@ hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
 metafile = true
 
 [[files]]
+file = "mods/axolotl-buckets.pw.toml"
+hash = "e1907954ddeb38cd40a20da82b5f3938690941dd47b4877fddd8a921a55e1732"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "adf5896d6329adf0234a6ff63e6b7244c9fb3b304c1f6f4f7bdb44b72d38bb36"
 metafile = true
@@ -135,6 +140,11 @@ metafile = true
 [[files]]
 file = "mods/better-ping-display-fabric.pw.toml"
 hash = "8f54b2270c2d87b56a73b4355305cc4a4dd277330cad97d137b98073ec0d8e83"
+metafile = true
+
+[[files]]
+file = "mods/better-selection.pw.toml"
+hash = "449d548b749af0fa7770496ebf513d97075e2a3493bda9c7a45a63ba94792d0f"
 metafile = true
 
 [[files]]
@@ -555,6 +565,11 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "98553c2d49ef3a888954f24b7c49fe3442c01fd4fc1f1ed52c5898ed29d29d3b"
+metafile = true
+
+[[files]]
+file = "mods/status-effect-bars.pw.toml"
+hash = "e0047e26d3d4a5a290dc150e9a7c5c5f64cde9e6a0538eaa6f6060374349700f"
 metafile = true
 
 [[files]]

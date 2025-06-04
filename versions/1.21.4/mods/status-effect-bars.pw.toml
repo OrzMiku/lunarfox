@@ -1,0 +1,13 @@
+name = "Status Effect Bars"
+filename = "status-effect-bars-1.0.7.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/x02cBj9Y/versions/iSH5aE6f/status-effect-bars-1.0.7.jar"
+hash-format = "sha512"
+hash = "af101a0fcc4d158653d1104f8d33f6b9e6e2e34a624784bd74cd4c57849a34d6c5702cbd74745ce98fbd19b0f9a277c76d8e0c1987616f5b905ebbf7a83d42e7"
+
+[update]
+[update.modrinth]
+mod-id = "x02cBj9Y"
+version = "iSH5aE6f"

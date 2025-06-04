@@ -1,0 +1,13 @@
+name = "Axolotl Buckets"
+filename = "axolotlbuckets-1.5.0+1.21.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/6tlhZmC5/versions/xAOHFibh/axolotlbuckets-1.5.0%2B1.21.5.jar"
+hash-format = "sha512"
+hash = "a1cc7119d81b6826e8bca4dfb781b6ddcbe65322df54afe80686434142a0b3f8de0d59dcddae9f77d049a92f300cbd775532edc3a6dc57546f38973d4549cdf6"
+
+[update]
+[update.modrinth]
+mod-id = "6tlhZmC5"
+version = "xAOHFibh"

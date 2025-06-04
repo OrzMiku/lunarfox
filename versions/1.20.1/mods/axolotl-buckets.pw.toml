@@ -1,0 +1,13 @@
+name = "Axolotl Buckets"
+filename = "axolotlbuckets-1.2.0+1.20.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/6tlhZmC5/versions/TVZJegop/axolotlbuckets-1.2.0%2B1.20.jar"
+hash-format = "sha512"
+hash = "22f77a52b36dc302787f90dfa61f27306ec5695e3c1c0e843a02d8b404027987f8c18c2a6b39b7957bab3eff36cfdded2450429ce10739b3899eab171f8e7c9b"
+
+[update]
+[update.modrinth]
+mod-id = "6tlhZmC5"
+version = "TVZJegop"
