@@ -118,12 +118,12 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "570daa00ea71077b1cffb1b1767c9529a85679e7e2abe25be74183f14a01e106"
+hash = "9148641be3fdcc1986327842e3bfb231143547a3268e33552f2c4e96384187b3"
 metafile = true
 
 [[files]]
 file = "mods/better-advancements.pw.toml"
-hash = "51ab728390a44a09607dd2ff4dd88e23b65972b8e6389acc02e19489a3a254f3"
+hash = "f96f048691950fe408222e0002dd62902642415dea42f1f900213060007c9364"
 metafile = true
 
 [[files]]
@@ -248,7 +248,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "687d9f69912b725a879bf3b4da8fb3f63eead93e4ce3e719c2be67d56b70c0b5"
+hash = "18e346acc11ee4082d56b804810909a69010a26eb27ac1ac3840489a6ed754fb"
 metafile = true
 
 [[files]]
@@ -283,12 +283,12 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "d9f961a99fe78334d7cd38c0d5f9d5c8ddae554bda204b53e4684f5d281cecf4"
+hash = "729e9e159f9f4fb501e866694a1272198cb29732b2f7ab25590a83f03e49eda8"
 metafile = true
 
 [[files]]
 file = "mods/gamma-utils.pw.toml"
-hash = "a3e7e7b34dce944ad4e24370202bbd7c42335cfca76a156f3925da348eb67f56"
+hash = "772b4329e035c8b0dbb728ab5c005bca5b5ea398880f7ab2edbec8a1414e8347"
 metafile = true
 
 [[files]]
@@ -471,7 +471,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "8693fcbeb82c4aeb8be9a85e9cd150555a475ebca62491a2940c5e7ef092f2f3"
+hash = "c9338ebb835be401c3ca94b42e1475623c29e9df26cc6e4fb7a2f767660c7863"
 metafile = true
 
 [[files]]
@@ -496,7 +496,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "fe56e851eb796c9a20491ddb6034fb3b51baf762f09b9daecfe756df602e7349"
+hash = "34ec0e2ad91c770113fe828af5200416bb0ad445c5690a50c73f9fc940689c18"
 metafile = true
 
 [[files]]

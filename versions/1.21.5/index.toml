@@ -126,7 +126,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "7ab25b67d9bde4f04f5ebfa0527948a315ee72a9d7e64b9efc2a1dff891cf7d1"
+hash = "52ceeded56d4851cd8cfe9bcfef62128d635934ab1735f202457faca300cfd1b"
 metafile = true
 
 [[files]]
@@ -161,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "2049b19e9e60ae9e341754c2ef3fb15a918737c6d937eac643900bf5580b1f43"
+hash = "39d2695bf316d7d48d21da0ae6b38ea3e74c47c3b07c93bbade4dd753df90321"
 metafile = true
 
 [[files]]
@@ -251,7 +251,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "fee206a23f1e16df638415ce80292e973b23aaf3883affc826458a32a6797092"
+hash = "528200f74061ca4d9ca1e1e65d932fd7fd49a071cef36912f117a4b2a0a537cf"
 metafile = true
 
 [[files]]
@@ -281,12 +281,12 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "27a03591c0d4c9f630c23828a3b3506e3d67635e2c7dbed2fe67aa1b03e52351"
+hash = "c3741eb99da1676db710022999844ad608687b2008743403e840b3e9df8c5cba"
 metafile = true
 
 [[files]]
 file = "mods/gamma-utils.pw.toml"
-hash = "a3e7e7b34dce944ad4e24370202bbd7c42335cfca76a156f3925da348eb67f56"
+hash = "772b4329e035c8b0dbb728ab5c005bca5b5ea398880f7ab2edbec8a1414e8347"
 metafile = true
 
 [[files]]
@@ -301,7 +301,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "d5e9cba7c6d829f50503cd92834b2224e854b4f1eb6b8b03333f0ba3c1c61d01"
+hash = "2449e4f29f167ff8453e67d0d4fc47294523e2ca9dce022d1a5670cd2ed49808"
 metafile = true
 
 [[files]]
@@ -445,7 +445,7 @@ metafile = true
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
-hash = "37d94eccb60749412f669a737642a603eb549225c9a49c45320a0ca097dfc513"
+hash = "799419e64ed42a8175333c541a08995fc4d84a2c6000877f60262fe55892e3ff"
 metafile = true
 
 [[files]]
@@ -460,7 +460,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "48c6c412644a17079cdbe40dce811d9e513d3e8c1b0dc52c1b07a64662ffa516"
+hash = "86e1d2e85c9b71d8b0d3710b04ca305aeda417656fbf86a6ea7264a5acf08dcf"
 metafile = true
 
 [[files]]
@@ -475,7 +475,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "2d77d2aa6a018790d81e93d8b211e03d5a620392592fa739be39b840a01ef471"
+hash = "08dbee5570664502979b1b8f1dddf0f3f0ea9922165b4cf5f1939fc68a36912a"
 metafile = true
 
 [[files]]
@@ -539,7 +539,7 @@ metafile = true
 
 [[files]]
 file = "mods/viafabricplus.pw.toml"
-hash = "06edcd8b8277da7d61696672502c3e0c2952dc97f03115be5b38ccdf598f0d27"
+hash = "645696d11ed58a0c62b126d391e8c9f0fd5e324cac833a3405d7a9c56c2a1ab9"
 metafile = true
 
 [[files]]

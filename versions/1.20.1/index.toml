@@ -119,7 +119,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "4604e2814f87f13d404cb430a4167929391ac6a42322dacb9ca6f9d8ea12593b"
+hash = "7dc148833d9a455f8ddebab5c3d8a03c2797cff1296d8c0bcb526e6226b97cb3"
 metafile = true
 
 [[files]]
@@ -254,7 +254,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "2d44be0de504bd05e2f6f2e4644f5d7afd2401adcdff92c19871db204e121988"
+hash = "2b7949e506ba69c57139127c0ccc6caf5a9ec5ec97788b81288118db3d7c2ad3"
 metafile = true
 
 [[files]]
@@ -299,7 +299,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "6ef4d5626e258509b479220129ccc987b3f9e8ac33a6a5e227772f3cde1dbb9f"
+hash = "73eaf730f838085585517587a39a8d8d865c58646346a5bfbf703e5f3ac30314"
 metafile = true
 
 [[files]]
@@ -429,7 +429,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "86bfc097974f2e848f28a866c15d58f68bcf01e058012ab5c7ecff9b2bf7a6f7"
+hash = "f2d4fb902274312c42ecca4fb8dc3781d4d249ab978e9e57c89eff03c577c7c4"
 metafile = true
 
 [[files]]
@@ -524,7 +524,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "b6db84c2fde960f8c358e510a1c9972a0903ff03ed0d004042b2fdf31ac08210"
+hash = "0dd045a190a28d273a6bf2c6e8515f92e9554873657455e574a8f5c0c7f5b7d4"
 metafile = true
 
 [[files]]

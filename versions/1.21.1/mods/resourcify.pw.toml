@@ -1,13 +1,13 @@
 name = "Resourcify"
-filename = "Resourcify (1.21.1-fabric)-1.7.1.jar"
+filename = "Resourcify (1.21.1-fabric)-1.7.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/RLzHAoZe/versions/bmmMRetc/Resourcify%20%281.21.1-fabric%29-1.7.1.jar"
+url = "https://cdn.modrinth.com/data/RLzHAoZe/versions/8KNOeECK/Resourcify%20%281.21.1-fabric%29-1.7.2.jar"
 hash-format = "sha512"
-hash = "0840c0f8243d1a79022f3917ad16efde50f02c996154ae9f2987ebd4adeaa61bec554047164b599e8ad482b44fb0d8755c04416a40103a90e0dd6ab4f5e559ca"
+hash = "0e4a9119c5f7142a8d348ff202dabf4ae2197e5f430ca87290d095d9906bbdb35f150c78700354abe2c436ce0b35790b4adbcecd583245277fd94b3ca7038bff"
 
 [update]
 [update.modrinth]
 mod-id = "RLzHAoZe"
-version = "bmmMRetc"
+version = "8KNOeECK"
