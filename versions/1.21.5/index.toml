@@ -130,6 +130,11 @@ hash = "52ceeded56d4851cd8cfe9bcfef62128d635934ab1735f202457faca300cfd1b"
 metafile = true
 
 [[files]]
+file = "mods/better-advancements.pw.toml"
+hash = "6bc53d37c7372b19b544d7e3288250c0298040fed511ff8f2c9e7f8c537f67eb"
+metafile = true
+
+[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "385f6606afc7086a39eaceec2df95e0c2c5d7aa3a3b31cb67e2a337eb10a4167"
 metafile = true
