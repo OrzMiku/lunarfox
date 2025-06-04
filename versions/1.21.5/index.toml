@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/fabric_loader_dependencies.json"
-hash = "5287b32edcac91203df51c442436bab5ed42e3add3303406f9cdd832a912249a"
-
-[[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
 hash = "58c9e639e6458fdcdd201f080187df717242571a32d6406479b7624468ca66e9"
 
