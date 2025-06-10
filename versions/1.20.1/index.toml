@@ -399,7 +399,7 @@ metafile = true
 
 [[files]]
 file = "mods/magiclib.pw.toml"
-hash = "ec0122364de21d96992ae661e163efbd5ad83917533b623e0b1db5fe2bdf63ae"
+hash = "0de0ed11dcf4504687df82b5a564256f5ff592ec69cc7728f4ded2175a518c18"
 metafile = true
 
 [[files]]
@@ -659,7 +659,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "a89dd43f376e990c515fe6b6b0875d9bbf51063bf3d1afa02a720039ffa651a6"
+hash = "58f2d6711487280df6601b89a4fb453938304d333c5df9a0549d7c49ece067bd"
 metafile = true
 
 [[files]]

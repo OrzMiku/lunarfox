@@ -1,14 +1,13 @@
-# TODO: 临时使用 Dev 版本，等到 MagicLib 发布新的稳定版后删除
 name = "MagicLib Dev"
-filename = "MagicLib-mc1.21.4-fabric-0.8.702-beta.jar"
+filename = "MagicLib-mc1.21.4-fabric-0.8.708-beta.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/JOGZQCse/versions/558FLfYC/MagicLib-mc1.21.4-fabric-0.8.702-beta.jar"
+url = "https://cdn.modrinth.com/data/JOGZQCse/versions/GvHLnhPP/MagicLib-mc1.21.4-fabric-0.8.708-beta.jar"
 hash-format = "sha512"
-hash = "9056f64d2af6de3daf62bfe6a5c68cd129065111c1caed510b786332a8026ad3c8b16fedddf8a8f743928db75b355cc0d0ef45d75d49767a4e2d270208823d2a"
+hash = "7e8c04f5a5571a0e1ceb4d6f52a25cbe7ea26b18e06eb536519de6b1b0074b7fa6970fbb786d6ca66299af0340222d2e0827c50c114b5d6da91beedcc91a1687"
 
 [update]
 [update.modrinth]
 mod-id = "JOGZQCse"
-version = "558FLfYC"
+version = "GvHLnhPP"

@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-advancements.pw.toml"
-hash = "6bc53d37c7372b19b544d7e3288250c0298040fed511ff8f2c9e7f8c537f67eb"
+hash = "792f60ddfba19616a0316b79c0b9788db9ae0c8b1a4b6000f688f01d80422a76"
 metafile = true
 
 [[files]]
@@ -262,7 +262,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "528200f74061ca4d9ca1e1e65d932fd7fd49a071cef36912f117a4b2a0a537cf"
+hash = "7526ccbba405cff20b86350c9e0a59c8c470a59df70abb2fc307b6537a76105b"
 metafile = true
 
 [[files]]
@@ -317,7 +317,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "781569b236e3803e831888850b61c9765aa031c3db3a73730586f3868b186658"
+hash = "5c9e35e1c2df866f97371ce64eb8d5428310716c7246bb77e542fcf62680d92a"
 metafile = true
 
 [[files]]
@@ -367,7 +367,7 @@ metafile = true
 
 [[files]]
 file = "mods/magiclib.pw.toml"
-hash = "4dde7b71455aabee6b2a34f779901518272a21a265f57c24cab91900dc3fa6c1"
+hash = "b5c1653a3e1b0ecbf701942c28e02bb91ffa7d3bbcbde6f2aaf6cb6eb2f5661e"
 metafile = true
 
 [[files]]
@@ -382,7 +382,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcwifipnp.pw.toml"
-hash = "848f1eed33d9b8a7e2dcfa87e11067ef3672301265c3e4deed01c0fc88268880"
+hash = "dae7eebc995b1350777f68e8b6cff8950c3b6fc66863fbc48294de6788e5b2af"
 metafile = true
 
 [[files]]
@@ -446,7 +446,7 @@ metafile = true
 
 [[files]]
 file = "mods/peek.pw.toml"
-hash = "60d0144b96953b5a886a0017b1056aa74fd12eff994665a1e4c97df2243d533b"
+hash = "c8c48f3944c2c8b3518d9ad9fda07d1e264ac1e44df268ed815dc0d882a98fdc"
 metafile = true
 
 [[files]]
@@ -610,7 +610,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "a89dd43f376e990c515fe6b6b0875d9bbf51063bf3d1afa02a720039ffa651a6"
+hash = "58f2d6711487280df6601b89a4fb453938304d333c5df9a0549d7c49ece067bd"
 metafile = true
 
 [[files]]

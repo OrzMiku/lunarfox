@@ -1,13 +1,13 @@
 name = "LAN World Plug-n-Play (mcwifipnp)"
-filename = "mcwifipnp-1.8.5-1.21-fabric.jar"
+filename = "mcwifipnp-1.8.5-1.21.5-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/RTWpcTBp/versions/DjxMUhbU/mcwifipnp-1.8.5-1.21-fabric.jar"
+url = "https://cdn.modrinth.com/data/RTWpcTBp/versions/FUgLfbcv/mcwifipnp-1.8.5-1.21.5-fabric.jar"
 hash-format = "sha512"
-hash = "cf6c9d1cef67e3d5f0f2e984c35a14d7bdaf88c8f16b987b25102afdcf80efe4016eb07bfc850fe063c0ec0621de9d4f78de028f4a1eb5f4ab69aa7817a6d42d"
+hash = "6c38ec351e0427caacc0b49a7f1334e2fafd63a16ecc218bbf9c58cde87114c666490de2f94d99f828748dcd9192c986b9804b299dc115e3cb0959a3ec554f0b"
 
 [update]
 [update.modrinth]
 mod-id = "RTWpcTBp"
-version = "DjxMUhbU"
+version = "FUgLfbcv"

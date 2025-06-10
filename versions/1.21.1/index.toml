@@ -337,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "6c4ef6e64b14ef35375a3983e8cc0c1ca174777183e7f22c34cefe10ee155eb7"
+hash = "c643cea9c11b9a801ff707882cc4036b30ed8bb85da041ddfd87737084bce613"
 metafile = true
 
 [[files]]
@@ -397,7 +397,7 @@ metafile = true
 
 [[files]]
 file = "mods/magiclib.pw.toml"
-hash = "ec1e64e000ebe48205da0d767bddf3b84cbf3817e3338f50503f44d1e7481301"
+hash = "0277c79c222aa1bdff759e1b6f5b224a836a6e760d80eac50b810675f99224d3"
 metafile = true
 
 [[files]]
@@ -497,7 +497,7 @@ metafile = true
 
 [[files]]
 file = "mods/peek.pw.toml"
-hash = "e7ec7aea6fd312cca23b121b96368091cedcf8866ae044fedaf55d477e402a99"
+hash = "85b7c1ed607fd89bdd90d65ecd50f84a86b9e3b12fea7cc8419158d52f252712"
 metafile = true
 
 [[files]]
@@ -662,7 +662,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "a89dd43f376e990c515fe6b6b0875d9bbf51063bf3d1afa02a720039ffa651a6"
+hash = "58f2d6711487280df6601b89a4fb453938304d333c5df9a0549d7c49ece067bd"
 metafile = true
 
 [[files]]
