@@ -1,0 +1,13 @@
+name = "MidnightLib"
+filename = "midnightlib-1.7.4-fabric+1.21.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/codAaoxh/versions/Hix1F2np/midnightlib-1.7.4-fabric%2B1.21.6.jar"
+hash-format = "sha512"
+hash = "c59345dc02c462e3f782adebc726a02ff020b9a03e16f2c83796cbc8caaa98828ee3f6b33af4bde43fc6e8938cb8e2525aaaa12b0a6457732ec624f52040ffcd"
+
+[update]
+[update.modrinth]
+mod-id = "codAaoxh"
+version = "Hix1F2np"
