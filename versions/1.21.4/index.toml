@@ -143,7 +143,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-selection.pw.toml"
-hash = "951a3ebbb40279875b6a05dc43628273110421c03975827ef1e4c148d2649ad4"
+hash = "ca99bf51d1fe0e71a41e2d622284844628f1697da1b20307617ab66222f1512a"
 metafile = true
 
 [[files]]
@@ -253,7 +253,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "15faa54abc7793ee327d09869a907fcd017b01daf49c12aade732d3231cbc1d9"
+hash = "9f9861528accd9ee8830611cea5c64a266bf09e3146f8ff31bcafc3db26497b0"
 metafile = true
 
 [[files]]
@@ -348,12 +348,12 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "72028ee2d4464eb37fcdfafb39bab016e265f6f761bfd67dab103d2cb7b18e11"
+hash = "06d953295265b2f415532373736703632cbddcfe916a8f6534ab3006f57a6c4f"
 metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "f27d2387b3236378fca54f60d940a7d543f4c479497735b4a16a334705981103"
+hash = "aeee628da27bde07e28866859d52ce5f45e45fb39fcc4e5cb48cfb9174b3cc69"
 metafile = true
 
 [[files]]
@@ -373,7 +373,7 @@ metafile = true
 
 [[files]]
 file = "mods/magiclib.pw.toml"
-hash = "f9ef9da1290f5ea1a2452e8ec521e73c143116b209223956663a1b37d5ed0024"
+hash = "86ca88dfda8af2c26265124d07890d4f7933dd9e0dbe60f94d30244648a847a2"
 metafile = true
 
 [[files]]
@@ -481,7 +481,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "dbd855235acba3433bce72af61138ad37de733c81537bed6ce963eefbdb9755d"
+hash = "e1460c3703a1156047ad72219f0ff0b8ea726e5e672be57ebc084504193f7ca4"
 metafile = true
 
 [[files]]
@@ -606,7 +606,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "75b191c621b271734901f012011f22e0c8f5c21ee5de1bfa369ace9540fd1e76"
+hash = "f43189af1d460c6eac591137e1549ca8a8d3a537906a07a03cf67f1d5b90b02b"
 metafile = true
 
 [[files]]
@@ -621,12 +621,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fast-better-grass.pw.toml"
-hash = "3545a5aeece1edd15cf0c31e39e12300110e7feac2f5343b6c209a4ae7d85680"
+hash = "3b05b966ad8012708764929ded584b1bbb80b065485c1b5ee8f5587ea18e92d7"
 metafile = true
 
 [[files]]
 file = "resourcepacks/spbr.pw.toml"
-hash = "9610863ac642dbcecf4c0f542dd1a9de07b1f29ad17272551bf83eb9f20dddef"
+hash = "84a7b313ed2770ebfa598aa190f82d2c0c3275c028d8bb24bd76026a95e06c0b"
 metafile = true
 
 [[files]]
