@@ -5,6 +5,14 @@ file = "config/fabric_loader_dependencies.json"
 hash = "5912cc3de1f6daa755d1449604051182f14137aa96cef6721413da1681e308da"
 
 [[files]]
+file = "config/yosbr/config/defaultoptions/keybindings.txt"
+hash = "401781fbae4b779f46d23e96cd6c4cea33f6cc97cdf79f6735901bea4bc9588b"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "cb3a337e0a3f0cbac0b27f270b93575cb6f036f7be540eb56c384842deaa7751"
+
+[[files]]
 file = "icon.png"
 hash = "7ed2443085370e3427bd3e803037356811af68ad3fc131947a89cc89f2103fc7"
 
@@ -40,13 +48,17 @@ metafile = true
 
 [[files]]
 file = "mods/carpet.pw.toml"
-hash = "3c9217ddc7e6a63c70406927f6a5a3bcff4501e1b2e2e4d07888534b7ad56d1d"
+hash = "3d21a4a42390d815afb6fe6f1bc13a07a1b2685204d09786d6acc92d760d9429"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "13ae813426f52226d8363499d722df0933e84534f216eef127c198c18bcdbb6b"
 metafile = true
+
+[[files]]
+file = "mods/defaultoptions-fabric-1.21.6-21.6.0.jar"
+hash = "1cbcb80b6ec24e714b7cb256a273ff771f73c91671ddf399a3cc82b68a6ed428"
 
 [[files]]
 file = "mods/dynamiccrosshair.pw.toml"
@@ -95,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "eb1368b1c8909ed0867f9423aa5885b50a3740d01fe5c057db3b61a3094ac6be"
+hash = "d4bb722a37ed78e43e3ff2dcd358e8b9c0d918f9d349a7c0bdc4cf61b8fc8b4a"
 metafile = true
 
 [[files]]
@@ -115,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "122b256a45c82a3a1789048c3876fbb5cbd1c19570a3b36d5d7a44efd880e8b3"
+hash = "ad167f92c36bf4b7e76baa4fdddf98e4e6f296a1f51730a82f67bb8406b0eddb"
 metafile = true
 
 [[files]]
@@ -160,12 +172,13 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "575467cf4a0333075d604f63db773ec384ae2068239812cc53113b0d2b25a0aa"
+hash = "ea0eb6ab539b43926503901694913866aa81a9a644cd3469080214a7ca785db2"
 metafile = true
 
 [[files]]
-file = "options.txt"
-hash = "cb3a337e0a3f0cbac0b27f270b93575cb6f036f7be540eb56c384842deaa7751"
+file = "mods/yosbr.pw.toml"
+hash = "1bb9b2e75c6934b1f18648e9b37e20abcf6a4a2547c7cdb0abe88407267e0c10"
+metafile = true
 
 [[files]]
 file = "resourcepacks/fast-better-grass.pw.toml"
