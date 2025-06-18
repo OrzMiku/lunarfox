@@ -5,8 +5,16 @@ file = "config/fabric_loader_dependencies.json"
 hash = "5912cc3de1f6daa755d1449604051182f14137aa96cef6721413da1681e308da"
 
 [[files]]
+file = "config/yosbr/config/chatpatches.json"
+hash = "0623905a25c9b6c8387f7a6a0256ea005f727c63c689d2cc7cc77f74e912f7e4"
+
+[[files]]
 file = "config/yosbr/config/defaultoptions/keybindings.txt"
 hash = "401781fbae4b779f46d23e96cd6c4cea33f6cc97cdf79f6735901bea4bc9588b"
+
+[[files]]
+file = "config/yosbr/config/ferritecore.mixin.properties"
+hash = "3817e94107bb1c7358beebb80b1810e822de38be430f855cf14828c38018e8e2"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -52,13 +60,24 @@ hash = "3d21a4a42390d815afb6fe6f1bc13a07a1b2685204d09786d6acc92d760d9429"
 metafile = true
 
 [[files]]
+file = "mods/chatpatches.pw.toml"
+hash = "7cbe039914661c16bb33a0d1db0ed5ec8624d1e1d6ae4135d83182ae19c21265"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "13ae813426f52226d8363499d722df0933e84534f216eef127c198c18bcdbb6b"
 metafile = true
 
 [[files]]
-file = "mods/defaultoptions-fabric-1.21.6-21.6.0.jar"
-hash = "1cbcb80b6ec24e714b7cb256a273ff771f73c91671ddf399a3cc82b68a6ed428"
+file = "mods/craterlib.pw.toml"
+hash = "10d0fedaab6a4f7ef05e06882e61864599f5dddafe55902b25ed475f81b6b5ce"
+metafile = true
+
+[[files]]
+file = "mods/default-options.pw.toml"
+hash = "3fba81bc670ee054772813d5299abdba7ab75dd70afbd0a32f98ca9a3b2406be"
+metafile = true
 
 [[files]]
 file = "mods/dynamiccrosshair.pw.toml"
@@ -78,6 +97,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "967a780be97bec40b8bca4945a053ee4fbd05d58e218c4fb803959ac0d0c7f08"
+metafile = true
+
+[[files]]
+file = "mods/fast-ip-ping.pw.toml"
+hash = "ce9cb1dd078bd6c423d36c4fb63a9a62a61e720bfcf50ec17bb2b158cea17959"
 metafile = true
 
 [[files]]
@@ -108,6 +132,11 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "d4bb722a37ed78e43e3ff2dcd358e8b9c0d918f9d349a7c0bdc4cf61b8fc8b4a"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "e26dacab5ed497b7bf6500e389eba5e21cd4b9d7b38089045cd26818a4d2f589"
 metafile = true
 
 [[files]]
@@ -178,6 +207,11 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "1bb9b2e75c6934b1f18648e9b37e20abcf6a4a2547c7cdb0abe88407267e0c10"
+metafile = true
+
+[[files]]
+file = "mods/zume.pw.toml"
+hash = "434ac58bf0c398eb06d03856a3de1edf30aba72ff11ac953bda99e34132c0376"
 metafile = true
 
 [[files]]
