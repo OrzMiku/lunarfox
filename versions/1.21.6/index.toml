@@ -1,8 +1,17 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/fabric_loader_dependencies.json"
+hash = "5912cc3de1f6daa755d1449604051182f14137aa96cef6721413da1681e308da"
+
+[[files]]
 file = "icon.png"
 hash = "7ed2443085370e3427bd3e803037356811af68ad3fc131947a89cc89f2103fc7"
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "69899ea1e08081eb7528439d9e1ae3c883c23d7daa19ac66dd947adcd5f3c27b"
+metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
@@ -22,6 +31,16 @@ metafile = true
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "23390454f494dbb66977daa53d9fd524c063be3763198976625fb301707160e4"
+metafile = true
+
+[[files]]
+file = "mods/calcmod.pw.toml"
+hash = "e3f48e4cf0b08c8e6d2b91fe79b05a0b6edf2be5de8a6d91f68001a81952a12e"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "3c9217ddc7e6a63c70406927f6a5a3bcff4501e1b2e2e4d07888534b7ad56d1d"
 metafile = true
 
 [[files]]
@@ -52,6 +71,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "fbf9806c22ee5bccbe08f7dec15b742f5ae3a70caf186d6dce0d42f28790f559"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "1e94e871bea2d10f605338decf08b37a31d045067a69fb6bc802aa2d793afdd0"
 metafile = true
 
 [[files]]
@@ -95,6 +119,11 @@ hash = "122b256a45c82a3a1789048c3876fbb5cbd1c19570a3b36d5d7a44efd880e8b3"
 metafile = true
 
 [[files]]
+file = "mods/modmenu.pw.toml"
+hash = "6cc7fdbe5cf08f29ec6628c945842eea6efb41e9e82c21f24c135175fcd62132"
+metafile = true
+
+[[files]]
 file = "mods/optigui.pw.toml"
 hash = "43aea184f4522b8219d178ba91e12874e3f2e22ac32fcd72a22519ddcdc671ce"
 metafile = true
@@ -102,6 +131,11 @@ metafile = true
 [[files]]
 file = "mods/peek.pw.toml"
 hash = "8b933f8216b2d026b45dc8dd037ca4b6a774a472c567f2a518763701bf6c0744"
+metafile = true
+
+[[files]]
+file = "mods/rrls.pw.toml"
+hash = "05bcbed4addecc137a23cd5cd34d40524c0e2369fd6cec4f3cdaf7719751b843"
 metafile = true
 
 [[files]]
@@ -136,6 +170,11 @@ hash = "cb3a337e0a3f0cbac0b27f270b93575cb6f036f7be540eb56c384842deaa7751"
 [[files]]
 file = "resourcepacks/fast-better-grass.pw.toml"
 hash = "3b05b966ad8012708764929ded584b1bbb80b065485c1b5ee8f5587ea18e92d7"
+metafile = true
+
+[[files]]
+file = "resourcepacks/spbr.pw.toml"
+hash = "84a7b313ed2770ebfa598aa190f82d2c0c3275c028d8bb24bd76026a95e06c0b"
 metafile = true
 
 [[files]]
