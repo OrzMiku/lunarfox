@@ -66,7 +66,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "13ae813426f52226d8363499d722df0933e84534f216eef127c198c18bcdbb6b"
+hash = "0efceebbfe186ed19db415acd05d403ada42083dc3e9a73dc6810d3e55c4fe76"
 metafile = true
 
 [[files]]
@@ -111,7 +111,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast-ip-ping.pw.toml"
-hash = "ce9cb1dd078bd6c423d36c4fb63a9a62a61e720bfcf50ec17bb2b158cea17959"
+hash = "c9babfbb0db58f9edfc38666af8ef4ce24fe0cd0594d3c421bb51410fb6c3fa2"
 metafile = true
 
 [[files]]
@@ -121,7 +121,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "1e94e871bea2d10f605338decf08b37a31d045067a69fb6bc802aa2d793afdd0"
+hash = "33860b488f34f31c13aa021401410d6273275217f086e2e817908dca706ed887"
 metafile = true
 
 [[files]]
@@ -186,7 +186,7 @@ metafile = true
 
 [[files]]
 file = "mods/peek.pw.toml"
-hash = "8b933f8216b2d026b45dc8dd037ca4b6a774a472c567f2a518763701bf6c0744"
+hash = "3a33e1b3d8da84b7492008fbb59d92e8e8150450cee708f903ad1c96f4939432"
 metafile = true
 
 [[files]]
