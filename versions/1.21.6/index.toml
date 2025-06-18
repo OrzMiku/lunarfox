@@ -85,6 +85,16 @@ hash = "03ff3271a6588784ae296597f50de292f9cb416ac9b1391e5e0394bbbd3f87f3"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "b001c3a1852a1293e83d32fb0850c4da6aaf2ef100b5140cb1ce7d2885b178fd"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "f4d7523b2a6d6c167ecf2e19964898f1fcdf060a15553b05fa1d5dd41a56c373"
+metafile = true
+
+[[files]]
 file = "mods/euphoria-patches.pw.toml"
 hash = "9f9861528accd9ee8830611cea5c64a266bf09e3146f8ff31bcafc3db26497b0"
 metafile = true
@@ -165,6 +175,11 @@ hash = "6cc7fdbe5cf08f29ec6628c945842eea6efb41e9e82c21f24c135175fcd62132"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "67d7d0cd20e2933d7b2a305d60e109bc6db868883209416ccfe5e22de281c1da"
+metafile = true
+
+[[files]]
 file = "mods/optigui.pw.toml"
 hash = "43aea184f4522b8219d178ba91e12874e3f2e22ac32fcd72a22519ddcdc671ce"
 metafile = true
@@ -172,6 +187,11 @@ metafile = true
 [[files]]
 file = "mods/peek.pw.toml"
 hash = "8b933f8216b2d026b45dc8dd037ca4b6a774a472c567f2a518763701bf6c0744"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "c163e626122588e4f87d367e53dfe6e2630e48c1680cafd692ef8ac82832fcac"
 metafile = true
 
 [[files]]
@@ -197,6 +217,16 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "05900efb4cdaf32033674639fc83525f47b33afdfb8e693930883cf4842fdc84"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "9f07a111bb74925e569efadfe6e5d25406aac710d974116d90c9d3450cb3d5b6"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "8dbc902adac712c4f42a5c0ae8e67e7e1eb194deca394eb23e09484ab5044e2b"
 metafile = true
 
 [[files]]
