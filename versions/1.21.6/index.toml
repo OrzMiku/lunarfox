@@ -17,8 +17,24 @@ file = "config/yosbr/config/ferritecore.mixin.properties"
 hash = "3817e94107bb1c7358beebb80b1810e822de38be430f855cf14828c38018e8e2"
 
 [[files]]
+file = "config/yosbr/config/litematica.json"
+hash = "0186b89fc19e5b7b36902eed03061ff03530a15c86de6090c98f488bdaf51f73"
+
+[[files]]
+file = "config/yosbr/config/minihud.json"
+hash = "435f7811c796b2352fee74985081994d69f881f9f0b6a0499ba39fbc40ee3f0b"
+
+[[files]]
+file = "config/yosbr/config/tweakeroo.json"
+hash = "61959e34930508cde414a11b937b544727ba3aa18712751b510ad5cec99eebeb"
+
+[[files]]
 file = "config/yosbr/config/xaerominimap.txt"
 hash = "805d874877e6bb962ac09c250b3d2a084ec599b2242dd1fa36860623c2024890"
+
+[[files]]
+file = "config/yosbr/config/xaeroplus.txt"
+hash = "b7c5f9eae2724e1da18af59e9369ddfd9d7b1c437ec6517603f22f0ff3bfcd3a"
 
 [[files]]
 file = "config/yosbr/config/xaeroworldmap.txt"
@@ -74,7 +90,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "0efceebbfe186ed19db415acd05d403ada42083dc3e9a73dc6810d3e55c4fe76"
+hash = "a216e613b5ada8a83972394c8b52331388f6d3e41187a04c3bced3f1752bea70"
 metafile = true
 
 [[files]]
@@ -109,7 +125,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "24ee27482a8ff2e3de6423144131320e79c65b8ba0c4e52e9931f2e1257bdd41"
+hash = "6e99f9717f8508150669685b02b27016d5d8185415bfba5060d8e8769f60433c"
 metafile = true
 
 [[files]]
@@ -149,7 +165,12 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "d4bb722a37ed78e43e3ff2dcd358e8b9c0d918f9d349a7c0bdc4cf61b8fc8b4a"
+hash = "42080e6c94475c9a8e7b8a6ee460b46238f190bcc72a91a790847bf6b4ab5bb0"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "76776cceeb1cc6201e1a91d589345e7c302be9ca083386a682178eb79fca88a4"
 metafile = true
 
 [[files]]
@@ -168,14 +189,31 @@ hash = "97385bd886d2fcad952fd7e76501300049237ec4a47a7b0240cf46138d9cc35a"
 metafile = true
 
 [[files]]
+file = "mods/litematica-fabric-1.21.6-0.23.0-sakura.2.jar"
+hash = "e4e5a2e2051abdc57362812077ea8787316cbf9c84130becfef8a72889fd288e"
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "11b5a9241c028f5e3cf9befd6975ec80cff1497a7dd23dde17c0f74e9a7b7a52"
+metafile = true
+
+[[files]]
+file = "mods/malilib-fabric-1.21.6-0.25.0-sakura.1.jar"
+hash = "c6386f95929e454704dc8a4fdbd56d15c325bd8b670374fac6cee30b13d941da"
+
+[[files]]
+file = "mods/melody.pw.toml"
+hash = "b7a1e9b50adf036a01e662bd72927aacf39058b606216c415c5e7a158acf53a9"
 metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "ad167f92c36bf4b7e76baa4fdddf98e4e6f296a1f51730a82f67bb8406b0eddb"
 metafile = true
+
+[[files]]
+file = "mods/minihud-fabric-1.21.6-0.36.0-sakura.1.jar"
+hash = "c07e8303d2833b6605111dd35f0759585da4f12003ec91391c4878076a9cd135"
 
 [[files]]
 file = "mods/modmenu.pw.toml"
@@ -199,7 +237,12 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "c163e626122588e4f87d367e53dfe6e2630e48c1680cafd692ef8ac82832fcac"
+hash = "47f05f982bed488ab711f35d175ad32ad02491e9221b4a6311d5b81b690ba0e8"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "88f9a71bf06f4959b220abab8542e4763747903e9e5ef150c38ae79c83870077"
 metafile = true
 
 [[files]]
@@ -223,8 +266,17 @@ hash = "6a42bf12aa7ee876a076549b82beb0d10fddfb7c59cf5d5ab3f9866efb4354bc"
 metafile = true
 
 [[files]]
+file = "mods/tweakeroo-fabric-1.21.6-0.25.0-sakura.2.jar"
+hash = "b9fa7ec37440c84041b9ae7ddfb4d6850f38ce82536dcb0504200198136164ff"
+
+[[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "05900efb4cdaf32033674639fc83525f47b33afdfb8e693930883cf4842fdc84"
+metafile = true
+
+[[files]]
+file = "mods/xaeroplus.pw.toml"
+hash = "268e6334544baa66dd3a7ca585c8d3ead6ae375af25616f634204dd058d7820c"
 metafile = true
 
 [[files]]
