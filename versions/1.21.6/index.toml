@@ -46,7 +46,7 @@ hash = "7ed2443085370e3427bd3e803037356811af68ad3fc131947a89cc89f2103fc7"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "69899ea1e08081eb7528439d9e1ae3c883c23d7daa19ac66dd947adcd5f3c27b"
+hash = "47d1dc015b07695d8d3107cb12aa75e154ed0a9c0216a69fed7d221857f6ad7d"
 metafile = true
 
 [[files]]
@@ -181,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "42080e6c94475c9a8e7b8a6ee460b46238f190bcc72a91a790847bf6b4ab5bb0"
+hash = "5de3cea92d91c0611dd8dec179846246932e28996b91966d5cc89c78a1df5f25"
 metafile = true
 
 [[files]]
@@ -259,6 +259,11 @@ metafile = true
 [[files]]
 file = "mods/peek.pw.toml"
 hash = "3a33e1b3d8da84b7492008fbb59d92e8e8150450cee708f903ad1c96f4939432"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "2fc3c6f23ef2be97f17c1d8c525895909e88af1fbd8d04136e58e6dc67a25b4c"
 metafile = true
 
 [[files]]
