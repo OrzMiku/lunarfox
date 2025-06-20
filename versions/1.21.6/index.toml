@@ -242,8 +242,8 @@ hash = "ad167f92c36bf4b7e76baa4fdddf98e4e6f296a1f51730a82f67bb8406b0eddb"
 metafile = true
 
 [[files]]
-file = "mods/minihud-fabric-1.21.6-0.36.0-sakura.1.jar"
-hash = "c07e8303d2833b6605111dd35f0759585da4f12003ec91391c4878076a9cd135"
+file = "mods/minihud-fabric-1.21.6-0.36.0-sakura.2.jar"
+hash = "cdb2c104c75fb44ed55e7aeb7e6335c366ba8eba1c15acd5a8ecd110b2a07d13"
 
 [[files]]
 file = "mods/modmenu.pw.toml"
