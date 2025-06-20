@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/fabric_loader_dependencies.json"
-hash = "5912cc3de1f6daa755d1449604051182f14137aa96cef6721413da1681e308da"
-
-[[files]]
 file = "config/yosbr/config/chatpatches.json"
 hash = "0623905a25c9b6c8387f7a6a0256ea005f727c63c689d2cc7cc77f74e912f7e4"
 
@@ -54,6 +50,11 @@ hash = "69899ea1e08081eb7528439d9e1ae3c883c23d7daa19ac66dd947adcd5f3c27b"
 metafile = true
 
 [[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "2a591dc20bd77776dfb60714a83058719a81301d2dfcacdc96e81136c5611dd9"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "7bc565a4a7de36989eb1e1c852c469b726f89aab2a292e0d954a217877c33b61"
 metafile = true
@@ -81,6 +82,11 @@ metafile = true
 [[files]]
 file = "mods/carpet.pw.toml"
 hash = "3d21a4a42390d815afb6fe6f1bc13a07a1b2685204d09786d6acc92d760d9429"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "21ecdd06d63e862c24703ef6fd496eef5c6dfa72ada035853304619ee9e63122"
 metafile = true
 
 [[files]]
@@ -134,6 +140,11 @@ hash = "967a780be97bec40b8bca4945a053ee4fbd05d58e218c4fb803959ac0d0c7f08"
 metafile = true
 
 [[files]]
+file = "mods/fallingleaves.pw.toml"
+hash = "e27c3f85c52b55934f39a0cf7ff109bf4934570b48246e8a4ebe5462ff6c807c"
+metafile = true
+
+[[files]]
 file = "mods/fast-ip-ping.pw.toml"
 hash = "c9babfbb0db58f9edfc38666af8ef4ce24fe0cd0594d3c421bb51410fb6c3fa2"
 metafile = true
@@ -156,6 +167,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "a9790b94803106e4a07bbe1e72759ec91a18423f10fbede249a7071986fe79d0"
+metafile = true
+
+[[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "faf41d6f2f044a6d3153e7ff60ab362646f9f4f693716581061c3b6a8d29885f"
 metafile = true
 
 [[files]]
@@ -189,6 +205,11 @@ hash = "97385bd886d2fcad952fd7e76501300049237ec4a47a7b0240cf46138d9cc35a"
 metafile = true
 
 [[files]]
+file = "mods/libipn.pw.toml"
+hash = "7ed99a6e72f251d30a918d66448f5dac06b94e903fb0afa62b6b5ea2c132058e"
+metafile = true
+
+[[files]]
 file = "mods/litematica-fabric-1.21.6-0.23.0-sakura.2.jar"
 hash = "e4e5a2e2051abdc57362812077ea8787316cbf9c84130becfef8a72889fd288e"
 
@@ -200,6 +221,11 @@ metafile = true
 [[files]]
 file = "mods/malilib-fabric-1.21.6-0.25.0-sakura.1.jar"
 hash = "c6386f95929e454704dc8a4fdbd56d15c325bd8b670374fac6cee30b13d941da"
+
+[[files]]
+file = "mods/mcwifipnp.pw.toml"
+hash = "c0bc33e80b0abbe03b41d8c39323bd1e744ec646a10613c5e9902aa0101d454a"
+metafile = true
 
 [[files]]
 file = "mods/melody.pw.toml"
@@ -253,6 +279,11 @@ metafile = true
 [[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "fff85cc158bf95b149b0b5ed9375c3c2a9fff58f774c2b00858e5fbcf064714d"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "3757358160dfb328116467cebdc7987ce404e272dacaf271e0c538693dd32223"
 metafile = true
 
 [[files]]
