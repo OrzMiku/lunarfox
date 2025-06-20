@@ -1,13 +1,13 @@
 name = "Chat Patches"
-filename = "chatpatches-215.6.14-secure.jar"
+filename = "chatpatches-215.6.15.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/MOqt4Z5n/versions/e7zhRzsQ/chatpatches-215.6.14-secure.jar"
+url = "https://cdn.modrinth.com/data/MOqt4Z5n/versions/XdkOQ4T2/chatpatches-215.6.15.jar"
 hash-format = "sha512"
-hash = "4aceecad8e7e6a53a8920c84e3850544b22d9245bf1d6dd2a20451798392883c8e76175b9d37fcd83eada25dc77f6c4a75f43e679b98c9be21f3924b54bf6a23"
+hash = "4b5b9663f0292e9b3d557d4a32e3d7f887b8a71a00a029857fe288d1b0bd92b9abb888391564cea65953b37b780ba9e28ae04baf9db1532b5e0fc71b9d184cb5"
 
 [update]
 [update.modrinth]
 mod-id = "MOqt4Z5n"
-version = "e7zhRzsQ"
+version = "XdkOQ4T2"

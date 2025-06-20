@@ -118,7 +118,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "57c157ebf3f36495fa14668c3906e70726a83564c7d0071507fc85baa106626c"
+hash = "2a591dc20bd77776dfb60714a83058719a81301d2dfcacdc96e81136c5611dd9"
 metafile = true
 
 [[files]]
@@ -273,7 +273,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast-ip-ping.pw.toml"
-hash = "41504449b69a32068d2db598dfbc8d3690690e16a3a6d5cc1af256fbead1f653"
+hash = "0c689e71c7c6e5893deaa96881213505439e23273cfbb216d918c416c0124458"
 metafile = true
 
 [[files]]
@@ -591,22 +591,22 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "d0e7e378ee7a032678bcd96f6ee5a4eec1f47e736c857c16d95ed69de3bb48d7"
+hash = "1a426f7dc1c374cc2e7afbaedb364742e8b9840dd648fbacc0758b143791c32b"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "4df5815612166934dfcc4beca0dd622f8f25c56836d60bca734152b07dfe6e7e"
+hash = "a20ee20449ce5cbdb0a1e6a3d9d37b2e764425e4f57a02b3537e97231b3ac831"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "1192575e1b3cf51d15299274cada4ec6dbdeab7f1211ed933d88b96841a6d929"
+hash = "89f2eb96071dd55c7f57f62be9157e25aed43402329b8fd8520e8bd9e2fe21ec"
 metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "f43189af1d460c6eac591137e1549ca8a8d3a537906a07a03cf67f1d5b90b02b"
+hash = "10f163a2191248c9e512c162a4697e954df7d4a5d837260ec01ac81be6c5447d"
 metafile = true
 
 [[files]]
@@ -631,7 +631,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "58f2d6711487280df6601b89a4fb453938304d333c5df9a0549d7c49ece067bd"
+hash = "516dc0b640ab0e6a0be06a1d2263b67c5739f6b7c99900f1e21f9d831f96bc23"
 metafile = true
 
 [[files]]

@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "57c157ebf3f36495fa14668c3906e70726a83564c7d0071507fc85baa106626c"
+hash = "2a591dc20bd77776dfb60714a83058719a81301d2dfcacdc96e81136c5611dd9"
 metafile = true
 
 [[files]]
@@ -192,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatpatches.pw.toml"
-hash = "c1a20b2bba51cb198384a2bf098fa393351701221b763cc3059a297e77d2dc0d"
+hash = "5001fa841ab7e909190378587665890ba5f15a1373f2bf360393984d7606e2e1"
 metafile = true
 
 [[files]]
@@ -237,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "9e85c1d81c240528f05a386717bc69d02f4d7862c53c7ddccbeb17f742000771"
+hash = "ac15d0873dd1f711e886f07f463b2bd9912940a344ef4dd4219aa456ba4760e4"
 metafile = true
 
 [[files]]
@@ -262,7 +262,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "958810fbf4f0c978e3c7a78b42829cdb4dcdc78be467dab37a9993df2d3eb5c0"
+hash = "d5a5c0249a6221deaacb0eb153e6b58b5505edd76aafe240d0bd340a6fa4562e"
 metafile = true
 
 [[files]]
@@ -272,7 +272,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast-ip-ping.pw.toml"
-hash = "41504449b69a32068d2db598dfbc8d3690690e16a3a6d5cc1af256fbead1f653"
+hash = "594155b27a969c86bdf30ceaa5c8edd1cecc0394b222033c712031114682efa2"
 metafile = true
 
 [[files]]
@@ -570,22 +570,22 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "78976b0831ccbd9423f573e0987f5d54de9b95055a2f8eb312748be4a172d6e2"
+hash = "45103d6ee7faf73fe7a2d1fee26361810c9aff78f67aa735ee744d2095ccc3ec"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "130159e2b3734e4013e2ad5040e6a80b14a004d75a921dc24633d906636500e8"
+hash = "7f658c40a452d9bdca14a961046b287d01efc5b5fac7e34024c2f2a11ed1b8ac"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "3556431e076004f61282c316088b95bb99f8c26136c1f2aee4fc1577f33479dc"
+hash = "518a34367612ea0c89ca020f3c6ecc37712a641e982f5d18605640bafccf5c05"
 metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "bf50ee27d1e03ea006de512bb7b748b47c9c089bc63352cbb35f9e6fcb1ce12f"
+hash = "dc66d444a8cfd427c3c05d47babcc43f7fca842c1d7731116bd07c7d88441edc"
 metafile = true
 
 [[files]]

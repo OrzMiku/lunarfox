@@ -119,7 +119,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "adf5896d6329adf0234a6ff63e6b7244c9fb3b304c1f6f4f7bdb44b72d38bb36"
+hash = "5dbe70f6dee859c9c2f6f13f2e8c34801fe89cc57ec94c96fc3200bed8d42531"
 metafile = true
 
 [[files]]
@@ -289,7 +289,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast-ip-ping.pw.toml"
-hash = "4d6ef091895654b3f1516b40a1dee3e201c0013022d4acb268d040d7224475fa"
+hash = "29d41095d30271247f296402d3e50d8ce060acf77808efcbe25de0ec84e76975"
 metafile = true
 
 [[files]]
@@ -619,7 +619,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "4cb93df6972d7c80da0391c8ae29074974f2725bb58d0d90875aedb8453f220a"
+hash = "5de0de901944934f65e770268fa7c6c58b8d02be10fe85260ed6a7420b93f197"
 metafile = true
 
 [[files]]
