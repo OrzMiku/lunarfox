@@ -1,13 +1,13 @@
 name = "YetAnotherConfigLib"
-filename = "yet_another_config_lib_v3-3.7.0+1.21.1-fabric.jar"
+filename = "yet_another_config_lib_v3-3.7.1+1.21.1-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/1eAoo2KR/versions/QIFl3sOB/yet_another_config_lib_v3-3.7.0%2B1.21.1-fabric.jar"
+url = "https://cdn.modrinth.com/data/1eAoo2KR/versions/kVxtKPT4/yet_another_config_lib_v3-3.7.1%2B1.21.1-fabric.jar"
 hash-format = "sha512"
-hash = "43062ed2051ecc99e7e161261470b7500c2315f7330a82fc7681105191a515c7059895e2c0cf46a308d27fca6fb875ef751df41c010a0b1ed231a9589dded527"
+hash = "7ec418266402a702423da1f32433b731c3b27fbb493d6b1e63cffeaa31a6a8435493e45c8e5e64370910095b9cf39b52257e5b74b9bdb1ff606933db98862e3e"
 
 [update]
 [update.modrinth]
 mod-id = "1eAoo2KR"
-version = "QIFl3sOB"
+version = "kVxtKPT4"

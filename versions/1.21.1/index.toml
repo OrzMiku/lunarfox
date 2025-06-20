@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "b065522e317aa748182d8a549db134331c3dbb1486e78f4178e2a6d0299eac25"
+hash = "37a218f4aa85b545cc95b0a5c16d2da12c093c8a1a5a3bad60be72a4bf86a01a"
 metafile = true
 
 [[files]]
@@ -272,7 +272,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "ee046dec20041b38766e6206da2be399bdb5e12d5dc4386fcec179d297464b34"
+hash = "4cf5213ed785e4a642198c28844bf23327ed2fdbc300bdce00fcab21672864ff"
 metafile = true
 
 [[files]]
@@ -287,7 +287,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast-ip-ping.pw.toml"
-hash = "41504449b69a32068d2db598dfbc8d3690690e16a3a6d5cc1af256fbead1f653"
+hash = "14390472f86bf94cfd39b3e8cfb349f8c85017b4e370e92fc7c348b3b61b0acb"
 metafile = true
 
 [[files]]
@@ -622,7 +622,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "8a40d25e22c0f735e7e41c6138afaf9fc2d0ffeaa2f9c9141a2b83c2f912764c"
+hash = "9a2c10ad1310c8d295fc7f432cd8cd4fdbb2a4fbf9982921378abb21012a9108"
 metafile = true
 
 [[files]]
@@ -637,7 +637,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "45b6def00563451b2c082c82a50baa06f9802355e6b05458aaffa8774e14c2e2"
+hash = "b6271eb4c38c4d88b88eb5b2dc507e587d5bc5c060f6d8157acd391662b683a7"
 metafile = true
 
 [[files]]
