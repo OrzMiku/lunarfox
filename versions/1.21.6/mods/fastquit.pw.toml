@@ -1,0 +1,13 @@
+name = "FastQuit"
+filename = "fastquit-3.1.0+mc1.21.6.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/x1hIzbuY/versions/PiKgGcQz/fastquit-3.1.0%2Bmc1.21.6.jar"
+hash-format = "sha512"
+hash = "88660fa561a6c97bba56dadcb1a8cdb09fef718bbcf9c2079a61a79aedfc9af8fa8fc7c5378dead04633702ac58327f66d556849721c2717088e1af71f2671a4"
+
+[update]
+[update.modrinth]
+mod-id = "x1hIzbuY"
+version = "PiKgGcQz"
