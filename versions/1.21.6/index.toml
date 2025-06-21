@@ -25,6 +25,10 @@ file = "config/yosbr/config/minihud.json"
 hash = "435f7811c796b2352fee74985081994d69f881f9f0b6a0499ba39fbc40ee3f0b"
 
 [[files]]
+file = "config/yosbr/config/moreculling.toml"
+hash = "7d27acae23534f1cbfd7c5b3b8758e28f4f1dc402ee97f630a88aefd5b2eec2e"
+
+[[files]]
 file = "config/yosbr/config/tweakeroo.json"
 hash = "61959e34930508cde414a11b937b544727ba3aa18712751b510ad5cec99eebeb"
 
