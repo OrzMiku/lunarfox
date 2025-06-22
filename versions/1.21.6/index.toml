@@ -58,6 +58,11 @@ hash = "1420a131db32fa1b7c265f482a1cc7e4b70a6d748c8f4dcddfc6b3ae6dc31a28"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "c22ebc9646c063a5c53acae5b49a0b54f8b21500ecc79a9c52b142775512b2d6"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "47d1dc015b07695d8d3107cb12aa75e154ed0a9c0216a69fed7d221857f6ad7d"
 metafile = true
@@ -179,7 +184,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastquit.pw.toml"
-hash = "d2d5f8478253db74c12b52e07a342ee52641f8feb57243ce15841e0b3b883c04"
+hash = "3959d60960d97b019d81945ebfd38ed498649b31952e84404b365730c9facb6f"
 metafile = true
 
 [[files]]
@@ -243,8 +248,9 @@ hash = "7ed99a6e72f251d30a918d66448f5dac06b94e903fb0afa62b6b5ea2c132058e"
 metafile = true
 
 [[files]]
-file = "mods/litematica-fabric-1.21.6-0.23.0-sakura.2.jar"
-hash = "e4e5a2e2051abdc57362812077ea8787316cbf9c84130becfef8a72889fd288e"
+file = "mods/litematica.pw.toml"
+hash = "a154647755d574d084bd68750b1e675cf567c67540fa426d6a3af4d88ed18c30"
+metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
@@ -252,8 +258,9 @@ hash = "11b5a9241c028f5e3cf9befd6975ec80cff1497a7dd23dde17c0f74e9a7b7a52"
 metafile = true
 
 [[files]]
-file = "mods/malilib-fabric-1.21.6-0.25.0-sakura.1.jar"
-hash = "c6386f95929e454704dc8a4fdbd56d15c325bd8b670374fac6cee30b13d941da"
+file = "mods/malilib.pw.toml"
+hash = "807bc8071ed3343a0fa406b8d50d2ccc8eebdd942d857f50828e593615829f66"
+metafile = true
 
 [[files]]
 file = "mods/mcwifipnp.pw.toml"
@@ -271,8 +278,9 @@ hash = "ad167f92c36bf4b7e76baa4fdddf98e4e6f296a1f51730a82f67bb8406b0eddb"
 metafile = true
 
 [[files]]
-file = "mods/minihud-fabric-1.21.6-0.36.0-sakura.2.jar"
-hash = "cdb2c104c75fb44ed55e7aeb7e6335c366ba8eba1c15acd5a8ecd110b2a07d13"
+file = "mods/minihud.pw.toml"
+hash = "57d1193c51a0681c4f3676edbc2dbfd4b2b16c4314bb55cfcdf7e124cfb702e8"
+metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
@@ -345,8 +353,14 @@ hash = "6a42bf12aa7ee876a076549b82beb0d10fddfb7c59cf5d5ab3f9866efb4354bc"
 metafile = true
 
 [[files]]
-file = "mods/tweakeroo-fabric-1.21.6-0.25.0-sakura.2.jar"
-hash = "b9fa7ec37440c84041b9ae7ddfb4d6850f38ce82536dcb0504200198136164ff"
+file = "mods/tweakeroo.pw.toml"
+hash = "01e52e8271a7485c8963fe8eb84e1a001eee22756f0368bb7c4714ae1f48c230"
+metafile = true
+
+[[files]]
+file = "mods/viafabricplus.pw.toml"
+hash = "9019714c3a60f21d361c959cbbfad64294f79e31305feb4c5b4811ae4b0a0888"
+metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
