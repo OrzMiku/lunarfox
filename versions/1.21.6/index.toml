@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/yosbr/config/betterf3.json"
+hash = "4390b5fe8c58026bde80a1ed5d39be658b4c18b7a512fc156a2773f5eaac7387"
+
+[[files]]
 file = "config/yosbr/config/chatpatches.json"
 hash = "0623905a25c9b6c8387f7a6a0256ea005f727c63c689d2cc7cc77f74e912f7e4"
 
@@ -58,6 +62,11 @@ hash = "1420a131db32fa1b7c265f482a1cc7e4b70a6d748c8f4dcddfc6b3ae6dc31a28"
 metafile = true
 
 [[files]]
+file = "mods/animatica.pw.toml"
+hash = "7749a788cd34e08e2280dc5e05db1bbf375d7a184d787f682f7df19709a754e3"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "c22ebc9646c063a5c53acae5b49a0b54f8b21500ecc79a9c52b142775512b2d6"
 metafile = true
@@ -98,6 +107,11 @@ hash = "10de0584239bf8a5c7226f6bd96bef12250d07cb2b6dc83929970cd26d0d47c5"
 metafile = true
 
 [[files]]
+file = "mods/betterf3.pw.toml"
+hash = "2d1c297c06a8781464a18d28d4a6d5c4807d216e42f6e315215d244ecdcb254b"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "23390454f494dbb66977daa53d9fd524c063be3763198976625fb301707160e4"
 metafile = true
@@ -135,6 +149,11 @@ metafile = true
 [[files]]
 file = "mods/default-options.pw.toml"
 hash = "3fba81bc670ee054772813d5299abdba7ab75dd70afbd0a32f98ca9a3b2406be"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "3c93ec937ac334843447418da8f7f810cdf32a8c21b90eafc39c7604cf7c32f6"
 metafile = true
 
 [[files]]
@@ -200,6 +219,11 @@ metafile = true
 [[files]]
 file = "mods/gamma-utils.pw.toml"
 hash = "66b92cd6343956db01a532d3ef9e6bd6444c76ecf344a873c60f3cd9ab41b355"
+metafile = true
+
+[[files]]
+file = "mods/held-item-info.pw.toml"
+hash = "c740306a2d1a8559d45a6c763a65869b95933b93326e5f308d7a0c1b8f22395d"
 metafile = true
 
 [[files]]
@@ -303,13 +327,18 @@ hash = "43aea184f4522b8219d178ba91e12874e3f2e22ac32fcd72a22519ddcdc671ce"
 metafile = true
 
 [[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "0b41812582959ab1c760b2ca6048a42386cdc784cc29aab4f4accf9727f1257f"
+metafile = true
+
+[[files]]
 file = "mods/peek.pw.toml"
 hash = "3a33e1b3d8da84b7492008fbb59d92e8e8150450cee708f903ad1c96f4939432"
 metafile = true
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
-hash = "2fc3c6f23ef2be97f17c1d8c525895909e88af1fbd8d04136e58e6dc67a25b4c"
+hash = "48b2b721576bd33428a9d5ab090788d946494abf49fff230a66461bc8b6c0093"
 metafile = true
 
 [[files]]
@@ -365,6 +394,11 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "05900efb4cdaf32033674639fc83525f47b33afdfb8e693930883cf4842fdc84"
+metafile = true
+
+[[files]]
+file = "mods/wavey-capes.pw.toml"
+hash = "5e4d66fcd6fc9e540e379be7c7126248e62218fd0c6872c47947a69404f47279"
 metafile = true
 
 [[files]]
