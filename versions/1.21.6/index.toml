@@ -112,6 +112,11 @@ hash = "2d1c297c06a8781464a18d28d4a6d5c4807d216e42f6e315215d244ecdcb254b"
 metafile = true
 
 [[files]]
+file = "mods/bobby.pw.toml"
+hash = "65ba148bc2832d78b433e76eccfbdbb1456066a9d14dac621a3b730b109b16cb"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "23390454f494dbb66977daa53d9fd524c063be3763198976625fb301707160e4"
 metafile = true
@@ -242,6 +247,11 @@ hash = "e3ed2c112bfe0abbc4d2c52c7d4c2086fe136e133784775c2f5a43d8f899868c"
 metafile = true
 
 [[files]]
+file = "mods/itemswapper.pw.toml"
+hash = "1818a8ffad37a08edad9eb0e3afdcb285998f86373bb13f9c2b68e4e8a66f491"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "5de3cea92d91c0611dd8dec179846246932e28996b91966d5cc89c78a1df5f25"
 metafile = true
@@ -322,6 +332,11 @@ hash = "67d7d0cd20e2933d7b2a305d60e109bc6db868883209416ccfe5e22de281c1da"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "4d5f9f63a3d6dcd564d19598e6362937738eb17acc572eeab49c0dc8c5d7b851"
+metafile = true
+
+[[files]]
 file = "mods/optigui.pw.toml"
 hash = "43aea184f4522b8219d178ba91e12874e3f2e22ac32fcd72a22519ddcdc671ce"
 metafile = true
@@ -349,6 +364,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "88f9a71bf06f4959b220abab8542e4763747903e9e5ef150c38ae79c83870077"
+metafile = true
+
+[[files]]
+file = "mods/resourcify.pw.toml"
+hash = "5078ed334b2a0e011a876618b816160c3060ada250abd5490d6eb8a83dc3c509"
 metafile = true
 
 [[files]]
