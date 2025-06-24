@@ -102,8 +102,9 @@ hash = "9c5ffe0f93aec9ebca86a4e5171ccb51e283849eef1719c995d19c2480e2d07c"
 metafile = true
 
 [[files]]
-file = "mods/animatica-0.6.3+1.21.5.jar"
-hash = "11aca8c7d648852328466a7ee1f92ee43deda82f7b9be1b71bfef39e252b8347"
+file = "mods/animatica.pw.toml"
+hash = "7749a788cd34e08e2280dc5e05db1bbf375d7a184d787f682f7df19709a754e3"
+metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -271,6 +272,11 @@ hash = "967a780be97bec40b8bca4945a053ee4fbd05d58e218c4fb803959ac0d0c7f08"
 metafile = true
 
 [[files]]
+file = "mods/fallingleaves.pw.toml"
+hash = "e27c3f85c52b55934f39a0cf7ff109bf4934570b48246e8a4ebe5462ff6c807c"
+metafile = true
+
+[[files]]
 file = "mods/fast-ip-ping.pw.toml"
 hash = "594155b27a969c86bdf30ceaa5c8edd1cecc0394b222033c712031114682efa2"
 metafile = true
@@ -336,6 +342,16 @@ hash = "ced9729e413bbe2bd78889cbd3d3e93ae56b06c9728972a06ff03afe8a0f4eba"
 metafile = true
 
 [[files]]
+file = "mods/justenoughcharacters.pw.toml"
+hash = "549382b5ff81ba076ca40d7b2d144bad75ed3000788349da7d7e0875b07f52a2"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "820eacc6717106eddac9575c37eea54c6b53cffcb9db59253b30dc84a79be21a"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "e26dacab5ed497b7bf6500e389eba5e21cd4b9d7b38089045cd26818a4d2f589"
 metafile = true
@@ -383,6 +399,11 @@ metafile = true
 [[files]]
 file = "mods/mcwifipnp.pw.toml"
 hash = "dae7eebc995b1350777f68e8b6cff8950c3b6fc66863fbc48294de6788e5b2af"
+metafile = true
+
+[[files]]
+file = "mods/melody.pw.toml"
+hash = "a17dd4e47b6d4d116457904dabe057b1521304b1279524abc372d7d9534c4dd8"
 metafile = true
 
 [[files]]

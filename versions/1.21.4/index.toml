@@ -98,8 +98,9 @@ hash = "f535691eee4ea23eefb9e606b1fe2085f6dad8dab4c6bd3581ba9106a608ad8b"
 metafile = true
 
 [[files]]
-file = "mods/animatica-0.6.2+1.21.4.jar"
-hash = "1c66e7d79ac23386a682e9748f86524594438d68286d473bc123ac77ddd77788"
+file = "mods/animatica.pw.toml"
+hash = "c5048fc150b79625fe3304de6b57643436f6e232f4f5493cbe0476494e54120e"
+metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -337,6 +338,11 @@ hash = "114968e70a3e2c2f7a33db6ed305256585353361a28210a0b872df52fc5542aa"
 metafile = true
 
 [[files]]
+file = "mods/justenoughcharacters.pw.toml"
+hash = "549382b5ff81ba076ca40d7b2d144bad75ed3000788349da7d7e0875b07f52a2"
+metafile = true
+
+[[files]]
 file = "mods/konkrete.pw.toml"
 hash = "dafb84b20ceb9f80a2f98170a05b90a7225bc476f64593af2a51d332055b2e8b"
 metafile = true
@@ -447,12 +453,13 @@ hash = "5d2e07cd857d24d53067a6909b01c078e542dd9b372204c974449ba416713d4e"
 metafile = true
 
 [[files]]
-file = "mods/nuit-fabric-1.0.0-snapshot+mc1.21.4-build.20.jar"
-hash = "ca436e4863c157a987b9b5db6c79d7c849e8ead38db5ec59949f4dc19ff46543"
-
-[[files]]
 file = "mods/nuit-interop-fabric-1.0.0-snapshot+mc1.21.4-build.10.jar"
 hash = "48befedfa2679ec94e03bebf416c3be836d42429ebdaa6faf7c9a29675f14ef3"
+
+[[files]]
+file = "mods/nuit.pw.toml"
+hash = "8c3777fcf9615b961fa6c1f44ae002cba0d0d16cf62041ef2fa23e4e481bc56e"
+metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
@@ -477,6 +484,11 @@ metafile = true
 [[files]]
 file = "mods/pick-up-notifier.pw.toml"
 hash = "84adeffc48bfd88598f36bce40516fdc83defa8c393f6f30101705b0d5656d50"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "6b2abdc14fca0b9b42b5678e7c65af8b93d5032f0e4b0d2fbd93295903489d50"
 metafile = true
 
 [[files]]
