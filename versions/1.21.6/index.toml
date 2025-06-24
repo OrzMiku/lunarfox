@@ -163,7 +163,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamiccrosshair.pw.toml"
-hash = "03ff3271a6588784ae296597f50de292f9cb416ac9b1391e5e0394bbbd3f87f3"
+hash = "e07f4d408257c09ba4752afec18ffba0b37deed6b812031e82503aa395527bb0"
 metafile = true
 
 [[files]]
@@ -188,12 +188,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "6e99f9717f8508150669685b02b27016d5d8185415bfba5060d8e8769f60433c"
+hash = "3d5da87182e681fc30531abe525662e988d605b7ed77346ea664aacc82004a21"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "967a780be97bec40b8bca4945a053ee4fbd05d58e218c4fb803959ac0d0c7f08"
+hash = "f217a0233c8aef84e914e1f8e90718be2496a923725215190d375ab3140379ab"
 metafile = true
 
 [[files]]
@@ -218,7 +218,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "33860b488f34f31c13aa021401410d6273275217f086e2e817908dca706ed887"
+hash = "cee7b9a65f1d8625f9c103486e8b91edf6bb03b36ab2430fd927ec0d687ce8db"
 metafile = true
 
 [[files]]
@@ -423,7 +423,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "268e6334544baa66dd3a7ca585c8d3ead6ae375af25616f634204dd058d7820c"
+hash = "ac48add0de37ae2472d8e924783b1cd63cac4950a140b998a1019572aa7712c4"
 metafile = true
 
 [[files]]
