@@ -94,12 +94,13 @@ hash = "7ed2443085370e3427bd3e803037356811af68ad3fc131947a89cc89f2103fc7"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "f535691eee4ea23eefb9e606b1fe2085f6dad8dab4c6bd3581ba9106a608ad8b"
+hash = "1035b3740a0437f6af1e9d3634225c326819da8b5d66be3dcafe555a446c6d6e"
 metafile = true
 
 [[files]]
-file = "mods/animatica-0.6.2+1.21.4.jar"
-hash = "1c66e7d79ac23386a682e9748f86524594438d68286d473bc123ac77ddd77788"
+file = "mods/animatica.pw.toml"
+hash = "c5048fc150b79625fe3304de6b57643436f6e232f4f5493cbe0476494e54120e"
+metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -223,7 +224,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamiccrosshair.pw.toml"
-hash = "8549f3aaf5b1119e6ea0b1d9b4d5759a7e89ffb33e8069bbaee7a98584f5d337"
+hash = "5f171d3492d66f0d7eea4c6b31b1a29f1ace7b6fe5cad84ca37ba076a3035b40"
 metafile = true
 
 [[files]]
@@ -238,7 +239,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "a63069aac3fc618562c8f4fa4f76e0bd3625a90f53d1dc3ff4974862d54dde20"
+hash = "02cd8c09f7bf92fbc852338e45af3af980a40e52fae6aca14e3c1530645bdb33"
 metafile = true
 
 [[files]]
@@ -263,7 +264,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "967a780be97bec40b8bca4945a053ee4fbd05d58e218c4fb803959ac0d0c7f08"
+hash = "f217a0233c8aef84e914e1f8e90718be2496a923725215190d375ab3140379ab"
 metafile = true
 
 [[files]]
@@ -328,12 +329,17 @@ metafile = true
 
 [[files]]
 file = "mods/itemswapper.pw.toml"
-hash = "279560123342bd353f1e7c48bf76e4e476248ab0461e7f0cf9529978f5859b76"
+hash = "ab84750abebb01d45db4e2a2608eda0cd62f65194ff526ae8614cb247d7a73d3"
 metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "114968e70a3e2c2f7a33db6ed305256585353361a28210a0b872df52fc5542aa"
+metafile = true
+
+[[files]]
+file = "mods/justenoughcharacters.pw.toml"
+hash = "549382b5ff81ba076ca40d7b2d144bad75ed3000788349da7d7e0875b07f52a2"
 metafile = true
 
 [[files]]
@@ -363,7 +369,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "66e84ef483bb2a4d05f477f440f5d11c7500db9178464c00b88eeca7e058bd1f"
+hash = "0f7f066cbccb9fcdb21bc77884aaeb05402f192aaa0c6dd2c9f3ab22c7425ce4"
 metafile = true
 
 [[files]]
@@ -378,7 +384,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "f7e23e7fe8a8a92cebf1012f44ced149c27b7400b67f50d92eb3f095e4f45474"
+hash = "bc2593ee70b981e2b23074ff2ef9a074c15aecdc6f4ac35ca2d96a56dddf6e1e"
 metafile = true
 
 [[files]]
@@ -403,7 +409,7 @@ metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "7d009dfe20583ff6c1176b1716096c02920e1003ed0933095507b97543b18d09"
+hash = "d3867bcc3aabd11060e9dd7d7e731533c36ed0fc8c27d3bbf470a664911d3788"
 metafile = true
 
 [[files]]
@@ -443,16 +449,17 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "5d2e07cd857d24d53067a6909b01c078e542dd9b372204c974449ba416713d4e"
+hash = "8852975e4cf5a83cd7cee6ef32e739bb5cfe8d38c0c44a16089924af41472f68"
 metafile = true
-
-[[files]]
-file = "mods/nuit-fabric-1.0.0-snapshot+mc1.21.4-build.20.jar"
-hash = "ca436e4863c157a987b9b5db6c79d7c849e8ead38db5ec59949f4dc19ff46543"
 
 [[files]]
 file = "mods/nuit-interop-fabric-1.0.0-snapshot+mc1.21.4-build.10.jar"
 hash = "48befedfa2679ec94e03bebf416c3be836d42429ebdaa6faf7c9a29675f14ef3"
+
+[[files]]
+file = "mods/nuit.pw.toml"
+hash = "8c3777fcf9615b961fa6c1f44ae002cba0d0d16cf62041ef2fa23e4e481bc56e"
+metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
@@ -461,7 +468,7 @@ metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "64efc46bdcf96c4e22c4634a23865edcf5cc3c6589d40ea1cea6840a07c557f7"
+hash = "0b41812582959ab1c760b2ca6048a42386cdc784cc29aab4f4accf9727f1257f"
 metafile = true
 
 [[files]]
@@ -480,8 +487,13 @@ hash = "84adeffc48bfd88598f36bce40516fdc83defa8c393f6f30101705b0d5656d50"
 metafile = true
 
 [[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "6b2abdc14fca0b9b42b5678e7c65af8b93d5032f0e4b0d2fbd93295903489d50"
+metafile = true
+
+[[files]]
 file = "mods/polytone.pw.toml"
-hash = "e1460c3703a1156047ad72219f0ff0b8ea726e5e672be57ebc084504193f7ca4"
+hash = "4476fe5430edf34b0d812542981ac741844077a7518c245b4417b8d2c0d53ed3"
 metafile = true
 
 [[files]]
@@ -506,7 +518,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "34ec0e2ad91c770113fe828af5200416bb0ad445c5690a50c73f9fc940689c18"
+hash = "522da8a16ca87bfa21414bfa6f330bda82f081edff21e33d2914c22a3b886b64"
 metafile = true
 
 [[files]]
@@ -571,7 +583,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "39c73faa3c0d4344f08c3ccb598d08f48c47c2cb9b951e585644f99cd688773f"
+hash = "24c09cf676943991397e15eba13c14598dbe3575cf025abcebb22947c450febf"
 metafile = true
 
 [[files]]
@@ -586,12 +598,12 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "e8667fc66e5424491f4c57590537d2e0248a72fd28068f740b8ab9b86d3951ba"
+hash = "dae16eb47753ba917f4316020b56e51d47a07cab1670f0a36a7f2ebecf2fe6d7"
 metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "1a426f7dc1c374cc2e7afbaedb364742e8b9840dd648fbacc0758b143791c32b"
+hash = "8074e034679c6c5a7fa517f346a66b3208b804f2605a01890cd7835bb24114e1"
 metafile = true
 
 [[files]]
@@ -631,7 +643,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "516dc0b640ab0e6a0be06a1d2263b67c5739f6b7c99900f1e21f9d831f96bc23"
+hash = "2840900657d1be39ec31d5f7bedba2fe4549fda3235bfaceab61243d3c1bdfd0"
 metafile = true
 
 [[files]]

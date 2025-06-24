@@ -102,7 +102,7 @@ hash = "7ed2443085370e3427bd3e803037356811af68ad3fc131947a89cc89f2103fc7"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "2c6417987ff0b5336ed619b288f467424e19fd09c05a8ab6a0d448c7bc36ecfd"
+hash = "fc54a87797a76d920d5aca5834991e6d8029c9b7c9223cc8a56b968886f64081"
 metafile = true
 
 [[files]]
@@ -237,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamiccrosshair.pw.toml"
-hash = "a52ba05fa9ffc50b308707fb270b804a91f93377f075065d0f9eeb08a448e844"
+hash = "a9353ac8f9c88a5d0e3a311f1a9d49c30b94fb50d0795d689114538d009080b2"
 metafile = true
 
 [[files]]
@@ -252,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "a4b817f8c3de5af3a6ecb2b72caa2daa3042c1e65cc8eb3c794a0b3ec3bbf847"
+hash = "08e2c3e20fb81532ae0bd321d25f3da55b81fc4aac41125a36464a22415b0114"
 metafile = true
 
 [[files]]
@@ -277,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "967a780be97bec40b8bca4945a053ee4fbd05d58e218c4fb803959ac0d0c7f08"
+hash = "f217a0233c8aef84e914e1f8e90718be2496a923725215190d375ab3140379ab"
 metafile = true
 
 [[files]]
@@ -347,7 +347,7 @@ metafile = true
 
 [[files]]
 file = "mods/itemswapper.pw.toml"
-hash = "9d60551ce2d924c0219f26ee3ed444837cad36faefe2827e9e64e16716c5f441"
+hash = "6ab6ff9becdf919a8c3a7640e37978a0c9fcfd95b4dc64d859641ba0efeb7ae2"
 metafile = true
 
 [[files]]
@@ -357,7 +357,7 @@ metafile = true
 
 [[files]]
 file = "mods/justenoughcharacters.pw.toml"
-hash = "0c145bafe2f376dd5c7424a9cc046f745aa16094771ff33dc7359fd06e021a2d"
+hash = "790b46a22ccd0c42dd699bd6ea17e656d120f5809960426efa2d3f3b5ed663cf"
 metafile = true
 
 [[files]]
@@ -387,7 +387,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "5161b7b58b9f0765aad3aaa1a365c61491017eca4ae0552d419bd57b1c4d6509"
+hash = "804bd885dd40336596175503d631ab7f529ad12e152872462b1c25f15b2f89bd"
 metafile = true
 
 [[files]]
@@ -402,7 +402,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "358a4ea31ab4385e7ae0b48888adf95b2362cbf5126dcda750063c557e3eb8b1"
+hash = "d9221689ffa47dcd27e6c0590ba7b3227f83d48a6e9592cd09e1835f143d793a"
 metafile = true
 
 [[files]]
@@ -427,7 +427,7 @@ metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "6a79c7ffa7f5aa98ded0d31b132f9fbbced65e30dbfba24bbcbbbef00dcc4f35"
+hash = "0d85e3cfa3a0d0b99f650afd2301f95edf02b3eba6dd7679bf16eb3872331170"
 metafile = true
 
 [[files]]
@@ -467,7 +467,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "a6e3ca19c98f18fcf6e8a89587c0fb15df4a2147db9ae1f18d3d2b178fce10ac"
+hash = "bd2fdbeda78ffcc284d85061ff20c8e4abfce36b942b78d25b4ea08f52a4f64a"
 metafile = true
 
 [[files]]
@@ -487,7 +487,7 @@ metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "09310a353a089bbae9a97e349331201f3f820b33551ded2851889d56bd035eff"
+hash = "0b41812582959ab1c760b2ca6048a42386cdc784cc29aab4f4accf9727f1257f"
 metafile = true
 
 [[files]]
@@ -537,7 +537,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "e954df2efadd24651e94645612119668a3408dfce8a54649c7c0ada99f1ff940"
+hash = "3d1749d22d2d81cb9b8e10313c15f5e8ce304b7aa8bc6ff1279b8a263c4fa662"
 metafile = true
 
 [[files]]
@@ -602,7 +602,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "7e8438329b0662463fd5d11b8af802cd6e8f3b471f4a7ef4d25d77e8ac5cca1f"
+hash = "6c34559a86e1bfb79e41b1853f61d3db7e217333476d5b4cdb598a4618d898b8"
 metafile = true
 
 [[files]]
@@ -617,12 +617,12 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "e8f55a1cdfc03e5f313a27db80e7427f28be997cb78224e666c8ea20a6693525"
+hash = "7bb5c83416782ca21043d416c81aa24a072a85ff766a5fded710ab57be410d3c"
 metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "9a2c10ad1310c8d295fc7f432cd8cd4fdbb2a4fbf9982921378abb21012a9108"
+hash = "65fb6940ec0217c8e561420cdacdc5f3e72a87a203827c38b4d985cd5143a030"
 metafile = true
 
 [[files]]
@@ -662,7 +662,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "516dc0b640ab0e6a0be06a1d2263b67c5739f6b7c99900f1e21f9d831f96bc23"
+hash = "2840900657d1be39ec31d5f7bedba2fe4549fda3235bfaceab61243d3c1bdfd0"
 metafile = true
 
 [[files]]
