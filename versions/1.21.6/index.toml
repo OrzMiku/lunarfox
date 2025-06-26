@@ -158,7 +158,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "3c93ec937ac334843447418da8f7f810cdf32a8c21b90eafc39c7604cf7c32f6"
+hash = "7ade9694388d80def1aba6b3653a1a0ea8a68eb14a42e2bffd076fd1335a5ce8"
 metafile = true
 
 [[files]]
@@ -332,6 +332,11 @@ hash = "67d7d0cd20e2933d7b2a305d60e109bc6db868883209416ccfe5e22de281c1da"
 metafile = true
 
 [[files]]
+file = "mods/noisium.pw.toml"
+hash = "54dd8b88e92786d96c2487b7d6a473fbb7cd4576cec3a543788cfab327ffd623"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "4d5f9f63a3d6dcd564d19598e6362937738eb17acc572eeab49c0dc8c5d7b851"
 metafile = true
@@ -358,7 +363,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "47f05f982bed488ab711f35d175ad32ad02491e9221b4a6311d5b81b690ba0e8"
+hash = "5bdb5a00135131fadd04657cab2fae3defbb2b720d3498babcddf9b1212dec7b"
 metafile = true
 
 [[files]]
@@ -378,12 +383,12 @@ metafile = true
 
 [[files]]
 file = "mods/scalablelux.pw.toml"
-hash = "fff85cc158bf95b149b0b5ed9375c3c2a9fff58f774c2b00858e5fbcf064714d"
+hash = "fcb2b48e962361d11130754a8e2d524a5e5fb4025e18f0135096a95aabc5cb24"
 metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "9ab7a3889a5406ccc111f464dc998e889c9801f0b1b4017de8830a39c44a6a61"
+hash = "d3ce7c562cb2d457391f3ea7992f1018055544035097547d9bc2d30b7429c8ea"
 metafile = true
 
 [[files]]
