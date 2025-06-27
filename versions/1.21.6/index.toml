@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Client.json"
+hash = "58c9e639e6458fdcdd201f080187df717242571a32d6406479b7624468ca66e9"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Encryption.json"
+hash = "d3a2bc7eb8deb5392488d5be3e9f1a497094df6cd4ae6a3d559e8a476ff528a3"
+
+[[files]]
 file = "config/yosbr/config/betterf3.json"
 hash = "4390b5fe8c58026bde80a1ed5d39be658b4c18b7a512fc156a2773f5eaac7387"
 
@@ -329,6 +337,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "67d7d0cd20e2933d7b2a305d60e109bc6db868883209416ccfe5e22de281c1da"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "bc196e02ff6f1f01924f732f9635c26c8a9a9dc144d98dbe6da9ed3859b2ddf5"
 metafile = true
 
 [[files]]
