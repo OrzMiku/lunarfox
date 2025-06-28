@@ -1,0 +1,13 @@
+name = "FPBR"
+filename = "FPBR-1.21.6-128x-RE1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/nvEpbd8t/versions/Kijufq4E/FPBR-1.21.6-128x-RE1.zip"
+hash-format = "sha512"
+hash = "1498c0f27a27e5b7e311d04ae8a3df170a9d9401e31eea12f441832226fd0eae40ba4bc3bbc617ae433408747c4cd04876d9ed260bad1fa1d24454532f719908"
+
+[update]
+[update.modrinth]
+mod-id = "nvEpbd8t"
+version = "Kijufq4E"

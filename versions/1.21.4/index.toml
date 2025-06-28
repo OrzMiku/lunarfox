@@ -637,13 +637,18 @@ hash = "3b05b966ad8012708764929ded584b1bbb80b065485c1b5ee8f5587ea18e92d7"
 metafile = true
 
 [[files]]
+file = "resourcepacks/fpbr.pw.toml"
+hash = "3a0a07005cd8871364517a63bbe90a50222e9faceef05884a61f42ce750115d4"
+metafile = true
+
+[[files]]
 file = "resourcepacks/spbr.pw.toml"
 hash = "84a7b313ed2770ebfa598aa190f82d2c0c3275c028d8bb24bd76026a95e06c0b"
 metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "2840900657d1be39ec31d5f7bedba2fe4549fda3235bfaceab61243d3c1bdfd0"
+hash = "b52a19600a4903821327091c1802e589cb0305c075db91be01a84a70b3924519"
 metafile = true
 
 [[files]]

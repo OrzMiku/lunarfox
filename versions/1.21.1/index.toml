@@ -272,7 +272,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "4cf5213ed785e4a642198c28844bf23327ed2fdbc300bdce00fcab21672864ff"
+hash = "c45656db928ed544c927449b5ceac0feef9488b0ea4154cab9199b37817cd4d5"
 metafile = true
 
 [[files]]
@@ -656,13 +656,18 @@ hash = "3b05b966ad8012708764929ded584b1bbb80b065485c1b5ee8f5587ea18e92d7"
 metafile = true
 
 [[files]]
+file = "resourcepacks/fpbr.pw.toml"
+hash = "3a0a07005cd8871364517a63bbe90a50222e9faceef05884a61f42ce750115d4"
+metafile = true
+
+[[files]]
 file = "resourcepacks/spbr.pw.toml"
 hash = "1cc27f5b9dfe2a8cd3b8d43df0466b8086300e7cbd516785daf8910cee502f6e"
 metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "2840900657d1be39ec31d5f7bedba2fe4549fda3235bfaceab61243d3c1bdfd0"
+hash = "b52a19600a4903821327091c1802e589cb0305c075db91be01a84a70b3924519"
 metafile = true
 
 [[files]]

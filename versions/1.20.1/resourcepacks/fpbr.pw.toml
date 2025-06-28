@@ -1,0 +1,13 @@
+name = "FPBR"
+filename = "FPBR-1.21.5-128x-RE6.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/nvEpbd8t/versions/R3AgSgew/FPBR-1.21.5-128x-RE6.zip"
+hash-format = "sha512"
+hash = "23afb4792f4483fc763228fba51d74d67b05f3ca8135c693b7256ec4658610afc8372d3247f219f03f2ee3df2c0228c9e509b6251e930708f4a8f46bfc44df88"
+
+[update]
+[update.modrinth]
+mod-id = "nvEpbd8t"
+version = "R3AgSgew"

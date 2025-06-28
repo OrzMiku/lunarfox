@@ -196,7 +196,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "3d5da87182e681fc30531abe525662e988d605b7ed77346ea664aacc82004a21"
+hash = "3eaeb9f0bd3ce711cf42f9edc1397bb7ce4e2974d7fc54d2356e01f2e0a4504d"
 metafile = true
 
 [[files]]
@@ -366,7 +366,7 @@ metafile = true
 
 [[files]]
 file = "mods/peek.pw.toml"
-hash = "3a33e1b3d8da84b7492008fbb59d92e8e8150450cee708f903ad1c96f4939432"
+hash = "128dea5483c25b0ae2d493bfdcf0613ef5e0682d4af1487bc17301c943df2770"
 metafile = true
 
 [[files]]
@@ -426,7 +426,7 @@ metafile = true
 
 [[files]]
 file = "mods/viafabricplus.pw.toml"
-hash = "9019714c3a60f21d361c959cbbfad64294f79e31305feb4c5b4811ae4b0a0888"
+hash = "072e6245164f0a3f6f3e9f795c78ba0082500ee69f683b61162fa3b03c4dab20"
 metafile = true
 
 [[files]]
@@ -475,13 +475,18 @@ hash = "3b05b966ad8012708764929ded584b1bbb80b065485c1b5ee8f5587ea18e92d7"
 metafile = true
 
 [[files]]
+file = "resourcepacks/fpbr.pw.toml"
+hash = "aa456249f2c8e0b34f0d5575952dc4c6b9c4aadde10d34cd190caf9529585e64"
+metafile = true
+
+[[files]]
 file = "resourcepacks/spbr.pw.toml"
 hash = "84a7b313ed2770ebfa598aa190f82d2c0c3275c028d8bb24bd76026a95e06c0b"
 metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "2840900657d1be39ec31d5f7bedba2fe4549fda3235bfaceab61243d3c1bdfd0"
+hash = "b52a19600a4903821327091c1802e589cb0305c075db91be01a84a70b3924519"
 metafile = true
 
 [[files]]
