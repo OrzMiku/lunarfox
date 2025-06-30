@@ -25,10 +25,6 @@ file = "config/yosbr/config/ferritecore.mixin.properties"
 hash = "3817e94107bb1c7358beebb80b1810e822de38be430f855cf14828c38018e8e2"
 
 [[files]]
-file = "config/yosbr/config/immediatelyfast.json"
-hash = "8bc58d4ab49fc2606a7ae6c7614e4ad3f5a5c29b894fbdaa2bc3d8730acacd2c"
-
-[[files]]
 file = "config/yosbr/config/inventoryhud.json"
 hash = "22114ef1ca0544700c7d2883a740193b22347ae97ccf33daace70b7fb5a0c06b"
 
@@ -167,6 +163,11 @@ hash = "dc1578a021bb4e5699524f5216d8aa9b08c9d30bfbfe0bc72bf07f5391c3f3b5"
 metafile = true
 
 [[files]]
+file = "mods/boat-item-view.pw.toml"
+hash = "2a59657d4ebebbd8a53bccc982b36909240d3e32f60a298f93e4ecf046937d4a"
+metafile = true
+
+[[files]]
 file = "mods/bobby.pw.toml"
 hash = "5dccb53650c19b933db206e676ef00f1d1d0129f6d072a53e5111421ea461cf6"
 metafile = true
@@ -192,6 +193,11 @@ hash = "2cf850f2efd53156d011279577f1a749368b990835c193e0e5218b83d43143f6"
 metafile = true
 
 [[files]]
+file = "mods/chatanimation.pw.toml"
+hash = "a59ce679862d915b6a8bdfe207af78012214fb5a6952e0663eb07c98d7c88793"
+metafile = true
+
+[[files]]
 file = "mods/chatpatches.pw.toml"
 hash = "5001fa841ab7e909190378587665890ba5f15a1373f2bf360393984d7606e2e1"
 metafile = true
@@ -204,6 +210,11 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "278a349024e41e039f9f4a278532b56d1774cd2f7fde04f2cff298f3e085d995"
+metafile = true
+
+[[files]]
+file = "mods/controlify.pw.toml"
+hash = "0fd3e602842e53b1df4a731b4a34830d14e685dc48a6ee3edffb37c792804747"
 metafile = true
 
 [[files]]
@@ -535,8 +546,18 @@ hash = "2b66d7a33b317c19b294fa1eee944f91b9e9eba82006dae9696145a3307c484b"
 metafile = true
 
 [[files]]
+file = "mods/smooth-scroll.pw.toml"
+hash = "8c79c3f02e0750d3bf2ce34715b7888e6f48f710f3b388d0da0eaabb6774ba39"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "abe9878dcb237d56e2ba70c17db8c721c6c2b8e62b241bc333539d5bc6be938f"
+metafile = true
+
+[[files]]
+file = "mods/sodium-shadowy-path-blocks.pw.toml"
+hash = "b91aa8ca577a8397296c43e06f54e8246cbdacd44afa08ab6188323c441ac359"
 metafile = true
 
 [[files]]

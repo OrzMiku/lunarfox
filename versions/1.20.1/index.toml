@@ -163,6 +163,11 @@ hash = "a1e024094c28068c99a6da1c5867cbd4e66a315718039659bfa533a138762d9e"
 metafile = true
 
 [[files]]
+file = "mods/boat-item-view.pw.toml"
+hash = "d6878871a07870b33821beed20118368e779c17574062d5d771eb38b9403e875"
+metafile = true
+
+[[files]]
 file = "mods/bobby.pw.toml"
 hash = "62392ad801b58819a5821bdbde21686cf338cf0416ece1721db551f8d2497db3"
 metafile = true
@@ -205,6 +210,11 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "ca80c5f6b0faca95bbc06192a3da36446ff396b5e6e0304f6779269b60bbdd9d"
+metafile = true
+
+[[files]]
+file = "mods/controlify.pw.toml"
+hash = "e7cbff32cea845401608145a6719a7fa926a739c6d696c71f59e7c1ff490448f"
 metafile = true
 
 [[files]]
@@ -558,8 +568,18 @@ hash = "830270b8e5a34f5621720ae09c4cf716a65d8003a30d585c8b817aba1fde9ac8"
 metafile = true
 
 [[files]]
+file = "mods/smooth-scroll.pw.toml"
+hash = "f985288dc5af3c5fde96f303509839f1836c2a9716c321eb7910b90563413aa3"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "8ad07191dfdea31249b4416a390c1cdf1d4ff1938cf9f8a617f98f7a08c5356c"
+metafile = true
+
+[[files]]
+file = "mods/sodium-shadowy-path-blocks.pw.toml"
+hash = "bf3a50b4962319fdc9bcdb9b56aa5af1d674a16740c36f5732cb8fe91aafb46f"
 metafile = true
 
 [[files]]

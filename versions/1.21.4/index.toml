@@ -163,6 +163,11 @@ hash = "cbc0973dadd8e4a191ce8e819f212bcfb58708885b4a46a9de7afa29e71aadad"
 metafile = true
 
 [[files]]
+file = "mods/boat-item-view.pw.toml"
+hash = "4a5a8a8b564dbf5582a916eb0f7d2e6b1d08b510e0e7a16ffe75a1230e06cc1d"
+metafile = true
+
+[[files]]
 file = "mods/bobby.pw.toml"
 hash = "783f6391e53272943cce060fd820d1c5b7cbdf94df1341f250bf09eaa296171c"
 metafile = true
@@ -188,6 +193,11 @@ hash = "a8b8e89a322aae5f20d15a3aa21cd5f47e14853f36b9303e3ef0fa717660115a"
 metafile = true
 
 [[files]]
+file = "mods/chatanimation.pw.toml"
+hash = "a59ce679862d915b6a8bdfe207af78012214fb5a6952e0663eb07c98d7c88793"
+metafile = true
+
+[[files]]
 file = "mods/chatpatches.pw.toml"
 hash = "891441dc6dc607f8da7fe409ac7add8459275d73b53a72914bb6c096f5c22351"
 metafile = true
@@ -200,6 +210,11 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "7986f751d84536043edd1e67178554f6d4c3f01409feae6c151afa7854db5fa2"
+metafile = true
+
+[[files]]
+file = "mods/controlify.pw.toml"
+hash = "0062a985873ba3736548501c24f516c6e108cfc666145bc8f84981e5f0e0f863"
 metafile = true
 
 [[files]]
@@ -547,8 +562,18 @@ hash = "7ead84f8df46c7e292fb00079d11aa78d15724398b150db11d06e6713583fcb0"
 metafile = true
 
 [[files]]
+file = "mods/smooth-scroll.pw.toml"
+hash = "49da9614c644156d6adf3ecb4612b29b1f1054939376e95b3dc5a88e5e670189"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "56a0e243140dc1dbdb89c5a7a1cbcbe6e8d6da5499242bd1eabf548bbb8e3481"
+metafile = true
+
+[[files]]
+file = "mods/sodium-shadowy-path-blocks.pw.toml"
+hash = "6a9b663f2cd6c3f6f35ee30831a8e577aacc27b1851688d2179c9a20b19bde92"
 metafile = true
 
 [[files]]
