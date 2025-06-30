@@ -751,4 +751,32 @@ hash = "9093e030cdf902054bd5cbf78f2bd5046a0359f295821c3d5970a3108984fb23"
 
 [[files]]
 file = "shaderpresets/FPBR/photon_v1.2a.zip.txt"
-hash = "be9af83c99a6b90b5772ad781fd69c84b138b7d9c6678d70fa89b567f7b0de6f"
+hash = "a243170179b390761a65da709ac749b1e0824a926e6bb7d35b9aab03e0604cfc"
+
+[[files]]
+file = "shaderpresets/SPBR/BSLClassic_v10.0.zip.txt"
+hash = "a2d875f94c9b15e74cd7e9a5549bb0efe4b9201a58c95462b79aaa3171919d2c"
+
+[[files]]
+file = "shaderpresets/SPBR/BSL_v10.0.zip.txt"
+hash = "9c0070144054bca5b4975978b6b16af3777e681409f2382122bac498d6574dd3"
+
+[[files]]
+file = "shaderpresets/SPBR/ComplementaryReimagined_r5.5.1 + EuphoriaPatches_1.6.5.txt"
+hash = "4ba1ca1b84b484f9f55749821bd031168d2e6bc84af2094a5951ffa0cd410ab1"
+
+[[files]]
+file = "shaderpresets/SPBR/ComplementaryReimagined_r5.5.1.zip.txt"
+hash = "4ba1ca1b84b484f9f55749821bd031168d2e6bc84af2094a5951ffa0cd410ab1"
+
+[[files]]
+file = "shaderpresets/SPBR/ComplementaryUnbound_r5.5.1 + EuphoriaPatches_1.6.5.txt"
+hash = "492fb2cf43fbca3f62824ba70160d51615d023f17011a85bb356a89b70cb6188"
+
+[[files]]
+file = "shaderpresets/SPBR/ComplementaryUnbound_r5.5.1.zip.txt"
+hash = "99e70cdd616a0b1dc8de418d855642dbfe8e480b31c1fe72f072efa972f15225"
+
+[[files]]
+file = "shaderpresets/SPBR/photon_v1.2a.zip.txt"
+hash = "817857ea0b2a674c5454f752c8d209a8b8d01b56108878ee4b8a68d0704bf288"
