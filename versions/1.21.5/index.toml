@@ -417,6 +417,11 @@ hash = "e945646366d2097d79ab4db15ed47c0cc184261a588456573954b8cc85eee518"
 metafile = true
 
 [[files]]
+file = "mods/modelfix.pw.toml"
+hash = "14800fc12fd4b92497c0f26455523783bdf59194233bdaa71d4864b3d436929a"
+metafile = true
+
+[[files]]
 file = "mods/modernfix-fabric-5.20.4-beta.3+mc25w07a.e6c9.jar"
 hash = "bc192d95f12cdc1978874213b3ff786234e133781ef77c912d4dfd7d90a6582c"
 
