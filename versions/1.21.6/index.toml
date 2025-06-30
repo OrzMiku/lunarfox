@@ -18,7 +18,7 @@ hash = "0623905a25c9b6c8387f7a6a0256ea005f727c63c689d2cc7cc77f74e912f7e4"
 
 [[files]]
 file = "config/yosbr/config/defaultoptions/keybindings.txt"
-hash = "401781fbae4b779f46d23e96cd6c4cea33f6cc97cdf79f6735901bea4bc9588b"
+hash = "e2442d90fec3f0ac2ef66afb93244b5b537119784e2678cd97755508b6130920"
 
 [[files]]
 file = "config/yosbr/config/ferritecore.mixin.properties"
