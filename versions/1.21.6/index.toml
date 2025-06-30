@@ -361,7 +361,7 @@ metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "0b41812582959ab1c760b2ca6048a42386cdc784cc29aab4f4accf9727f1257f"
+hash = "9b6c5c5b4cd3eae959818c483cf65075a124e3256de9ad8a8cdf768bb2d9f53e"
 metafile = true
 
 [[files]]
@@ -415,6 +415,11 @@ hash = "9a0d53217201df1a02fd2c4db95b61136da9b94e734876fe63116f4811538ed5"
 metafile = true
 
 [[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "8e009ac87710fbd8f5990285d36ab2b4755e932664ca1bcb9cdfac116d6e3b6d"
+metafile = true
+
+[[files]]
 file = "mods/tcdcommons.pw.toml"
 hash = "6a42bf12aa7ee876a076549b82beb0d10fddfb7c59cf5d5ab3f9866efb4354bc"
 metafile = true
@@ -441,7 +446,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "ac48add0de37ae2472d8e924783b1cd63cac4950a140b998a1019572aa7712c4"
+hash = "936d64bb8645282e32effd0a977379934db4e793c55b22fb4cc6e26504e3c19b"
 metafile = true
 
 [[files]]

@@ -457,7 +457,7 @@ metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "0b41812582959ab1c760b2ca6048a42386cdc784cc29aab4f4accf9727f1257f"
+hash = "9b6c5c5b4cd3eae959818c483cf65075a124e3256de9ad8a8cdf768bb2d9f53e"
 metafile = true
 
 [[files]]
@@ -502,7 +502,7 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "971c19f9973cfbe98103f091734b25e9dfc5c7dba7cb3905021133ee6653abc9"
+hash = "f04be730a6dde5e7e3ce302260bc1a456a4e0fd57a00755d3992f9c0daafd21d"
 metafile = true
 
 [[files]]
@@ -591,7 +591,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "a159c359089ac3e0445b3be18b391b5d0ceac9036266ea297aaa4259ac732277"
+hash = "2c3d8b47c5bc91a1ec855203d7d34a8d0cdbee76377b944ac229644f332dea2d"
 metafile = true
 
 [[files]]

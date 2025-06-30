@@ -487,7 +487,7 @@ metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "0b41812582959ab1c760b2ca6048a42386cdc784cc29aab4f4accf9727f1257f"
+hash = "9b6c5c5b4cd3eae959818c483cf65075a124e3256de9ad8a8cdf768bb2d9f53e"
 metafile = true
 
 [[files]]
@@ -622,7 +622,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "65fb6940ec0217c8e561420cdacdc5f3e72a87a203827c38b4d985cd5143a030"
+hash = "3fbf96e2a8b93b429aea0c5c37bcb50c1dfe8e562661f93702ecc28397dbc872"
 metafile = true
 
 [[files]]

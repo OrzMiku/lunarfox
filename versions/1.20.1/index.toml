@@ -489,7 +489,7 @@ metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "035b1bb233af54ca23d39a899a99cc956477f867cc0c7548894cbd3f6b277a44"
+hash = "eb2371adcce345bc16498193dcfede333822aafdeda96d5cbf8d1fec33bacf56"
 metafile = true
 
 [[files]]
@@ -619,7 +619,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "5eea11fb1c0b6538b60d69871ed04ba0f73a155d0e0c24f5056698d787a496e6"
+hash = "e5618b9386c8dcdfff88b17abf3ef77c58d3c121e023c54208ae5d4c9adabd97"
 metafile = true
 
 [[files]]
@@ -654,7 +654,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fpbr.pw.toml"
-hash = "3a0a07005cd8871364517a63bbe90a50222e9faceef05884a61f42ce750115d4"
+hash = "aa456249f2c8e0b34f0d5575952dc4c6b9c4aadde10d34cd190caf9529585e64"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "FPBR"
-filename = "FPBR-1.21.5-128x-RE6.zip"
+filename = "FPBR-1.21.6-128x-RE1.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/nvEpbd8t/versions/R3AgSgew/FPBR-1.21.5-128x-RE6.zip"
+url = "https://cdn.modrinth.com/data/nvEpbd8t/versions/Kijufq4E/FPBR-1.21.6-128x-RE1.zip"
 hash-format = "sha512"
-hash = "23afb4792f4483fc763228fba51d74d67b05f3ca8135c693b7256ec4658610afc8372d3247f219f03f2ee3df2c0228c9e509b6251e930708f4a8f46bfc44df88"
+hash = "1498c0f27a27e5b7e311d04ae8a3df170a9d9401e31eea12f441832226fd0eae40ba4bc3bbc617ae433408747c4cd04876d9ed260bad1fa1d24454532f719908"
 
 [update]
 [update.modrinth]
 mod-id = "nvEpbd8t"
-version = "R3AgSgew"
+version = "Kijufq4E"
