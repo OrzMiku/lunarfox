@@ -716,3 +716,31 @@ metafile = true
 file = "shaderpacks/photon-shader.pw.toml"
 hash = "3add1378e964947556ec43ebc86a431981cfa67c9b95353105d7f48deb58ff3d"
 metafile = true
+
+[[files]]
+file = "shaderpresets/FPBR/BSLClassic_v10.0.zip.txt"
+hash = "4b5fabc89ec1789f3a0f46dfc2792690e1ec3ff7ac531f0a9439b4773376b169"
+
+[[files]]
+file = "shaderpresets/FPBR/BSL_v10.0.zip.txt"
+hash = "8f70498f371cf210e95903f164e6d570a546db04ff14b6733bd0bed24ec72089"
+
+[[files]]
+file = "shaderpresets/FPBR/ComplementaryReimagined_r5.5.1 + EuphoriaPatches_1.6.5.txt"
+hash = "5cc0b78ee40f0e5546e1f43016e32c464dcbecade898b669b0b6f4c3d3f5c09d"
+
+[[files]]
+file = "shaderpresets/FPBR/ComplementaryReimagined_r5.5.1.zip.txt"
+hash = "cec8d02b7827e4100a481fb08b1cf0dbe6d9899e7cb739cca618bec9355b46c4"
+
+[[files]]
+file = "shaderpresets/FPBR/ComplementaryUnbound_r5.5.1 + EuphoriaPatches_1.6.5.txt"
+hash = "876654ff4b9c50867c85b77bad39fe285b72399013faf2b1043c2c99c053d373"
+
+[[files]]
+file = "shaderpresets/FPBR/ComplementaryUnbound_r5.5.1.zip.txt"
+hash = "9093e030cdf902054bd5cbf78f2bd5046a0359f295821c3d5970a3108984fb23"
+
+[[files]]
+file = "shaderpresets/FPBR/photon_v1.2a.zip.txt"
+hash = "be9af83c99a6b90b5772ad781fd69c84b138b7d9c6678d70fa89b567f7b0de6f"
