@@ -123,6 +123,11 @@ hash = "10de0584239bf8a5c7226f6bd96bef12250d07cb2b6dc83929970cd26d0d47c5"
 metafile = true
 
 [[files]]
+file = "mods/better-third-person.pw.toml"
+hash = "74c01cc05241bb689fbb6bb7a26aebb4897b272fdbbf33f57c04fc453bfa75eb"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "2d1c297c06a8781464a18d28d4a6d5c4807d216e42f6e315215d244ecdcb254b"
 metafile = true
