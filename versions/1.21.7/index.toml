@@ -1,28 +1,32 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/yosbr/defaultoptions/keybindings.txt"
+file = "config/yosbr/config/defaultoptions/keybindings.txt"
 hash = "401781fbae4b779f46d23e96cd6c4cea33f6cc97cdf79f6735901bea4bc9588b"
 
 [[files]]
-file = "config/yosbr/litematica.json"
+file = "config/yosbr/config/litematica.json"
 hash = "0186b89fc19e5b7b36902eed03061ff03530a15c86de6090c98f488bdaf51f73"
 
 [[files]]
-file = "config/yosbr/minihud.json"
+file = "config/yosbr/config/minihud.json"
 hash = "435f7811c796b2352fee74985081994d69f881f9f0b6a0499ba39fbc40ee3f0b"
 
 [[files]]
-file = "config/yosbr/moreculling.toml"
+file = "config/yosbr/config/moreculling.toml"
 hash = "7d27acae23534f1cbfd7c5b3b8758e28f4f1dc402ee97f630a88aefd5b2eec2e"
 
 [[files]]
-file = "config/yosbr/tweakeroo.json"
+file = "config/yosbr/config/tweakeroo.json"
 hash = "61959e34930508cde414a11b937b544727ba3aa18712751b510ad5cec99eebeb"
 
 [[files]]
-file = "config/yosbr/vmp.properties"
+file = "config/yosbr/config/vmp.properties"
 hash = "15eec0092ca5c54f97fc46953311e20e63a5eb6bca4672bfec9dae63f61cc456"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "f71a850430d7213ab2434682f9282124ab978b931ab7bd46084b1ea00c51f101"
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
@@ -273,10 +277,6 @@ metafile = true
 file = "mods/zume.pw.toml"
 hash = "434ac58bf0c398eb06d03856a3de1edf30aba72ff11ac953bda99e34132c0376"
 metafile = true
-
-[[files]]
-file = "options.txt"
-hash = "f71a850430d7213ab2434682f9282124ab978b931ab7bd46084b1ea00c51f101"
 
 [[files]]
 file = "resourcepacks/fast-better-grass.pw.toml"

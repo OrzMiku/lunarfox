@@ -473,10 +473,6 @@ hash = "8852975e4cf5a83cd7cee6ef32e739bb5cfe8d38c0c44a16089924af41472f68"
 metafile = true
 
 [[files]]
-file = "mods/nuit-interop-fabric-1.0.0-snapshot+mc1.21.4-build.10.jar"
-hash = "48befedfa2679ec94e03bebf416c3be836d42429ebdaa6faf7c9a29675f14ef3"
-
-[[files]]
 file = "mods/nuit-interop.pw.toml"
 hash = "00942cd2fd2775f47e1451a1705fcc0bc282bc0e7f19eafbaea70866478244b4"
 metafile = true
