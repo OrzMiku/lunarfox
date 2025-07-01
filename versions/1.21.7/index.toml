@@ -60,7 +60,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "74d2462a28832de682c0802fbb92e4b2ab7a06996f26c01964e785d5500a42fb"
+hash = "43b612e52dff6a615831a13da622da193e509138d1252389f1f148407489584d"
 metafile = true
 
 [[files]]
@@ -95,7 +95,7 @@ metafile = true
 
 [[files]]
 file = "mods/default-options.pw.toml"
-hash = "3fba81bc670ee054772813d5299abdba7ab75dd70afbd0a32f98ca9a3b2406be"
+hash = "5a7e38a66e18841a60a03c02f7c62f04cc6a531ab34d53ea9442e2cb8aafabdc"
 metafile = true
 
 [[files]]
@@ -280,7 +280,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fast-better-grass.pw.toml"
-hash = "3b05b966ad8012708764929ded584b1bbb80b065485c1b5ee8f5587ea18e92d7"
+hash = "774b51f7257a3a18f0afc40c155bac4bb1dbade055170137f2ac96456f0e3653"
 metafile = true
 
 [[files]]
@@ -352,6 +352,10 @@ file = "shaderpresets/FPBR/ComplementaryUnbound_r5.5.1.zip.txt"
 hash = "9093e030cdf902054bd5cbf78f2bd5046a0359f295821c3d5970a3108984fb23"
 
 [[files]]
+file = "shaderpresets/FPBR/Sundial-Lite-67d3adc.zip.txt"
+hash = "be61e25b39f1c7a219fbe6c1519ad01729c0a06395aa1a686ede812443cd7db1"
+
+[[files]]
 file = "shaderpresets/FPBR/photon_v1.2a.zip.txt"
 hash = "a243170179b390761a65da709ac749b1e0824a926e6bb7d35b9aab03e0604cfc"
 
@@ -378,6 +382,10 @@ hash = "492fb2cf43fbca3f62824ba70160d51615d023f17011a85bb356a89b70cb6188"
 [[files]]
 file = "shaderpresets/SPBR/ComplementaryUnbound_r5.5.1.zip.txt"
 hash = "99e70cdd616a0b1dc8de418d855642dbfe8e480b31c1fe72f072efa972f15225"
+
+[[files]]
+file = "shaderpresets/SPBR/Sundial-Lite-67d3adc.zip.txt"
+hash = "48ad3fa713a035b31b716aa9a0c1d6785d1b6901824c06ad4332895a008f2aa6"
 
 [[files]]
 file = "shaderpresets/SPBR/photon_v1.2a.zip.txt"

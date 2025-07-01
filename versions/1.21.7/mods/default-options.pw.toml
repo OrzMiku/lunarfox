@@ -1,13 +1,13 @@
 name = "Default Options"
-filename = "defaultoptions-fabric-1.21.6-21.6.1.jar"
+filename = "defaultoptions-fabric-1.21.7-21.7.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/WEg59z5b/versions/gtTsxotk/defaultoptions-fabric-1.21.6-21.6.1.jar"
+url = "https://cdn.modrinth.com/data/WEg59z5b/versions/diRbJIIP/defaultoptions-fabric-1.21.7-21.7.1.jar"
 hash-format = "sha512"
-hash = "38311caaaf2dbf8a03d2b770f5ded504ed0d4653e0aacac900ba2f34279659924fcfb63781d5c28316945582d34751e63580543faf488a45ea8849221047f702"
+hash = "e4d48b1d7679069465b7ed930aff6282ce6739da874b2190d39f8c45c9207e1fa7637e096eb53b56ab8ef388d33d73856d9c2378eb1f22e92a0ccb405e45d503"
 
 [update]
 [update.modrinth]
 mod-id = "WEg59z5b"
-version = "gtTsxotk"
+version = "diRbJIIP"
