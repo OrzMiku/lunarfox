@@ -75,6 +75,11 @@ hash = "21ecdd06d63e862c24703ef6fd496eef5c6dfa72ada035853304619ee9e63122"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "a216e613b5ada8a83972394c8b52331388f6d3e41187a04c3bced3f1752bea70"
+metafile = true
+
+[[files]]
 file = "mods/controlify.pw.toml"
 hash = "9bb44826f53a9231faa4d8a3c0d4ff2cdd38334bb5154e256e87020921e4210d"
 metafile = true
