@@ -524,7 +524,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "573ef12b7101d599ab5e8d012f17150a886feb884f219c94672eef9ebbe700d5"
+hash = "a38cb46240d9af633157cfc4510c9072e5da0bc48b092e7b8d8ff8398eba10be"
 metafile = true
 
 [[files]]
@@ -674,7 +674,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fast-better-grass.pw.toml"
-hash = "3b05b966ad8012708764929ded584b1bbb80b065485c1b5ee8f5587ea18e92d7"
+hash = "774b51f7257a3a18f0afc40c155bac4bb1dbade055170137f2ac96456f0e3653"
 metafile = true
 
 [[files]]
@@ -689,7 +689,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "b52a19600a4903821327091c1802e589cb0305c075db91be01a84a70b3924519"
+hash = "9597f8feb1d046410881995bf1f70bb9c1c1549dfc4dadafcd50ffa39c87a8f3"
 metafile = true
 
 [[files]]

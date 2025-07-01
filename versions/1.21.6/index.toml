@@ -114,7 +114,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-selection.pw.toml"
-hash = "ca99bf51d1fe0e71a41e2d622284844628f1697da1b20307617ab66222f1512a"
+hash = "1834c4dda40a11f275bb16180e29f505fb27bf0a1adbe69885d88a9990196bd5"
 metafile = true
 
 [[files]]
@@ -284,7 +284,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "e3ed2c112bfe0abbc4d2c52c7d4c2086fe136e133784775c2f5a43d8f899868c"
+hash = "f9acd9fa6c8e3e28c54f196c3840ae9227265a966d511e21be5056951706ea00"
 metafile = true
 
 [[files]]
@@ -324,7 +324,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "a154647755d574d084bd68750b1e675cf567c67540fa426d6a3af4d88ed18c30"
+hash = "207f47bd4d0366b83995924037f2b4f4a9027bcae65546d85e9840150d734db9"
 metafile = true
 
 [[files]]
@@ -334,7 +334,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "807bc8071ed3343a0fa406b8d50d2ccc8eebdd942d857f50828e593615829f66"
+hash = "4ff1e088bc35b48fd3f470842c7ff4078c28e0166b1ea392133a756adefe72ef"
 metafile = true
 
 [[files]]
@@ -354,7 +354,7 @@ metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "57d1193c51a0681c4f3676edbc2dbfd4b2b16c4314bb55cfcdf7e124cfb702e8"
+hash = "c25d8cea88c6c5f52ef10955bf2b1d3e9dd1a36a314fdbf1927a36ad06a1765a"
 metafile = true
 
 [[files]]
@@ -474,7 +474,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "01e52e8271a7485c8963fe8eb84e1a001eee22756f0368bb7c4714ae1f48c230"
+hash = "aa92790a7c834a004d8efd468843007502a6ecfe83f8048d410a9f3d9f33969b"
 metafile = true
 
 [[files]]
@@ -524,7 +524,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fast-better-grass.pw.toml"
-hash = "3b05b966ad8012708764929ded584b1bbb80b065485c1b5ee8f5587ea18e92d7"
+hash = "774b51f7257a3a18f0afc40c155bac4bb1dbade055170137f2ac96456f0e3653"
 metafile = true
 
 [[files]]
@@ -539,7 +539,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "b52a19600a4903821327091c1802e589cb0305c075db91be01a84a70b3924519"
+hash = "9597f8feb1d046410881995bf1f70bb9c1c1549dfc4dadafcd50ffa39c87a8f3"
 metafile = true
 
 [[files]]
