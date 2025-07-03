@@ -1,0 +1,13 @@
+name = "Chat Patches"
+filename = "chatpatches-217.6.16.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/MOqt4Z5n/versions/ILMkWywG/chatpatches-217.6.16.jar"
+hash-format = "sha512"
+hash = "12743ae2ffc5a29eaf374896d11b1f32aa85e32543ab959d743867cb6b593eb4b013e25dae21073a4c6e26b83f0eb4454a81899281900a2aa6295093513a2de8"
+
+[update]
+[update.modrinth]
+mod-id = "MOqt4Z5n"
+version = "ILMkWywG"

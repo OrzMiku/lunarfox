@@ -29,6 +29,11 @@ file = "config/yosbr/options.txt"
 hash = "f71a850430d7213ab2434682f9282124ab978b931ab7bd46084b1ea00c51f101"
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "47d1dc015b07695d8d3107cb12aa75e154ed0a9c0216a69fed7d221857f6ad7d"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "2a591dc20bd77776dfb60714a83058719a81301d2dfcacdc96e81136c5611dd9"
 metafile = true
@@ -79,6 +84,11 @@ hash = "21ecdd06d63e862c24703ef6fd496eef5c6dfa72ada035853304619ee9e63122"
 metafile = true
 
 [[files]]
+file = "mods/chatpatches.pw.toml"
+hash = "279ba003d301f4d4a4a6e70713869981162ca2ac688e7a7fc02dc516b74926d5"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "a216e613b5ada8a83972394c8b52331388f6d3e41187a04c3bced3f1752bea70"
 metafile = true
@@ -106,6 +116,16 @@ metafile = true
 [[files]]
 file = "mods/dynamiccrosshair.pw.toml"
 hash = "e07f4d408257c09ba4752afec18ffba0b37deed6b812031e82503aa395527bb0"
+metafile = true
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "b001c3a1852a1293e83d32fb0850c4da6aaf2ef100b5140cb1ce7d2885b178fd"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "f4d7523b2a6d6c167ecf2e19964898f1fcdf060a15553b05fa1d5dd41a56c373"
 metafile = true
 
 [[files]]
@@ -139,6 +159,11 @@ hash = "36d3f5054974aa0abfd8edb01d7b99d41497c90559e52485dbc0d1e420f4bba0"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "96f524838c46e199ba08f03191758da2426754a1d39bd7f76a3e09115254b928"
+metafile = true
+
+[[files]]
 file = "mods/gamma-utils.pw.toml"
 hash = "66b92cd6343956db01a532d3ef9e6bd6444c76ecf344a873c60f3cd9ab41b355"
 metafile = true
@@ -146,6 +171,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "9d6b46943f6ad2518f3acb4598d4afdb74843a069dde3cd7c9fa8dd89723de50"
+metafile = true
+
+[[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "faf41d6f2f044a6d3153e7ff60ab362646f9f4f693716581061c3b6a8d29885f"
 metafile = true
 
 [[files]]
@@ -161,6 +191,11 @@ metafile = true
 [[files]]
 file = "mods/language-reload.pw.toml"
 hash = "97385bd886d2fcad952fd7e76501300049237ec4a47a7b0240cf46138d9cc35a"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "7ed99a6e72f251d30a918d66448f5dac06b94e903fb0afa62b6b5ea2c132058e"
 metafile = true
 
 [[files]]
@@ -204,8 +239,23 @@ hash = "70676593e513e1499486765b8f654cb5034a20a2642a3bcc61a6f57c9d985972"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "ba94fd9dd7d5148b511c24460a281143c3a5d02b859e66732f6121aee6625f0d"
+metafile = true
+
+[[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "54b1a62c202dd0406129bb15c76e1c5e4677a033b375de2ccd456e9a31b95d1a"
+metafile = true
+
+[[files]]
 file = "mods/peek.pw.toml"
 hash = "7c150ac86d8fcb83831305f8b0dcb762fadb882f285152838db024b35c6e7dbf"
+metafile = true
+
+[[files]]
+file = "mods/pick-up-notifier.pw.toml"
+hash = "e179a97a477428b433397c9cee62df04916fa882f834f14c4ddcb54e495c2951"
 metafile = true
 
 [[files]]
@@ -219,6 +269,11 @@ hash = "0bac5556af781fcdc43780a1cbf83019a21f9700eff8adec761e48167d37246f"
 metafile = true
 
 [[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "88f9a71bf06f4959b220abab8542e4763747903e9e5ef150c38ae79c83870077"
+metafile = true
+
+[[files]]
 file = "mods/resourcify.pw.toml"
 hash = "5078ed334b2a0e011a876618b816160c3060ada250abd5490d6eb8a83dc3c509"
 metafile = true
@@ -226,6 +281,11 @@ metafile = true
 [[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "fcb2b48e962361d11130754a8e2d524a5e5fb4025e18f0135096a95aabc5cb24"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "d3ce7c562cb2d457391f3ea7992f1018055544035097547d9bc2d30b7429c8ea"
 metafile = true
 
 [[files]]
