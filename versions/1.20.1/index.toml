@@ -409,7 +409,7 @@ metafile = true
 
 [[files]]
 file = "mods/magiclib.pw.toml"
-hash = "894d620743dd7000ebe9e106d2c795c8bfa691e0def26aa3cd09a4d3eea2418f"
+hash = "7047cf68665ab477b9081934b0634cc8dc38ab7029a1f6bf918a46be53a23aae"
 metafile = true
 
 [[files]]
@@ -454,7 +454,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "f2d4fb902274312c42ecca4fb8dc3781d4d249ab978e9e57c89eff03c577c7c4"
+hash = "f149a969021fee77abd79fee4906f80abbbd928b3f68bf14de1a2685ee9a2a80"
 metafile = true
 
 [[files]]
@@ -504,7 +504,7 @@ metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "eb2371adcce345bc16498193dcfede333822aafdeda96d5cbf8d1fec33bacf56"
+hash = "75a49055e92c17417705ebb966720416814db5a0d99d5dc717dc28b4989bfda2"
 metafile = true
 
 [[files]]
@@ -524,7 +524,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "a38cb46240d9af633157cfc4510c9072e5da0bc48b092e7b8d8ff8398eba10be"
+hash = "4b88564ad94c61172b4b73aa4591709e7d68163cee1b4e40b5fc6fdb6a6fcc87"
 metafile = true
 
 [[files]]

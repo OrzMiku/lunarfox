@@ -169,7 +169,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatpatches.pw.toml"
-hash = "7cbe039914661c16bb33a0d1db0ed5ec8624d1e1d6ae4135d83182ae19c21265"
+hash = "13e7553859b0a01b031f4ddf7a65431abe39cad1b39d0c8127ec92f720aa11ce"
 metafile = true
 
 [[files]]
@@ -224,7 +224,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "3eaeb9f0bd3ce711cf42f9edc1397bb7ce4e2974d7fc54d2356e01f2e0a4504d"
+hash = "256b3418c1af70c2ae837937a7d53f007cb12eb81eec57afbc03e33cdb43cef6"
 metafile = true
 
 [[files]]
@@ -399,7 +399,7 @@ metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "9b6c5c5b4cd3eae959818c483cf65075a124e3256de9ad8a8cdf768bb2d9f53e"
+hash = "54b1a62c202dd0406129bb15c76e1c5e4677a033b375de2ccd456e9a31b95d1a"
 metafile = true
 
 [[files]]
