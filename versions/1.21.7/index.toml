@@ -41,8 +41,21 @@ file = "config/yosbr/config/vmp.properties"
 hash = "15eec0092ca5c54f97fc46953311e20e63a5eb6bca4672bfec9dae63f61cc456"
 
 [[files]]
+file = "config/yosbr/config/xaerominimap.txt"
+hash = "805d874877e6bb962ac09c250b3d2a084ec599b2242dd1fa36860623c2024890"
+
+[[files]]
+file = "config/yosbr/config/xaeroworldmap.txt"
+hash = "b0df40e07391a60294d7bffb9772cabe8096d61c41c8680fbfad927d3a6a5a6b"
+
+[[files]]
 file = "config/yosbr/options.txt"
 hash = "f71a850430d7213ab2434682f9282124ab978b931ab7bd46084b1ea00c51f101"
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "c22ebc9646c063a5c53acae5b49a0b54f8b21500ecc79a9c52b142775512b2d6"
+metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
@@ -112,6 +125,11 @@ metafile = true
 [[files]]
 file = "mods/controlify.pw.toml"
 hash = "9bb44826f53a9231faa4d8a3c0d4ff2cdd38334bb5154e256e87020921e4210d"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "df3cbb0cbd2d921720fcc0033b66b7639f9bbd039b5d7fbdfe98f502869486bc"
 metafile = true
 
 [[files]]
@@ -185,6 +203,11 @@ hash = "66b92cd6343956db01a532d3ef9e6bd6444c76ecf344a873c60f3cd9ab41b355"
 metafile = true
 
 [[files]]
+file = "mods/held-item-info.pw.toml"
+hash = "c740306a2d1a8559d45a6c763a65869b95933b93326e5f308d7a0c1b8f22395d"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "9d6b46943f6ad2518f3acb4598d4afdb74843a069dde3cd7c9fa8dd89723de50"
 metafile = true
@@ -202,6 +225,16 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "5fca26659b0eea90c3ee02e2d809365d1f1ea36c824938afb0b0e4541ccd3d33"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "76776cceeb1cc6201e1a91d589345e7c302be9ca083386a682178eb79fca88a4"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "65d542a720b52feeaab878439636d8ca361ccc512a054e96696e4972b6ecfd8f"
 metafile = true
 
 [[files]]
@@ -227,6 +260,16 @@ metafile = true
 [[files]]
 file = "mods/malilib.pw.toml"
 hash = "4ff1e088bc35b48fd3f470842c7ff4078c28e0166b1ea392133a756adefe72ef"
+metafile = true
+
+[[files]]
+file = "mods/mcwifipnp.pw.toml"
+hash = "112f34ee0df8ba779c581f7defbc63042bb0bb7b027b77aa7a9f76e05a4d65ea"
+metafile = true
+
+[[files]]
+file = "mods/melody.pw.toml"
+hash = "b7a1e9b50adf036a01e662bd72927aacf39058b606216c415c5e7a158acf53a9"
 metafile = true
 
 [[files]]
@@ -281,7 +324,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "0bac5556af781fcdc43780a1cbf83019a21f9700eff8adec761e48167d37246f"
+hash = "a04338ef93757875028cc1f2f7287199b3e7024c906af6ee53437d8c8a7f9f06"
 metafile = true
 
 [[files]]
@@ -300,6 +343,11 @@ hash = "fcb2b48e962361d11130754a8e2d524a5e5fb4025e18f0135096a95aabc5cb24"
 metafile = true
 
 [[files]]
+file = "mods/searchables.pw.toml"
+hash = "7a36cf9888455a9d373c621dd4dc40258501e65ef30be309283e9fab7d96341b"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "d3ce7c562cb2d457391f3ea7992f1018055544035097547d9bc2d30b7429c8ea"
 metafile = true
@@ -312,6 +360,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "1745f4ec1732e16be5f2c88780a66ca2a94c76c06c5e862db0b2c6cf63b16a47"
+metafile = true
+
+[[files]]
+file = "mods/status-effect-bars.pw.toml"
+hash = "9a0d53217201df1a02fd2c4db95b61136da9b94e734876fe63116f4811538ed5"
 metafile = true
 
 [[files]]
@@ -337,6 +390,16 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "1b2dee1ebac6f5ca706650c43284503273fdde8056683d6734308542ff272e6e"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "9f07a111bb74925e569efadfe6e5d25406aac710d974116d90c9d3450cb3d5b6"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "8dbc902adac712c4f42a5c0ae8e67e7e1eb194deca394eb23e09484ab5044e2b"
 metafile = true
 
 [[files]]

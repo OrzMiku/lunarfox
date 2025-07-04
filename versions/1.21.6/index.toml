@@ -183,6 +183,11 @@ hash = "9bb44826f53a9231faa4d8a3c0d4ff2cdd38334bb5154e256e87020921e4210d"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "0cfbce797ea458575a8880506191d08a3be202c5bbdf8ba64cec2a5758bb9d77"
+metafile = true
+
+[[files]]
 file = "mods/craterlib.pw.toml"
 hash = "10d0fedaab6a4f7ef05e06882e61864599f5dddafe55902b25ed475f81b6b5ce"
 metafile = true
@@ -339,7 +344,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcwifipnp.pw.toml"
-hash = "c0bc33e80b0abbe03b41d8c39323bd1e744ec646a10613c5e9902aa0101d454a"
+hash = "112f34ee0df8ba779c581f7defbc63042bb0bb7b027b77aa7a9f76e05a4d65ea"
 metafile = true
 
 [[files]]
@@ -435,6 +440,11 @@ metafile = true
 [[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "fcb2b48e962361d11130754a8e2d524a5e5fb4025e18f0135096a95aabc5cb24"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "454b06eb5b50185ae1612ad5380bddee0f865e85bbed1dfeedc41399db69ae59"
 metafile = true
 
 [[files]]
