@@ -17,6 +17,10 @@ file = "config/yosbr/config/defaultoptions/keybindings.txt"
 hash = "401781fbae4b779f46d23e96cd6c4cea33f6cc97cdf79f6735901bea4bc9588b"
 
 [[files]]
+file = "config/yosbr/config/ferritecore.mixin.properties"
+hash = "3817e94107bb1c7358beebb80b1810e822de38be430f855cf14828c38018e8e2"
+
+[[files]]
 file = "config/yosbr/config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "8fa033afa83e6b5123c11bb293b0a5e632b4f76b2ca7d651350179fd435462c9"
 
@@ -194,6 +198,11 @@ metafile = true
 [[files]]
 file = "mods/fast-ip-ping.pw.toml"
 hash = "c9babfbb0db58f9edfc38666af8ef4ce24fe0cd0594d3c421bb51410fb6c3fa2"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "fbf9806c22ee5bccbe08f7dec15b742f5ae3a70caf186d6dce0d42f28790f559"
 metafile = true
 
 [[files]]
