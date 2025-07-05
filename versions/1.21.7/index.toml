@@ -88,6 +88,11 @@ hash = "74c01cc05241bb689fbb6bb7a26aebb4897b272fdbbf33f57c04fc453bfa75eb"
 metafile = true
 
 [[files]]
+file = "mods/boat-item-view.pw.toml"
+hash = "2da7cdeb19a0a1466547c544d0e9b0e80828d129e22ce1497256bdf6cf6d51e5"
+metafile = true
+
+[[files]]
 file = "mods/bobby.pw.toml"
 hash = "65ba148bc2832d78b433e76eccfbdbb1456066a9d14dac621a3b730b109b16cb"
 metafile = true
@@ -264,7 +269,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcwifipnp.pw.toml"
-hash = "112f34ee0df8ba779c581f7defbc63042bb0bb7b027b77aa7a9f76e05a4d65ea"
+hash = "aa381136f919672389f5dc2cb16147351edd3efc60b8d53eeed1a08a02f33481"
 metafile = true
 
 [[files]]
@@ -393,8 +398,13 @@ hash = "1b2dee1ebac6f5ca706650c43284503273fdde8056683d6734308542ff272e6e"
 metafile = true
 
 [[files]]
+file = "mods/xaeroplus.pw.toml"
+hash = "fdd917192bbf00deb5956ae0005803e5f79f32c503665dff11e86800849bac2c"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "9f07a111bb74925e569efadfe6e5d25406aac710d974116d90c9d3450cb3d5b6"
+hash = "aa3cde4a7f5103225d719c4c269c27f503b3026eb054cd163cc234e9cca11bfe"
 metafile = true
 
 [[files]]
@@ -434,7 +444,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "9597f8feb1d046410881995bf1f70bb9c1c1549dfc4dadafcd50ffa39c87a8f3"
+hash = "09b7471660825ffecaa6fa5855c025b115fb7a525ee1524ca4f6f868d8d2d758"
 metafile = true
 
 [[files]]

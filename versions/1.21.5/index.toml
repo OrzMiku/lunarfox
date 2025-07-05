@@ -409,7 +409,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcwifipnp.pw.toml"
-hash = "eecdd437440ce33b897b8d828177cc8f9ec8c564d63e67835e0094c7f47b98a7"
+hash = "60a2629885ac83dcbd5da1703651e154feac78dde0a62a5dfe97f242a5fc7d88"
 metafile = true
 
 [[files]]
@@ -662,7 +662,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "9597f8feb1d046410881995bf1f70bb9c1c1549dfc4dadafcd50ffa39c87a8f3"
+hash = "09b7471660825ffecaa6fa5855c025b115fb7a525ee1524ca4f6f868d8d2d758"
 metafile = true
 
 [[files]]
