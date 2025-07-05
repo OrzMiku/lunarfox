@@ -1,6 +1,6 @@
 name = "LunarFox"
 author = "OrzMiku"
-version = "0.0.0-alpha.3+mc1.21.7"
+version = "0.0.0-alpha.4+mc1.21.7"
 pack-format = "packwiz:1.1.0"
 
 [index]
