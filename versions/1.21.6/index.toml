@@ -9,10 +9,6 @@ file = "config/yosbr/config/NoChatReports/NCR-Encryption.json"
 hash = "d3a2bc7eb8deb5392488d5be3e9f1a497094df6cd4ae6a3d559e8a476ff528a3"
 
 [[files]]
-file = "config/yosbr/config/betterf3.json"
-hash = "4390b5fe8c58026bde80a1ed5d39be658b4c18b7a512fc156a2773f5eaac7387"
-
-[[files]]
 file = "config/yosbr/config/chatpatches.json"
 hash = "0623905a25c9b6c8387f7a6a0256ea005f727c63c689d2cc7cc77f74e912f7e4"
 
@@ -125,11 +121,6 @@ metafile = true
 [[files]]
 file = "mods/better-third-person.pw.toml"
 hash = "74c01cc05241bb689fbb6bb7a26aebb4897b272fdbbf33f57c04fc453bfa75eb"
-metafile = true
-
-[[files]]
-file = "mods/betterf3.pw.toml"
-hash = "2d1c297c06a8781464a18d28d4a6d5c4807d216e42f6e315215d244ecdcb254b"
 metafile = true
 
 [[files]]
