@@ -254,6 +254,11 @@ hash = "cee7b9a65f1d8625f9c103486e8b91edf6bb03b36ab2430fd927ec0d687ce8db"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "96f524838c46e199ba08f03191758da2426754a1d39bd7f76a3e09115254b928"
+metafile = true
+
+[[files]]
 file = "mods/gamma-utils.pw.toml"
 hash = "66b92cd6343956db01a532d3ef9e6bd6444c76ecf344a873c60f3cd9ab41b355"
 metafile = true
@@ -396,6 +401,11 @@ metafile = true
 [[files]]
 file = "mods/packet-fixer.pw.toml"
 hash = "54b1a62c202dd0406129bb15c76e1c5e4677a033b375de2ccd456e9a31b95d1a"
+metafile = true
+
+[[files]]
+file = "mods/particle-core.pw.toml"
+hash = "4ed5bf9e808739ddeec2692fbd7c16b3df653f1b2823de3f07e5dced1c5fc439"
 metafile = true
 
 [[files]]
