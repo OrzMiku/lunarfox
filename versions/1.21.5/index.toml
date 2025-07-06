@@ -90,7 +90,7 @@ hash = "7ed2443085370e3427bd3e803037356811af68ad3fc131947a89cc89f2103fc7"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "db50e8c3fa1548b8bacf044d8871237b02de6e39b08b7e6f9ce139af9d7ca625"
+hash = "ea0e904b15c7662efb1b5368d44bc30a043db1e92c854c4b935e35121c932e2b"
 metafile = true
 
 [[files]]
@@ -385,7 +385,7 @@ metafile = true
 
 [[files]]
 file = "mods/magiclib.pw.toml"
-hash = "f4d4a51ea188c7275531b81ca49d95a0d49dd7fcbfa66e22bfd44f04733deeb1"
+hash = "e19d3556a837aa73194d55b7b391eeed27fd9482f36291232641eab96e6482c0"
 metafile = true
 
 [[files]]
@@ -489,7 +489,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "eb5237bda03d53aeee0eccfc2a1b37b1390189c1e5f49c5534917aff433da181"
+hash = "02be6214df01757d97aa6f42c8755bc2cd3ca363f66e3541cc4bda9267981d7c"
 metafile = true
 
 [[files]]

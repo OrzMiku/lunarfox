@@ -90,7 +90,7 @@ hash = "7ed2443085370e3427bd3e803037356811af68ad3fc131947a89cc89f2103fc7"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "038d6fb5b14ab1b8393bec412eece3e76c06866c4acc841c95dafea8367b4ffe"
+hash = "71d097839d86bcdc476dd12c9d635b3c521f07f71e133357587975d6862eefac"
 metafile = true
 
 [[files]]
@@ -400,7 +400,7 @@ metafile = true
 
 [[files]]
 file = "mods/magiclib.pw.toml"
-hash = "7047cf68665ab477b9081934b0634cc8dc38ab7029a1f6bf918a46be53a23aae"
+hash = "4a52b6190434f40facd088437865a68a34957991e85ba58149150dde757e33b5"
 metafile = true
 
 [[files]]
