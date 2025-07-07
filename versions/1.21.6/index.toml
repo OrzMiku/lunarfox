@@ -390,7 +390,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "4d5f9f63a3d6dcd564d19598e6362937738eb17acc572eeab49c0dc8c5d7b851"
+hash = "ca512a7a5b1033f5f8823e015a95a6090907dd01738f9ca8fc4ef188d56c88d3"
 metafile = true
 
 [[files]]
@@ -500,12 +500,12 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "5e4d66fcd6fc9e540e379be7c7126248e62218fd0c6872c47947a69404f47279"
+hash = "89df73bdcd8faf70f963302ce3d41da19b088df284f14c526897ff831152117b"
 metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "a3a619603643e800109a2337a98d9bb5c10c7bbf427a83b651f40a3065817694"
+hash = "fdd917192bbf00deb5956ae0005803e5f79f32c503665dff11e86800849bac2c"
 metafile = true
 
 [[files]]

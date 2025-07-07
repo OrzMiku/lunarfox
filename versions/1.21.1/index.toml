@@ -358,7 +358,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "0264720bd1baf7f3f5693f0f5d713a03e3a03b8ae3fcec851a99f1616bf11b6f"
+hash = "ac7d5298a7915a2739b87e2614a670d5cb964adea2578c2c9669031915b8a819"
 metafile = true
 
 [[files]]
@@ -478,7 +478,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "bd2fdbeda78ffcc284d85061ff20c8e4abfce36b942b78d25b4ea08f52a4f64a"
+hash = "e2ff96a331addb08e5e7b8d9a7bf46faacab79ed507a672878fef1fd7cb59f59"
 metafile = true
 
 [[files]]
@@ -638,7 +638,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "7bb5c83416782ca21043d416c81aa24a072a85ff766a5fded710ab57be410d3c"
+hash = "63c63f35edbbd4061891327360e5825e6829ee3caffb57c16b27027678b0dc0c"
 metafile = true
 
 [[files]]
