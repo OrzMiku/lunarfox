@@ -141,6 +141,11 @@ hash = "a216e613b5ada8a83972394c8b52331388f6d3e41187a04c3bced3f1752bea70"
 metafile = true
 
 [[files]]
+file = "mods/continuity.pw.toml"
+hash = "a86751e4931b83d8f3de8e84e38f2dc0aa316e40c99b9e9f03a9276659a474b6"
+metafile = true
+
+[[files]]
 file = "mods/controlify.pw.toml"
 hash = "9bb44826f53a9231faa4d8a3c0d4ff2cdd38334bb5154e256e87020921e4210d"
 metafile = true
