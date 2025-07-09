@@ -333,7 +333,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "e6b1db1ab68060617a18d798dc6041533bf58044a078df62ae09fab803eb6e4b"
+hash = "0e5b10aefb078de8f531b588b6384cbfa585f8c6991b0b9b21dce1d642a6d840"
 metafile = true
 
 [[files]]
@@ -523,7 +523,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "2646c2dd9665d8e1a92b01d66f7d93f897c18215b360fb3ad1c1ba073dbd9898"
+hash = "1d2cb81434d88ea64ec64e72620cf6491e9bc9cf53d33e0a10ef404659ce375b"
 metafile = true
 
 [[files]]

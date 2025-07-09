@@ -76,6 +76,11 @@ hash = "47d1dc015b07695d8d3107cb12aa75e154ed0a9c0216a69fed7d221857f6ad7d"
 metafile = true
 
 [[files]]
+file = "mods/axolotl-buckets.pw.toml"
+hash = "b93ebc5c113e4fdd498f9c6a8ba1bac08f5f35d7d611549a6aa73538c6992c96"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "01013db5d43a8e041bfb70f5f88d4940cc4a6eefd620577df20954bd0ab6004d"
 metafile = true
@@ -247,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "9d6b46943f6ad2518f3acb4598d4afdb74843a069dde3cd7c9fa8dd89723de50"
+hash = "3447c30e10bb52798f1bb68c86a3c4d800139af22056baa8ae406b788e1d8548"
 metafile = true
 
 [[files]]
