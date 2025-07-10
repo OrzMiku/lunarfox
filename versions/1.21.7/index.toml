@@ -61,6 +61,10 @@ file = "config/yosbr/options.txt"
 hash = "7ae8f14480ecec6a703e66fd4c899a2c4e31cd94e6dbdff3a8d15835b8cc1fb5"
 
 [[files]]
+file = "icon.png"
+hash = "7ed2443085370e3427bd3e803037356811af68ad3fc131947a89cc89f2103fc7"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "ecc2ba4f5a606c56c2a7055f150aaa09b389eb927ed257d9419566e5fe957fd0"
 metafile = true
