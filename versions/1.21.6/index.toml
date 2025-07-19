@@ -70,7 +70,7 @@ hash = "7ed2443085370e3427bd3e803037356811af68ad3fc131947a89cc89f2103fc7"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "ecc2ba4f5a606c56c2a7055f150aaa09b389eb927ed257d9419566e5fe957fd0"
+hash = "ec412967102ea4586ac8d93de1215be19588e900fcf3b74721a0e1eaee899f86"
 metafile = true
 
 [[files]]
@@ -101,6 +101,11 @@ metafile = true
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "7bc565a4a7de36989eb1e1c852c469b726f89aab2a292e0d954a217877c33b61"
+metafile = true
+
+[[files]]
+file = "mods/better-advancements.pw.toml"
+hash = "5b3ffb9994c1339212592c92ba44d8a5db2eaca32d8b5b237699493160c3bd17"
 metafile = true
 
 [[files]]
@@ -160,7 +165,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatpatches.pw.toml"
-hash = "13e7553859b0a01b031f4ddf7a65431abe39cad1b39d0c8127ec92f720aa11ce"
+hash = "6f86be23e8d16464eb5241ba4bfda96f6a4b1feb37ba31c9a34a9d51aeb44e5f"
 metafile = true
 
 [[files]]
@@ -200,7 +205,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamiccrosshair.pw.toml"
-hash = "e07f4d408257c09ba4752afec18ffba0b37deed6b812031e82503aa395527bb0"
+hash = "5e3f00ecd1fb22dd8fda618fba82f2b6dc85febcc005f9c65931afa3a3a8276e"
 metafile = true
 
 [[files]]
@@ -210,7 +215,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "cf5fa2962068a4975d4adbce3abcf0d34ca316e3b81f21f4d2707853f5192755"
+hash = "dff937930734d00e3cd2c644d20d5015df3ad53cc9d23fae2704326774cadbad"
 metafile = true
 
 [[files]]
@@ -260,7 +265,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "96f524838c46e199ba08f03191758da2426754a1d39bd7f76a3e09115254b928"
+hash = "1c2afb59201aa276f4dd57c8af87125a1193c73758f6de4849205f866fe6fe35"
 metafile = true
 
 [[files]]
@@ -285,7 +290,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "faf41d6f2f044a6d3153e7ff60ab362646f9f4f693716581061c3b6a8d29885f"
+hash = "0fc0d37841ccb880e89c108287287452a240f3beafa6511e02aa996cbfc02791"
 metafile = true
 
 [[files]]
@@ -300,7 +305,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "5de3cea92d91c0611dd8dec179846246932e28996b91966d5cc89c78a1df5f25"
+hash = "5fca26659b0eea90c3ee02e2d809365d1f1ea36c824938afb0b0e4541ccd3d33"
 metafile = true
 
 [[files]]
@@ -330,7 +335,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "207f47bd4d0366b83995924037f2b4f4a9027bcae65546d85e9840150d734db9"
+hash = "235885512246b8d57a15433a7762db916a11ff45908c51504b8d716092c96319"
 metafile = true
 
 [[files]]
@@ -340,7 +345,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "4ff1e088bc35b48fd3f470842c7ff4078c28e0166b1ea392133a756adefe72ef"
+hash = "e6e5b83fe6fdc154dcf0e5cf62309ecae0b6a44e1d5a1388d2d5a2dd7a6c4790"
 metafile = true
 
 [[files]]
@@ -360,7 +365,7 @@ metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "c25d8cea88c6c5f52ef10955bf2b1d3e9dd1a36a314fdbf1927a36ad06a1765a"
+hash = "a186f0e867417c2dc1487abcffad49b9fead73179d27767b852b35a8b6adf1cf"
 metafile = true
 
 [[files]]
@@ -405,7 +410,7 @@ metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "54b1a62c202dd0406129bb15c76e1c5e4677a033b375de2ccd456e9a31b95d1a"
+hash = "2042bf4b5b3bdd0faafa8310673ab3a6115240f4f36e5e2ff38c7d933e483637"
 metafile = true
 
 [[files]]
@@ -479,6 +484,11 @@ hash = "9a0d53217201df1a02fd2c4db95b61136da9b94e734876fe63116f4811538ed5"
 metafile = true
 
 [[files]]
+file = "mods/stendhal.pw.toml"
+hash = "d723836984d883722b90aad252f68099ad6a1114a30034b377c56ea0ee1e275e"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "8e009ac87710fbd8f5990285d36ab2b4755e932664ca1bcb9cdfac116d6e3b6d"
 metafile = true
@@ -490,7 +500,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "aa92790a7c834a004d8efd468843007502a6ecfe83f8048d410a9f3d9f33969b"
+hash = "ded35e7226b1ea89121fe5f9b397fcf6bfe8f239f63ec7fcd092fd527b68fecd"
 metafile = true
 
 [[files]]
@@ -555,7 +565,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "09b7471660825ffecaa6fa5855c025b115fb7a525ee1524ca4f6f868d8d2d758"
+hash = "4168044fa7ac6b57f3c663c96cdbe5bc1058b20b569ca6faaa05fb2fe2f0188a"
 metafile = true
 
 [[files]]

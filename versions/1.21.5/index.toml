@@ -90,7 +90,7 @@ hash = "7ed2443085370e3427bd3e803037356811af68ad3fc131947a89cc89f2103fc7"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "ea0e904b15c7662efb1b5368d44bc30a043db1e92c854c4b935e35121c932e2b"
+hash = "e5e0885e614d4d22bda2248d3688b7ba6559fe1ca947b416124e61c0aaa70c79"
 metafile = true
 
 [[files]]
@@ -120,12 +120,12 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "52ceeded56d4851cd8cfe9bcfef62128d635934ab1735f202457faca300cfd1b"
+hash = "63d41744b10f05f005c21e89d7c4fd33feadba46c3cd9d3340d251a133216d26"
 metafile = true
 
 [[files]]
 file = "mods/better-advancements.pw.toml"
-hash = "792f60ddfba19616a0316b79c0b9788db9ae0c8b1a4b6000f688f01d80422a76"
+hash = "6796a5e352f383010a844274789ec3558f87eaaa28a90a361a4aac936ec675a5"
 metafile = true
 
 [[files]]
@@ -190,7 +190,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatpatches.pw.toml"
-hash = "2014a472e04d3c77f0046d5af37f1f3f38946261fe0d1b00781c18578fa1f517"
+hash = "91bfb35359acf9f62916ff73bea5f236a138951d5426aae41b8417f1b5ee0b93"
 metafile = true
 
 [[files]]
@@ -235,7 +235,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamiccrosshair.pw.toml"
-hash = "37f1562a7c7342fb5087f8ebac6258057ce60ecf4bd77e9b3823f33a65ea75d6"
+hash = "2aa9db904f058c60fc772b9cfec466138f57f3cd5b70e9117fe1b6329614abb7"
 metafile = true
 
 [[files]]
@@ -245,7 +245,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "ccd3108c37f2974b8f6f377dca65df3e6ed77b9fb6eb53d094d5f423f20b5392"
+hash = "33d22f0f1f007754a2b13b267c395afb577616fcbb29b7473a06dca256f23803"
 metafile = true
 
 [[files]]
@@ -300,7 +300,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "c3741eb99da1676db710022999844ad608687b2008743403e840b3e9df8c5cba"
+hash = "fbefd845bd130883357c1ad3765bef4f1acc89dfd362e52358856e10315dc386"
 metafile = true
 
 [[files]]
@@ -464,7 +464,7 @@ metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "54b1a62c202dd0406129bb15c76e1c5e4677a033b375de2ccd456e9a31b95d1a"
+hash = "2042bf4b5b3bdd0faafa8310673ab3a6115240f4f36e5e2ff38c7d933e483637"
 metafile = true
 
 [[files]]
@@ -489,7 +489,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "81fc596d125872d554c528f216c053cf8073c0df7bc78c46b8afb7e527e372a0"
+hash = "9afe2d08d864f5154814a60e4d5deedae2c4c53a025773f28093dc76b2d4f17f"
 metafile = true
 
 [[files]]
@@ -613,12 +613,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "7f658c40a452d9bdca14a961046b287d01efc5b5fac7e34024c2f2a11ed1b8ac"
+hash = "286f3ff7c9210cdab72e2d9ece6711ee513c2d463a022b10839bcc2222d9c520"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "518a34367612ea0c89ca020f3c6ecc37712a641e982f5d18605640bafccf5c05"
+hash = "29a067a96c59fb5fc0aff411f065dff25d286bccb21b1e734ab28ea100a77fdb"
 metafile = true
 
 [[files]]
@@ -653,7 +653,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "09b7471660825ffecaa6fa5855c025b115fb7a525ee1524ca4f6f868d8d2d758"
+hash = "4168044fa7ac6b57f3c663c96cdbe5bc1058b20b569ca6faaa05fb2fe2f0188a"
 metafile = true
 
 [[files]]
