@@ -120,7 +120,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "63d41744b10f05f005c21e89d7c4fd33feadba46c3cd9d3340d251a133216d26"
+hash = "a6b067f721d355152b3ba084a7ed09e11212e333a8119a6aa2de9e614c52b3aa"
 metafile = true
 
 [[files]]
@@ -220,7 +220,7 @@ metafile = true
 
 [[files]]
 file = "mods/default-options.pw.toml"
-hash = "ddf6266079876a8ef0ba89b8a5f57fabc0bd4bc11af07325c2a5f33bb86cc682"
+hash = "6e4620cfa816039cbf327fe8152fe7890a590a1354c28b55d39205c01c2a73ef"
 metafile = true
 
 [[files]]
@@ -489,7 +489,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "9afe2d08d864f5154814a60e4d5deedae2c4c53a025773f28093dc76b2d4f17f"
+hash = "e24aeba11ce13849f85babb8dfacf4917aa28b42b172feffa2c123be58766f6f"
 metafile = true
 
 [[files]]
@@ -514,7 +514,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "885e0ea35d9d553b5a5e5b3ff5ed8c6d4333458d7a099456c8c849301f23238b"
+hash = "4748eafc31b9dff3d3048259aaa50ead8d09db4c2975c4a60dc5ec5ed4c528df"
 metafile = true
 
 [[files]]
@@ -608,7 +608,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "2c3d8b47c5bc91a1ec855203d7d34a8d0cdbee76377b944ac229644f332dea2d"
+hash = "3303923905214be268401d22bbd1891bb23457de4186c6471d81fe8f77ffd819"
 metafile = true
 
 [[files]]

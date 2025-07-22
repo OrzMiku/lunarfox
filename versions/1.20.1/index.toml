@@ -220,7 +220,7 @@ metafile = true
 
 [[files]]
 file = "mods/default-options.pw.toml"
-hash = "907f03677673a5196780b33d0503a15387b181bcf6587b99cd47772e7096b067"
+hash = "0db6c29bf4627021cbc13945b69b3562a6153ea1be1968ab9a7dd3c6ca08c6b6"
 metafile = true
 
 [[files]]
@@ -540,7 +540,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "00d63bf2177ad78b9d0a012ab33c9884ea6f5044e776fbf5444609670f041d2a"
+hash = "5736dea6480c9e68467139b935695423c9903ac617f5fe757b5f158007fed8cb"
 metafile = true
 
 [[files]]
@@ -635,7 +635,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "e5618b9386c8dcdfff88b17abf3ef77c58d3c121e023c54208ae5d4c9adabd97"
+hash = "b103e4d6d05828bdb923d4824daf33a975c5e9e9fcc08adf05dcdf4538afb98a"
 metafile = true
 
 [[files]]

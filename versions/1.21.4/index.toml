@@ -220,7 +220,7 @@ metafile = true
 
 [[files]]
 file = "mods/default-options.pw.toml"
-hash = "b5758663f4a01658d7849601cfc18bb216e749aeccc6f3e1f72ff549e98fc560"
+hash = "3cc4abcdc14b5bd7cd34513ad8183f143d8a64cdcbc1181c8235f75ce599771c"
 metafile = true
 
 [[files]]
@@ -295,7 +295,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "4b257578b2973f4e99ae3192989f7ba4db19e9eca99ea396a1479c8a6cd9ca88"
+hash = "d5b02cdd8918d1e509bbedd2d7073544110a5985f6b94cbc799464324ee0d1ba"
 metafile = true
 
 [[files]]
@@ -530,7 +530,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "522da8a16ca87bfa21414bfa6f330bda82f081edff21e33d2914c22a3b886b64"
+hash = "fa9aff1fefd412f7acf78a1f87eeea0dd008bb8d18568c77c311ca420e4db6c5"
 metafile = true
 
 [[files]]
@@ -625,7 +625,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "6f347f7e6c5b358e329744fba25d4b5407e88b828a89dd9787da8392d46781a7"
+hash = "ddf36abed9494c1ef17c0fc4c2649bcee09a2b50f6a79fdc10acce88c3b3dade"
 metafile = true
 
 [[files]]

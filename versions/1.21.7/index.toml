@@ -91,7 +91,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "67b88f617241597ff0633fb0f33b5918e72f9914d03050a4f98dadad02d5d22b"
+hash = "baf3dcfa7b5228c9776f46a9597e8a2d74c542e9a73e9d45f0f983c0910c39ca"
 metafile = true
 
 [[files]]
@@ -410,6 +410,11 @@ hash = "48b2b721576bd33428a9d5ab090788d946494abf49fff230a66461bc8b6c0093"
 metafile = true
 
 [[files]]
+file = "mods/polytone.pw.toml"
+hash = "8b7039febd3fe0ca93e8c4462ba481c7c1ce0294e87d716f7a2a202bf5a83b21"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "a04338ef93757875028cc1f2f7287199b3e7024c906af6ee53437d8c8a7f9f06"
 metafile = true
@@ -421,7 +426,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "5078ed334b2a0e011a876618b816160c3060ada250abd5490d6eb8a83dc3c509"
+hash = "75d11a0b32a9fb7cd1235cc7ff3708e9acfe87fb0f07daca2764bb61723b78d8"
 metafile = true
 
 [[files]]
