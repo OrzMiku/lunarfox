@@ -148,7 +148,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-selection.pw.toml"
-hash = "1834c4dda40a11f275bb16180e29f505fb27bf0a1adbe69885d88a9990196bd5"
+hash = "5f13e2470d769f613652ff4378a31c86b5915fe67032c94c1be5aeed06610b4d"
 metafile = true
 
 [[files]]
@@ -198,7 +198,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatpatches.pw.toml"
-hash = "330f90d219ef6aa7e5e0f3c63374f5854d5e8ed4846048bc6dcade6d51bdcb9b"
+hash = "54934cbbf4610b440a95d50fedcd76c54dc1aed23944d5660ff647d5ea6221ce"
 metafile = true
 
 [[files]]
@@ -233,7 +233,7 @@ metafile = true
 
 [[files]]
 file = "mods/default-options.pw.toml"
-hash = "58eb5171cd6501d4214111da59a6c22761fc1c192ddf0f76d02de5e7113277e5"
+hash = "28c449d4ceafd79043f9c6e02f408e9f67e59e3e7259ba37a9bc1321a55efe04"
 metafile = true
 
 [[files]]
@@ -403,7 +403,7 @@ metafile = true
 
 [[files]]
 file = "mods/magiclib.pw.toml"
-hash = "40b63645441d55b034ce476d7f67ecf6efb22cf32808791f290c2420b3c1efab"
+hash = "babfa2bd09de71ac69563288830b58f50c1e9e23cb1218ba42b760a54c0a03d4"
 metafile = true
 
 [[files]]
@@ -498,7 +498,7 @@ metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "2042bf4b5b3bdd0faafa8310673ab3a6115240f4f36e5e2ff38c7d933e483637"
+hash = "4bf091a6947c83041ae6e9577c9877fbb77908ccf1652d212800132a9eba02ef"
 metafile = true
 
 [[files]]

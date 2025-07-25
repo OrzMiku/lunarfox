@@ -1,13 +1,13 @@
 name = "Better Selection"
-filename = "better-selection-1.6.7.jar"
+filename = "better-selection-1.6.8.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/xIpcAYJL/versions/iZeFi2vX/better-selection-1.6.7.jar"
+url = "https://cdn.modrinth.com/data/xIpcAYJL/versions/XjB8wIwx/better-selection-1.6.8.jar"
 hash-format = "sha512"
-hash = "215b45c43ef391074d651dd835562aa41d3cb5e9ecea6b918e65944ea04b162884767824ba455a693bd51050c011f5a5d7f3711650903e753b77ca9f2b522daa"
+hash = "181c466adcba2f7094c1ef9ff13aea9f79d6306f6f2d2983c97145449b7a9b69d861a0eedba3b30fa181ca20627e02402ef648989b1a6e27c6b77d93e8d91fb7"
 
 [update]
 [update.modrinth]
 mod-id = "xIpcAYJL"
-version = "iZeFi2vX"
+version = "XjB8wIwx"
