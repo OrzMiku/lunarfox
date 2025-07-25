@@ -1,0 +1,13 @@
+name = "libIPN"
+filename = "libIPN-fabric-1.21.6-6.5.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/onSQdWhM/versions/ZEMiaisv/libIPN-fabric-1.21.6-6.5.1.jar"
+hash-format = "sha512"
+hash = "a907c06b3614f0a04ddb0662c1e49299085c22f3c512170aa861a22c32d9abf607d73d41f439e7b9582c3263b4a93e059a9b2c81315648d20254082f4b03777f"
+
+[update]
+[update.modrinth]
+mod-id = "onSQdWhM"
+version = "ZEMiaisv"

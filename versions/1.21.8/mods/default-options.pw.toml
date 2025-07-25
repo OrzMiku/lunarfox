@@ -1,0 +1,13 @@
+name = "Default Options"
+filename = "defaultoptions-fabric-1.21.8-21.8.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/WEg59z5b/versions/HEMrwiBR/defaultoptions-fabric-1.21.8-21.8.3.jar"
+hash-format = "sha512"
+hash = "9173a8fcdfb5dbfba0ba7fb36f04bfb6553295b42a147882c3677e59bdf23107e84c9f851a5d00380012546a68b372cde39e5cf2786952ba3df558233e6c8e21"
+
+[update]
+[update.modrinth]
+mod-id = "WEg59z5b"
+version = "HEMrwiBR"
