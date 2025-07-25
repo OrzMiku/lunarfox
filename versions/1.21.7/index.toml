@@ -76,7 +76,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "47d1dc015b07695d8d3107cb12aa75e154ed0a9c0216a69fed7d221857f6ad7d"
+hash = "832691489ab19e2f0a4b81b77c143a8dceb5f3f395cdee96bcddd893fb01b363"
 metafile = true
 
 [[files]]
@@ -106,7 +106,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-selection.pw.toml"
-hash = "1834c4dda40a11f275bb16180e29f505fb27bf0a1adbe69885d88a9990196bd5"
+hash = "5f13e2470d769f613652ff4378a31c86b5915fe67032c94c1be5aeed06610b4d"
 metafile = true
 
 [[files]]
@@ -151,7 +151,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatpatches.pw.toml"
-hash = "407997b50bf52aebec1f8d1017cb92e99bda2d01fac4fb5511ca5f69cb22ff8d"
+hash = "03ca5e8340966f21df75dc47b807f974ca57f9d57dbb56c8f8f118df843b6cae"
 metafile = true
 
 [[files]]
@@ -171,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "df3cbb0cbd2d921720fcc0033b66b7639f9bbd039b5d7fbdfe98f502869486bc"
+hash = "ba3fce3844b6383543275c04ba0811d09cade4eb8471de9764ead2989e1dfbf1"
 metafile = true
 
 [[files]]
@@ -386,7 +386,7 @@ metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "2042bf4b5b3bdd0faafa8310673ab3a6115240f4f36e5e2ff38c7d933e483637"
+hash = "4bf091a6947c83041ae6e9577c9877fbb77908ccf1652d212800132a9eba02ef"
 metafile = true
 
 [[files]]
@@ -422,6 +422,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "88f9a71bf06f4959b220abab8542e4763747903e9e5ef150c38ae79c83870077"
+metafile = true
+
+[[files]]
+file = "mods/rei.pw.toml"
+hash = "1614366f37814b1f1e9248e055b576cbd88d6463164d2bd8b5654b12f58e7cea"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "Default Options"
-filename = "defaultoptions-fabric-1.21.4-21.4.4.jar"
+filename = "defaultoptions-fabric-1.21.4-21.4.5.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/WEg59z5b/versions/OGdQkWTP/defaultoptions-fabric-1.21.4-21.4.4.jar"
+url = "https://cdn.modrinth.com/data/WEg59z5b/versions/oIHjFeUL/defaultoptions-fabric-1.21.4-21.4.5.jar"
 hash-format = "sha512"
-hash = "23f5b316b7add1677e15bb3956e589247520222246d92f6d12858b9ebeb8f7db84c200b406fec4fa5fa74ef06ee5b58955faeafdc16776ae5c8b0964b58812bd"
+hash = "02fe4db2ef39d347f0a6efbcc19305e4dc627dbec3b93d76a0d20bd340ea3b3ecab3acfef39e5a4f752e000ae9c20e0ae45688e56783b65a90c999a12aaff94d"
 
 [update]
 [update.modrinth]
 mod-id = "WEg59z5b"
-version = "OGdQkWTP"
+version = "oIHjFeUL"

@@ -185,7 +185,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatpatches.pw.toml"
-hash = "6e2eceacd703ba991364b3300268b4a7f77a7bb6f0b5dfc81904bc24bec3230c"
+hash = "4d91c7d41b52bce8c62dacf4634cc353f67c397b5e26e7dd952923361fd901a1"
 metafile = true
 
 [[files]]
@@ -220,7 +220,7 @@ metafile = true
 
 [[files]]
 file = "mods/default-options.pw.toml"
-hash = "0db6c29bf4627021cbc13945b69b3562a6153ea1be1968ab9a7dd3c6ca08c6b6"
+hash = "6d177676bfb422b8d9e2c7702ec7db9da034dfb93fc4b5817bfdbeb934218850"
 metafile = true
 
 [[files]]
@@ -400,7 +400,7 @@ metafile = true
 
 [[files]]
 file = "mods/magiclib.pw.toml"
-hash = "4a52b6190434f40facd088437865a68a34957991e85ba58149150dde757e33b5"
+hash = "20c1e67836f22d8b23e171ca6a260222a34408b6464042f36114a4261750b235"
 metafile = true
 
 [[files]]
@@ -515,7 +515,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "8e91f784e6799face9c6b538f26d5d13a2974db7e3f23f53d3fcc60698f5157a"
+hash = "e05c3f1af4798dfda3c67686753848fe34c933b89831351124be3ec095fe4ac8"
 metafile = true
 
 [[files]]
