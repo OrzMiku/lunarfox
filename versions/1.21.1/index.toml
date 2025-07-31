@@ -128,7 +128,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "ce5ecc38c8f634e1d5d4daa6b0c8e338a8349bec6d68d8e11b786f5cb5c557f0"
+hash = "699010afc3867305441c3d5b3bcdf491a7aa3614ad199b0589f368689a68859e"
 metafile = true
 
 [[files]]
@@ -288,7 +288,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingleaves.pw.toml"
-hash = "8945ea290647fec8b91c24bd81821ee1d73d84a968d23260dbee24ceb951db4d"
+hash = "ad4e8689c50fedd770fb5cf28561edbd41f6b483bcfd6e3dd3d0c337789c0110"
 metafile = true
 
 [[files]]
@@ -313,7 +313,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "3b0341c1402b0319857591a4adc876fb98360b30995e01b280d6f4cd35d59325"
+hash = "5390b58bdcd06b724b38b9ddebc1ac6a1d4da60864cf6ea66ab3974842f1f4f2"
 metafile = true
 
 [[files]]
@@ -688,7 +688,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "1be39caa3b3065f54626ea421d4f7e2fc655225802728be567c38aa42dce623b"
+hash = "481189f624e29ad3d959cdc9f4bca58a7b7b758a18f0db4ebce956d6ff85a032"
 metafile = true
 
 [[files]]

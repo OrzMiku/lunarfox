@@ -240,7 +240,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingleaves.pw.toml"
-hash = "e27c3f85c52b55934f39a0cf7ff109bf4934570b48246e8a4ebe5462ff6c807c"
+hash = "646a03dd78fcad34dd93fbbdc09d64010dc0f04fcec42927f229ecf448cf1832"
 metafile = true
 
 [[files]]
@@ -265,7 +265,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "1c2afb59201aa276f4dd57c8af87125a1193c73758f6de4849205f866fe6fe35"
+hash = "35476f21ef1352e2f0d155e5810eb93d00c1c85bc455e5f1d92cb3d727a551f3"
 metafile = true
 
 [[files]]
@@ -305,7 +305,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "5fca26659b0eea90c3ee02e2d809365d1f1ea36c824938afb0b0e4541ccd3d33"
+hash = "b4bd86d54ddfc83ddf62c6c84a1299c0fb3d5d9709f42c2d340941d8fe50176c"
 metafile = true
 
 [[files]]
@@ -445,7 +445,7 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "1614366f37814b1f1e9248e055b576cbd88d6463164d2bd8b5654b12f58e7cea"
+hash = "c30abb741af8bcf3b29d000736aa2ae1730f0c551c17266e15b3c5c2183d0354"
 metafile = true
 
 [[files]]
@@ -575,7 +575,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "1be39caa3b3065f54626ea421d4f7e2fc655225802728be567c38aa42dce623b"
+hash = "481189f624e29ad3d959cdc9f4bca58a7b7b758a18f0db4ebce956d6ff85a032"
 metafile = true
 
 [[files]]

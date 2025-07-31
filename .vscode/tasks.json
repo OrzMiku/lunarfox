@@ -4,7 +4,7 @@
         {
             "label": "Update Packs",
             "type": "process",
-            "command": "python",
+            "command": "python3.13",
             "args": [
                 "${workspaceFolder}/scripts/update_packs.py",
             ],
@@ -16,7 +16,7 @@
         {
             "label": "Export Packs",
             "type": "process",
-            "command": "python",
+            "command": "python3.13",
             "args": [
                 "${workspaceFolder}/scripts/export_packs.py",
             ],

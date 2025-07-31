@@ -120,7 +120,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "c9e45112e4cc5ff83a11ca355a2548c569719d4db30275466eee7eaddd7a28db"
+hash = "2b86e8bc9c731f3127a3bf81d6116f245205a0a1eb53381de5819caeab928460"
 metafile = true
 
 [[files]]
@@ -300,7 +300,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "4bc5083c69a391f3ba87ba14c1c2366af34f1b5e52a173166f016c3a8c6aff6f"
+hash = "6ab357905a17c3cdf47f7e6b9c1d4a2e656e8821a3241a5e3f7dde2a6fb08161"
 metafile = true
 
 [[files]]
@@ -670,7 +670,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "1be39caa3b3065f54626ea421d4f7e2fc655225802728be567c38aa42dce623b"
+hash = "481189f624e29ad3d959cdc9f4bca58a7b7b758a18f0db4ebce956d6ff85a032"
 metafile = true
 
 [[files]]
