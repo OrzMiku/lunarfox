@@ -190,7 +190,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatpatches.pw.toml"
-hash = "d9cd7269705c074f89d7e0db959f4a9d437a2bbd10f04eb0933f863e2711ca96"
+hash = "e1e796464a526619861e47a98d9948fd8c7acbdfca549f59940044796b0dcacf"
 metafile = true
 
 [[files]]
@@ -665,12 +665,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/spbr.pw.toml"
-hash = "84a7b313ed2770ebfa598aa190f82d2c0c3275c028d8bb24bd76026a95e06c0b"
+hash = "86532836d3fe9ae3a964d78d53a25ca881d472c7f41ec9b98ea9a037f192dc95"
 metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "4168044fa7ac6b57f3c663c96cdbe5bc1058b20b569ca6faaa05fb2fe2f0188a"
+hash = "1be39caa3b3065f54626ea421d4f7e2fc655225802728be567c38aa42dce623b"
 metafile = true
 
 [[files]]

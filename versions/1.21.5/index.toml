@@ -190,7 +190,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatpatches.pw.toml"
-hash = "9fe52652e724da96ee6cd215166eb5b4b39c6a8d758c6e225c05e95365b620f0"
+hash = "6bf88c387529bea0535ee91a7515bda286c2a82f5e26f3a591037c41c74dac10"
 metafile = true
 
 [[files]]
@@ -360,7 +360,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "c0c0d6ca3bb068a7b94fc2a849fb334b11cc92dbd5964061d1307c11df073720"
+hash = "d6a586a66ed95708df5af35d68ef5e592b9cb4ed6751adfdc8d5f8680e629587"
 metafile = true
 
 [[files]]
@@ -648,12 +648,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/spbr.pw.toml"
-hash = "84a7b313ed2770ebfa598aa190f82d2c0c3275c028d8bb24bd76026a95e06c0b"
+hash = "86532836d3fe9ae3a964d78d53a25ca881d472c7f41ec9b98ea9a037f192dc95"
 metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "4168044fa7ac6b57f3c663c96cdbe5bc1058b20b569ca6faaa05fb2fe2f0188a"
+hash = "1be39caa3b3065f54626ea421d4f7e2fc655225802728be567c38aa42dce623b"
 metafile = true
 
 [[files]]

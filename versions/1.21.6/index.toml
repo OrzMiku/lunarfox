@@ -140,7 +140,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "2f98d008f5f3ed8b423c6d30db4a9cb25f0a11b6b1f73f921639e37c145f4eb7"
+hash = "6dee7917c9156b4281bec000688abfa299a11e118fba9817966832e02f148d68"
 metafile = true
 
 [[files]]
@@ -165,7 +165,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatpatches.pw.toml"
-hash = "f717b69e969c49a6c94971944b66a36b01fda15f70cf590744b1c91b31efc276"
+hash = "dd74ceea60d2c7a3b7d362cb2b8c86fac888ed5b7ffda11e7f36387a7be94079"
 metafile = true
 
 [[files]]
@@ -280,7 +280,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "aea959d6a56b5e97fcff3c53b674c6492e60e4934d7c087d4ed6e0578222a268"
+hash = "49bfa364f9e46b6a53f6dde155fdd3e498178de20220f17fb5f67faea45376b0"
 metafile = true
 
 [[files]]
@@ -290,7 +290,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "0fc0d37841ccb880e89c108287287452a240f3beafa6511e02aa996cbfc02791"
+hash = "b7be421610494c41ac98451dccc77a58c54446d2521bef8e358d936a64d6fd0f"
 metafile = true
 
 [[files]]
@@ -320,7 +320,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "65d542a720b52feeaab878439636d8ca361ccc512a054e96696e4972b6ecfd8f"
+hash = "f4360b358a2607a715e0a361872b4d08c85e872f2f86c6ddf4c531fa6ff7cd25"
 metafile = true
 
 [[files]]
@@ -570,12 +570,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/spbr.pw.toml"
-hash = "84a7b313ed2770ebfa598aa190f82d2c0c3275c028d8bb24bd76026a95e06c0b"
+hash = "86532836d3fe9ae3a964d78d53a25ca881d472c7f41ec9b98ea9a037f192dc95"
 metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "4168044fa7ac6b57f3c663c96cdbe5bc1058b20b569ca6faaa05fb2fe2f0188a"
+hash = "1be39caa3b3065f54626ea421d4f7e2fc655225802728be567c38aa42dce623b"
 metafile = true
 
 [[files]]

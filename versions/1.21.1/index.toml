@@ -198,7 +198,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatpatches.pw.toml"
-hash = "54934cbbf4610b440a95d50fedcd76c54dc1aed23944d5660ff647d5ea6221ce"
+hash = "96fcf5615c0d76b082260d47c1d0014404283b8945356040819d0bb816b079c8"
 metafile = true
 
 [[files]]
@@ -343,7 +343,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "06eb75e5c8fc9ebbbc41cf5c2b89296ba5cfbc29ef695cf35f8c93c928446b39"
+hash = "ad0a8f3c4a20dfb805712335839a0172f54f1956f072da853d019afca4fe77fa"
 metafile = true
 
 [[files]]
@@ -378,7 +378,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "ba5c3f46736bdb93afcfb86134f559e8e2f8161c58105eb15b799578b477d36c"
+hash = "47879af305a9ee6ee0c17cb616a12d6c18ed977b7b36753a39790c24a18f9127"
 metafile = true
 
 [[files]]
@@ -523,7 +523,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "fb6eb2551d5428e420f28134c6d1d81a493efc5008aa3296d92cc30eb70a4bc5"
+hash = "8d52cf48c2e866b35c71a8d8a18f81ebfa7a4aaf2b03967cedc578472d35cf1e"
 metafile = true
 
 [[files]]
@@ -688,7 +688,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "4168044fa7ac6b57f3c663c96cdbe5bc1058b20b569ca6faaa05fb2fe2f0188a"
+hash = "1be39caa3b3065f54626ea421d4f7e2fc655225802728be567c38aa42dce623b"
 metafile = true
 
 [[files]]
