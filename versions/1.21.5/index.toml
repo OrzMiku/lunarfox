@@ -657,8 +657,8 @@ hash = "481189f624e29ad3d959cdc9f4bca58a7b7b758a18f0db4ebce956d6ff85a032"
 metafile = true
 
 [[files]]
-file = "shaderpacks/Sundial-Lite-67d3adc.zip"
-hash = "e59f6be20f7743e625ea0f013a9c1e7a0a310e72864267d9f2bcd285fe7cfd02"
+file = "shaderpacks/Sundial-Lite-b619101.zip"
+hash = "b0dcd7507a8c3376cbcd68e0c9030eed4dbdd1a151d7a3dacac862474a393ca9"
 
 [[files]]
 file = "shaderpacks/bsl-shaders-classic.pw.toml"
