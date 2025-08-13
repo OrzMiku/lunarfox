@@ -90,7 +90,7 @@ hash = "7ed2443085370e3427bd3e803037356811af68ad3fc131947a89cc89f2103fc7"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "89c5cc16522edbc203d3d85f2e766b6c7991148c1f5a1740ed3530014fcb3628"
+hash = "c1e356c39dca0549fd7a88da7f183b7f65cb63dcdd48d120b8dd5b75dbad6999"
 metafile = true
 
 [[files]]
@@ -185,7 +185,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatpatches.pw.toml"
-hash = "6c5234509e473658b901dde87e2585924480623191129853f08e1399ac3b96a1"
+hash = "3faddca3cbdcdb78bbba51d72991c41c2fe19844a9512c99ba9dd71ade75708a"
 metafile = true
 
 [[files]]
@@ -400,7 +400,7 @@ metafile = true
 
 [[files]]
 file = "mods/magiclib.pw.toml"
-hash = "20c1e67836f22d8b23e171ca6a260222a34408b6464042f36114a4261750b235"
+hash = "2a36c01329b89bcd5b3fa89adac662b1f7ffb0a76928a847f0d5471a72ca6b74"
 metafile = true
 
 [[files]]
@@ -505,7 +505,7 @@ metafile = true
 
 [[files]]
 file = "mods/peek.pw.toml"
-hash = "ad57f7ccc215c0bcd5d86218094c09a8a7d6f5a693e39e54e8ad99a68008a87e"
+hash = "273ed056b6647779a22c8d10aee5481fece85fbc35c9baacd2a1a4771eee30f4"
 metafile = true
 
 [[files]]
@@ -630,12 +630,12 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "9804caa5aa2925055ee58ee9444ff20559098dc78973e2781398daa4a1e4b2ae"
+hash = "8161f46a611ad728c6a5e413e549845de39988022d5d412478805741a6c96aea"
 metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "b103e4d6d05828bdb923d4824daf33a975c5e9e9fcc08adf05dcdf4538afb98a"
+hash = "c968ff98f1608768796f3674d5277ac150361d3a46feefead8e35f901fe3dc19"
 metafile = true
 
 [[files]]
@@ -680,7 +680,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "481189f624e29ad3d959cdc9f4bca58a7b7b758a18f0db4ebce956d6ff85a032"
+hash = "a6fb7aeeb780fd5cc931a503737a4e03eaa735e19dba5e0e2c7138020304eee2"
 metafile = true
 
 [[files]]

@@ -62,7 +62,7 @@ hash = "7ed2443085370e3427bd3e803037356811af68ad3fc131947a89cc89f2103fc7"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "ec412967102ea4586ac8d93de1215be19588e900fcf3b74721a0e1eaee899f86"
+hash = "7cfd3485931eb237e346fbda606b4b28663e9d3b3efa56d37c69355681f0a1d8"
 metafile = true
 
 [[files]]
@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-advancements.pw.toml"
-hash = "5d184fbae078ac298ccc9ba1422e04b8887fc82b82053bcc62c36d435a5a7596"
+hash = "07bbb8cae107630f851ad38480d8c03815377c40fd9018d4ec50d772f1a6b900"
 metafile = true
 
 [[files]]
@@ -146,8 +146,13 @@ hash = "21ecdd06d63e862c24703ef6fd496eef5c6dfa72ada035853304619ee9e63122"
 metafile = true
 
 [[files]]
+file = "mods/chatanimation.pw.toml"
+hash = "783d509d7069d90ca34641f64936fc0eba7b974f0209e40a7ce915e4436e3309"
+metafile = true
+
+[[files]]
 file = "mods/chatpatches.pw.toml"
-hash = "f3b1b2fd4d42ac5a31893fa69674eb35ca356d801c79e4b68aa2c26417d105f9"
+hash = "19acc4a682743cb347b3fb173adb2f7663f561e7f26483d231acb62b4df1041f"
 metafile = true
 
 [[files]]
@@ -162,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "2d32fa62bd0a738d90cd57a6728529891844710f3060d31de660c5395f4f85c0"
+hash = "1718aa5bd89ed69f2e8b570b3ee6392c0c3a0f7f8ed1fa6277356dc8c83eb6bc"
 metafile = true
 
 [[files]]
@@ -261,6 +266,11 @@ hash = "c740306a2d1a8559d45a6c763a65869b95933b93326e5f308d7a0c1b8f22395d"
 metafile = true
 
 [[files]]
+file = "mods/highlight.pw.toml"
+hash = "bb2884290377b0d69165c66a3dd59936c2803016378dc77eee8ad26f92459fa4"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "ce1a109ba7d2637596ab6b7c001716437e1bef89f337dc3fb31ca950a46e79c3"
 metafile = true
@@ -282,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "b4bd86d54ddfc83ddf62c6c84a1299c0fb3d5d9709f42c2d340941d8fe50176c"
+hash = "6c25890be6c8210af61c260972b632ed38d17e6d4cfaf50bfdf1009c6013388f"
 metafile = true
 
 [[files]]
@@ -392,7 +402,7 @@ metafile = true
 
 [[files]]
 file = "mods/peek.pw.toml"
-hash = "1ae35344df1684ee75e10eceea7af4552a1737ac84e2ea9d609faf7b920320f0"
+hash = "1209c48bc90ff1fffdd57092c1bdbc17a8d3d4f660793c70ac3b5893823e5bdf"
 metafile = true
 
 [[files]]
@@ -406,8 +416,13 @@ hash = "48b2b721576bd33428a9d5ab090788d946494abf49fff230a66461bc8b6c0093"
 metafile = true
 
 [[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "5dff8bca658ae787c75fd2a37a40c8512a5fbc8a2421d106f94e08c8640b9075"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "881c1624baee5b446d85b2952e3f95bcae4d84b127e3a0d8ee93c4201ffb77f5"
+hash = "d47c73ae52d88b862864a9d8387c93cbeffe2513abff18c3c3c3c450eb4cbdd2"
 metafile = true
 
 [[files]]
@@ -481,13 +496,18 @@ hash = "e3175675789a972b659addb2af546f9c6f42bf66c063381d34b3bf3c3d729c4b"
 metafile = true
 
 [[files]]
+file = "mods/title-fixer.pw.toml"
+hash = "71ba00b8f0ac7195b967183896fb38f3fe3d0bf4bf59feacdbeaa3748629a7f6"
+metafile = true
+
+[[files]]
 file = "mods/tweakeroo.pw.toml"
 hash = "ded35e7226b1ea89121fe5f9b397fcf6bfe8f239f63ec7fcd092fd527b68fecd"
 metafile = true
 
 [[files]]
 file = "mods/viafabricplus.pw.toml"
-hash = "65b187f6fce313c83a35ee2a29919a3a3a57d71c8d26d7306e1891899cf92b8f"
+hash = "0b81295141b0220b224e9f6af9cbfd25764bf2e3dfb122eacd49f9f9c29c92a9"
 metafile = true
 
 [[files]]
@@ -497,12 +517,12 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "89df73bdcd8faf70f963302ce3d41da19b088df284f14c526897ff831152117b"
+hash = "e55c90ed7bbc257b1eeb89e790c8eb12ce56fa752347649f8a2387fd39bfc8b8"
 metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "e1787d6cfcf00373192982d36e6c462dc971e9b407f3604b8dc8d3ac15913236"
+hash = "87b6d0efd1d9a3a773ed384bf901d80f6b9653c6817ab1f2cf3568df5ced44f9"
 metafile = true
 
 [[files]]
@@ -546,7 +566,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "481189f624e29ad3d959cdc9f4bca58a7b7b758a18f0db4ebce956d6ff85a032"
+hash = "a6fb7aeeb780fd5cc931a503737a4e03eaa735e19dba5e0e2c7138020304eee2"
 metafile = true
 
 [[files]]

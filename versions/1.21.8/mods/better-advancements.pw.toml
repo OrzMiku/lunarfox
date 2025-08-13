@@ -1,13 +1,13 @@
 name = "Better Advancements"
-filename = "BetterAdvancements-Fabric-1.21.7-0.4.6.44.jar"
+filename = "BetterAdvancements-Fabric-1.21.8-0.4.6.45.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Q2OqKxDG/versions/sdfMc1Xe/BetterAdvancements-Fabric-1.21.7-0.4.6.44.jar"
+url = "https://cdn.modrinth.com/data/Q2OqKxDG/versions/RPxDKD27/BetterAdvancements-Fabric-1.21.8-0.4.6.45.jar"
 hash-format = "sha512"
-hash = "1d023552ae355ad90912cbb31ac05e06feece35607788c7b2c184eaad2d8acc4651eda8640f745f40bc2a937c9aa3b2bad344ee9d9d442d87f2fdae798323caf"
+hash = "7be2bac25ac0205932a5bbd4ed6954d54c61dc4daa4804965cc9b875b5cfec9d0c1adb89603ebd75c1b4540633c70fb2d9554181efe41a98821c57eddbb66029"
 
 [update]
 [update.modrinth]
 mod-id = "Q2OqKxDG"
-version = "sdfMc1Xe"
+version = "RPxDKD27"

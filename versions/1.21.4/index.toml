@@ -90,7 +90,7 @@ hash = "7ed2443085370e3427bd3e803037356811af68ad3fc131947a89cc89f2103fc7"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "a3fc9c462729f6c362f8f29787e5ce77b7b4a0a0bd866280bdb5d9e610c4136b"
+hash = "9bd6ba58d937a371fc6bb73947e19c75020af78fc16a4a56683e5f289075bb29"
 metafile = true
 
 [[files]]
@@ -190,7 +190,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatpatches.pw.toml"
-hash = "e1e796464a526619861e47a98d9948fd8c7acbdfca549f59940044796b0dcacf"
+hash = "5584fdefb5fcff117b69023258ddfd3135d8ea900e609d48433af8e8a1ca9c69"
 metafile = true
 
 [[files]]
@@ -205,7 +205,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "0062a985873ba3736548501c24f516c6e108cfc666145bc8f84981e5f0e0f863"
+hash = "97176073d80a048ab39cac5e2d28b9d0838d526329672880caf8a3f00238eed2"
 metafile = true
 
 [[files]]
@@ -265,7 +265,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "18e346acc11ee4082d56b804810909a69010a26eb27ac1ac3840489a6ed754fb"
+hash = "b2f2ef63febe17f277635827ca474e1aeae321e8a82bef78942116f95d00250a"
 metafile = true
 
 [[files]]
@@ -385,7 +385,7 @@ metafile = true
 
 [[files]]
 file = "mods/magiclib.pw.toml"
-hash = "148d76d70b3530351a6a2d3d4e795bef74f8bed3573224e12e95974ce84e0699"
+hash = "35be65234672c568a32185e87154dce6a4a7130eeb558abd33e7e5994f3a1e09"
 metafile = true
 
 [[files]]
@@ -490,7 +490,7 @@ metafile = true
 
 [[files]]
 file = "mods/peek.pw.toml"
-hash = "ce252be22dd4eadd8d3177ac65c4c9ddebfbe1e952dd1c61a8e62a3ec6cb953a"
+hash = "47f9f4d800ca882747fd34b930d797a15806f98949066d3c336c1011a017887c"
 metafile = true
 
 [[files]]
@@ -620,12 +620,12 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "444a8c60786402e8b53ab479b797f82c1bb7efc3196b025740c2ba311d40e60d"
+hash = "e174157246a90327bc53d3ae74b3e55d17651cc1ec5822dbab56b69d47ad5d49"
 metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "ddf36abed9494c1ef17c0fc4c2649bcee09a2b50f6a79fdc10acce88c3b3dade"
+hash = "f1f0c490ad0da25dcb7828b07f40b1b6ca52118d040e5c85c8f5299c2f16d309"
 metafile = true
 
 [[files]]
@@ -670,7 +670,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "481189f624e29ad3d959cdc9f4bca58a7b7b758a18f0db4ebce956d6ff85a032"
+hash = "a6fb7aeeb780fd5cc931a503737a4e03eaa735e19dba5e0e2c7138020304eee2"
 metafile = true
 
 [[files]]

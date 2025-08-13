@@ -1,0 +1,13 @@
+name = "Chat Animation [Smooth Chat]"
+filename = "chatanimation-1.0.7.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DnNYdJsx/versions/UFrXjD4k/chatanimation-1.0.7.jar"
+hash-format = "sha512"
+hash = "4e13c1842f0bc825743f97e0aed5c73b557fc84efac87441eeed6e76cfe459015b53d866e09f4c5225f2f5ba86dab1e78c4facaf1dc698c0cfdc26e6af1d22d4"
+
+[update]
+[update.modrinth]
+mod-id = "DnNYdJsx"
+version = "UFrXjD4k"
