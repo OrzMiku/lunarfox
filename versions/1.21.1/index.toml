@@ -283,7 +283,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "f217a0233c8aef84e914e1f8e90718be2496a923725215190d375ab3140379ab"
+hash = "36587a2be418f365faa1a6deac5eadcc00b6a79ebacab25ad87839f9ddc021e7"
 metafile = true
 
 [[files]]
@@ -403,7 +403,7 @@ metafile = true
 
 [[files]]
 file = "mods/magiclib.pw.toml"
-hash = "7be5325ac6e8fefcfc26fe64f66e8d7f454835b6995cdefe3832bc7961927f91"
+hash = "a2ae1b5fafba26a0acf07324b31a4efc6f666ae36138e47c18d1f83c1c23774b"
 metafile = true
 
 [[files]]
@@ -523,7 +523,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "8d52cf48c2e866b35c71a8d8a18f81ebfa7a4aaf2b03967cedc578472d35cf1e"
+hash = "ea21aaef5ea9ec11e301b0e7d82540f303a3aa2b62f1dba187119b816576e855"
 metafile = true
 
 [[files]]
@@ -690,6 +690,10 @@ metafile = true
 file = "resourcepacks/translations-for-sodium.pw.toml"
 hash = "a6fb7aeeb780fd5cc931a503737a4e03eaa735e19dba5e0e2c7138020304eee2"
 metafile = true
+
+[[files]]
+file = "shaderpacks/Sundial-Lite-MMCO-b4f3a83.zip"
+hash = "d96b8d00dc9d94a7f389875a6cfce97b7a32a3175c441c4cd2b1a752b4682662"
 
 [[files]]
 file = "shaderpacks/Sundial-Lite-b619101.zip"
