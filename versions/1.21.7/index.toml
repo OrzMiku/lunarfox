@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/yosbr/config/DistantHorizons.toml"
+hash = "82ffa3ddfceeedc6ea19707be22b7b08bd23920d99f30e11bebde6082e8ee437"
+
+[[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
 hash = "58c9e639e6458fdcdd201f080187df717242571a32d6406479b7624468ca66e9"
 
@@ -170,11 +174,6 @@ hash = "a86751e4931b83d8f3de8e84e38f2dc0aa316e40c99b9e9f03a9276659a474b6"
 metafile = true
 
 [[files]]
-file = "mods/controlify.pw.toml"
-hash = "e68712401bd9166d250987f69781ee00d510499d0576a4f1b1a5f55a78604a73"
-metafile = true
-
-[[files]]
 file = "mods/controlling.pw.toml"
 hash = "ba3fce3844b6383543275c04ba0811d09cade4eb8471de9764ead2989e1dfbf1"
 metafile = true
@@ -201,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "b001c3a1852a1293e83d32fb0850c4da6aaf2ef100b5140cb1ce7d2885b178fd"
+hash = "7a409a13d5f8bb087ff615dc5947b3f26c6bacec22618d8d733d8d4789fb3543"
 metafile = true
 
 [[files]]
@@ -211,7 +210,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "f4d7523b2a6d6c167ecf2e19964898f1fcdf060a15553b05fa1d5dd41a56c373"
+hash = "86c48ed50e75b3c37b6a8669100f9dd74c9cd0bc056ab7dbae47a00df8e94de9"
 metafile = true
 
 [[files]]
@@ -291,12 +290,12 @@ metafile = true
 
 [[files]]
 file = "mods/itemswapper.pw.toml"
-hash = "1818a8ffad37a08edad9eb0e3afdcb285998f86373bb13f9c2b68e4e8a66f491"
+hash = "3c87eda24f779da5cfa0695aa67eede47f130caaeb3f3cba6e02d441c7a18502"
 metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "6c25890be6c8210af61c260972b632ed38d17e6d4cfaf50bfdf1009c6013388f"
+hash = "e5506cea71f62e147a45e6c72a55a430fce5937024f648c819c15dc14b500462"
 metafile = true
 
 [[files]]
@@ -311,7 +310,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "f4360b358a2607a715e0a361872b4d08c85e872f2f86c6ddf4c531fa6ff7cd25"
+hash = "a9630d395372cf3774c5751058bd944d4848adde75acc1c12187962cc0fe60ef"
 metafile = true
 
 [[files]]
@@ -386,7 +385,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "ca512a7a5b1033f5f8823e015a95a6090907dd01738f9ca8fc4ef188d56c88d3"
+hash = "b521c8ea3afe47d24a2acb56dbb63452f7940d120d829649bab0efada2e25983"
 metafile = true
 
 [[files]]
@@ -396,7 +395,7 @@ metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "4bf091a6947c83041ae6e9577c9877fbb77908ccf1652d212800132a9eba02ef"
+hash = "8cbcc3af33fc2526dd0951ac88ce03a5589cf7f46e41b62b9f2b38780fe8a8a7"
 metafile = true
 
 [[files]]
@@ -461,7 +460,7 @@ metafile = true
 
 [[files]]
 file = "mods/searchables.pw.toml"
-hash = "7a36cf9888455a9d373c621dd4dc40258501e65ef30be309283e9fab7d96341b"
+hash = "214c50c94d7484fe1c4522f3b14f3e5528b68760f3e48293a87f3ccf6ca733f7"
 metafile = true
 
 [[files]]
@@ -566,17 +565,17 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fpbr.pw.toml"
-hash = "aa456249f2c8e0b34f0d5575952dc4c6b9c4aadde10d34cd190caf9529585e64"
+hash = "40561564775f87e86e3e92abbdeacbdb93d3531421939cea2fc70e4205f32d28"
 metafile = true
 
 [[files]]
 file = "resourcepacks/spbr.pw.toml"
-hash = "86532836d3fe9ae3a964d78d53a25ca881d472c7f41ec9b98ea9a037f192dc95"
+hash = "a38c017bf933be00d7306f1f2ffc0e635d3aef8acbb550f95659505a22a2b15a"
 metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "a6fb7aeeb780fd5cc931a503737a4e03eaa735e19dba5e0e2c7138020304eee2"
+hash = "e7914c5d06643d41ee5359473f79fccf50865f85e544fd10b43573e71cdfa68c"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "TCDCommons API"
-filename = "tcdcommons-3.12.8+fabric-1.21.8.jar"
+filename = "tcdcommons-4.0.1+fabric-1.21.8.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Eldc1g37/versions/95522OOI/tcdcommons-3.12.8%2Bfabric-1.21.8.jar"
+url = "https://cdn.modrinth.com/data/Eldc1g37/versions/mPtjd8Nu/tcdcommons-4.0.1%2Bfabric-1.21.8.jar"
 hash-format = "sha512"
-hash = "1474ef76727331e71d32af4a34bc319b92df146787760955064a8ec092f6e3ff98febd253ec7e045154ed593cb4502f3ea7d0031760353606c60c3ef4a64278a"
+hash = "c3ae15e691bdef48a2cac4f876399815661280dc4efe0fc1290e98397801c44a51357b574250fcfc69e15557f9690834e9197d3ec6b7ddbf499e433b6af654e5"
 
 [update]
 [update.modrinth]
 mod-id = "Eldc1g37"
-version = "95522OOI"
+version = "mPtjd8Nu"

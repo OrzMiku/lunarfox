@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/yosbr/config/DistantHorizons.toml"
+hash = "82ffa3ddfceeedc6ea19707be22b7b08bd23920d99f30e11bebde6082e8ee437"
+
+[[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
 hash = "58c9e639e6458fdcdd201f080187df717242571a32d6406479b7624468ca66e9"
 
@@ -204,11 +208,6 @@ hash = "278a349024e41e039f9f4a278532b56d1774cd2f7fde04f2cff298f3e085d995"
 metafile = true
 
 [[files]]
-file = "mods/controlify.pw.toml"
-hash = "6981d0d74457889f9f52dbef7ed44b5951fa0ffd286ad790ea3e6a2e3ad6de7a"
-metafile = true
-
-[[files]]
 file = "mods/controlling.pw.toml"
 hash = "b37d9f4fb121ed3f9e766cebf90007f9ed73cd082571772364deb6a05f8d2123"
 metafile = true
@@ -240,7 +239,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "ac15d0873dd1f711e886f07f463b2bd9912940a344ef4dd4219aa456ba4760e4"
+hash = "a94078a8e2634443b5b1ead28e2b2e47ab431bfe9ce3f6fc883d4a37a11cd5f6"
 metafile = true
 
 [[files]]
@@ -250,7 +249,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "f2d2dd0de19a6b32d96c89edf875f1c40c2b949be575a5b82ce2da58750c2190"
+hash = "59ffbf904fec9714c43b3acd3a06aeb53ce0e394f5b8e8f5694d2c1697e422e1"
 metafile = true
 
 [[files]]
@@ -335,7 +334,7 @@ metafile = true
 
 [[files]]
 file = "mods/itemswapper.pw.toml"
-hash = "f879e7abaf014db22a37d3e40748273c40b79d8cd6aba1d8339d9ef42eb5762b"
+hash = "5c5dd6ac5336469176cbd19139df58e42098bb6b76215ef89c90edb1585df933"
 metafile = true
 
 [[files]]
@@ -360,7 +359,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "d6a586a66ed95708df5af35d68ef5e592b9cb4ed6751adfdc8d5f8680e629587"
+hash = "52431d6ae60ee0837b52330b12385694fd9e08f1f537813a2a1670792290ca0e"
 metafile = true
 
 [[files]]
@@ -454,7 +453,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "3df2b58ab8b9b0fd8743d0be43763f0563260429448d8db0a735b57156737b1e"
+hash = "eb48d187a04408b0b6a7959e2e070e4c6730f049a57bf62137a6f657b55caf0e"
 metafile = true
 
 [[files]]
@@ -464,7 +463,7 @@ metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "4bf091a6947c83041ae6e9577c9877fbb77908ccf1652d212800132a9eba02ef"
+hash = "8cbcc3af33fc2526dd0951ac88ce03a5589cf7f46e41b62b9f2b38780fe8a8a7"
 metafile = true
 
 [[files]]
@@ -474,7 +473,7 @@ metafile = true
 
 [[files]]
 file = "mods/peek.pw.toml"
-hash = "820a0c8b6a941a12e195f5e0b7e180c5b631e9e2b6665d78ab6e7de586cdc258"
+hash = "f65c25c7cccbd9bb83629c6ca124fd6612839e4eb15814b6f5c1536a19564162"
 metafile = true
 
 [[files]]
@@ -489,7 +488,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "c6e9ce585c61c621ff2aa46d4cc8c9051db98b74a6cbe8a3e288ac8995217130"
+hash = "ae892c7bdb123eee7f7c851b62948df8d69ebeaa3c68505d143776009e558fa7"
 metafile = true
 
 [[files]]
@@ -533,7 +532,7 @@ hash = "d1243739be55b039bfb3b1e407fe30ec6628e1ca234d03b71f725b0f7f063829"
 
 [[files]]
 file = "mods/searchables.pw.toml"
-hash = "2b66d7a33b317c19b294fa1eee944f91b9e9eba82006dae9696145a3307c484b"
+hash = "fb3c7d111d903d281119cb66dcfd6e773f9b9a6a8e08d0796d7ee2b8162f6f71"
 metafile = true
 
 [[files]]
@@ -608,7 +607,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "119e919f8201777d2feabccd88e194715fee062fa51845f0c5558fedb1c8b143"
+hash = "ac9a313f59083a32d445eb12e608ee24b0ed1b60b58bc4e4870ec163a352f2a6"
 metafile = true
 
 [[files]]
@@ -643,17 +642,17 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fpbr.pw.toml"
-hash = "3a0a07005cd8871364517a63bbe90a50222e9faceef05884a61f42ce750115d4"
+hash = "40561564775f87e86e3e92abbdeacbdb93d3531421939cea2fc70e4205f32d28"
 metafile = true
 
 [[files]]
 file = "resourcepacks/spbr.pw.toml"
-hash = "86532836d3fe9ae3a964d78d53a25ca881d472c7f41ec9b98ea9a037f192dc95"
+hash = "a38c017bf933be00d7306f1f2ffc0e635d3aef8acbb550f95659505a22a2b15a"
 metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "a6fb7aeeb780fd5cc931a503737a4e03eaa735e19dba5e0e2c7138020304eee2"
+hash = "e7914c5d06643d41ee5359473f79fccf50865f85e544fd10b43573e71cdfa68c"
 metafile = true
 
 [[files]]
