@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/yosbr/config/DistantHorizons.toml"
+hash = "82ffa3ddfceeedc6ea19707be22b7b08bd23920d99f30e11bebde6082e8ee437"
+
+[[files]]
 file = "config/yosbr/config/ModernUI/bootstrap.properties"
 hash = "74a8773cc30d855f12a6bdada154a41e5c49eaa19f31234acd8a9327dabf044b"
 
@@ -214,11 +218,6 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "4f97764f3cb4c74f84afbe32cf8a1d2cefecda129c0f1441906562dcb8f2b8cb"
-metafile = true
-
-[[files]]
-file = "mods/controlify.pw.toml"
-hash = "5b489e6027410ceac39600155e6d28b2e2df9cb964648eaba62c5c2bebddf897"
 metafile = true
 
 [[files]]
@@ -508,7 +507,7 @@ metafile = true
 
 [[files]]
 file = "mods/peek.pw.toml"
-hash = "0a955e02464affa6aff630b645c5211422cf7fe47d1c48253664799c3e08ffb6"
+hash = "3e50a576f0d6aa963d32d7e2f3243d32d7fd3bacb766974e9a2a7fbdfea5335e"
 metafile = true
 
 [[files]]
@@ -678,7 +677,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fpbr.pw.toml"
-hash = "3a0a07005cd8871364517a63bbe90a50222e9faceef05884a61f42ce750115d4"
+hash = "40561564775f87e86e3e92abbdeacbdb93d3531421939cea2fc70e4205f32d28"
 metafile = true
 
 [[files]]

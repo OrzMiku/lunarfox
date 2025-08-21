@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/yosbr/config/DistantHorizons.toml"
+hash = "82ffa3ddfceeedc6ea19707be22b7b08bd23920d99f30e11bebde6082e8ee437"
+
+[[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
 hash = "58c9e639e6458fdcdd201f080187df717242571a32d6406479b7624468ca66e9"
 
@@ -201,11 +205,6 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "278a349024e41e039f9f4a278532b56d1774cd2f7fde04f2cff298f3e085d995"
-metafile = true
-
-[[files]]
-file = "mods/controlify.pw.toml"
-hash = "6981d0d74457889f9f52dbef7ed44b5951fa0ffd286ad790ea3e6a2e3ad6de7a"
 metafile = true
 
 [[files]]
@@ -474,7 +473,7 @@ metafile = true
 
 [[files]]
 file = "mods/peek.pw.toml"
-hash = "820a0c8b6a941a12e195f5e0b7e180c5b631e9e2b6665d78ab6e7de586cdc258"
+hash = "f65c25c7cccbd9bb83629c6ca124fd6612839e4eb15814b6f5c1536a19564162"
 metafile = true
 
 [[files]]
@@ -489,7 +488,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "c6e9ce585c61c621ff2aa46d4cc8c9051db98b74a6cbe8a3e288ac8995217130"
+hash = "ae892c7bdb123eee7f7c851b62948df8d69ebeaa3c68505d143776009e558fa7"
 metafile = true
 
 [[files]]
@@ -533,7 +532,7 @@ hash = "d1243739be55b039bfb3b1e407fe30ec6628e1ca234d03b71f725b0f7f063829"
 
 [[files]]
 file = "mods/searchables.pw.toml"
-hash = "2b66d7a33b317c19b294fa1eee944f91b9e9eba82006dae9696145a3307c484b"
+hash = "fb3c7d111d903d281119cb66dcfd6e773f9b9a6a8e08d0796d7ee2b8162f6f71"
 metafile = true
 
 [[files]]
@@ -643,12 +642,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fpbr.pw.toml"
-hash = "3a0a07005cd8871364517a63bbe90a50222e9faceef05884a61f42ce750115d4"
+hash = "40561564775f87e86e3e92abbdeacbdb93d3531421939cea2fc70e4205f32d28"
 metafile = true
 
 [[files]]
 file = "resourcepacks/spbr.pw.toml"
-hash = "86532836d3fe9ae3a964d78d53a25ca881d472c7f41ec9b98ea9a037f192dc95"
+hash = "b83322711d7d16d0678bc0c0232d3729e1302f47a799e081216389f749d3bc97"
 metafile = true
 
 [[files]]

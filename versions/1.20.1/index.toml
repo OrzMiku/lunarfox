@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/yosbr/config/DistantHorizons.toml"
+hash = "82ffa3ddfceeedc6ea19707be22b7b08bd23920d99f30e11bebde6082e8ee437"
+
+[[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
 hash = "58c9e639e6458fdcdd201f080187df717242571a32d6406479b7624468ca66e9"
 
@@ -201,11 +205,6 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "ca80c5f6b0faca95bbc06192a3da36446ff396b5e6e0304f6779269b60bbdd9d"
-metafile = true
-
-[[files]]
-file = "mods/controlify.pw.toml"
-hash = "e7cbff32cea845401608145a6719a7fa926a739c6d696c71f59e7c1ff490448f"
 metafile = true
 
 [[files]]
@@ -505,7 +504,7 @@ metafile = true
 
 [[files]]
 file = "mods/peek.pw.toml"
-hash = "273ed056b6647779a22c8d10aee5481fece85fbc35c9baacd2a1a4771eee30f4"
+hash = "f29a50bb4947cd616e1a73a8bbf58a9bc202bd25b341e671b68018877fb43cbc"
 metafile = true
 
 [[files]]
@@ -670,7 +669,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fpbr.pw.toml"
-hash = "aa456249f2c8e0b34f0d5575952dc4c6b9c4aadde10d34cd190caf9529585e64"
+hash = "40561564775f87e86e3e92abbdeacbdb93d3531421939cea2fc70e4205f32d28"
 metafile = true
 
 [[files]]
