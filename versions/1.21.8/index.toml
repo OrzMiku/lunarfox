@@ -18,7 +18,7 @@ hash = "0623905a25c9b6c8387f7a6a0256ea005f727c63c689d2cc7cc77f74e912f7e4"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "401781fbae4b779f46d23e96cd6c4cea33f6cc97cdf79f6735901bea4bc9588b"
+hash = "9cf3e352423570f114ee8a90a5f791ea809d680d54222e5540362fcee4b37a1c"
 
 [[files]]
 file = "config/ferritecore.mixin.properties"
