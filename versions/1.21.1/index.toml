@@ -266,11 +266,6 @@ hash = "1b8cfd23e5f1f406957d5f337f8c514d5095c16adbd3d0830d29bd001aac845d"
 metafile = true
 
 [[files]]
-file = "mods/esf.pw.toml"
-hash = "ae5091b2d11b373e47e549dec8ac1e6d01741bcd89b93e216790021f6ea04047"
-metafile = true
-
-[[files]]
 file = "mods/euphoria-patches.pw.toml"
 hash = "9f9861528accd9ee8830611cea5c64a266bf09e3146f8ff31bcafc3db26497b0"
 metafile = true
