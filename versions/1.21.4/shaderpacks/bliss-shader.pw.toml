@@ -1,0 +1,13 @@
+name = "Bliss Shaders"
+filename = "Bliss_v2.1.0_(Chocapic13_Shaders_edit).zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZvMtQlho/versions/FQU0kGPt/Bliss_v2.1.0_%28Chocapic13_Shaders_edit%29.zip"
+hash-format = "sha512"
+hash = "45e6c8325695ea0f5ded77c3042ecd193608f9e687558b19a79fb4b53be050384076796d1ebc1638be94ba08510a5be9b41c3a2706a84d6a60124ddbeda5979a"
+
+[update]
+[update.modrinth]
+mod-id = "ZvMtQlho"
+version = "FQU0kGPt"
