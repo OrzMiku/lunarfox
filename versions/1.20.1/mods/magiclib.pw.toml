@@ -1,13 +1,13 @@
 name = "MagicLib Dev"
-filename = "MagicLib-mc1.20.1-fabric-0.8.741-beta.jar"
+filename = "MagicLib-mc1.20.1-fabric-0.8.750-beta.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/JOGZQCse/versions/kUcDB3Hr/MagicLib-mc1.20.1-fabric-0.8.741-beta.jar"
+url = "https://cdn.modrinth.com/data/JOGZQCse/versions/C9dYTrQJ/MagicLib-mc1.20.1-fabric-0.8.750-beta.jar"
 hash-format = "sha512"
-hash = "794f177f5a432c9814ec72a56eee7279b9a959e7ae1e7f8373a9dd776b0c83c148192fb092940159a7ba1065a0e2a1986cf9a707c9804b6e4924e9ca17ead6dc"
+hash = "971aaac030dd2815cb1a8ed29e6b7106845c82fc4cd0ab09a0a69a94c957d58314b0d30f4d193579efd89413fea4db49660b92044c3859913d095a7a2cca56c4"
 
 [update]
 [update.modrinth]
 mod-id = "JOGZQCse"
-version = "kUcDB3Hr"
+version = "C9dYTrQJ"
