@@ -219,7 +219,7 @@ metafile = true
 
 [[files]]
 file = "mods/default-options.pw.toml"
-hash = "641201578a6f36243f4169ec9f6b63b439efba0180dea0afebc299d1d0372494"
+hash = "2605e74430e7e4f53703b96256985c5eef32e1ef8a3ecb5e9f786ec3b12b0428"
 metafile = true
 
 [[files]]
@@ -249,12 +249,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "59ffbf904fec9714c43b3acd3a06aeb53ce0e394f5b8e8f5694d2c1697e422e1"
-metafile = true
-
-[[files]]
-file = "mods/esf.pw.toml"
-hash = "b485baa8463264b932f798974a17f3edd963f5abe1c65da425529124a10a411a"
+hash = "b55511b63c3a96312211d26b75574d0d420035b0f30eedb40e3e12b1f42cb0a0"
 metafile = true
 
 [[files]]
@@ -384,7 +379,7 @@ metafile = true
 
 [[files]]
 file = "mods/magiclib.pw.toml"
-hash = "a05d5916d5b8945e2b940e3be15108de5d2d9bf178f3cad992e8eaf2560171a3"
+hash = "6e0adfea1c9e4abd778c79a97fc8f78b2bde9df33ab98b7280c9f67a8da0e567"
 metafile = true
 
 [[files]]
@@ -463,7 +458,7 @@ metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "8cbcc3af33fc2526dd0951ac88ce03a5589cf7f46e41b62b9f2b38780fe8a8a7"
+hash = "4735b502110228fe33b9a957794689f309e3a7019fff26390a10f750d074ed32"
 metafile = true
 
 [[files]]
@@ -473,7 +468,7 @@ metafile = true
 
 [[files]]
 file = "mods/peek.pw.toml"
-hash = "f65c25c7cccbd9bb83629c6ca124fd6612839e4eb15814b6f5c1536a19564162"
+hash = "814270e621392185caf20ef397dc8abe02f699575fb9f74440444d3bf1ba92b4"
 metafile = true
 
 [[files]]
@@ -488,7 +483,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "ae892c7bdb123eee7f7c851b62948df8d69ebeaa3c68505d143776009e558fa7"
+hash = "175e1ae75e5745024f2f7da5dd359f3cef63df4f438b27ad868094c5556c652c"
 metafile = true
 
 [[files]]
@@ -523,7 +518,7 @@ metafile = true
 
 [[files]]
 file = "mods/scalablelux.pw.toml"
-hash = "3975d8351b1a246c8c2e13251ea4f86fee525ae772a51927c37407a88b03defb"
+hash = "2cb94b8ba333302595808fee4d5b1a835fd1ceba87c87722eeaaf4ceb7e09121"
 metafile = true
 
 [[files]]
@@ -647,12 +642,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/spbr.pw.toml"
-hash = "a38c017bf933be00d7306f1f2ffc0e635d3aef8acbb550f95659505a22a2b15a"
+hash = "60d1f293ee3c5eb5368df26dcd8c889edf7adefcd7cf33498f1271c55403176a"
 metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "e7914c5d06643d41ee5359473f79fccf50865f85e544fd10b43573e71cdfa68c"
+hash = "8539501b121e5d3a562e1baad4c334b97882c8b5cfb3f038765c2a37f05e7427"
 metafile = true
 
 [[files]]
@@ -662,6 +657,11 @@ hash = "d96b8d00dc9d94a7f389875a6cfce97b7a32a3175c441c4cd2b1a752b4682662"
 [[files]]
 file = "shaderpacks/Sundial-Lite-b619101.zip"
 hash = "b0dcd7507a8c3376cbcd68e0c9030eed4dbdd1a151d7a3dacac862474a393ca9"
+
+[[files]]
+file = "shaderpacks/bliss-shader.pw.toml"
+hash = "f4fb7685cf5f1f07eb5b07b0dd7ea211e46e249cb3a78237358d27c3db1dea2b"
+metafile = true
 
 [[files]]
 file = "shaderpacks/bsl-shaders-classic.pw.toml"
@@ -687,67 +687,3 @@ metafile = true
 file = "shaderpacks/photon-shader.pw.toml"
 hash = "3add1378e964947556ec43ebc86a431981cfa67c9b95353105d7f48deb58ff3d"
 metafile = true
-
-[[files]]
-file = "shaderpresets/FPBR/BSLClassic_v10.0.zip.txt"
-hash = "4b5fabc89ec1789f3a0f46dfc2792690e1ec3ff7ac531f0a9439b4773376b169"
-
-[[files]]
-file = "shaderpresets/FPBR/BSL_v10.0.zip.txt"
-hash = "8f70498f371cf210e95903f164e6d570a546db04ff14b6733bd0bed24ec72089"
-
-[[files]]
-file = "shaderpresets/FPBR/ComplementaryReimagined_r5.5.1 + EuphoriaPatches_1.6.5.txt"
-hash = "5cc0b78ee40f0e5546e1f43016e32c464dcbecade898b669b0b6f4c3d3f5c09d"
-
-[[files]]
-file = "shaderpresets/FPBR/ComplementaryReimagined_r5.5.1.zip.txt"
-hash = "cec8d02b7827e4100a481fb08b1cf0dbe6d9899e7cb739cca618bec9355b46c4"
-
-[[files]]
-file = "shaderpresets/FPBR/ComplementaryUnbound_r5.5.1 + EuphoriaPatches_1.6.5.txt"
-hash = "876654ff4b9c50867c85b77bad39fe285b72399013faf2b1043c2c99c053d373"
-
-[[files]]
-file = "shaderpresets/FPBR/ComplementaryUnbound_r5.5.1.zip.txt"
-hash = "9093e030cdf902054bd5cbf78f2bd5046a0359f295821c3d5970a3108984fb23"
-
-[[files]]
-file = "shaderpresets/FPBR/Sundial-Lite-67d3adc.zip.txt"
-hash = "be61e25b39f1c7a219fbe6c1519ad01729c0a06395aa1a686ede812443cd7db1"
-
-[[files]]
-file = "shaderpresets/FPBR/photon_v1.2a.zip.txt"
-hash = "a243170179b390761a65da709ac749b1e0824a926e6bb7d35b9aab03e0604cfc"
-
-[[files]]
-file = "shaderpresets/SPBR/BSLClassic_v10.0.zip.txt"
-hash = "a2d875f94c9b15e74cd7e9a5549bb0efe4b9201a58c95462b79aaa3171919d2c"
-
-[[files]]
-file = "shaderpresets/SPBR/BSL_v10.0.zip.txt"
-hash = "9c0070144054bca5b4975978b6b16af3777e681409f2382122bac498d6574dd3"
-
-[[files]]
-file = "shaderpresets/SPBR/ComplementaryReimagined_r5.5.1 + EuphoriaPatches_1.6.5.txt"
-hash = "4ba1ca1b84b484f9f55749821bd031168d2e6bc84af2094a5951ffa0cd410ab1"
-
-[[files]]
-file = "shaderpresets/SPBR/ComplementaryReimagined_r5.5.1.zip.txt"
-hash = "4ba1ca1b84b484f9f55749821bd031168d2e6bc84af2094a5951ffa0cd410ab1"
-
-[[files]]
-file = "shaderpresets/SPBR/ComplementaryUnbound_r5.5.1 + EuphoriaPatches_1.6.5.txt"
-hash = "492fb2cf43fbca3f62824ba70160d51615d023f17011a85bb356a89b70cb6188"
-
-[[files]]
-file = "shaderpresets/SPBR/ComplementaryUnbound_r5.5.1.zip.txt"
-hash = "99e70cdd616a0b1dc8de418d855642dbfe8e480b31c1fe72f072efa972f15225"
-
-[[files]]
-file = "shaderpresets/SPBR/Sundial-Lite-67d3adc.zip.txt"
-hash = "48ad3fa713a035b31b716aa9a0c1d6785d1b6901824c06ad4332895a008f2aa6"
-
-[[files]]
-file = "shaderpresets/SPBR/photon_v1.2a.zip.txt"
-hash = "817857ea0b2a674c5454f752c8d209a8b8d01b56108878ee4b8a68d0704bf288"

@@ -1,13 +1,13 @@
 name = "Default Options"
-filename = "defaultoptions-fabric-1.21.1-21.1.4.jar"
+filename = "defaultoptions-fabric-1.21.1-21.1.5.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/WEg59z5b/versions/WarM6iFt/defaultoptions-fabric-1.21.1-21.1.4.jar"
+url = "https://cdn.modrinth.com/data/WEg59z5b/versions/LxHdpgVy/defaultoptions-fabric-1.21.1-21.1.5.jar"
 hash-format = "sha512"
-hash = "3211598d89d4a33be28b0ddcfad5c4d59aebd615b6e7ce483edeed6e9af1230fd4409a556db2b77c3b3670cc333d13a58982021c37740ec60a9fe885ede08a86"
+hash = "78899ee914f009d0ad0bae8513b8506ea45ba06bed83651f1309acf32d8a2881fa3fd708133cf934499337b47f59cc7610a77cd496bb122a526cf23e3761957c"
 
 [update]
 [update.modrinth]
 mod-id = "WEg59z5b"
-version = "WarM6iFt"
+version = "LxHdpgVy"
