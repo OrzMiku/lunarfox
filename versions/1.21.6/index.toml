@@ -593,7 +593,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "16ba09420a1e7665d2e7a327870020c0184dfcfd0c7a4266235ba86b2ceb1392"
+hash = "8539501b121e5d3a562e1baad4c334b97882c8b5cfb3f038765c2a37f05e7427"
 metafile = true
 
 [[files]]
@@ -606,7 +606,7 @@ hash = "b0dcd7507a8c3376cbcd68e0c9030eed4dbdd1a151d7a3dacac862474a393ca9"
 
 [[files]]
 file = "shaderpacks/bliss-shader.pw.toml"
-hash = "d38ca5ae103aed48add7bd6366d3dfd2775e834562de243291a177eb9855592b"
+hash = "f4fb7685cf5f1f07eb5b07b0dd7ea211e46e249cb3a78237358d27c3db1dea2b"
 metafile = true
 
 [[files]]
