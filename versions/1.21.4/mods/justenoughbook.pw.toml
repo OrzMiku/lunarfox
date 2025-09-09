@@ -1,0 +1,13 @@
+name = "Just Enough Book"
+filename = "JEB-1.0.11-1.21.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vCHGW3kJ/versions/P9sIeNOy/JEB-1.0.11-1.21.4.jar"
+hash-format = "sha512"
+hash = "d62cfe4a8533d64aa1de272bc137a85516848cc810ea81506f572b38c6631e873415fa659633c05a832e063e7ef9549355a075255d3f748f0ce54c47b33843bf"
+
+[update]
+[update.modrinth]
+mod-id = "vCHGW3kJ"
+version = "P9sIeNOy"
