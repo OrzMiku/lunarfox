@@ -2,11 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/yosbr/config/DistantHorizons.toml"
-hash = "82ffa3ddfceeedc6ea19707be22b7b08bd23920d99f30e11bebde6082e8ee437"
-
-[[files]]
-file = "config/yosbr/config/ModernUI/bootstrap.properties"
-hash = "74a8773cc30d855f12a6bdada154a41e5c49eaa19f31234acd8a9327dabf044b"
+hash = "7dafa18e710692bce1763cb36b73088ad7688039078eeb3ee396b800bb3360ce"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -26,7 +22,7 @@ hash = "0623905a25c9b6c8387f7a6a0256ea005f727c63c689d2cc7cc77f74e912f7e4"
 
 [[files]]
 file = "config/yosbr/config/defaultoptions/keybindings.txt"
-hash = "956a7bc5f7ea68e38d9542f9fae85ea19362659d0c46553714f4769f8d4922b4"
+hash = "292987b792abcfcda7e7b30ca442143a100446b6c241558761a88ab5ef8b3973"
 
 [[files]]
 file = "config/yosbr/config/ferritecore.mixin.properties"
@@ -59,10 +55,6 @@ hash = "e5c9726f99bb306f542509a638a3c227d68468ed5681668a051ef135b0806a15"
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
 hash = "7d27acae23534f1cbfd7c5b3b8758e28f4f1dc402ee97f630a88aefd5b2eec2e"
-
-[[files]]
-file = "config/yosbr/config/particle_core_config.toml"
-hash = "e6a4e36d2099ea5efe19e0fd4fddc65fbafd88eafb81f0fb3d5e9f6193d37bbb"
 
 [[files]]
 file = "config/yosbr/config/puzzle.json"
@@ -121,6 +113,11 @@ hash = "1102440dd2533ba3a154419bb95ff1f81b858201eb0c44d2a2eea486c74e565a"
 metafile = true
 
 [[files]]
+file = "mods/asyncparticles.pw.toml"
+hash = "4440f02640636d6368551302ed6032bad87da3cc4962efb94c9711137b3ed469"
+metafile = true
+
+[[files]]
 file = "mods/axolotl-buckets.pw.toml"
 hash = "d0cd8ee363b3575642a53827025ceddc28c9a6cc344830d537fb39751cf2a299"
 metafile = true
@@ -132,7 +129,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "699010afc3867305441c3d5b3bcdf491a7aa3614ad199b0589f368689a68859e"
+hash = "47aaa2693fff2f75cc994e2398a751ae1da4d78f77c979c1f7f8c906a4f32dbf"
 metafile = true
 
 [[files]]
@@ -236,6 +233,11 @@ hash = "6d1b30b228fc3cc57be30958b2ec40a2e11053fd209a4aff7be71c12fdca3efb"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "34fc0845727b08bc39e5b56444e0695b55f6a5471380f2d1d40c5548105da28e"
+metafile = true
+
+[[files]]
 file = "mods/draggable-lists.pw.toml"
 hash = "50de1919e6cc3104a4a2557b0644c15f5a56722cf76a19b194ec6ecf61bcae13"
 metafile = true
@@ -267,7 +269,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "9f9861528accd9ee8830611cea5c64a266bf09e3146f8ff31bcafc3db26497b0"
+hash = "7ddeead480022b46b52444fc3ad33345c7692f880e55a8a697e4c8ca98d4bc70"
 metafile = true
 
 [[files]]
@@ -496,11 +498,6 @@ hash = "4735b502110228fe33b9a957794689f309e3a7019fff26390a10f750d074ed32"
 metafile = true
 
 [[files]]
-file = "mods/particle-core.pw.toml"
-hash = "c0969cf2bc2301c45c2bfcfc31a7132aad2bfbc893b340e804116dd6a3843f0b"
-metafile = true
-
-[[files]]
 file = "mods/peek.pw.toml"
 hash = "7270a248dad8983c2c5f873f49d1fb11f867bc66dab9d545ae13ac667c4d6c77"
 metafile = true
@@ -517,7 +514,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "6e3eb4eb520362feca1a9b7df3cfd616c84bce34d7330d34b81c81c73de8afb6"
+hash = "2124f853d113c93e1eee3776e91eeed5c50a08df03515b7c7c3c5b4bd4579cd1"
 metafile = true
 
 [[files]]
@@ -563,11 +560,6 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "8302da862578554b012b2cfe58a3c1e75b514d09f94d842e7303be41a2157aeb"
-metafile = true
-
-[[files]]
-file = "mods/smooth-scroll.pw.toml"
-hash = "69d9366753ade6e5dbcbbac31372fae83d6b37b81a63a797a217aa69e97f2992"
 metafile = true
 
 [[files]]
