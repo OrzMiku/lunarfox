@@ -170,7 +170,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet.pw.toml"
-hash = "2c912bceb71760927f62a82238e320e6eccaa57383d8f0db9e729b4b6dd5e063"
+hash = "05ec9eadef944b22914a5ee580c9f2b1894607fb0bdbb6d2ccd411cf52641e4d"
 metafile = true
 
 [[files]]
@@ -314,13 +314,13 @@ hash = "ce1a109ba7d2637596ab6b7c001716437e1bef89f337dc3fb31ca950a46e79c3"
 metafile = true
 
 [[files]]
-file = "mods/inventory-hud-forge.pw.toml"
-hash = "c9936d439cebef7fb2a1bd08ff1cf686fd2f5d9e905431df7812138c0b2415c0"
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "b7be421610494c41ac98451dccc77a58c54446d2521bef8e358d936a64d6fd0f"
 metafile = true
 
 [[files]]
-file = "mods/inventory-profiles-next.pw.toml"
-hash = "b7be421610494c41ac98451dccc77a58c54446d2521bef8e358d936a64d6fd0f"
+file = "mods/inventoryhudplus.pw.toml"
+hash = "d3927c9d9786a7cd2560fad7a8c8d13b6f43bf7c81b8735379b36290c13da90d"
 metafile = true
 
 [[files]]
@@ -434,7 +434,7 @@ metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "7e272a00e47ef9c9a38914717ad102854357230361ade264ba2221e393410479"
+hash = "e2042d1da44bf8d55ab4ef2d8284ca10ada3f572230488e8f09d26e16c9b1ff8"
 metafile = true
 
 [[files]]

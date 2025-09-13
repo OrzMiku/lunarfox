@@ -44,6 +44,11 @@ key_key.gammautils.minGamma:key.keyboard.unknown:
 key_key.gammautils.nightVisionToggle:key.keyboard.v:
 key_key.gammautils.increaseNightVision:key.keyboard.right:
 key_key.gammautils.decreaseNightVision:key.keyboard.left:
+key_key.inventoryhud.toggle:key.keyboard.unknown:
+key_key.inventoryhud.openconfig:key.keyboard.unknown:
+key_key.inventoryhud.togglepot:key.keyboard.unknown:
+key_key.inventoryhud.togglearm:key.keyboard.unknown:
+key_key.inventoryhud.toggleall:key.keyboard.unknown:
 key_key.itemswapper.itemswitcher:key.keyboard.r:
 key_key.itemswapper.openInventory:key.keyboard.unknown:
 key_key.jade.config:key.keyboard.keypad.0:

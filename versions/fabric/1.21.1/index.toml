@@ -26,7 +26,7 @@ hash = "0623905a25c9b6c8387f7a6a0256ea005f727c63c689d2cc7cc77f74e912f7e4"
 
 [[files]]
 file = "config/yosbr/config/defaultoptions/keybindings.txt"
-hash = "292987b792abcfcda7e7b30ca442143a100446b6c241558761a88ab5ef8b3973"
+hash = "9298dbdfb0c9c0e07a88957030bc9c59737423974c4572417cf116fd80355a9b"
 
 [[files]]
 file = "config/yosbr/config/ferritecore.mixin.properties"
@@ -352,6 +352,11 @@ metafile = true
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
 hash = "ad0a8f3c4a20dfb805712335839a0172f54f1956f072da853d019afca4fe77fa"
+metafile = true
+
+[[files]]
+file = "mods/inventoryhudplus.pw.toml"
+hash = "b6d22a63ff50fbc3352332be1dc17dcf93a62591d8364df7153240acdc24f975"
 metafile = true
 
 [[files]]
