@@ -77,10 +77,6 @@ file = "config/yosbr/config/sodium-options.json"
 hash = "099668f0a2e875a916b53865aba1a88bbfc67ba9227b7a6841d44657fa399777"
 
 [[files]]
-file = "config/yosbr/config/threadtweak.json"
-hash = "a9de93adf7b89a2288921fe4a195880bdf952bd385f48e1c026d87cfcd753ebb"
-
-[[files]]
 file = "config/yosbr/config/tweakeroo.json"
 hash = "61959e34930508cde414a11b937b544727ba3aa18712751b510ad5cec99eebeb"
 
@@ -612,11 +608,6 @@ metafile = true
 [[files]]
 file = "mods/tcdcommons.pw.toml"
 hash = "8ed9a53846c91f20200e7ca354d1a1c6dafb087ef5dd7e815a3d06e1c4062ca1"
-metafile = true
-
-[[files]]
-file = "mods/threadtweak.pw.toml"
-hash = "e77fe4473df0685a27bdc27f9a50c0dced4d298a2765301c2b1f0b11e078a887"
 metafile = true
 
 [[files]]
