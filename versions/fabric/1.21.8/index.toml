@@ -230,7 +230,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "7ddeead480022b46b52444fc3ad33345c7692f880e55a8a697e4c8ca98d4bc70"
+hash = "2edf9f6e65652a328d6760b89440649e20b55edfb2eae97d96ecdff47caedf97"
 metafile = true
 
 [[files]]
@@ -240,7 +240,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "36587a2be418f365faa1a6deac5eadcc00b6a79ebacab25ad87839f9ddc021e7"
+hash = "098d6976a738658ca490cc58e9fab19f06cd1a7b23199b6f1ee108d866333e22"
 metafile = true
 
 [[files]]
@@ -440,7 +440,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "01828c06fd933420f9b8a0e31678843610216d3e5c051b4d46cc68e57500902e"
+hash = "2c818b7963f2710f0e4c19b60f58ec2bee19236317376f81b8e15f42aad1aa02"
 metafile = true
 
 [[files]]
