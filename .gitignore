@@ -6,3 +6,6 @@
 
 # Python cache files
 __pycache__/
+
+# Temporary Directory
+temp/
