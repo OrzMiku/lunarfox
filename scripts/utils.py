@@ -48,7 +48,7 @@ def run_command_in_dir(command, directory):
     original_dir = os.getcwd()
     try:
         os.chdir(directory)
-        os.system(command)
+        subprocess.run(command, shell=True, check=True)
     finally:
         os.chdir(original_dir)
 
@@ -202,8 +202,8 @@ def install_resources(
         return []
 
     # 去重
-    aleady_resources = get_resources(version_path, resource_type)
-    resource_list = [m for m in resource_list if m not in aleady_resources]
+    already_resources = get_resources(version_path, resource_type)
+    resource_list = [m for m in resource_list if m not in already_resources]
     if not resource_list:
         return []
 
