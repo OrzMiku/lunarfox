@@ -13,12 +13,20 @@ file = "config/NoChatReports/NCR-Encryption.json"
 hash = "d3a2bc7eb8deb5392488d5be3e9f1a497094df6cd4ae6a3d559e8a476ff528a3"
 
 [[files]]
+file = "config/c2me.toml"
+hash = "e14a109374d2ee13b5a8608d77128ea29f4016a5d2ed9837a7cee85e33410bc3"
+
+[[files]]
 file = "config/chatpatches.json"
 hash = "0623905a25c9b6c8387f7a6a0256ea005f727c63c689d2cc7cc77f74e912f7e4"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
 hash = "63e67a012e9267e8127cebffc58166c88e59f08cb74f8f18064c4f271bcc2959"
+
+[[files]]
+file = "config/fabric_loader_dependencies.json"
+hash = "f788e197bc3747396e012c03128935c3a07eb05b754283f873811b33cdb17c21"
 
 [[files]]
 file = "config/ferritecore.mixin.properties"
@@ -33,6 +41,10 @@ file = "config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "8fa033afa83e6b5123c11bb293b0a5e632b4f76b2ca7d651350179fd435462c9"
 
 [[files]]
+file = "config/iris.properties"
+hash = "0da4eb518c2242dafe6e5dafc05b004211164b1ffa4e8a96fa3decfb693137ef"
+
+[[files]]
 file = "config/litematica.json"
 hash = "0186b89fc19e5b7b36902eed03061ff03530a15c86de6090c98f488bdaf51f73"
 
@@ -41,8 +53,16 @@ file = "config/minihud.json"
 hash = "435f7811c796b2352fee74985081994d69f881f9f0b6a0499ba39fbc40ee3f0b"
 
 [[files]]
+file = "config/modernfix-mixins.properties"
+hash = "132d49783f7a0c8d656a7426538ec38bc3a0cef08c0b3475f694ad0b4981bf09"
+
+[[files]]
 file = "config/moreculling.toml"
-hash = "7d27acae23534f1cbfd7c5b3b8758e28f4f1dc402ee97f630a88aefd5b2eec2e"
+hash = "31ce8dd1234f6b207bc364149a91f0f6addb87b27d1cfcf86472f0517aa87119"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "099668f0a2e875a916b53865aba1a88bbfc67ba9227b7a6841d44657fa399777"
 
 [[files]]
 file = "config/tweakeroo.json"
@@ -389,6 +409,10 @@ hash = "14800fc12fd4b92497c0f26455523783bdf59194233bdaa71d4864b3d436929a"
 metafile = true
 
 [[files]]
+file = "mods/modernfix-fabric-5.20.4-beta.51+mc1.21.7.a724.jar"
+hash = "d517c17c6f31ff28d3d0cfb4944220d689669c0834518eaff412f8bcf801699d"
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "6eea5e1db3dbca126b82f211bf0d2fcf2cf13097023fdef3dd668e48581a73d0"
 metafile = true
@@ -406,6 +430,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "ba94fd9dd7d5148b511c24460a281143c3a5d02b859e66732f6121aee6625f0d"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "7e272a00e47ef9c9a38914717ad102854357230361ade264ba2221e393410479"
 metafile = true
 
 [[files]]
@@ -570,7 +599,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "19cfd97af7dc1dbc5958aa3006929cba2407432fac60775329a7362cda93f012"
+hash = "cfadd383b4a4921275edcae3f43d2d3850635ebaa2d8641c61207dd3a794395b"
 
 [[files]]
 file = "resourcepacks/fast-better-grass.pw.toml"

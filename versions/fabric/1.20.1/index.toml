@@ -17,6 +17,10 @@ file = "config/yosbr/config/betteradvancements.json"
 hash = "e5f6ace68c722b5e4ea32f9935ca0b8dfbea1d22f1b8599a339bde0456605973"
 
 [[files]]
+file = "config/yosbr/config/c2me.toml"
+hash = "e14a109374d2ee13b5a8608d77128ea29f4016a5d2ed9837a7cee85e33410bc3"
+
+[[files]]
 file = "config/yosbr/config/chatpatches.json"
 hash = "0623905a25c9b6c8387f7a6a0256ea005f727c63c689d2cc7cc77f74e912f7e4"
 
@@ -41,6 +45,10 @@ file = "config/yosbr/config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "8fa033afa83e6b5123c11bb293b0a5e632b4f76b2ca7d651350179fd435462c9"
 
 [[files]]
+file = "config/yosbr/config/iris.properties"
+hash = "0da4eb518c2242dafe6e5dafc05b004211164b1ffa4e8a96fa3decfb693137ef"
+
+[[files]]
 file = "config/yosbr/config/masa_gadget_mod.json"
 hash = "e06a95ec2a838775dfeaa364f17be6a8f4521138055f8ccee8ff59f66d7464fa"
 
@@ -50,19 +58,19 @@ hash = "435f7811c796b2352fee74985081994d69f881f9f0b6a0499ba39fbc40ee3f0b"
 
 [[files]]
 file = "config/yosbr/config/modernfix-mixins.properties"
-hash = "e5c9726f99bb306f542509a638a3c227d68468ed5681668a051ef135b0806a15"
+hash = "132d49783f7a0c8d656a7426538ec38bc3a0cef08c0b3475f694ad0b4981bf09"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
-hash = "7d27acae23534f1cbfd7c5b3b8758e28f4f1dc402ee97f630a88aefd5b2eec2e"
+hash = "31ce8dd1234f6b207bc364149a91f0f6addb87b27d1cfcf86472f0517aa87119"
 
 [[files]]
 file = "config/yosbr/config/roughlyenoughitems/config.json5"
 hash = "c550f46ad5ec34377e2b77a84f553ef1ac02bd9515219a8b4c0239ce036a966a"
 
 [[files]]
-file = "config/yosbr/config/threadtweak.json"
-hash = "a9de93adf7b89a2288921fe4a195880bdf952bd385f48e1c026d87cfcd753ebb"
+file = "config/yosbr/config/sodium-options.json"
+hash = "099668f0a2e875a916b53865aba1a88bbfc67ba9227b7a6841d44657fa399777"
 
 [[files]]
 file = "config/yosbr/config/tweakeroo.json"
@@ -82,7 +90,7 @@ hash = "b0df40e07391a60294d7bffb9772cabe8096d61c41c8680fbfad927d3a6a5a6b"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "91e23411f46b0c2b5d72d084b99694c05f799a3cd63efa50bdd54413b4da5529"
+hash = "08bbe1e303ae70da3ab77934fe0ae6cffbbce8674c86c7385607a327f052398a"
 
 [[files]]
 file = "icon.png"
@@ -591,11 +599,6 @@ metafile = true
 [[files]]
 file = "mods/tcdcommons.pw.toml"
 hash = "47634b4eedae148767c2dc94236c8f07054a533139400404d74deaf088348a08"
-metafile = true
-
-[[files]]
-file = "mods/threadtweak.pw.toml"
-hash = "53b00436579bd2ea920ef8ae8b1464cb4744dbfd21055d8a3f4768019b78e5bc"
 metafile = true
 
 [[files]]
