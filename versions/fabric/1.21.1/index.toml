@@ -17,12 +17,16 @@ file = "config/yosbr/config/betteradvancements.json"
 hash = "e5f6ace68c722b5e4ea32f9935ca0b8dfbea1d22f1b8599a339bde0456605973"
 
 [[files]]
+file = "config/yosbr/config/c2me.toml"
+hash = "e14a109374d2ee13b5a8608d77128ea29f4016a5d2ed9837a7cee85e33410bc3"
+
+[[files]]
 file = "config/yosbr/config/chatpatches.json"
 hash = "0623905a25c9b6c8387f7a6a0256ea005f727c63c689d2cc7cc77f74e912f7e4"
 
 [[files]]
 file = "config/yosbr/config/defaultoptions/keybindings.txt"
-hash = "292987b792abcfcda7e7b30ca442143a100446b6c241558761a88ab5ef8b3973"
+hash = "9298dbdfb0c9c0e07a88957030bc9c59737423974c4572417cf116fd80355a9b"
 
 [[files]]
 file = "config/yosbr/config/ferritecore.mixin.properties"
@@ -41,6 +45,10 @@ file = "config/yosbr/config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "8fa033afa83e6b5123c11bb293b0a5e632b4f76b2ca7d651350179fd435462c9"
 
 [[files]]
+file = "config/yosbr/config/iris.properties"
+hash = "0da4eb518c2242dafe6e5dafc05b004211164b1ffa4e8a96fa3decfb693137ef"
+
+[[files]]
 file = "config/yosbr/config/masa_gadget_mod.json"
 hash = "e06a95ec2a838775dfeaa364f17be6a8f4521138055f8ccee8ff59f66d7464fa"
 
@@ -50,11 +58,11 @@ hash = "435f7811c796b2352fee74985081994d69f881f9f0b6a0499ba39fbc40ee3f0b"
 
 [[files]]
 file = "config/yosbr/config/modernfix-mixins.properties"
-hash = "e5c9726f99bb306f542509a638a3c227d68468ed5681668a051ef135b0806a15"
+hash = "132d49783f7a0c8d656a7426538ec38bc3a0cef08c0b3475f694ad0b4981bf09"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
-hash = "7d27acae23534f1cbfd7c5b3b8758e28f4f1dc402ee97f630a88aefd5b2eec2e"
+hash = "31ce8dd1234f6b207bc364149a91f0f6addb87b27d1cfcf86472f0517aa87119"
 
 [[files]]
 file = "config/yosbr/config/puzzle.json"
@@ -65,8 +73,8 @@ file = "config/yosbr/config/roughlyenoughitems/config.json5"
 hash = "c550f46ad5ec34377e2b77a84f553ef1ac02bd9515219a8b4c0239ce036a966a"
 
 [[files]]
-file = "config/yosbr/config/threadtweak.json"
-hash = "a9de93adf7b89a2288921fe4a195880bdf952bd385f48e1c026d87cfcd753ebb"
+file = "config/yosbr/config/sodium-options.json"
+hash = "099668f0a2e875a916b53865aba1a88bbfc67ba9227b7a6841d44657fa399777"
 
 [[files]]
 file = "config/yosbr/config/tweakeroo.json"
@@ -86,7 +94,7 @@ hash = "b0df40e07391a60294d7bffb9772cabe8096d61c41c8680fbfad927d3a6a5a6b"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "96d67e6e681f33391b5f2617af3c645a9ebb59ad60400a253139851050c5fe0a"
+hash = "08bbe1e303ae70da3ab77934fe0ae6cffbbce8674c86c7385607a327f052398a"
 
 [[files]]
 file = "icon.png"
@@ -174,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "17b40cfda4539840d350572bc5693a5984e862ecb58c2458f33822a074381bc4"
+hash = "796c28baec98b91ac98449364c0a6786201f01580a777bcecacb137c1e2c6309"
 metafile = true
 
 [[files]]
@@ -189,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "0825f4bc0c33e447af8b3605318588e735a86100e2418aab9f76b1d9edaa5993"
+hash = "9843144207099ba97a1b40fb93447d16233c06f9dd8fda2fc523acfca33e520e"
 metafile = true
 
 [[files]]
@@ -269,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "7ddeead480022b46b52444fc3ad33345c7692f880e55a8a697e4c8ca98d4bc70"
+hash = "2edf9f6e65652a328d6760b89440649e20b55edfb2eae97d96ecdff47caedf97"
 metafile = true
 
 [[files]]
@@ -279,7 +287,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "36587a2be418f365faa1a6deac5eadcc00b6a79ebacab25ad87839f9ddc021e7"
+hash = "098d6976a738658ca490cc58e9fab19f06cd1a7b23199b6f1ee108d866333e22"
 metafile = true
 
 [[files]]
@@ -329,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "0e5b10aefb078de8f531b588b6384cbfa585f8c6991b0b9b21dce1d642a6d840"
+hash = "907ed71a8d572d5bc2a8f956b0b0d0fad37e1d5bdd48464041a76ef8fca79cb7"
 metafile = true
 
 [[files]]
@@ -340,6 +348,11 @@ metafile = true
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
 hash = "ad0a8f3c4a20dfb805712335839a0172f54f1956f072da853d019afca4fe77fa"
+metafile = true
+
+[[files]]
+file = "mods/inventoryhudplus.pw.toml"
+hash = "b6d22a63ff50fbc3352332be1dc17dcf93a62591d8364df7153240acdc24f975"
 metafile = true
 
 [[files]]
@@ -374,7 +387,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "7237645499c4e9a4699a241485112b97cd695776f5cf182bb24e1696943757dc"
+hash = "baf9799ab7a681a192e03c0310d98389f27ee4f7de064ffb5a74994c8f5a8d17"
 metafile = true
 
 [[files]]
@@ -399,7 +412,7 @@ metafile = true
 
 [[files]]
 file = "mods/magiclib.pw.toml"
-hash = "ecb0593f4b5c64d181b8ff07e455a15d5a65d7b197c669af65a22bfbea56f626"
+hash = "076e8006484a02b47942227f7957994b5cc5de613da8c46d324f7df9b32dc708"
 metafile = true
 
 [[files]]
@@ -514,7 +527,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "2124f853d113c93e1eee3776e91eeed5c50a08df03515b7c7c3c5b4bd4579cd1"
+hash = "d5e0c3a22bd7bf226096a9136f69488a68734b83b56130bdeb83608daef59700"
 metafile = true
 
 [[files]]
@@ -598,11 +611,6 @@ hash = "8ed9a53846c91f20200e7ca354d1a1c6dafb087ef5dd7e815a3d06e1c4062ca1"
 metafile = true
 
 [[files]]
-file = "mods/threadtweak.pw.toml"
-hash = "e77fe4473df0685a27bdc27f9a50c0dced4d298a2765301c2b1f0b11e078a887"
-metafile = true
-
-[[files]]
 file = "mods/title-fixer.pw.toml"
 hash = "7bf353cd8be06d410f8cbd1d392acaa65b8abe209873ad59f63715c021223ab5"
 metafile = true
@@ -629,7 +637,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "7c2ceefa635d30746e23fdf02e989d08280025ecd438aaf83f81894385ca132a"
+hash = "b176bdd72506421277e6ab3fb253164e3c8d2626786eff2ebb783d23c5a11398"
 metafile = true
 
 [[files]]
@@ -644,7 +652,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "b6271eb4c38c4d88b88eb5b2dc507e587d5bc5c060f6d8157acd391662b683a7"
+hash = "345fc6586d50c4377ac413117d8ccdf30d2ed6169545225c28f19a26a51aa653"
 metafile = true
 
 [[files]]
@@ -674,25 +682,20 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "8539501b121e5d3a562e1baad4c334b97882c8b5cfb3f038765c2a37f05e7427"
+hash = "e3626d7c6fbc2bcac07b8d0724bba975dd10128de776018d3346edc797cfc772"
 metafile = true
+
+[[files]]
+file = "shaderpacks/Sundial-Lite-7898a47.zip"
+hash = "852266ab3b29ac9cacb305599c516836f2f4c9cf72555ad636e97a281c334ff8"
 
 [[files]]
 file = "shaderpacks/Sundial-Lite-MMCO-b4f3a83.zip"
 hash = "d96b8d00dc9d94a7f389875a6cfce97b7a32a3175c441c4cd2b1a752b4682662"
 
 [[files]]
-file = "shaderpacks/Sundial-Lite-b619101.zip"
-hash = "b0dcd7507a8c3376cbcd68e0c9030eed4dbdd1a151d7a3dacac862474a393ca9"
-
-[[files]]
 file = "shaderpacks/bliss-shader.pw.toml"
 hash = "f4fb7685cf5f1f07eb5b07b0dd7ea211e46e249cb3a78237358d27c3db1dea2b"
-metafile = true
-
-[[files]]
-file = "shaderpacks/bsl-shaders-classic.pw.toml"
-hash = "12f0f4fb508a6a178b3a725503d0802978b4bebdf678bccc5f81a5655a0db4c4"
 metafile = true
 
 [[files]]
@@ -703,11 +706,6 @@ metafile = true
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "3385e33cb8e2cbf402562dcb68669cc2905fec01b4be9fe27a516010c5aaff87"
-metafile = true
-
-[[files]]
-file = "shaderpacks/complementary-unbound.pw.toml"
-hash = "9025311f42fe8ab581987962c9c6b3ec5a50f5afc803e9d867dc580cb0b66190"
 metafile = true
 
 [[files]]
