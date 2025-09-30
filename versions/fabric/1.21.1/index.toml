@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "47aaa2693fff2f75cc994e2398a751ae1da4d78f77c979c1f7f8c906a4f32dbf"
+hash = "3b4df09734a7d6d44ed1928658d6e3976c3af58dc2ed8b72f63cafed8b7f507e"
 metafile = true
 
 [[files]]
@@ -197,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "9843144207099ba97a1b40fb93447d16233c06f9dd8fda2fc523acfca33e520e"
+hash = "80afcca4fbd57827917df7c6cf697499d7cf25e5007303a6800e14c5233590e0"
 metafile = true
 
 [[files]]
@@ -682,7 +682,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "e3626d7c6fbc2bcac07b8d0724bba975dd10128de776018d3346edc797cfc772"
+hash = "52bd07962e11b5bb35b3e43621851c2cba8c3c8c4bcc8f3155375d4828bfe25c"
 metafile = true
 
 [[files]]
@@ -690,8 +690,8 @@ file = "shaderpacks/Sundial-Lite-7898a47.zip"
 hash = "852266ab3b29ac9cacb305599c516836f2f4c9cf72555ad636e97a281c334ff8"
 
 [[files]]
-file = "shaderpacks/Sundial-Lite-MMCO-b4f3a83.zip"
-hash = "d96b8d00dc9d94a7f389875a6cfce97b7a32a3175c441c4cd2b1a752b4682662"
+file = "shaderpacks/Sundial-Lite-MMCO_v0.2.14.zip"
+hash = "d786daf2ca89ce6cb05ab11d2cab21659b57568adb9ae54547f37894438236bc"
 
 [[files]]
 file = "shaderpacks/bliss-shader.pw.toml"
