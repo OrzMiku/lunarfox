@@ -228,11 +228,6 @@ hash = "1cf5864e44b2323036f2b5b088e57b29d2c782053a23f97ae65e485e6b77e725"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-fps.pw.toml"
-hash = "7ade9694388d80def1aba6b3653a1a0ea8a68eb14a42e2bffd076fd1335a5ce8"
-metafile = true
-
-[[files]]
 file = "mods/dynamiccrosshair.pw.toml"
 hash = "5e3f00ecd1fb22dd8fda618fba82f2b6dc85febcc005f9c65931afa3a3a8276e"
 metafile = true
@@ -427,9 +422,8 @@ hash = "6eea5e1db3dbca126b82f211bf0d2fcf2cf13097023fdef3dd668e48581a73d0"
 metafile = true
 
 [[files]]
-file = "mods/moreculling.pw.toml"
-hash = "70676593e513e1499486765b8f654cb5034a20a2642a3bcc61a6f57c9d985972"
-metafile = true
+file = "mods/moreculling-fabric-1.21.6-1.4.0-beta.1-fix.jar"
+hash = "6f9a2373b388eb0983af8f77760466e76b78c87e95fcc90384600c49ba778714"
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
@@ -523,12 +517,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "d3ce7c562cb2d457391f3ea7992f1018055544035097547d9bc2d30b7429c8ea"
+hash = "b182456aefe4b8f37cc3dd34fdccbd07fcd0a2e9a6c175d5e39cd6d5190388dc"
 metafile = true
 
 [[files]]
 file = "mods/sodium-shadowy-path-blocks.pw.toml"
-hash = "b91aa8ca577a8397296c43e06f54e8246cbdacd44afa08ab6188323c441ac359"
+hash = "2d27a6e7c7e28a33b4e3d85106f80fd6629f060ec31a8be525f1c2ac9f769cf1"
 metafile = true
 
 [[files]]
