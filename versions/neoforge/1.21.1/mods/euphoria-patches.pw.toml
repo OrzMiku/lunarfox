@@ -1,0 +1,13 @@
+name = "Euphoria Patches"
+filename = "EuphoriaPatcher-1.7.2-r5.6.1-neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/4H6sumDB/versions/yaSayjbD/EuphoriaPatcher-1.7.2-r5.6.1-neoforge.jar"
+hash-format = "sha512"
+hash = "d9fa5d55670a80ef80c612af38c3f7bf172202201ea67f7398a3a8c828ca626fcdf2d111478df3941ce08a49872fe9e5cd2b0a8775be32f5cd10be33d7b83f1c"
+
+[update]
+[update.modrinth]
+mod-id = "4H6sumDB"
+version = "yaSayjbD"

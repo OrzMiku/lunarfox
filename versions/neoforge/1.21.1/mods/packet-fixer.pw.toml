@@ -1,0 +1,13 @@
+name = "Packet Fixer"
+filename = "packetfixer-3.3.0-1.20.5-1.21.X-merged.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/c7m1mi73/versions/V05RgbEn/packetfixer-3.3.0-1.20.5-1.21.X-merged.jar"
+hash-format = "sha512"
+hash = "17fd46a5edd2ecefb67f346fa1ddd8beebd119f9c1598e91211c5d8a4691ae118d81d6628cb39705c0cf1a4d1f09299b76f72c5d286ca5b707c2508633654c12"
+
+[update]
+[update.modrinth]
+mod-id = "c7m1mi73"
+version = "V05RgbEn"

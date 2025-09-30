@@ -1,0 +1,13 @@
+name = "Konkrete"
+filename = "konkrete_neoforge_1.9.9_MC_1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/J81TRJWm/versions/stJDU839/konkrete_neoforge_1.9.9_MC_1.21.jar"
+hash-format = "sha512"
+hash = "378bd12e3c32329abbae5cd514e1d1cc2a3cc3a45979fedb1d4e4c0a6732bdcf4b7d1bf7f7a112074bf288957edf86152c9c090a27d1d5de84a9a7825d3d6511"
+
+[update]
+[update.modrinth]
+mod-id = "J81TRJWm"
+version = "stJDU839"

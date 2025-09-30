@@ -1,0 +1,13 @@
+name = "FastQuit-Forge"
+filename = "Fastquit-3.0.1+1.21.1neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/itFaO2Tg/versions/KYXvyxuO/Fastquit-3.0.1%2B1.21.1neoforge.jar"
+hash-format = "sha512"
+hash = "a889e2a9a3237e9f39bd99d54b5e31e299f1cbc3a8e4b5d49b50dfb67ea142a6fc37b0f38a272834adfb2e8ab639c3b13e953b9a3d42c8e551c28f67bd49a801"
+
+[update]
+[update.modrinth]
+mod-id = "itFaO2Tg"
+version = "KYXvyxuO"

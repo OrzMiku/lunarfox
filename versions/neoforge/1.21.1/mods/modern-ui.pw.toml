@@ -1,0 +1,13 @@
+name = "Modern UI"
+filename = "ModernUI-NeoForge-1.21.1-3.12.0.2-universal.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/3sjzyvGR/versions/RM220vWV/ModernUI-NeoForge-1.21.1-3.12.0.2-universal.jar"
+hash-format = "sha512"
+hash = "54cc55a23d725a3794439a33a22e0c59cc44e12a1b090d6a8569230a50fa988647f2ea40cb24f38574d1dfdecf77323376a91526dd071160789bc78ae710e518"
+
+[update]
+[update.modrinth]
+mod-id = "3sjzyvGR"
+version = "RM220vWV"

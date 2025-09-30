@@ -1,0 +1,13 @@
+name = "Iris/Oculus Shader Folder"
+filename = "iris_shader_folder-1.2.4-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/yv6sGJzN/versions/cbCxeZOf/iris_shader_folder-1.2.4-fabric.jar"
+hash-format = "sha512"
+hash = "e956ff4e9485cae624a876fd379daf173d549f9f1b2d4014bfe5d4af192e80964e4e90af7b504f27f4853aa076148fa7b0e84bc5929ce28df178fd72a6b996da"
+
+[update]
+[update.modrinth]
+mod-id = "yv6sGJzN"
+version = "cbCxeZOf"

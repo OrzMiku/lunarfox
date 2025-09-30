@@ -1,0 +1,13 @@
+name = "Falling Leaves (NeoForge/Forge)"
+filename = "fallingleaves-1.21.1-2.5.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2JAUNCL4/versions/PVzaPLSv/fallingleaves-1.21.1-2.5.1.jar"
+hash-format = "sha512"
+hash = "9cc6ec387bce1a68f07b08bf1a2a65dc49ad409070f8cf58147d3cdbb9b82300d4a7184e01cf58a82886fb57156e6875b2cf7c4abb15335f8fd15be1de58400f"
+
+[update]
+[update.modrinth]
+mod-id = "2JAUNCL4"
+version = "PVzaPLSv"

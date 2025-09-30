@@ -94,35 +94,28 @@ def update_modpacks(paths, currency=4):
     """
     批量更新模组包文件。
 
+    注意：由于 os.chdir() 在多线程环境下不安全（会影响整个进程的工作目录），
+    此函数使用顺序执行而非并发执行。
+
     Args:
         paths (list): 目标路径列表
+        currency (int): 保留参数以兼容旧版本，但不再使用
     """
+    total = len(paths)
+    print(f"Starting updates for {total} modpacks...\n")
 
-    def update_single_path(path):
+    for idx, path in enumerate(paths, 1):
+        print(f"{progress_bar(idx - 1, total)} | Updating: {path}")
+        print(f"{'='*60}")
+
         original_dir = os.getcwd()
         try:
             os.chdir(path)
-            subprocess.run(
-                "packwiz update --all --yes", shell=True, capture_output=True, text=True
-            )
+            subprocess.run("packwiz update --all --yes", shell=True, text=True)
         finally:
             os.chdir(original_dir)
 
-    total = len(paths)
-    have_done = 0
-    max_workers = min(currency, len(paths))
-    with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as executor:
-        future_to_path = {
-            executor.submit(update_single_path, path): path for path in paths
-        }
-
-        print(f"Starting updates for {total} modpacks...")
-
-        for future in concurrent.futures.as_completed(future_to_path):
-            have_done += 1
-            print(
-                f"{progress_bar(have_done, total)} | {future_to_path[future]} ✅ Done"
-            )
+        print(f"{progress_bar(idx, total)} | {path} ✅ Completed\n")
 
 
 def get_spec_from_filename(filename):

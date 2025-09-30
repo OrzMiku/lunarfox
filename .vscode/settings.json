@@ -1,5 +1,6 @@
 {
   "search.exclude": {
     "**/archived": true
-  }
+  },
+  "terminal.integrated.defaultProfile.windows": "PowerShell"
 }
