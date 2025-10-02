@@ -1,0 +1,14 @@
+enableVsync:false
+entityShadows:false
+graphicsMode:0
+maxFps:260
+renderDistance:8
+simulationDistance:8
+resourcePacks:["vanilla","fabric","itemswapper:default","file/SodiumTranslations.zip","continuity:default","continuity:glass_pane_culling_fix","file/Fast Better Grass.zip"]
+incompatibleResourcePacks:["itemswapper:default"]
+tutorialStep:none
+advancedItemTooltips:true
+tutorialStep:none
+skipMultiplayerWarning:true
+joinedFirstServer:true
+syncChunkWrites:false

@@ -118,7 +118,7 @@ metafile = true
 
 [[files]]
 file = "mods/asyncparticles.pw.toml"
-hash = "d635c91caf90f0b2093a3a6e6c0ec730c6a63ef33005e9ae33fd3c943a1ec8dd"
+hash = "db06a2aed7c5c96771f955611577aab7b2a149a01c3c2a5fc65745fa0c1681f6"
 metafile = true
 
 [[files]]
@@ -128,7 +128,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "8040d7ac7da3d7de4a6e5e97cd9b9f4646bf885ded32b8fa634c2e80f51f9004"
+hash = "7eb6b5ee57865d6221be3c428f5a0c4e449f4c86920e9f8736b4f755d7822edf"
 metafile = true
 
 [[files]]
@@ -663,7 +663,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fast-better-grass.pw.toml"
-hash = "774b51f7257a3a18f0afc40c155bac4bb1dbade055170137f2ac96456f0e3653"
+hash = "73557eda0b75de2724fd3337879c5e05bd7a7c47007de9c318d98644fcffdb4e"
 metafile = true
 
 [[files]]
@@ -678,7 +678,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "52bd07962e11b5bb35b3e43621851c2cba8c3c8c4bcc8f3155375d4828bfe25c"
+hash = "ffdd00929c1cc48ceee67ee31cb074db15b544cdb980d5c5f08c4d3f7b2e98f6"
 metafile = true
 
 [[files]]
