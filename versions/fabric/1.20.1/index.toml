@@ -26,7 +26,7 @@ hash = "0623905a25c9b6c8387f7a6a0256ea005f727c63c689d2cc7cc77f74e912f7e4"
 
 [[files]]
 file = "config/yosbr/config/defaultoptions/keybindings.txt"
-hash = "1e7a199920168f772493d1e2881fa40376ecf3b7c2be9349f29ff7ba6b80b70c"
+hash = "478c894e20be669902210726813d0cf180680774a1bc8984e2c75c170c6e7e25"
 
 [[files]]
 file = "config/yosbr/config/ferritecore.mixin.properties"
@@ -49,6 +49,10 @@ file = "config/yosbr/config/iris.properties"
 hash = "0da4eb518c2242dafe6e5dafc05b004211164b1ffa4e8a96fa3decfb693137ef"
 
 [[files]]
+file = "config/yosbr/config/iris_shader_folder.properties"
+hash = "e28ffb6c02aafd802d3d0f1998edac4047e63b3740fb278ce5f0a5b4a2a9c87c"
+
+[[files]]
 file = "config/yosbr/config/masa_gadget_mod.json"
 hash = "e06a95ec2a838775dfeaa364f17be6a8f4521138055f8ccee8ff59f66d7464fa"
 
@@ -67,6 +71,10 @@ hash = "31ce8dd1234f6b207bc364149a91f0f6addb87b27d1cfcf86472f0517aa87119"
 [[files]]
 file = "config/yosbr/config/roughlyenoughitems/config.json5"
 hash = "c550f46ad5ec34377e2b77a84f553ef1ac02bd9515219a8b4c0239ce036a966a"
+
+[[files]]
+file = "config/yosbr/config/sodium-mixins.properties"
+hash = "fa47ad234f2b53c2366ea8df83d5485f36d5129f228413416212b6f0ca2ba856"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
@@ -193,7 +201,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "739a740f3867a8b1dfb63a115b8934b5797660f721c7b680a2b426395c5472c9"
+hash = "7876655e9f26cbdbed200681efc0854f6e0cb938a5187408d34e430892e4e670"
 metafile = true
 
 [[files]]
@@ -268,7 +276,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "2edf9f6e65652a328d6760b89440649e20b55edfb2eae97d96ecdff47caedf97"
+hash = "d2329cce5d2bfe56f6b7b600514f8bbac17270ccd8e48179de75c8c8f1d5a382"
 metafile = true
 
 [[files]]
@@ -357,6 +365,11 @@ hash = "e4a36696e1c12e76ee1cf9da4682770edd2d404cef742db8ecb306455b3f0ef4"
 metafile = true
 
 [[files]]
+file = "mods/iris-shader-folder.pw.toml"
+hash = "599ccdcf82527c89049c198ee6bd076f782cc5560907e4451b3b4f424a06a6e7"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "99efc9e805ce2888680d3cacb9be65733c6d4a8cfcb77e1976205f758db24346"
 metafile = true
@@ -413,7 +426,7 @@ metafile = true
 
 [[files]]
 file = "mods/magiclib.pw.toml"
-hash = "acbe81e8748ee65511583791bca16a88886fd2ed1be86e85c3b86a125e17a9fb"
+hash = "52a5246cfed4e7110cde31132834c4f76f57816c64d99b4abe332f4aa4467c87"
 metafile = true
 
 [[files]]
@@ -544,6 +557,11 @@ metafile = true
 [[files]]
 file = "mods/rei.pw.toml"
 hash = "657ff0025d408f1021309ce5c759821d1f48e397811cc0da6f0b0400827896fa"
+metafile = true
+
+[[files]]
+file = "mods/resolution-control-plus.pw.toml"
+hash = "69f4fe4d4ded744be3007514d94c5aa9fcfe9de81e0e80e31de3e8c45c234715"
 metafile = true
 
 [[files]]
@@ -678,16 +696,16 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "ffdd00929c1cc48ceee67ee31cb074db15b544cdb980d5c5f08c4d3f7b2e98f6"
+hash = "bbe520e5f0167445fee64ee8eb90ba0b8921a898be12251464de022687539203"
 metafile = true
-
-[[files]]
-file = "shaderpacks/Sundial-Lite-7898a47.zip"
-hash = "852266ab3b29ac9cacb305599c516836f2f4c9cf72555ad636e97a281c334ff8"
 
 [[files]]
 file = "shaderpacks/Sundial-Lite-MMCO_v0.2.14.zip"
 hash = "d786daf2ca89ce6cb05ab11d2cab21659b57568adb9ae54547f37894438236bc"
+
+[[files]]
+file = "shaderpacks/Sundial-Lite_7898a47.zip"
+hash = "852266ab3b29ac9cacb305599c516836f2f4c9cf72555ad636e97a281c334ff8"
 
 [[files]]
 file = "shaderpacks/bliss-shader.pw.toml"
@@ -701,7 +719,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "3385e33cb8e2cbf402562dcb68669cc2905fec01b4be9fe27a516010c5aaff87"
+hash = "71e317f0a005cf96c85d2a917c59f166adf2c9e027ed2ea7fe5fcd2686577965"
 metafile = true
 
 [[files]]

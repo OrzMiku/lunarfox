@@ -22,7 +22,7 @@ hash = "0623905a25c9b6c8387f7a6a0256ea005f727c63c689d2cc7cc77f74e912f7e4"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "63e67a012e9267e8127cebffc58166c88e59f08cb74f8f18064c4f271bcc2959"
+hash = "f175423ead16e1ecb7664efed31ba0b786b5534d7b7fa64527a302129df13843"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
@@ -34,7 +34,7 @@ hash = "3817e94107bb1c7358beebb80b1810e822de38be430f855cf14828c38018e8e2"
 
 [[files]]
 file = "config/immediatelyfast.json"
-hash = "8bc58d4ab49fc2606a7ae6c7614e4ad3f5a5c29b894fbdaa2bc3d8730acacd2c"
+hash = "7332aaf0769b81e5dfc0f4dc4fa5fcdc56e98811b75214e44ce2d06558e69712"
 
 [[files]]
 file = "config/inventoryhud.json"
@@ -47,6 +47,10 @@ hash = "8fa033afa83e6b5123c11bb293b0a5e632b4f76b2ca7d651350179fd435462c9"
 [[files]]
 file = "config/iris.properties"
 hash = "0da4eb518c2242dafe6e5dafc05b004211164b1ffa4e8a96fa3decfb693137ef"
+
+[[files]]
+file = "config/iris_shader_folder.properties"
+hash = "e28ffb6c02aafd802d3d0f1998edac4047e63b3740fb278ce5f0a5b4a2a9c87c"
 
 [[files]]
 file = "config/litematica.json"
@@ -179,7 +183,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "541e364f570cfbaadcc177073cb085efe8a050ae2c08ae8529762ba81601041e"
+hash = "56fc22a9f3dc3eb2aa598aad649071f84c43c17d8618a39f52aede94d29c0a1f"
 metafile = true
 
 [[files]]
@@ -214,7 +218,7 @@ metafile = true
 
 [[files]]
 file = "mods/default-options.pw.toml"
-hash = "7c4f66abcfd328595f426d3b0a672c586ec0657497bdb17d9b7ee39d292bb8ed"
+hash = "b52857f54cad3d96b95749b1a29c64d1ff70c913dcfde3485194bf182eefec5e"
 metafile = true
 
 [[files]]
@@ -249,7 +253,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "2edf9f6e65652a328d6760b89440649e20b55edfb2eae97d96ecdff47caedf97"
+hash = "d2329cce5d2bfe56f6b7b600514f8bbac17270ccd8e48179de75c8c8f1d5a382"
 metafile = true
 
 [[files]]
@@ -320,6 +324,11 @@ metafile = true
 [[files]]
 file = "mods/inventoryhudplus.pw.toml"
 hash = "d3927c9d9786a7cd2560fad7a8c8d13b6f43bf7c81b8735379b36290c13da90d"
+metafile = true
+
+[[files]]
+file = "mods/iris-shader-folder.pw.toml"
+hash = "599ccdcf82527c89049c198ee6bd076f782cc5560907e4451b3b4f424a06a6e7"
 metafile = true
 
 [[files]]
@@ -492,6 +501,11 @@ hash = "88f9a71bf06f4959b220abab8542e4763747903e9e5ef150c38ae79c83870077"
 metafile = true
 
 [[files]]
+file = "mods/renderscale.pw.toml"
+hash = "0f2304985a05c62f033b0d189433a940229540c1552359d08ca045bd867b5bde"
+metafile = true
+
+[[files]]
 file = "mods/resourcify.pw.toml"
 hash = "75d11a0b32a9fb7cd1235cc7ff3708e9acfe87fb0f07daca2764bb61723b78d8"
 metafile = true
@@ -563,7 +577,7 @@ metafile = true
 
 [[files]]
 file = "mods/viafabricplus.pw.toml"
-hash = "0b81295141b0220b224e9f6af9cbfd25764bf2e3dfb122eacd49f9f9c29c92a9"
+hash = "e78883e2313f914dd3f5ffe9e99880701e35304758a504d0fee92e12dda73c42"
 metafile = true
 
 [[files]]
@@ -617,21 +631,21 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/spbr.pw.toml"
-hash = "1d852e1c4a88af6d56677177ca44f9278c11510f007d75462cf56a42090ceb52"
+hash = "36ff55568e387a4b42cc540577a188a90af89e6b80babc109aa88e58e12d4b49"
 metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "ffdd00929c1cc48ceee67ee31cb074db15b544cdb980d5c5f08c4d3f7b2e98f6"
+hash = "bbe520e5f0167445fee64ee8eb90ba0b8921a898be12251464de022687539203"
 metafile = true
-
-[[files]]
-file = "shaderpacks/Sundial-Lite-7898a47.zip"
-hash = "852266ab3b29ac9cacb305599c516836f2f4c9cf72555ad636e97a281c334ff8"
 
 [[files]]
 file = "shaderpacks/Sundial-Lite-MMCO_v0.2.14.zip"
 hash = "d786daf2ca89ce6cb05ab11d2cab21659b57568adb9ae54547f37894438236bc"
+
+[[files]]
+file = "shaderpacks/Sundial-Lite_7898a47.zip"
+hash = "852266ab3b29ac9cacb305599c516836f2f4c9cf72555ad636e97a281c334ff8"
 
 [[files]]
 file = "shaderpacks/bliss-shader.pw.toml"
@@ -645,7 +659,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "3385e33cb8e2cbf402562dcb68669cc2905fec01b4be9fe27a516010c5aaff87"
+hash = "71e317f0a005cf96c85d2a917c59f166adf2c9e027ed2ea7fe5fcd2686577965"
 metafile = true
 
 [[files]]
