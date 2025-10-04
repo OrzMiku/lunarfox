@@ -1,30 +1,48 @@
-# 🦊 LunarFox
+# LunarFox
+
+## 🦊 What is LunarFox?
 
 [![Logo](https://cdn.modrinth.com/data/r7CwLIIr/images/2e792de45ffdd41d8c1c8b59a804f3500ad1ab03.png)](https://github.com/OrzMiku/lunarfox)
 
-LunarFox is a performance modpack with quality of life mods and OptiFine alternatives. This modpack includes some out-of-the-box mod configurations and good performance settings.
+**LunarFox** is a modern Minecraft modpack designed to provide players with a smooth and feature-rich gaming experience through a series of carefully selected and pre-configured mods. It integrates mainstream performance optimization mods, a complete set of OptiFine alternatives, and numerous quality-of-life (QoL) mods that improve gameplay convenience.
 
-## 📦 Features
+Whether you're looking for higher frame rates, want to use shaders and HD resource packs, or need more professional in-game tools, LunarFox provides an out-of-the-box solution.
 
-[Qingqiu Document | Full Feature List](https://qdocs.miku.show/en/lunarfox/features/)
+## 📦 Core Features
 
-### OptiFine Alternatives
+### 🚀 Comprehensive Performance Optimization
 
-LunarFox uses a series of mods to replace OptiFine's functionality. For a detailed list, please refer to the Fabric Wiki: [OptiFine Alternatives](https://wiki.fabricmc.net/zh_cn:community:optifine_alternatives). If you don't want to install these mods manually, you can use the LunarFox modpack directly.
+The modpack optimizes the game on multiple levels by integrating several industry-recognized performance mods to achieve higher frame rates and more stable performance.
 
-### Performance Optimization
+- **Rendering Engine**: Uses **Sodium** as the core rendering engine to significantly increase FPS.
+- **Memory Management**: Mods like **FerriteCore** effectively reduce the game's memory usage.
+- **Game Logic & Chunk Performance**: **Lithium** and **C2ME** are responsible for optimizing game ticks and chunk loading to reduce stutter.
+- **Entity & Block Culling**: **EntityCulling** and other mods prevent rendering unnecessary objects outside your field of view.
+- And more...
 
-Some OptiFine alternative mods focus on performance optimization, improving game performance, reducing lag, and increasing frame rates. The modpack also includes other performance-enhancing mods and has pre-configured performance options.
+### ✨ Complete Visual Enhancements (OptiFine Alternatives)
 
-### Quality of Life (QoL) Mods
+LunarFox includes a full suite of mods to replicate OptiFine's visual enhancement features, allowing you to enjoy a modern visual experience without installing OptiFine.
 
-> Quality of Life (QoL) mods aim to improve the gaming experience rather than add content. They usually provide better user interfaces, controls, feedback, etc.
+- **Shader Support**: Load your favorite OptiFine shader packs with **Iris Shaders**.
+- **Resource Pack Extensions**: Supports advanced resource pack features like connected textures (**Continuity**), custom item textures (**CIT Resewn**), and custom entity models (**EMF**).
+- **Dynamic Lighting**: **LambDynamicLights** provides dynamic lighting effects for glowing items and entities.
+- **Custom Skies**: **FabricSkyBoxes** allows resource packs to add custom sky rendering.
+- And more...
 
-The modpack includes many QoL mods such as map mods, item managers, and inventory organizers. For redstone and technical players, it also includes the Masa mod suite and some commonly used mods.
+### 🛠️ Practical Quality of Life (QoL) Mods
+
+To make gameplay more convenient and information more intuitive, LunarFox includes a large number of popular QoL mods.
+
+- **Mapping & Navigation**: **Xaero's Minimap** and **World Map** provide powerful minimap and world map functionality.
+- **Inventory Management**: **Inventory Profiles Next** and **Mouse Tweaks** offer powerful inventory sorting and item manipulation features.
+- **Information Display**: **Jade** displays information about blocks and entities at your crosshair, while **BetterF3** provides a cleaner debug screen.
+- **Technical Tools**: Built-in tools like **Litematica**, **Tweakeroo**, and **MiniHUD** for redstone engineers and builders.
+- And more...
 
 ## 🎮 Tips
 
-- When using the Litematic mod, you need to change it's hotkey or the `Open World Map` hotkey.
+- When using the Litematica mod, you may need to change its hotkeys or the `Open World Map` hotkey to avoid conflicts.
 - Found a bug or have a suggestion? Feel free to submit an Issue or Pull Request on [GitHub](https://github.com/OrzMiku/lunarfox).
 
 ## ⭐ Credits
