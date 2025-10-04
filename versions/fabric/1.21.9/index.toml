@@ -9,6 +9,10 @@ file = "config/defaultoptions/keybindings.txt"
 hash = "f175423ead16e1ecb7664efed31ba0b786b5534d7b7fa64527a302129df13843"
 
 [[files]]
+file = "config/ferritecore.mixin.properties"
+hash = "3817e94107bb1c7358beebb80b1810e822de38be430f855cf14828c38018e8e2"
+
+[[files]]
 file = "config/immediatelyfast.json"
 hash = "7332aaf0769b81e5dfc0f4dc4fa5fcdc56e98811b75214e44ce2d06558e69712"
 
@@ -63,6 +67,11 @@ hash = "b0df40e07391a60294d7bffb9772cabe8096d61c41c8680fbfad927d3a6a5a6b"
 [[files]]
 file = "icon.png"
 hash = "7ed2443085370e3427bd3e803037356811af68ad3fc131947a89cc89f2103fc7"
+
+[[files]]
+file = "mods/animatica.pw.toml"
+hash = "7749a788cd34e08e2280dc5e05db1bbf375d7a184d787f682f7df19709a754e3"
+metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
@@ -160,10 +169,6 @@ hash = "fbf9806c22ee5bccbe08f7dec15b742f5ae3a70caf186d6dce0d42f28790f559"
 metafile = true
 
 [[files]]
-file = "mods/ferritecore.mixin.properties"
-hash = "3817e94107bb1c7358beebb80b1810e822de38be430f855cf14828c38018e8e2"
-
-[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "d1c04594b4545c8435d30e36f76010d29d0fc878569bc2ec011a064cffac3253"
 metafile = true
@@ -241,6 +246,11 @@ metafile = true
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "204a4b3b041fad4bb4dc543c74d540fcf239710494d2130cebe700bf1d8a7805"
+metafile = true
+
+[[files]]
+file = "mods/optiboxes.pw.toml"
+hash = "b784fd0ae4d145a0e6caa0d236310bfc8bd3965fac5b06206a8d28ce355fbef4"
 metafile = true
 
 [[files]]

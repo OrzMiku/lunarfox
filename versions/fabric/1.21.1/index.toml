@@ -500,13 +500,8 @@ hash = "b4490e3459ef892bbb69d72d877100a2333e6df147cc4ceac4289529706011c9"
 metafile = true
 
 [[files]]
-file = "mods/nuit-interop.pw.toml"
-hash = "533cc65290311d51c42bfa7a5a700254db6401ae5a90829fb7863b17db9665d1"
-metafile = true
-
-[[files]]
-file = "mods/nuit.pw.toml"
-hash = "c78c2d26feb460adb112cda9ec5073f8968298f1d215eb8679fd67f55f3c3124"
+file = "mods/optiboxes.pw.toml"
+hash = "c3c0af49a34f2ea66faaf78b08f9b8858bbac60d5aca3b85542d45697bb53e36"
 metafile = true
 
 [[files]]
