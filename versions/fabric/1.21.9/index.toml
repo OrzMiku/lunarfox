@@ -83,6 +83,11 @@ hash = "2387b742878d652c205125f9c6385c9fae7d6a000f5603130721f4257c617875"
 metafile = true
 
 [[files]]
+file = "mods/asyncparticles.pw.toml"
+hash = "134239bf414c7d225e6c504de957981545f15b55aee9cd62680ee67571a4eafe"
+metafile = true
+
+[[files]]
 file = "mods/axolotl-buckets.pw.toml"
 hash = "2a138f455ec59c5be9d421370d8e168279fb94833c62d76db06431e429377be4"
 metafile = true

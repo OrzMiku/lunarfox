@@ -126,7 +126,7 @@ metafile = true
 
 [[files]]
 file = "mods/asyncparticles.pw.toml"
-hash = "2125df31f2b0cb7c1b410da52f9829a8a2c3c0d73e864f6bf684f266ca128d36"
+hash = "b63b8ffb6bc4e8094f77869ae7509f9fa6425bcde8189ce63e4a259e085b2535"
 metafile = true
 
 [[files]]
