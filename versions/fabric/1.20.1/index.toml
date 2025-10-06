@@ -685,11 +685,6 @@ hash = "73557eda0b75de2724fd3337879c5e05bd7a7c47007de9c318d98644fcffdb4e"
 metafile = true
 
 [[files]]
-file = "resourcepacks/fpbr.pw.toml"
-hash = "40561564775f87e86e3e92abbdeacbdb93d3531421939cea2fc70e4205f32d28"
-metafile = true
-
-[[files]]
 file = "resourcepacks/spbr.pw.toml"
 hash = "1cc27f5b9dfe2a8cd3b8d43df0466b8086300e7cbd516785daf8910cee502f6e"
 metafile = true
