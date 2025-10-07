@@ -85,6 +85,10 @@ file = "config/yosbr/config/tweakeroo.json"
 hash = "61959e34930508cde414a11b937b544727ba3aa18712751b510ad5cec99eebeb"
 
 [[files]]
+file = "config/yosbr/config/vmp.properties"
+hash = "15eec0092ca5c54f97fc46953311e20e63a5eb6bca4672bfec9dae63f61cc456"
+
+[[files]]
 file = "config/yosbr/config/xaerominimap.txt"
 hash = "805d874877e6bb962ac09c250b3d2a084ec599b2242dd1fa36860623c2024890"
 
@@ -131,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/axolotl-buckets.pw.toml"
-hash = "e1907954ddeb38cd40a20da82b5f3938690941dd47b4877fddd8a921a55e1732"
+hash = "b89ac30aa92e1378679d010fae0fbf0834acca099aea381c92123e3c62d40c33"
 metafile = true
 
 [[files]]

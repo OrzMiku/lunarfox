@@ -49,4 +49,3 @@ To make gameplay more convenient and information more intuitive, LunarFox includ
 ## ⭐ Credits
 
 - [Simply Optimized](https://modrinth.com/modpack/sop): Some config files are from this modpack.
-

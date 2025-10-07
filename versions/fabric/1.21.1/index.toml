@@ -85,6 +85,10 @@ file = "config/yosbr/config/tweakeroo.json"
 hash = "61959e34930508cde414a11b937b544727ba3aa18712751b510ad5cec99eebeb"
 
 [[files]]
+file = "config/yosbr/config/vmp.properties"
+hash = "15eec0092ca5c54f97fc46953311e20e63a5eb6bca4672bfec9dae63f61cc456"
+
+[[files]]
 file = "config/yosbr/config/xaerominimap.txt"
 hash = "805d874877e6bb962ac09c250b3d2a084ec599b2242dd1fa36860623c2024890"
 
@@ -131,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/axolotl-buckets.pw.toml"
-hash = "d0cd8ee363b3575642a53827025ceddc28c9a6cc344830d537fb39751cf2a299"
+hash = "a2ed38c7677fea9472f4bbc627583a8bc62e249b2a28ae3334d4e71ef3a32983"
 metafile = true
 
 [[files]]
@@ -366,7 +370,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "5284f6d141a990f4ea021c12b851e07102f5cb22743cf7b33be6ad2eb4c8d3f5"
+hash = "f5ac68b83e80fdd63305249b24c37c2cd4e63e7ec2df57273e5ea63a6fb90934"
 metafile = true
 
 [[files]]
@@ -416,7 +420,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "972db8c2fec6fb2f3545554062d4cd19364778e30d8f079221fe0d459efa8517"
+hash = "39f015c5e2751cd535e79abb713a08595a6abdfe1517ef29fb62b97f6aad591c"
 metafile = true
 
 [[files]]
@@ -466,7 +470,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "fa01d0d1b480410d3b46647b676849a7c266a9a9c0fdf444cbf80eb56a559d92"
+hash = "66172293a5b8ff56d1c91a7e47f5f448cc75cc84ffe6bc59a9d807b777901a14"
 metafile = true
 
 [[files]]
@@ -501,7 +505,7 @@ metafile = true
 
 [[files]]
 file = "mods/optiboxes.pw.toml"
-hash = "c3c0af49a34f2ea66faaf78b08f9b8858bbac60d5aca3b85542d45697bb53e36"
+hash = "72b681e03512f887c070f14fda0d5e433d262764102c80ed49d7b209f17a688a"
 metafile = true
 
 [[files]]
@@ -566,7 +570,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "59943cbd2c0e4e90f65002e17704bca571acb09b095fc69fdf430df4bfd42870"
+hash = "a03131d900bd6ffbfec8b50d286642b1ce60754ea21cca99ee9862aa9bc01fe1"
 metafile = true
 
 [[files]]
@@ -586,7 +590,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "1af09f16a643df0f61f2c799e981aa0b8c109999f0784584a6eff9a81f1c00c1"
+hash = "e5b5e4bfdacec2346c68dd3a65bee5733575885b4e574c0916ef41d4c30bf70b"
 metafile = true
 
 [[files]]
@@ -596,7 +600,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "be0c8881821da897824770b2a71f0f3765a233eda69b295fa5b92ffe8a25014c"
+hash = "b8b356cf4b2b7fdf37bdbe4cf6a0b7695ed2efb96225d70b21f252aa640a371a"
 metafile = true
 
 [[files]]
