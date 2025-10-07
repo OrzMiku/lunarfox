@@ -1,0 +1,13 @@
+name = "Resource Gamma Util / Fullbright"
+filename = "resource_gamma_util-neoforge-1.21-1.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/X8jWsfhs/versions/wn9s0A6p/resource_gamma_util-neoforge-1.21-1.1.0.jar"
+hash-format = "sha512"
+hash = "04500c4ca95013d861f77fd2b7344085f531797d4bc42af4f93f494daeb4b82e9df64f1eb9fb0986c8d53e4ec86c1fd6d35295010d844f95af3e115d34cc20a9"
+
+[update]
+[update.modrinth]
+mod-id = "X8jWsfhs"
+version = "wn9s0A6p"

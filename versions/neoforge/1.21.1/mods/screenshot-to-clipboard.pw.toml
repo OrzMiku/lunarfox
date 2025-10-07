@@ -1,0 +1,13 @@
+name = "Screenshot to Clipboard"
+filename = "screenshot-to-clipboard-neoforge-1.0.10.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/1KiJRrTg/versions/tnP4eg1K/screenshot-to-clipboard-neoforge-1.0.10.jar"
+hash-format = "sha512"
+hash = "70621a29e84be664eabac05f5fc08f3960726e1311dd29de9bb88c104dea3f49f481f02cef24cae0d44608b4b3b6c4102fea8b2093b4f0cf97611316866ae547"
+
+[update]
+[update.modrinth]
+mod-id = "1KiJRrTg"
+version = "tnP4eg1K"
