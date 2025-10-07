@@ -119,7 +119,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "058cc1595af8525f99ef777de3976429e53fe4bb902ad12a37bb77eb78640b62"
+hash = "cc6214db776bf19e920ba42ff6add6a9e61ea1e37dc8445607d40af90525c8eb"
 metafile = true
 
 [[files]]
@@ -150,6 +150,16 @@ metafile = true
 [[files]]
 file = "mods/dynamiccrosshair.pw.toml"
 hash = "cb5c2bc15630325b7b91300bcdbb05226076b4b88170c84be6c1bf79938fea76"
+metafile = true
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "d980c9bbc31a2fbac6070ed2c8992e2f1527839c54c4299d7a52f015775d8067"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "9a816f2d1841566fa111d67830df9e429df90c1e77eac417f01aea1a9047def8"
 metafile = true
 
 [[files]]
@@ -209,7 +219,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "ac9c6e202635d1ceccdf7171efd671196f02c1710ab99b2014e0139fdfaedfaa"
+hash = "5f40e2db6037f733566c81e8f11ca3c425d738eb5a182658691f36d041b5df40"
 metafile = true
 
 [[files]]
@@ -229,7 +239,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "70dc9abe83d7c369d9c349f8b5a188984de24d1e98d282fdb173bf06b845a76b"
+hash = "03436f3158e885ebe51f15a98e0afe611bd3391ad21f92b8ac7a185afb9d36c9"
 metafile = true
 
 [[files]]
@@ -329,7 +339,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "f8c67471f32a356deb0474b40e2fb6c6ecb84613c60b9e041ed3c93daa59e1d2"
+hash = "f02d3285dca053b6929b4e3ce1090cca7614a74829b9dfd2788f9fbf2a26a00a"
 metafile = true
 
 [[files]]
@@ -414,7 +424,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "cda12f0c41211fe258dde1329d3da2789416a2d3d1417119b6a3670b554fa559"
+hash = "993390d4661a77aa83c8416f75addfccaf7cee0a7a7311a21742b2036700b5ac"
 metafile = true
 
 [[files]]

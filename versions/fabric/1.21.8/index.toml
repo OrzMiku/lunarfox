@@ -333,7 +333,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "9956538040762161a154ff7b3e462703c2ae42f40be16a8624f75afc4a85338b"
+hash = "14460a9682f6a82e23a6defba45bef3277690461d0b2b7a232d76a55bb535c6d"
 metafile = true
 
 [[files]]
@@ -602,7 +602,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "d67badb4e995bc340548af8cb784af656bf9ec4b56778056747b207fe521f4ae"
+hash = "b75490061338c12c1c8b7f325ce3f8bdb04c49e2ae27d2625a7782e645ce9b7d"
 metafile = true
 
 [[files]]
