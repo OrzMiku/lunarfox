@@ -73,6 +73,11 @@ file = "icon.png"
 hash = "7ed2443085370e3427bd3e803037356811af68ad3fc131947a89cc89f2103fc7"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "ea517969944456d1444d7ef97c85e4b75d2161663cf719f0992d5e679a56923a"
+metafile = true
+
+[[files]]
 file = "mods/animatica.pw.toml"
 hash = "7749a788cd34e08e2280dc5e05db1bbf375d7a184d787f682f7df19709a754e3"
 metafile = true
@@ -128,6 +133,11 @@ hash = "368b538e311c20808f1914e79813285259715b6cebee22484c53be233e1e8553"
 metafile = true
 
 [[files]]
+file = "mods/chatanimation.pw.toml"
+hash = "783d509d7069d90ca34641f64936fc0eba7b974f0209e40a7ce915e4436e3309"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "ab92afc9c86b581a10eb4e8dc52a3640deeb6d03fb662f6f53b2a21e87d74405"
 metafile = true
@@ -155,6 +165,11 @@ metafile = true
 [[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "d980c9bbc31a2fbac6070ed2c8992e2f1527839c54c4299d7a52f015775d8067"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "15c1503ad4b832881e1f33550c1f613dc414d06d138a9362ebe5eaf949100d1c"
 metafile = true
 
 [[files]]
@@ -305,6 +320,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "dc24a4cc0ad484d6593997c197ea602fac4d98c45dab0de6421e704c3851acd9"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "c25952ddfaeb2c72f927d27c31d8d5fdf3bb391745c27a8f08397cf5664beeda"
 metafile = true
 
 [[files]]
