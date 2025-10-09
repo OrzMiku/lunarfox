@@ -94,7 +94,7 @@ hash = "7ed2443085370e3427bd3e803037356811af68ad3fc131947a89cc89f2103fc7"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "ae6352055ac8adb36b9e4d2ae6bbc996e040399d032bc4a9fa5275c1c46dbf60"
+hash = "2df4615c3f5ac698e96bdf6eb75d942135d4d8cf914c611ad802956b4d7c1edc"
 metafile = true
 
 [[files]]
@@ -199,7 +199,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamiccrosshair.pw.toml"
-hash = "d7ca6eaf1169273edc6c1f76d5563dfe2aa3b2605cab47e2df9e49dc0dcbf618"
+hash = "0603752f5a3db14a380597c84cdb80c3b66564a69d8c7f5c4f1d35c4f2a32924"
 metafile = true
 
 [[files]]
@@ -209,7 +209,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "65026277699cc4b73c3d2c57ab7aad5173f161c0d6ff95e184911826387dbdec"
+hash = "2355aae21dc167cf3af34b83ed642b23b314eeea825ed56705467e2548b2ba4e"
 metafile = true
 
 [[files]]
@@ -259,7 +259,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "e00b467d81fc5f35bf7432bc3b5d371281b0719eeae4377854a5f8ca33968190"
+hash = "11c4ac6932c14f3ad5a2c63d7f39eee1e9a2a91ffc079d5bd917c9aa381abdfb"
 metafile = true
 
 [[files]]
@@ -284,7 +284,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris-shader-folder.pw.toml"
-hash = "cae94d93997fb33af7c0341bda1358296364b65b5c25c5fd2c35ae0f6b6dccd8"
+hash = "3154d2f121a4541aedee9f0de8c97dec732c0e7529314209d0d20a06714ee988"
 metafile = true
 
 [[files]]
@@ -319,7 +319,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "8f98dc21643de26af5b07490f00b16e71b879d5621ac75e682c626bca7ebe1e2"
+hash = "91254776ec0282e526689386e49adf8a0bdec546dcb2c82bb1bb82deb3eef444"
 metafile = true
 
 [[files]]
@@ -394,7 +394,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "8f1976efa9b52279d082c017ca3f745a212deb461f3bc0ae4ca6ed0f2cf7c7e8"
+hash = "0f095c1c6f439da9e865d86f0d798e85a82ab34e915861e5591ac47b56312de8"
 metafile = true
 
 [[files]]
@@ -494,7 +494,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "0822a7272e79691025c45f9d869de9679650b0d7999a42921c154b389193f97d"
+hash = "19e25d8deb8795baaf15837c482f1cd62a7da91db497ba4a49ac8f8ecd49e088"
 metafile = true
 
 [[files]]

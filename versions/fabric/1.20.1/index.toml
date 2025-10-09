@@ -110,7 +110,7 @@ hash = "7ed2443085370e3427bd3e803037356811af68ad3fc131947a89cc89f2103fc7"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "c1e356c39dca0549fd7a88da7f183b7f65cb63dcdd48d120b8dd5b75dbad6999"
+hash = "d438b9daae29919e663386a1ebbca0e53fcfaf3783966d4b594242a386070b99"
 metafile = true
 
 [[files]]
@@ -255,7 +255,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamiccrosshair.pw.toml"
-hash = "27807db7a252bd96f8e1971ee4e84dfe2750a9da47f7742f1b586de208d1242a"
+hash = "f2a92ab561a25a08c2a136f456433ab1fe2b67cc99c9265c3a6189daefd692db"
 metafile = true
 
 [[files]]
@@ -270,7 +270,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "5629568659cd84d843dc94850b34febe025c970f7236a5ee59a67ebb98269a7d"
+hash = "28fd7affac87b7e24f63d17bdf36569ac724c2e46d7a5feec1014dc12aae437e"
 metafile = true
 
 [[files]]
@@ -330,7 +330,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "bc7e199dc865b98387fb460ab134ec17778bdef7977e2f9e5975dbe5326c8b9b"
+hash = "26aabc12649a729a2d5c593fd70ed50933a9fe9c7d16d2bdffa44a2165aa59e1"
 metafile = true
 
 [[files]]
@@ -370,7 +370,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris-shader-folder.pw.toml"
-hash = "e0bdd7e7e4b84149c13e4292b166fd666b7ff09fa930696946b3701c10026724"
+hash = "b28d12c5d80f4d97c1338d9d20ffe0dbb3e3211c7da7644b82164c8011b73202"
 metafile = true
 
 [[files]]
@@ -505,7 +505,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "2b24c4202cb5c7ec741b3015d131a60f67f55117c0d525f2d31adaf8e2f6bd26"
+hash = "4e826fe7655c976067f4ead35c8c9901994ef2593c75f49942f9eac7ba06fb12"
 metafile = true
 
 [[files]]
@@ -655,7 +655,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "ba942e567e6c784e7fb18a19ad0a9ad2c91a955fca9a1bd95c8b9ddb20bf557d"
+hash = "5b6e018747d9b269b339cdb601b555b9bf4949d09fbda1c5a117e75e47a0b9b7"
 metafile = true
 
 [[files]]

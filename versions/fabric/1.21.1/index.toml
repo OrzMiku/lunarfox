@@ -110,7 +110,7 @@ hash = "7ed2443085370e3427bd3e803037356811af68ad3fc131947a89cc89f2103fc7"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "9c2f7b72fb1bbbff1d6913f46d3bdf8135bed00ced2e2e391c89e2caf1ac8ccb"
+hash = "af0d5d3259b37f96b613cd7eb01025c37bb6d2feac2b3b92e0716302f127726b"
 metafile = true
 
 [[files]]
@@ -260,7 +260,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamiccrosshair.pw.toml"
-hash = "d2f5bbca47e69968b4a9555425d73d9a906de02258944a89e8f76955778c1251"
+hash = "e16d6a33648db866dedba7b9f76698025fb5ae4942bb0ea0ed5761135ed0cb99"
 metafile = true
 
 [[files]]
@@ -275,7 +275,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "6a9b4b98f97d594466cb63f91d9f7a960bb008fbeeda4680cc1b312fb2751073"
+hash = "2dbf702bd2cc9d2be307925ca9cecd929c982695df88943492da90c00bda04f8"
 metafile = true
 
 [[files]]
@@ -290,7 +290,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "da9fbdce468fbfa6bd5a7ceb15465780e3e8fda9535d16f40a81343621e627a7"
+hash = "446f8047ee9168b65fe9d4600f82cb915c7aa0d0f049a344177ba340a5b93a8a"
 metafile = true
 
 [[files]]
@@ -325,7 +325,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "5390b58bdcd06b724b38b9ddebc1ac6a1d4da60864cf6ea66ab3974842f1f4f2"
+hash = "d8cdb69801ff0ffdf8c9cf6834dd592ca79ce1da139d303f8d17a62afec1abe2"
 metafile = true
 
 [[files]]
@@ -365,7 +365,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris-shader-folder.pw.toml"
-hash = "e0bdd7e7e4b84149c13e4292b166fd666b7ff09fa930696946b3701c10026724"
+hash = "b28d12c5d80f4d97c1338d9d20ffe0dbb3e3211c7da7644b82164c8011b73202"
 metafile = true
 
 [[files]]
@@ -400,7 +400,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "9f35af0ec053a74989dec99c6459a26f833619a54fa9a7ed659661db19baaa9a"
+hash = "27dd5376d1066a9b56838826441027ef1938c5a66bf2c209fc81fdc03cf13ed1"
 metafile = true
 
 [[files]]
@@ -500,7 +500,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "b4490e3459ef892bbb69d72d877100a2333e6df147cc4ceac4289529706011c9"
+hash = "595ef67d613720a3195b2ec2b34e7653d4db1ba4c31083c9643475c9d2442237"
 metafile = true
 
 [[files]]
@@ -650,7 +650,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "b176bdd72506421277e6ab3fb253164e3c8d2626786eff2ebb783d23c5a11398"
+hash = "8df65c0e64647624cc52f3ca568ad902bee66a64d475c3d22d538dd101875d35"
 metafile = true
 
 [[files]]

@@ -98,7 +98,7 @@ hash = "7ed2443085370e3427bd3e803037356811af68ad3fc131947a89cc89f2103fc7"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "7cfd3485931eb237e346fbda606b4b28663e9d3b3efa56d37c69355681f0a1d8"
+hash = "4b1f2d6f56ba1ed1487e199e48fd5bce91059beaff096759109d8448930df54f"
 metafile = true
 
 [[files]]
@@ -293,7 +293,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "35476f21ef1352e2f0d155e5810eb93d00c1c85bc455e5f1d92cb3d727a551f3"
+hash = "bc4f9441d69eefd3d48ed921338fbad1d24d0ecc671f755a83de0ad9f6418d3c"
 metafile = true
 
 [[files]]
@@ -328,12 +328,12 @@ metafile = true
 
 [[files]]
 file = "mods/iris-shader-folder.pw.toml"
-hash = "e0bdd7e7e4b84149c13e4292b166fd666b7ff09fa930696946b3701c10026724"
+hash = "b28d12c5d80f4d97c1338d9d20ffe0dbb3e3211c7da7644b82164c8011b73202"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "14460a9682f6a82e23a6defba45bef3277690461d0b2b7a232d76a55bb535c6d"
+hash = "31317b23606dc75752cd2c8994db3b750c1cb33517c6e02670887c345ff6226d"
 metafile = true
 
 [[files]]
@@ -363,7 +363,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "82b9b371b4c32c61811f7f8457d822458dce431e5d5691a05cc9f9a8f2167635"
+hash = "8be24633e3f72f1410382971717859d39838c93f96a92ce0e674631b51c1306d"
 metafile = true
 
 [[files]]
@@ -452,7 +452,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "b521c8ea3afe47d24a2acb56dbb63452f7940d120d829649bab0efada2e25983"
+hash = "92f64b12518b796bc846725c9143dc91237e42e0d5ffc6aba779e0d93f9f77b4"
 metafile = true
 
 [[files]]
@@ -532,7 +532,7 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-scroll.pw.toml"
-hash = "5c0923600d08edff1f15ec69c4ab5b2cd96c69024483fa6793147f94ded98315"
+hash = "b1f6b652c98f6b02f2f3435be7b51f999ab96a125fe482057a32aaefa0a1ee88"
 metafile = true
 
 [[files]]
@@ -597,12 +597,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "c497dbba63c5984ac7c437db98fd881c22fa3693dda7ebf3861559b90ecf17f3"
+hash = "f92e17c358b6d687c1aaccc816d879478e9c179cd55682896cea36e88e5f90fa"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "b75490061338c12c1c8b7f325ce3f8bdb04c49e2ae27d2625a7782e645ce9b7d"
+hash = "fecf65fa9d0ba17366ced7706d3fdd3ba8cdef06a29243fa0f2a86d973a86d32"
 metafile = true
 
 [[files]]

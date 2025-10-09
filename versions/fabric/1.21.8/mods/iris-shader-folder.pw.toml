@@ -1,13 +1,13 @@
 name = "Iris/Oculus Shader Folder"
-filename = "iris_shader_folder-1.2.2-fabric.jar"
+filename = "iris_shader_folder-1.2.3-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/yv6sGJzN/versions/GeMNIFA8/iris_shader_folder-1.2.2-fabric.jar"
+url = "https://cdn.modrinth.com/data/yv6sGJzN/versions/wioFUxFU/iris_shader_folder-1.2.3-fabric.jar"
 hash-format = "sha512"
-hash = "948e8ffefcf70a7b804ecaf9bb29fb3a95367be677479daf5a8fe25cd0b65a8d1791dba15b178470bdef90b92f4b607665911731826ba979624067ac68621f50"
+hash = "c1ca0697ac266f64ae7548c2d3616d4311cf6f948a084bc6e8eb2f70ac151a01fe2f84f82c5111e23d3fb653039d0db56b202f850b6118a1ac6e2c26d3ebccc5"
 
 [update]
 [update.modrinth]
 mod-id = "yv6sGJzN"
-version = "GeMNIFA8"
+version = "wioFUxFU"
