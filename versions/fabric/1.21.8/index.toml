@@ -94,7 +94,7 @@ hash = "7ed2443085370e3427bd3e803037356811af68ad3fc131947a89cc89f2103fc7"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "4b1f2d6f56ba1ed1487e199e48fd5bce91059beaff096759109d8448930df54f"
+hash = "c71213885593728467f9063ac63c1ba54912732a243a3d1c30f809bcc014d166"
 metafile = true
 
 [[files]]
@@ -124,7 +124,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "41e6890a099b1c7b9739b83b483833ff2509a164158b5f802778433b5a5f44f9"
+hash = "e15eb47019c1372379817862e66999aa3eb4dedc5661fae902147b15201c8054"
 metafile = true
 
 [[files]]
@@ -249,7 +249,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "d2329cce5d2bfe56f6b7b600514f8bbac17270ccd8e48179de75c8c8f1d5a382"
+hash = "30897864e2380066d897fe2387db57ce3cfe1753ddb9cff4437d0888ad448fae"
 metafile = true
 
 [[files]]
@@ -270,11 +270,6 @@ metafile = true
 [[files]]
 file = "mods/fast-ip-ping.pw.toml"
 hash = "c9babfbb0db58f9edfc38666af8ef4ce24fe0cd0594d3c421bb51410fb6c3fa2"
-metafile = true
-
-[[files]]
-file = "mods/fastquit.pw.toml"
-hash = "3959d60960d97b019d81945ebfd38ed498649b31952e84404b365730c9facb6f"
 metafile = true
 
 [[files]]
@@ -329,7 +324,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "31317b23606dc75752cd2c8994db3b750c1cb33517c6e02670887c345ff6226d"
+hash = "8d40436970d9adcfe3c0b72c9f0cd1af217948469b091b0f07ca3df187ce2e61"
 metafile = true
 
 [[files]]
@@ -359,7 +354,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "8be24633e3f72f1410382971717859d39838c93f96a92ce0e674631b51c1306d"
+hash = "6d22f43de51951982fc2624eeaa95e44ca082c201c9a020eaf75facbcfe5ded1"
 metafile = true
 
 [[files]]
@@ -543,7 +538,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "2edb9b80b26d7f7d2f3b2edc82a33838906e6be25382aeaf186fbb25dc07e4f8"
+hash = "780646258386fccb6c92851e13dfb32b5d85cae9596ce6c829894b179245e64c"
 metafile = true
 
 [[files]]
@@ -632,7 +627,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "bbe520e5f0167445fee64ee8eb90ba0b8921a898be12251464de022687539203"
+hash = "6bc81a7a9661255f377d079cbf140771a20cac5989f80d0e531ce3bc49d16dd2"
 metafile = true
 
 [[files]]
@@ -655,7 +650,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "71e317f0a005cf96c85d2a917c59f166adf2c9e027ed2ea7fe5fcd2686577965"
+hash = "531a8d239c952428d9a633ff99cb03461656ada28decbe2e1ef19f60f7fd5726"
 metafile = true
 
 [[files]]

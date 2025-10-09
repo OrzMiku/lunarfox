@@ -1,0 +1,13 @@
+name = "Boat Item View"
+filename = "boatiview-fabric-0.0.7-1.21.10.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/BdKIyOLe/versions/wRxhoGia/boatiview-fabric-0.0.7-1.21.10.jar"
+hash-format = "sha512"
+hash = "b2fcd49c01b2ccfaa55336d5fbdaa7ba663e1c3813c4364fee1660d833cce14cd1479e61a715f35ae1f8d61ae9a4d903075baa3e20a348384090d8523dbc17ab"
+
+[update]
+[update.modrinth]
+mod-id = "BdKIyOLe"
+version = "wRxhoGia"

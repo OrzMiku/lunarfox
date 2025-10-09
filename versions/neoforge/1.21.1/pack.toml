@@ -1,12 +1,12 @@
 name = "LunarFox"
 author = "OrzMiku"
-version = "1.2.1-alpha.1+mc1.21.1_neoforge"
+version = "1.0.0-beta.1+mc1.21.1_neoforge"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ab0cfc8b50af17c9779251fbf4cd27db7832fb36bf14d700d607868f06455ff2"
+hash = "60d756bbd976fcb87ea5655bbd8813f3add2eb21c36f61451e6abf5dd4ba86b9"
 
 [versions]
 minecraft = "1.21.1"
