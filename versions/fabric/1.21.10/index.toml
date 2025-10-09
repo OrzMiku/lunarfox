@@ -25,10 +25,6 @@ file = "config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "8fa033afa83e6b5123c11bb293b0a5e632b4f76b2ca7d651350179fd435462c9"
 
 [[files]]
-file = "config/iris.properties"
-hash = "0da4eb518c2242dafe6e5dafc05b004211164b1ffa4e8a96fa3decfb693137ef"
-
-[[files]]
 file = "config/iris_shader_folder.properties"
 hash = "1a5d6fcabb22ac0718408b7ff05e298e719ffe855586df320bf0acbe6d3d0581"
 
