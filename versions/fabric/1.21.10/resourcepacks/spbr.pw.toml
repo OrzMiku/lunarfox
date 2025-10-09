@@ -1,0 +1,13 @@
+name = "SPBR"
+filename = "SPBR-18_6.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/aNcOVoD7/versions/v4UQZd3s/SPBR-18_6.zip"
+hash-format = "sha512"
+hash = "b8541d239bcd10a949f1a00cf1ce766efba43f9ab98df4c280453e02530191ac8242b7ecc1edf75ead92adfc2c4d72a92c2c0ead1198124ac4a7d820ef803f85"
+
+[update]
+[update.modrinth]
+mod-id = "aNcOVoD7"
+version = "v4UQZd3s"
