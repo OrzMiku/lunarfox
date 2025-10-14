@@ -145,7 +145,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-neoforge.pw.toml"
-hash = "fb581f4561eb20004b1f4b3f771d44d1b6761bf96cefa5f5f558538d17218858"
+hash = "e68d01419e507a29e238603aeb78782db118aee24719f12cc46f6838366f7ef8"
 metafile = true
 
 [[files]]
@@ -185,7 +185,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "f4aa70c2315772ec1887668417d3d736664a732e05b39ffb78e7d5bfeffc19c1"
+hash = "3f8fb0012b658c3ed2dfcde1385aa6255ee46cd18b77975d68665aaf0ee2a94d"
 metafile = true
 
 [[files]]
@@ -245,7 +245,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgematica.pw.toml"
-hash = "b70498bc2643d57457f87acc676c6249555835b20aa0a24bb0ce81e1fa771724"
+hash = "a8bdefffee0ac7aab23ffd3ffdc2e7ce8a36048828dffdb3ae1911c82d84a1b0"
 metafile = true
 
 [[files]]
@@ -315,7 +315,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "91254776ec0282e526689386e49adf8a0bdec546dcb2c82bb1bb82deb3eef444"
+hash = "941504ab833a0757f600bda4c49422ec35c05ffe90b354b7becef94fb970a2fd"
 metafile = true
 
 [[files]]
@@ -390,7 +390,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "0f095c1c6f439da9e865d86f0d798e85a82ab34e915861e5591ac47b56312de8"
+hash = "9b805eb4544a870d750083a7e5d478b24668906f4887b581bf45d2fa1a854516"
 metafile = true
 
 [[files]]
@@ -405,7 +405,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "f43dc710d1a35ddad173ef7ac96464c53bf01c1966d607c442e17f4d108e98da"
+hash = "d735e9cc5652e654cfa85bd42c43b5f91d9ed96f008cdefe258f827dbda195c5"
 metafile = true
 
 [[files]]

@@ -81,14 +81,6 @@ file = "config/xaeroworldmap.txt"
 hash = "b0df40e07391a60294d7bffb9772cabe8096d61c41c8680fbfad927d3a6a5a6b"
 
 [[files]]
-file = "config_todo/fabric_loader_dependencies.json"
-hash = "f788e197bc3747396e012c03128935c3a07eb05b754283f873811b33cdb17c21"
-
-[[files]]
-file = "config_todo/modernfix-mixins.properties"
-hash = "132d49783f7a0c8d656a7426538ec38bc3a0cef08c0b3475f694ad0b4981bf09"
-
-[[files]]
 file = "icon.png"
 hash = "7ed2443085370e3427bd3e803037356811af68ad3fc131947a89cc89f2103fc7"
 
@@ -144,7 +136,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "cc6214db776bf19e920ba42ff6add6a9e61ea1e37dc8445607d40af90525c8eb"
+hash = "c180c2a83a5b1b54844f0dc425483f853e02aa2b248c1be2003c4384be68a231"
 metafile = true
 
 [[files]]
@@ -189,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "10fa57330bad3b0f12bdbaa5e0abf75b1b515ae7937fa18fcaabb51f3abc762a"
+hash = "a43e3d76464a16015d62ba08d51da734f92377f0889c3984656d6d5739d284b2"
 metafile = true
 
 [[files]]
@@ -234,7 +226,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancy-toasts.pw.toml"
-hash = "61bd8713e4952d02d78a04d1ca2176652c76f2d54fd6b32a93ee2fa750e442e1"
+hash = "5c698f26eff65b8f2b5aff2f83d5bb1f83a0726bca7af3250d75ea6a8eb284d3"
 metafile = true
 
 [[files]]
@@ -304,7 +296,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "03aeb028187b13a940b7140789a7701febaacfb8fbad9fcbd6344c197df31f7e"
+hash = "f4746201eea639c760fd6cb077b71dece4c1d3936c19e49544b77856d27495bd"
 metafile = true
 
 [[files]]
@@ -329,7 +321,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcwifipnp.pw.toml"
-hash = "3f852c115556761d65fe30aa23c31a5b1ad91cd351b0065eca7559bfa252d733"
+hash = "aaa169c1cc11a2b1a16f80c6fc6fb554327d610a01f5bfcc4223c81aa0b4ae75"
 metafile = true
 
 [[files]]
@@ -340,6 +332,11 @@ metafile = true
 [[files]]
 file = "mods/minihud.pw.toml"
 hash = "e53b471d7fb0fbbb6285b25c161076306669abf09920e92d538a3417a4c33ffd"
+metafile = true
+
+[[files]]
+file = "mods/modelfix.pw.toml"
+hash = "b261880bd245c83c51b729199452da12b0766a4aa0210fc79d0c48161cbfcc49"
 metafile = true
 
 [[files]]
@@ -363,8 +360,17 @@ hash = "70d7b2bca719eca2b3a1447228b868abdc633c38121652d49f4e34380c44339d"
 metafile = true
 
 [[files]]
+file = "mods/noisium-fabric-2.7.1+mc1.21.10.jar"
+hash = "07297de5b82cfd359f6961d31cb209f8746ca220b2e3ca8fff9dd858795b46fd"
+
+[[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "c25952ddfaeb2c72f927d27c31d8d5fdf3bb391745c27a8f08397cf5664beeda"
+hash = "6f3f35bbcdbd628e446ab49565521374a75d2a6897e0fae745b10d44e6f94210"
+metafile = true
+
+[[files]]
+file = "mods/optiboxes.pw.toml"
+hash = "3b2913fc75916a0fba87bdc0e5aa962fa25d86fd2cfb28543667a62add3311e8"
 metafile = true
 
 [[files]]
@@ -419,7 +425,7 @@ metafile = true
 
 [[files]]
 file = "mods/searchables.pw.toml"
-hash = "65622f61eede9486cbe0018629ff863a8853178e68f2b562f5d9a05efa35f22d"
+hash = "5ae220cfbb26641c68740ad0166c78f353680886fc28087e63bf07280a47ddbb"
 metafile = true
 
 [[files]]
@@ -445,6 +451,11 @@ metafile = true
 [[files]]
 file = "mods/status-effect-bars.pw.toml"
 hash = "9a0d53217201df1a02fd2c4db95b61136da9b94e734876fe63116f4811538ed5"
+metafile = true
+
+[[files]]
+file = "mods/stendhal.pw.toml"
+hash = "7c8590d2228acc18559c18767b83781cea7318cf36edbf0ee01aeca4a814c4b1"
 metafile = true
 
 [[files]]

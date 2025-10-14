@@ -246,7 +246,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "f4aa70c2315772ec1887668417d3d736664a732e05b39ffb78e7d5bfeffc19c1"
+hash = "3f8fb0012b658c3ed2dfcde1385aa6255ee46cd18b77975d68665aaf0ee2a94d"
 metafile = true
 
 [[files]]
@@ -366,7 +366,7 @@ metafile = true
 
 [[files]]
 file = "mods/itemswapper.pw.toml"
-hash = "ebd94b8bfb8311751156d84bde9e998f98072e87952ef6e6e66d60fa2ac2bcac"
+hash = "d2f924647d581fb95f010718057731b13954314b8b641b2c2b736c88783b0c8e"
 metafile = true
 
 [[files]]
@@ -391,7 +391,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "27dd5376d1066a9b56838826441027ef1938c5a66bf2c209fc81fdc03cf13ed1"
+hash = "4b59a8b17efe6be075d79e1bd35c4d83d1313a0716a9e56f4173d1cf7ba210d8"
 metafile = true
 
 [[files]]
@@ -491,7 +491,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "595ef67d613720a3195b2ec2b34e7653d4db1ba4c31083c9643475c9d2442237"
+hash = "2871c04e9f62e7ec4bd65bb225bf4e331b27337b186ad1c781d100c470a56414"
 metafile = true
 
 [[files]]
@@ -526,7 +526,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "d5e0c3a22bd7bf226096a9136f69488a68734b83b56130bdeb83608daef59700"
+hash = "34052231ff82dcbed2bd0aa00a8bda38209131b91b08818198544a7036018dcc"
 metafile = true
 
 [[files]]
