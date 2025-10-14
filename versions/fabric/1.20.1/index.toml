@@ -126,7 +126,7 @@ metafile = true
 
 [[files]]
 file = "mods/asyncparticles.pw.toml"
-hash = "353bd5d3f9f011d601aa7827b8bfd564be44f1d9a92ba15bb89645108d3dfcc3"
+hash = "8571b0c1d5853dc97054b25f596fa9cc37e0309cdbcf3cee103dce6389f45a41"
 metafile = true
 
 [[files]]
@@ -241,7 +241,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "c3344547e6f8921b4a40e470cdb51f6cf9468462e68d9e3f9e5c79fcb57e957f"
+hash = "c5ea75feae4d340856611f78a29e6f1f0b7e707bfe43847f11d25fac1769dee7"
 metafile = true
 
 [[files]]
@@ -266,7 +266,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "28fd7affac87b7e24f63d17bdf36569ac724c2e46d7a5feec1014dc12aae437e"
+hash = "fc2a74fbafdb73e3e087fa3861ceb0c64b88d0771555ed5bef08a84f6cfed481"
 metafile = true
 
 [[files]]
@@ -276,7 +276,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "30897864e2380066d897fe2387db57ce3cfe1753ddb9cff4437d0888ad448fae"
+hash = "68d83de0de41e1f28165a6dbd932319e8c8b46461b6a0fecf2dd3360091d34b9"
 metafile = true
 
 [[files]]
@@ -371,7 +371,7 @@ metafile = true
 
 [[files]]
 file = "mods/itemswapper.pw.toml"
-hash = "80142e073c7ae514d9080ac82f355142d6521824e5570a667737f7484c09aba1"
+hash = "f2a6eb3b7930b3660eead0e41926195c1fd94cf0dd5aa19ccae4016be15d430d"
 metafile = true
 
 [[files]]
@@ -496,7 +496,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "fcfe6053190ca76ca25c2eee7c18f632b393aebea83479f30d725c1aed8f0511"
+hash = "89ed99a0798a5e1300434359762c968536593279493f68b321a565fb1343f75c"
 metafile = true
 
 [[files]]
@@ -646,7 +646,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "5b6e018747d9b269b339cdb601b555b9bf4949d09fbda1c5a117e75e47a0b9b7"
+hash = "49597820a980c3f6154166c39d5a971f729fd260a209d480f0aac0a9ec89bfa6"
 metafile = true
 
 [[files]]
@@ -686,7 +686,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "6bc81a7a9661255f377d079cbf140771a20cac5989f80d0e531ce3bc49d16dd2"
+hash = "998f4b45ce632d9fbba226163e0bb51c52721d9031c0f24fb5f88299e4e2f7eb"
 metafile = true
 
 [[files]]

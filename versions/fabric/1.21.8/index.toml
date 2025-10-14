@@ -109,7 +109,7 @@ metafile = true
 
 [[files]]
 file = "mods/asyncparticles.pw.toml"
-hash = "0caf363401ca978fb314a16bbee158c83be45b4e054fcac1a648560bd1a059da"
+hash = "a1aee1a390e64a3c5cd7ba20fad7c451f00daba64b8bda0060635eca4b00f5d5"
 metafile = true
 
 [[files]]
@@ -219,7 +219,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "192fcf50ff44dee01b4053041667a779b8998d5f31425e2fb18d1a990d81d456"
+hash = "547fcb6481c2cf682b9de98f0a719d27f0ba896d7b06076f2135f2abd470aea6"
 metafile = true
 
 [[files]]
@@ -239,7 +239,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "dff937930734d00e3cd2c644d20d5015df3ad53cc9d23fae2704326774cadbad"
+hash = "f4803f468da3dc0c469bed07e4fbac01377a8f0fe7646a08f92271e23aa96175"
 metafile = true
 
 [[files]]
@@ -249,12 +249,12 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "30897864e2380066d897fe2387db57ce3cfe1753ddb9cff4437d0888ad448fae"
+hash = "68d83de0de41e1f28165a6dbd932319e8c8b46461b6a0fecf2dd3360091d34b9"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "89bd18325ea4e74dd81f9c70ed2105a070d40a109bd78ae74542fa1a3935908f"
+hash = "dae294bc7e60c5052b3c705bc15e4b2ebc1af7465e294c4f9824a4b63719475b"
 metafile = true
 
 [[files]]
@@ -329,7 +329,7 @@ metafile = true
 
 [[files]]
 file = "mods/itemswapper.pw.toml"
-hash = "3c87eda24f779da5cfa0695aa67eede47f130caaeb3f3cba6e02d441c7a18502"
+hash = "f66b919f18768c00dc8ab91a2b3fc07ba80383751a5d051722eaeca315f59ef1"
 metafile = true
 
 [[files]]
@@ -349,7 +349,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "6d22f43de51951982fc2624eeaa95e44ca082c201c9a020eaf75facbcfe5ded1"
+hash = "50bb2faf115cc4a527e8253cf7abb33f3535fa3441547ec1c0776966393dcdf1"
 metafile = true
 
 [[files]]
@@ -379,7 +379,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcwifipnp.pw.toml"
-hash = "aa381136f919672389f5dc2cb16147351edd3efc60b8d53eeed1a08a02f33481"
+hash = "7fd360daff0347ae49f8e8a5bfbb0a99254b53da3701b6884af2add6e0972772"
 metafile = true
 
 [[files]]
@@ -438,7 +438,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "92f64b12518b796bc846725c9143dc91237e42e0d5ffc6aba779e0d93f9f77b4"
+hash = "1b4530e79094030db3fcf262af621e5ebfb5036f70dfc39c3a2c9010357ceb0d"
 metafile = true
 
 [[files]]
@@ -583,7 +583,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "f92e17c358b6d687c1aaccc816d879478e9c179cd55682896cea36e88e5f90fa"
+hash = "44e71ba421c365f719649bfdfe5b7ae7b235d468cd6e9a5cabaa4572a9c1326a"
 metafile = true
 
 [[files]]
@@ -622,7 +622,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "6bc81a7a9661255f377d079cbf140771a20cac5989f80d0e531ce3bc49d16dd2"
+hash = "998f4b45ce632d9fbba226163e0bb51c52721d9031c0f24fb5f88299e4e2f7eb"
 metafile = true
 
 [[files]]

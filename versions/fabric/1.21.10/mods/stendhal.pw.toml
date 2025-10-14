@@ -1,0 +1,13 @@
+name = "Stendhal"
+filename = "stendhal-1.4.2-1.21.10.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/BWloQ9jK/versions/HO6A4YAV/stendhal-1.4.2-1.21.10.jar"
+hash-format = "sha512"
+hash = "9f2725c069be44183b738898a5efc302b896a599f0a547e1d641f3c1b5634e0e30a2339c44c3d51787476a9b34a956b8e13a37f48e5cb2176ee7216b6cc0d2a3"
+
+[update]
+[update.modrinth]
+mod-id = "BWloQ9jK"
+version = "HO6A4YAV"
