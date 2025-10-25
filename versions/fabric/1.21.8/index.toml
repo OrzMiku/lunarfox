@@ -9,12 +9,8 @@ file = "config/NoChatReports/NCR-Client.json"
 hash = "58c9e639e6458fdcdd201f080187df717242571a32d6406479b7624468ca66e9"
 
 [[files]]
-file = "config/NoChatReports/NCR-Encryption.json"
-hash = "d3a2bc7eb8deb5392488d5be3e9f1a497094df6cd4ae6a3d559e8a476ff528a3"
-
-[[files]]
 file = "config/c2me.toml"
-hash = "e14a109374d2ee13b5a8608d77128ea29f4016a5d2ed9837a7cee85e33410bc3"
+hash = "6cc49905c1c8ff23683cfa9509bfd0576ddf2a315554845286f4f1eb2c4f85d9"
 
 [[files]]
 file = "config/chatpatches.json"
@@ -23,10 +19,6 @@ hash = "0623905a25c9b6c8387f7a6a0256ea005f727c63c689d2cc7cc77f74e912f7e4"
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
 hash = "c9cf254e66b7e55dc9d34dec7c60572298aea3cd9e63cc191f1081cbd1f5848c"
-
-[[files]]
-file = "config/fabric_loader_dependencies.json"
-hash = "f788e197bc3747396e012c03128935c3a07eb05b754283f873811b33cdb17c21"
 
 [[files]]
 file = "config/ferritecore.mixin.properties"
@@ -58,15 +50,15 @@ hash = "435f7811c796b2352fee74985081994d69f881f9f0b6a0499ba39fbc40ee3f0b"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
-hash = "132d49783f7a0c8d656a7426538ec38bc3a0cef08c0b3475f694ad0b4981bf09"
+hash = "5cb23400baacc7b307f687a19b966c0aa6861e7b157167dc02fd416e5a9219fa"
 
 [[files]]
 file = "config/moreculling.toml"
-hash = "31ce8dd1234f6b207bc364149a91f0f6addb87b27d1cfcf86472f0517aa87119"
+hash = "5cf6393f2eb20dc325b389aad51cab186c01a06956013138500de9235da31b0e"
 
 [[files]]
 file = "config/sodium-options.json"
-hash = "099668f0a2e875a916b53865aba1a88bbfc67ba9227b7a6841d44657fa399777"
+hash = "925c54884e5bb35cd962cc021219ee647f30dd68833109d396da9fb8545066f4"
 
 [[files]]
 file = "config/tweakeroo.json"
@@ -143,11 +135,6 @@ hash = "5f13e2470d769f613652ff4378a31c86b5915fe67032c94c1be5aeed06610b4d"
 metafile = true
 
 [[files]]
-file = "mods/better-stats.pw.toml"
-hash = "841012fc0e455651bb637434bce2b0d66f74e4cd16e35a055c6ce3b655f72a74"
-metafile = true
-
-[[files]]
 file = "mods/better-third-person.pw.toml"
 hash = "74c01cc05241bb689fbb6bb7a26aebb4897b272fdbbf33f57c04fc453bfa75eb"
 metafile = true
@@ -165,11 +152,6 @@ metafile = true
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "01c5eb93a204f6b917b21aefd8e1c1268c8c0e63a9b6b34c4173bd7c8ff3dca5"
-metafile = true
-
-[[files]]
-file = "mods/calcmod.pw.toml"
-hash = "e3f48e4cf0b08c8e6d2b91fe79b05a0b6edf2be5de8a6d91f68001a81952a12e"
 metafile = true
 
 [[files]]
@@ -223,16 +205,6 @@ hash = "547fcb6481c2cf682b9de98f0a719d27f0ba896d7b06076f2135f2abd470aea6"
 metafile = true
 
 [[files]]
-file = "mods/draggable-lists.pw.toml"
-hash = "1cf5864e44b2323036f2b5b088e57b29d2c782053a23f97ae65e485e6b77e725"
-metafile = true
-
-[[files]]
-file = "mods/dynamiccrosshair.pw.toml"
-hash = "5e3f00ecd1fb22dd8fda618fba82f2b6dc85febcc005f9c65931afa3a3a8276e"
-metafile = true
-
-[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "7a409a13d5f8bb087ff615dc5947b3f26c6bacec22618d8d733d8d4789fb3543"
 metafile = true
@@ -245,6 +217,11 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "84f74d4abc0ece0ed9f62d9454d35415ace97e0aa83ed3e8a2d1ff7167b45999"
+metafile = true
+
+[[files]]
+file = "mods/esf.pw.toml"
+hash = "e56fa453beca9926d55a91b3687c814dfdce651419a455797cc3469e7c3ad7b1"
 metafile = true
 
 [[files]]
@@ -408,8 +385,9 @@ hash = "63cdfdadeb4e48497ba2ecbfe3282693d4802ca41d9d846bf5d724fbba5ce8d6"
 metafile = true
 
 [[files]]
-file = "mods/modernfix-fabric-5.20.4-beta.51+mc1.21.7.a724.jar"
-hash = "d517c17c6f31ff28d3d0cfb4944220d689669c0834518eaff412f8bcf801699d"
+file = "mods/modernfix-mvus.pw.toml"
+hash = "ceab5807172e236916b8386d352aca46895480867f607c5be07ff37da7fc9c85"
+metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
@@ -432,8 +410,8 @@ hash = "18360f497689d81ce5b4a58571c099bf5a7f66e085ccd7196cd129158b328f15"
 metafile = true
 
 [[files]]
-file = "mods/noisium.pw.toml"
-hash = "e2042d1da44bf8d55ab4ef2d8284ca10ada3f572230488e8f09d26e16c9b1ff8"
+file = "mods/noisiumforked.pw.toml"
+hash = "1eecb2663ba5ca66055501b77742a17eb6cf10972ae56d4f896d065572158924"
 metafile = true
 
 [[files]]
@@ -608,7 +586,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "c3d60f720359dcd322fc3fca338622b16a3261bdcbeadb2c141bb0fde54ab3a7"
+hash = "0edc9e61bbf47c38a0ba656adc8391a0080fdaa484b21e1f4d66a62181eeb34d"
 
 [[files]]
 file = "resourcepacks/acaciachan-xaero-map-translation.pw.toml"
@@ -631,8 +609,8 @@ hash = "b32ebcb677b2f788bb574d6df3c84e55e20728da976492b6906a4126b4efa560"
 metafile = true
 
 [[files]]
-file = "shaderpacks/Sundial-Lite-MMCO_v0.2.14.zip"
-hash = "d786daf2ca89ce6cb05ab11d2cab21659b57568adb9ae54547f37894438236bc"
+file = "shaderpacks/Sundial-Lite-MMCO_v0.2.15a.zip"
+hash = "205dd415df48cadc0439d68381c7c4b981f901a5c55369a31a2eb66014840a27"
 
 [[files]]
 file = "shaderpacks/Sundial-Lite_7898a47.zip"

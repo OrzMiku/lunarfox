@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/yosbr/ViaFabricPlus/settings.json"
+hash = "9737f5d0ae37f5e4bf9a054be38c4c99a8bc0db61544bbc27c14011c12101a24"
+
+[[files]]
 file = "config/yosbr/config/DistantHorizons.toml"
 hash = "7dafa18e710692bce1763cb36b73088ad7688039078eeb3ee396b800bb3360ce"
 
@@ -9,16 +13,12 @@ file = "config/yosbr/config/NoChatReports/NCR-Client.json"
 hash = "58c9e639e6458fdcdd201f080187df717242571a32d6406479b7624468ca66e9"
 
 [[files]]
-file = "config/yosbr/config/NoChatReports/NCR-Encryption.json"
-hash = "d3a2bc7eb8deb5392488d5be3e9f1a497094df6cd4ae6a3d559e8a476ff528a3"
-
-[[files]]
 file = "config/yosbr/config/betteradvancements.json"
 hash = "e5f6ace68c722b5e4ea32f9935ca0b8dfbea1d22f1b8599a339bde0456605973"
 
 [[files]]
 file = "config/yosbr/config/c2me.toml"
-hash = "e14a109374d2ee13b5a8608d77128ea29f4016a5d2ed9837a7cee85e33410bc3"
+hash = "6cc49905c1c8ff23683cfa9509bfd0576ddf2a315554845286f4f1eb2c4f85d9"
 
 [[files]]
 file = "config/yosbr/config/chatpatches.json"
@@ -58,11 +58,11 @@ hash = "435f7811c796b2352fee74985081994d69f881f9f0b6a0499ba39fbc40ee3f0b"
 
 [[files]]
 file = "config/yosbr/config/modernfix-mixins.properties"
-hash = "132d49783f7a0c8d656a7426538ec38bc3a0cef08c0b3475f694ad0b4981bf09"
+hash = "5cb23400baacc7b307f687a19b966c0aa6861e7b157167dc02fd416e5a9219fa"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
-hash = "31ce8dd1234f6b207bc364149a91f0f6addb87b27d1cfcf86472f0517aa87119"
+hash = "5cf6393f2eb20dc325b389aad51cab186c01a06956013138500de9235da31b0e"
 
 [[files]]
 file = "config/yosbr/config/roughlyenoughitems/config.json5"
@@ -74,7 +74,7 @@ hash = "fa47ad234f2b53c2366ea8df83d5485f36d5129f228413416212b6f0ca2ba856"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
-hash = "099668f0a2e875a916b53865aba1a88bbfc67ba9227b7a6841d44657fa399777"
+hash = "925c54884e5bb35cd962cc021219ee647f30dd68833109d396da9fb8545066f4"
 
 [[files]]
 file = "config/yosbr/config/tweakeroo.json"
@@ -98,7 +98,7 @@ hash = "b0df40e07391a60294d7bffb9772cabe8096d61c41c8680fbfad927d3a6a5a6b"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "e01ed98f8902e7a6e3169e5fa3622eb00778b7d5eb0a2a40797ceb73b1eb65f1"
+hash = "4d6854512c4d23cd817aac6f84ea98f144a58c47d28490e86872b07a46697fcd"
 
 [[files]]
 file = "icon.png"
@@ -165,11 +165,6 @@ hash = "449d548b749af0fa7770496ebf513d97075e2a3493bda9c7a45a63ba94792d0f"
 metafile = true
 
 [[files]]
-file = "mods/better-stats.pw.toml"
-hash = "c4c11bc748458978b676b2a5cef87b5b8548c2289e9c199f225f941fb1593c9d"
-metafile = true
-
-[[files]]
 file = "mods/better-third-person.pw.toml"
 hash = "6d7c5793f88c52421dc11f48b3bf12400e7a451b9297e80fe33b776cc2af2c1d"
 metafile = true
@@ -187,11 +182,6 @@ metafile = true
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "64a244469b7ce7be7e6ceabedd69d17e573a0b92d6e29c661fc6c490afa965d8"
-metafile = true
-
-[[files]]
-file = "mods/calcmod.pw.toml"
-hash = "0cc9069aeee558e036c7afd064d37d9f468ea1138705da0fe4aad64d95312f79"
 metafile = true
 
 [[files]]
@@ -245,16 +235,6 @@ hash = "c5ea75feae4d340856611f78a29e6f1f0b7e707bfe43847f11d25fac1769dee7"
 metafile = true
 
 [[files]]
-file = "mods/draggable-lists.pw.toml"
-hash = "bfe939f563e561df6410a82e9f36ec3793634e470c9b729088072ff8824018ac"
-metafile = true
-
-[[files]]
-file = "mods/dynamiccrosshair.pw.toml"
-hash = "f2a92ab561a25a08c2a136f456433ab1fe2b67cc99c9265c3a6189daefd692db"
-metafile = true
-
-[[files]]
 file = "mods/ebe.pw.toml"
 hash = "c9102ad224c1496927d326707ee2cd2a2cfd6f278f05e23a19aa45395306daf6"
 metafile = true
@@ -272,6 +252,11 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "91f45174d8627de2d04922bcf83b4b7c31188fbfc748240fcca27ea4f3282e93"
+metafile = true
+
+[[files]]
+file = "mods/esf.pw.toml"
+hash = "53588e917d3908a03b747b7d2b82a0c20205bf953023f7b10e4cd157d453b606"
 metafile = true
 
 [[files]]
@@ -371,7 +356,7 @@ metafile = true
 
 [[files]]
 file = "mods/itemswapper.pw.toml"
-hash = "f2a6eb3b7930b3660eead0e41926195c1fd94cf0dd5aa19ccae4016be15d430d"
+hash = "2308a40d570a1ae9e3052ed64fdfd059b2364a2b11def433372b866d58ccf58c"
 metafile = true
 
 [[files]]
@@ -695,8 +680,8 @@ hash = "b32ebcb677b2f788bb574d6df3c84e55e20728da976492b6906a4126b4efa560"
 metafile = true
 
 [[files]]
-file = "shaderpacks/Sundial-Lite-MMCO_v0.2.14.zip"
-hash = "d786daf2ca89ce6cb05ab11d2cab21659b57568adb9ae54547f37894438236bc"
+file = "shaderpacks/Sundial-Lite-MMCO_v0.2.15a.zip"
+hash = "205dd415df48cadc0439d68381c7c4b981f901a5c55369a31a2eb66014840a27"
 
 [[files]]
 file = "shaderpacks/Sundial-Lite_7898a47.zip"

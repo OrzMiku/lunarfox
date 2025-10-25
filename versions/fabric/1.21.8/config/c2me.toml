@@ -1,8 +1,4 @@
 version = 3
 
-[clientSideConfig]
-	[clientSideConfig.modifyMaxVDConfig]
-		maxViewDistance = "32"
-
 [noTickViewDistance]
-	maxConcurrentChunkLoads = 8
+	maxConcurrentChunkLoads = 2
