@@ -608,7 +608,12 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "e8d783696147133a35206357806d0971575054dbc6a883453f91643e7c9326bf"
+hash = "c3d60f720359dcd322fc3fca338622b16a3261bdcbeadb2c141bb0fde54ab3a7"
+
+[[files]]
+file = "resourcepacks/acaciachan-xaero-map-translation.pw.toml"
+hash = "a763f371804ad4bd8d571f1a000fba61a6eaa2f295a347683fd10063110b4d12"
+metafile = true
 
 [[files]]
 file = "resourcepacks/fast-better-grass.pw.toml"

@@ -98,7 +98,7 @@ hash = "b0df40e07391a60294d7bffb9772cabe8096d61c41c8680fbfad927d3a6a5a6b"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "08bbe1e303ae70da3ab77934fe0ae6cffbbce8674c86c7385607a327f052398a"
+hash = "e01ed98f8902e7a6e3169e5fa3622eb00778b7d5eb0a2a40797ceb73b1eb65f1"
 
 [[files]]
 file = "icon.png"
@@ -672,6 +672,11 @@ metafile = true
 [[files]]
 file = "mods/zume.pw.toml"
 hash = "417f2ce9f6018e0ce5b548c4e3212abe3d74878654dd2a8a057d54c334d5b188"
+metafile = true
+
+[[files]]
+file = "resourcepacks/acaciachan-xaero-map-translation.pw.toml"
+hash = "a763f371804ad4bd8d571f1a000fba61a6eaa2f295a347683fd10063110b4d12"
 metafile = true
 
 [[files]]

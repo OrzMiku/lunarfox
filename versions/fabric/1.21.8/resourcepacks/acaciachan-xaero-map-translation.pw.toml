@@ -1,0 +1,13 @@
+name = "acaciachan's Xaero's Map Translation"
+filename = "金合欢的Xaero地图翻译_1.16~1.21.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/OBC8zhs4/versions/ZxOmZ6SZ/%E9%87%91%E5%90%88%E6%AC%A2%E7%9A%84Xaero%E5%9C%B0%E5%9B%BE%E7%BF%BB%E8%AF%91_1.16~1.21.zip"
+hash-format = "sha512"
+hash = "905eeb5085b829457b9dfbab37f75d4091ece35ba7940819a184c2c6a1997d4561ad7ef8b63a998d104f3f356ff5b2f26e9186e0ede4e315c1447691e49ac83b"
+
+[update]
+[update.modrinth]
+mod-id = "OBC8zhs4"
+version = "ZxOmZ6SZ"
