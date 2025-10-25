@@ -1,13 +1,13 @@
 name = "SPBR"
-filename = "SPBR-18_6[Legacy].zip"
+filename = "SPBR-18_7[Legacy].zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/aNcOVoD7/versions/r8R4vD12/SPBR-18_6%5BLegacy%5D.zip"
+url = "https://cdn.modrinth.com/data/aNcOVoD7/versions/sFhsXxz4/SPBR-18_7%5BLegacy%5D.zip"
 hash-format = "sha512"
-hash = "1f41c8a84a3a0fc531e6b5e0d44cbda914eb43b767be562bd1354e2f3c612f07d2ea0455ebc0663dc348cb34941d81bf493030c11e4c5890aaa827412d231968"
+hash = "37bbad5b512482eb7f7a145c63110b8c561318d0c349fc9bdbc0ee1c73d44c060e1ab7d88cdf9a4f36f4562f161517fd96e508246dc1befe2c8a818e269d0cc2"
 
 [update]
 [update.modrinth]
 mod-id = "aNcOVoD7"
-version = "r8R4vD12"
+version = "sFhsXxz4"
