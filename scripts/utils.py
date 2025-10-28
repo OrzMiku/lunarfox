@@ -3,21 +3,21 @@ import concurrent.futures
 import subprocess
 from typing import Dict, List, Optional
 
-# Constants
+# 常量
 DEFAULT_VERSIONS_DIR = "versions"
 DEFAULT_CONCURRENCY = 4
 PROGRESS_BAR_LENGTH = 20
 
-# Resource types
+# 资源类型
 RESOURCE_TYPE_MODS = "mods"
 RESOURCE_TYPE_RESOURCEPACKS = "resourcepacks"
 RESOURCE_TYPE_SHADERPACKS = "shaderpacks"
 
-# Supported platforms
+# 支持的平台
 PLATFORM_MODRINTH = "modrinth"
 PLATFORM_CURSEFORGE = "curseforge"
 
-# Format extensions
+# 格式扩展名
 FORMAT_EXTENSIONS = {
     PLATFORM_MODRINTH: "mrpack",
     PLATFORM_CURSEFORGE: "zip",
