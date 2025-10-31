@@ -29,10 +29,6 @@ file = "config/yosbr/config/ferritecore.mixin.properties"
 hash = "3817e94107bb1c7358beebb80b1810e822de38be430f855cf14828c38018e8e2"
 
 [[files]]
-file = "config/yosbr/config/immediatelyfast.json"
-hash = "8bc58d4ab49fc2606a7ae6c7614e4ad3f5a5c29b894fbdaa2bc3d8730acacd2c"
-
-[[files]]
 file = "config/yosbr/config/inventoryhud.json"
 hash = "22114ef1ca0544700c7d2883a740193b22347ae97ccf33daace70b7fb5a0c06b"
 
@@ -94,7 +90,7 @@ hash = "b0df40e07391a60294d7bffb9772cabe8096d61c41c8680fbfad927d3a6a5a6b"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "ee9c4d09cb9184f63e421e6d944ec8e17c3fabbfbe67cc75bb32fce378118ace"
+hash = "1ba31bb2b18e0e9e8334040002ac3757dc23c79d6335f525726660d16fe56251"
 
 [[files]]
 file = "icon.png"
@@ -103,6 +99,11 @@ hash = "7ed2443085370e3427bd3e803037356811af68ad3fc131947a89cc89f2103fc7"
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "a09841e5bdebd03f8720a2dc2718eb4e89c16b6fa9fd11d7aee1c2e661b73972"
+metafile = true
+
+[[files]]
+file = "mods/accrelatedrendering-refabricated.pw.toml"
+hash = "fd90d2fef6b94d605b13c2eacd2aa3f2c10ed2c15f8096d5baed81d2168d9883"
 metafile = true
 
 [[files]]
@@ -166,6 +167,11 @@ hash = "dd18db1413980ef467ac2e86c7e5f3cef26d366119f43121204a442583e7c0bd"
 metafile = true
 
 [[files]]
+file = "mods/bettergrassify.pw.toml"
+hash = "00b259fdd4d835fb64598ad9ee720927dc951234c5170842c80457a5b8c048b6"
+metafile = true
+
+[[files]]
 file = "mods/boat-item-view.pw.toml"
 hash = "c5833c66008b22b8cdcbc719300e34f9e29a14f5c67789c0498451448ab40296"
 metafile = true
@@ -177,7 +183,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "796c28baec98b91ac98449364c0a6786201f01580a777bcecacb137c1e2c6309"
+hash = "941c3f358ef74f4fc99727e550106b8905d77cb4971321fd8ca4406e33b704a6"
 metafile = true
 
 [[files]]
@@ -537,7 +543,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "ded7ede4552a1909764c7d2c8ce4df415f9856fca24274d76bd84ae79c443072"
+hash = "05859578a5e693650e70310fe6e73b18286dd241abe94a5ac05c3e3c052fb7f1"
 metafile = true
 
 [[files]]
@@ -653,11 +659,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/acaciachan-xaero-map-translation.pw.toml"
 hash = "a763f371804ad4bd8d571f1a000fba61a6eaa2f295a347683fd10063110b4d12"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fast-better-grass.pw.toml"
-hash = "73557eda0b75de2724fd3337879c5e05bd7a7c47007de9c318d98644fcffdb4e"
 metafile = true
 
 [[files]]

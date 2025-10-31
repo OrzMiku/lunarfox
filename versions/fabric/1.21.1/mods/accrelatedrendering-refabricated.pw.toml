@@ -1,0 +1,13 @@
+name = "AcceleratedRendering-reFabricated"
+filename = "acceleratedrendering-1.0.6-1.21.1-alpha-fabric.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/hKeZP11p/versions/NPNVHP9l/acceleratedrendering-1.0.6-1.21.1-alpha-fabric.1.jar"
+hash-format = "sha512"
+hash = "80ce70cd2d2b27a52b769ca7ffbb2d0489c2b2ad9330eea4039c1724f7d288153d08a183312900a2aa49db5fb6a942e5fb6660ba3dba31448035dc5259b43fef"
+
+[update]
+[update.modrinth]
+mod-id = "hKeZP11p"
+version = "NPNVHP9l"

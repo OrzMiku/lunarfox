@@ -4,7 +4,7 @@ graphicsMode:0
 maxFps:260
 renderDistance:8
 simulationDistance:8
-resourcePacks:["vanilla","fabric","file/SodiumTranslations.zip","file/金合欢的Xaero地图翻译_1.16~1.21.zip","itemswapper:default","file/Fast Better Grass.zip"]
+resourcePacks:["vanilla","fabric","file/SodiumTranslations.zip","file/金合欢的Xaero地图翻译_1.16~1.21.zip","itemswapper:default"]
 incompatibleResourcePacks:["file/金合欢的Xaero地图翻译_1.16~1.21.zip"]
 tutorialStep:none
 advancedItemTooltips:true

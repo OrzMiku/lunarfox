@@ -82,7 +82,7 @@ hash = "b0df40e07391a60294d7bffb9772cabe8096d61c41c8680fbfad927d3a6a5a6b"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "e42f5d82182b81a5b022627ec9a9b160f3fb18bac21f6e482d7d66403e887b85"
+hash = "632bc47136ef692686d301a242b43438906bb837714a23990da27d3c8bfdfbb2"
 
 [[files]]
 file = "icon.png"
@@ -134,6 +134,10 @@ hash = "51d172af13c711a4ed50f8ddbf600f7486889fd4cc54920573a70e751a680032"
 metafile = true
 
 [[files]]
+file = "mods/better-block-entities-1.0.0-0773bac.jar"
+hash = "da49f3673bb95ede41d501ef08e3f7e2575c2443893595baceced2bead332e54"
+
+[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "6ef53c2c4e506e111b4bd7c1bc8804a5a7dcb2f6e3b79054575e73f6ce61ee94"
 metafile = true
@@ -141,6 +145,11 @@ metafile = true
 [[files]]
 file = "mods/better-selection.pw.toml"
 hash = "ddb17abac95266f5845b2cc14acec1292e27f17da94acf423569b55f75ec8a7f"
+metafile = true
+
+[[files]]
+file = "mods/bettergrassify.pw.toml"
+hash = "d74546a98e3af1867539d80bdf9d188968920a7df8e57ccb3b7a55b36a37eb7a"
 metafile = true
 
 [[files]]
@@ -155,7 +164,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "6c33c733839123f23022b7679c103b2b3de33c9c7c4227981a225cf9520a65e9"
+hash = "1962cda76b2ef0e81ff943c68488e21f01b8a8317c01ae2a2b544fbc6fafdf99"
 metafile = true
 
 [[files]]
@@ -350,7 +359,7 @@ metafile = true
 
 [[files]]
 file = "mods/melody.pw.toml"
-hash = "37440c5aa7ce2e94a726dca3dd5e832d92845e97ac09caec9f9bafd5f177b666"
+hash = "7ff35cde15036641fbd5c677962321fa5cfc4da8d5c71193b670d4f15a981577"
 metafile = true
 
 [[files]]
@@ -405,7 +414,7 @@ metafile = true
 
 [[files]]
 file = "mods/optiboxes.pw.toml"
-hash = "3b2913fc75916a0fba87bdc0e5aa962fa25d86fd2cfb28543667a62add3311e8"
+hash = "b5cb84815833d2b87d74c5056428ccb267ec68216495022041a799f9b85c6d07"
 metafile = true
 
 [[files]]
@@ -435,7 +444,7 @@ metafile = true
 
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
-hash = "e5397e82bf58ec38977d4545413ddac67fa9fd5aea919851467f9a85d54e1e65"
+hash = "1d0b4cb5d19919e7c63ece2bda6e312ca80f266880e6472182cda993d70ed8fb"
 metafile = true
 
 [[files]]
@@ -455,7 +464,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "67d725bda8bdf2de7b3e60a42b281b31d3b3f6104cfd5d8b9a61309483343264"
+hash = "72be271710b8a54e18cb7c0dfc2b8534ce3b5f3a6735928ca34979fc94ea992b"
 metafile = true
 
 [[files]]
@@ -564,13 +573,8 @@ hash = "a763f371804ad4bd8d571f1a000fba61a6eaa2f295a347683fd10063110b4d12"
 metafile = true
 
 [[files]]
-file = "resourcepacks/fast-better-grass.pw.toml"
-hash = "73557eda0b75de2724fd3337879c5e05bd7a7c47007de9c318d98644fcffdb4e"
-metafile = true
-
-[[files]]
 file = "resourcepacks/spbr.pw.toml"
-hash = "6be673ca6a184b32e0a30f28d0181207773ab87547dc392147153cea8137f4d2"
+hash = "a5b6b353c4b6bf85fc099dfb2bf2b51a979f5033dae2c20034a43978c382f202"
 metafile = true
 
 [[files]]

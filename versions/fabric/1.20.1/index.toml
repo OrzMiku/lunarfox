@@ -33,10 +33,6 @@ file = "config/yosbr/config/ferritecore.mixin.properties"
 hash = "3817e94107bb1c7358beebb80b1810e822de38be430f855cf14828c38018e8e2"
 
 [[files]]
-file = "config/yosbr/config/immediatelyfast.json"
-hash = "8bc58d4ab49fc2606a7ae6c7614e4ad3f5a5c29b894fbdaa2bc3d8730acacd2c"
-
-[[files]]
 file = "config/yosbr/config/inventoryhud.json"
 hash = "22114ef1ca0544700c7d2883a740193b22347ae97ccf33daace70b7fb5a0c06b"
 
@@ -98,7 +94,7 @@ hash = "b0df40e07391a60294d7bffb9772cabe8096d61c41c8680fbfad927d3a6a5a6b"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "4d6854512c4d23cd817aac6f84ea98f144a58c47d28490e86872b07a46697fcd"
+hash = "0cc7e907a5ed861cc5c372d763b7bc8ee6abae231bd4cc99ebac8751540d44d3"
 
 [[files]]
 file = "icon.png"
@@ -107,6 +103,11 @@ hash = "7ed2443085370e3427bd3e803037356811af68ad3fc131947a89cc89f2103fc7"
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "ea430db88d8f190a053e4f3c662d2a59b6a7508778525034f2b20037ee074aec"
+metafile = true
+
+[[files]]
+file = "mods/accrelatedrendering-refabricated.pw.toml"
+hash = "d89fc14f07502a5172163837d35308847686093acab0afdb62626a7e9a392c8d"
 metafile = true
 
 [[files]]
@@ -167,6 +168,11 @@ metafile = true
 [[files]]
 file = "mods/better-third-person.pw.toml"
 hash = "6d7c5793f88c52421dc11f48b3bf12400e7a451b9297e80fe33b776cc2af2c1d"
+metafile = true
+
+[[files]]
+file = "mods/bettergrassify.pw.toml"
+hash = "444dc7b515acd2e5a5b399c78fe89758f43bfe962a453472ad18a50193eae8b6"
 metafile = true
 
 [[files]]
@@ -325,11 +331,6 @@ hash = "58ace6ddc01192bd96668e2a833568083f34b0808645e056c0f1e0716f63abe5"
 metafile = true
 
 [[files]]
-file = "mods/immediatelyfast.pw.toml"
-hash = "060c6baaec85f47ba4bc2c0f4b8642b9933c27d3c166eb00ef86b4bbfd7f34a3"
-metafile = true
-
-[[files]]
 file = "mods/indium.pw.toml"
 hash = "cb85864ff2d3936a5ab4f7e7ccf763dbda0153412ba52c95a63b29677a012aaf"
 metafile = true
@@ -366,7 +367,7 @@ metafile = true
 
 [[files]]
 file = "mods/justenoughcharacters.pw.toml"
-hash = "fd86b1f1a28493556a912aaed05e215c808eecf892393dc7b6fadc77be3edd83"
+hash = "0d45b133838f950734afb95a799fdb5a98e343bd2bfef793571ced939b325422"
 metafile = true
 
 [[files]]
@@ -546,7 +547,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "5736dea6480c9e68467139b935695423c9903ac617f5fe757b5f158007fed8cb"
+hash = "058d9d83b502682366ba75fb00b50d5c8a7e7335722ced0407579ae3a25dd6f8"
 metafile = true
 
 [[files]]
@@ -662,11 +663,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/acaciachan-xaero-map-translation.pw.toml"
 hash = "a763f371804ad4bd8d571f1a000fba61a6eaa2f295a347683fd10063110b4d12"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fast-better-grass.pw.toml"
-hash = "73557eda0b75de2724fd3337879c5e05bd7a7c47007de9c318d98644fcffdb4e"
 metafile = true
 
 [[files]]

@@ -90,6 +90,11 @@ hash = "7b5fba1b2499c191160be6b1b01c54ace077ae7d3c5228ae4af4d360e3d0a336"
 metafile = true
 
 [[files]]
+file = "mods/acceleratedrendering.pw.toml"
+hash = "61ff48f65c27487edb51a11138e3492206d60d7fc6160eb22218eae6d59be8f7"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "3213c881d019cd8f952f738c10d5a950ee52ff0084750b81f656a58a4a78515d"
 metafile = true
@@ -101,7 +106,7 @@ metafile = true
 
 [[files]]
 file = "mods/asyncparticles.pw.toml"
-hash = "f6ccafd5c3410c7c5bfcf26e0e40e41889df9a6ce1312a5145467c8152085107"
+hash = "4f20967ee66eb96cbcfaa63bea9d3424ac45b7db414c9a491f31c86012f34fb5"
 metafile = true
 
 [[files]]
@@ -130,6 +135,11 @@ hash = "e1f1588b18947699ddc9b4f7c5b5406c5559155b8cb52dcd0f203c07c31cd0b8"
 metafile = true
 
 [[files]]
+file = "mods/bettergrassify.pw.toml"
+hash = "a850075a3b7e380701f0291f6151487d0a05bb54db125c8edf9f96a696b73188"
+metafile = true
+
+[[files]]
 file = "mods/boat-item-view.pw.toml"
 hash = "ba58df8c82fc920a316a3ad2f8d52e985e34cd09713487ccbb5ea778b6168c2d"
 metafile = true
@@ -141,7 +151,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-neoforge.pw.toml"
-hash = "df38bd557d9d549bd4db699c3efec071ca24017541ce6359a96d0385b7463b22"
+hash = "f80000f8a5c3e9abdb0d2a926fd67fd6191dcb1b710f0cdbf0ab26ec53b0a8bf"
 metafile = true
 
 [[files]]
@@ -156,7 +166,7 @@ metafile = true
 
 [[files]]
 file = "mods/connector.pw.toml"
-hash = "097a2a9f31c3cccc019c63e412e6dd7d561e133a0c9117a7b32fdae11579fd56"
+hash = "c27af69a7c64206beff3e59c671934d4eb9a3dc65fd589609c5e6f6bb60421bb"
 metafile = true
 
 [[files]]
@@ -191,7 +201,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "95218d2192befc4f1f60adda3e7898f38af351df02f78e1e481b77a8afd6d01c"
+hash = "3443f52ef7c1f80ae1cedf459b23c38ac78dbe547cf2cc047e62d0cb2331c808"
 metafile = true
 
 [[files]]
@@ -255,11 +265,6 @@ hash = "e381614dc48bb664b1fd1765ae69ec4ee05babad8b847fe1a1b6bb8fd2180fcc"
 metafile = true
 
 [[files]]
-file = "mods/immediatelyfast.pw.toml"
-hash = "6bdf101d3d5ec8729a8095d5853f80eb925a47c889cd10de6704b20cc7f3c73e"
-metafile = true
-
-[[files]]
 file = "mods/inventory-profiles-next.pw.toml"
 hash = "9422e9e313d0ea266dffacf14d5bd55f9244d51d4f4587af7236cb778462461c"
 metafile = true
@@ -271,7 +276,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris-shader-folder.pw.toml"
-hash = "59dbf4bfe5ec10e03797303a15bf51d97169a2948773b092ccdb89a4406deda0"
+hash = "9c2252080ad469a3fed3e5f48f58cb8daac2ce241963836687cbc3972bc2b847"
 metafile = true
 
 [[files]]
@@ -366,7 +371,7 @@ metafile = true
 
 [[files]]
 file = "mods/neoforge-carpet.pw.toml"
-hash = "99d4823a1abded45fe7d950b8e4c96f188444e777b0dfb2b563f7a65234aaaf6"
+hash = "7513ef48054b3d2d72aace3d3f39440c6b533ba518ea8d4cfaf1fb6d30dd9e7d"
 metafile = true
 
 [[files]]
@@ -426,7 +431,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "1947c1cb6993a202259ad97573d03fb89e8a31b0b637637d07af00c803e46d95"
+hash = "321ef3db87c1827e785b761e04bd2576d2597492653f8b92eda2278eed4b21cc"
 metafile = true
 
 [[files]]
@@ -476,7 +481,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "edf03cb149013a97763f0a06e55733a34ab0ef0f69207554fcfc2e48abf4add8"
+hash = "8c787c90aa519c0e27d0ef3f8e6f65bee38d3caab21568943df6f81aa12810a0"
 metafile = true
 
 [[files]]
@@ -506,16 +511,11 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "c6e72dc617711dceee8ff2e29a4839a185b9f6ce3847f1efac16276caf693ab8"
+hash = "18d6cbbf3c812f0f3cc48eec56964b895fdfa57ce58616122aeee07e99371162"
 
 [[files]]
 file = "resourcepacks/acaciachan-xaero-map-translation.pw.toml"
 hash = "a763f371804ad4bd8d571f1a000fba61a6eaa2f295a347683fd10063110b4d12"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fast-better-grass.pw.toml"
-hash = "73557eda0b75de2724fd3337879c5e05bd7a7c47007de9c318d98644fcffdb4e"
 metafile = true
 
 [[files]]

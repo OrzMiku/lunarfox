@@ -1,0 +1,13 @@
+name = "Accelerated Rendering"
+filename = "acceleratedrendering-1.0.6-1.21.1-alpha.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DfECZO3a/versions/BAPowWnZ/acceleratedrendering-1.0.6-1.21.1-alpha.jar"
+hash-format = "sha512"
+hash = "7d046f17d7d04b905a577ad1271958d7d34042043e8c2e2f33c71e84edcfa531417d696d5a3a79751f3a66ca6c37e016d262aee5fcbc4da9186388d9da39fa88"
+
+[update]
+[update.modrinth]
+mod-id = "DfECZO3a"
+version = "BAPowWnZ"
