@@ -126,7 +126,7 @@ metafile = true
 
 [[files]]
 file = "mods/asyncparticles.pw.toml"
-hash = "8571b0c1d5853dc97054b25f596fa9cc37e0309cdbcf3cee103dce6389f45a41"
+hash = "786d07a05c5cc3ae4b2ee78aa95555017a411450a7a0e2328660b9ce3a47943a"
 metafile = true
 
 [[files]]
@@ -246,7 +246,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "fc2a74fbafdb73e3e087fa3861ceb0c64b88d0771555ed5bef08a84f6cfed481"
+hash = "58a487d9e3761d18f529cf141c873ea054e8f26c5e90601a3c8cf60fc723b22d"
 metafile = true
 
 [[files]]
@@ -346,7 +346,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris-shader-folder.pw.toml"
-hash = "04752d88ff43865f05e4168e240d3e0163864ec3e32c61541e2d3e112445016c"
+hash = "b615fd67bdae59fe637449a1e99ec1fd32f8a73e9a0f6079442ee54558633c23"
 metafile = true
 
 [[files]]
@@ -356,7 +356,7 @@ metafile = true
 
 [[files]]
 file = "mods/itemswapper.pw.toml"
-hash = "2308a40d570a1ae9e3052ed64fdfd059b2364a2b11def433372b866d58ccf58c"
+hash = "4552aa00f68ab398bb644678b52a8a2b31e1b68075d9b3f658126c1845190fab"
 metafile = true
 
 [[files]]
@@ -626,7 +626,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "8161f46a611ad728c6a5e413e549845de39988022d5d412478805741a6c96aea"
+hash = "0c31d266812d25f2b79dbe20b9875fe236fc7a4a96c07d79ed083376c7577f2c"
 metafile = true
 
 [[files]]
