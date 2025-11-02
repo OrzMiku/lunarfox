@@ -18,7 +18,7 @@ hash = "0623905a25c9b6c8387f7a6a0256ea005f727c63c689d2cc7cc77f74e912f7e4"
 
 [[files]]
 file = "config/yosbr/config/defaultoptions/keybindings.txt"
-hash = "5600421ca82f434d42ef868b288a5dd37722b06c20b83af288d798537d833072"
+hash = "7e6f498ca662b0a12b59331bd9746ca3d30c679c0f385bb0243cf3d7dda13e7f"
 
 [[files]]
 file = "config/yosbr/config/ferritecore.mixin.properties"
@@ -328,11 +328,6 @@ hash = "471c02eac5adf025ed2246c2d3efd8267c67574f1bc7329b49caa1ada17fbc9e"
 metafile = true
 
 [[files]]
-file = "mods/lazy-language-loader.pw.toml"
-hash = "4150ca7c5bfbc1fbb7f9986a8dbd784ed469c5bc7c382671ee4675f2c2019fc9"
-metafile = true
-
-[[files]]
 file = "mods/libipn.pw.toml"
 hash = "3ded8f0e2b2408286789398b6a82ed97e55dd0bdec5585937c293187f133c342"
 metafile = true
@@ -455,11 +450,6 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "1600b1e64b297d68bafb4f5e5eeef08117645ac24922696da10c711ae587c06b"
-metafile = true
-
-[[files]]
-file = "mods/renderscale.pw.toml"
-hash = "c72134131fd9f582fe9edd7aa284de872193a68e44bbd8cb570956ea79d94592"
 metafile = true
 
 [[files]]

@@ -61,7 +61,6 @@ key_key.modmenu.open_menu:key.keyboard.unknown:
 key_key.optigui.inspect:key.keyboard.unknown:
 key_key.presencefootsteps.settings:key.keyboard.f10:
 key_key.presencefootsteps.toggle:key.keyboard.unknown:
-key_key.renderscale.options:key.keyboard.period:
 key_xaeroplus.keybind.switch_to_end:key.keyboard.unknown:
 key_xaeroplus.keybind.switch_waypoints_to_overworld:key.keyboard.unknown:
 key_xaeroplus.setting.old_biomes_enabled:key.keyboard.unknown:

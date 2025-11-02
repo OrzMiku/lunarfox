@@ -357,7 +357,7 @@ metafile = true
 
 [[files]]
 file = "mods/itemswapper.pw.toml"
-hash = "4552aa00f68ab398bb644678b52a8a2b31e1b68075d9b3f658126c1845190fab"
+hash = "2308a40d570a1ae9e3052ed64fdfd059b2364a2b11def433372b866d58ccf58c"
 metafile = true
 
 [[files]]
@@ -383,11 +383,6 @@ metafile = true
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "be7240c21a4acd8de01d7f6f93be18ca2a233917d32e6f6205f788432525a570"
-metafile = true
-
-[[files]]
-file = "mods/language-reload.pw.toml"
-hash = "37c1a6cf7cf2c6190133b51f0c8716e8d4e89aea455e54e57bcca0846168dddf"
 metafile = true
 
 [[files]]
@@ -538,11 +533,6 @@ metafile = true
 [[files]]
 file = "mods/rei.pw.toml"
 hash = "657ff0025d408f1021309ce5c759821d1f48e397811cc0da6f0b0400827896fa"
-metafile = true
-
-[[files]]
-file = "mods/resolution-control-plus.pw.toml"
-hash = "69f4fe4d4ded744be3007514d94c5aa9fcfe9de81e0e80e31de3e8c45c234715"
 metafile = true
 
 [[files]]

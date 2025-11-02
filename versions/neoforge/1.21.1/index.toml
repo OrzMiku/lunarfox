@@ -420,11 +420,6 @@ hash = "f527c21279cbfc2025d9cdf8267fe22cd43b42a2f994fc4ae0d76c069a844387"
 metafile = true
 
 [[files]]
-file = "mods/renderscale.pw.toml"
-hash = "8f28c3d68d8702bcdf1e2acfc551c2b0280c0d0404c7ca4cf6f89127a4ff04a2"
-metafile = true
-
-[[files]]
 file = "mods/resource-gamma-utils.pw.toml"
 hash = "16e91410de2e9312243d8953d63a96c901af7ed872a4a4fa31746c6804c4b214"
 metafile = true

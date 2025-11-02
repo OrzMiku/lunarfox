@@ -60,7 +60,6 @@ key_key.jade.profile.2:key.keyboard.unknown:
 key_key.jade.profile.3:key.keyboard.unknown:
 key_key.modmenu.open_menu:key.keyboard.unknown:
 key_key.optigui.inspect:key.keyboard.unknown:
-key_key.renderscale.options:key.keyboard.period:
 key_xaeroplus.keybind.switch_to_overworld:key.keyboard.unknown:
 key_xaeroplus.keybind.switch_waypoints_to_nether:key.keyboard.unknown:
 key_xaeroplus.setting.old_chunks_highlighting:key.keyboard.unknown:
