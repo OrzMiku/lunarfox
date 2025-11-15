@@ -1,0 +1,13 @@
+name = "Better Third Person"
+filename = "BetterThirdPerson-Forge-1.20-1.9.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/G1s2WpNo/versions/XkYduFuv/BetterThirdPerson-Forge-1.20-1.9.0.jar"
+hash-format = "sha512"
+hash = "ae854893f17c3e42825e88119f4bd6be8948612494780194cb1c1cd5d65d571c91e7222c286cb734b3af363f927a6be8ad05347cd2c3fec6e1874b4aaac14c7b"
+
+[update]
+[update.modrinth]
+mod-id = "G1s2WpNo"
+version = "XkYduFuv"

@@ -1,13 +1,13 @@
 name = "XaeroPlus"
-filename = "XaeroPlus-2.28.8+fabric-1.21.10-WM1.39.17-MM25.2.15.jar"
+filename = "XaeroPlus-2.29.0+fabric-1.21.10-WM1.39.17-MM25.2.15.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/EnPUzSTg/versions/1Unl2fmS/XaeroPlus-2.28.8%2Bfabric-1.21.10-WM1.39.17-MM25.2.15.jar"
+url = "https://cdn.modrinth.com/data/EnPUzSTg/versions/8KQQUU82/XaeroPlus-2.29.0%2Bfabric-1.21.10-WM1.39.17-MM25.2.15.jar"
 hash-format = "sha512"
-hash = "8b8a0a29cba7ba12bacb6a4983a818935d90b4757fae51ec0a377577871ff6bce39380b6e7f7bb96af5de3d03830ff28abcdb6872672e7b3125d09a81207b696"
+hash = "f3880c57c2a209cde9a5bd789e8678c109367dc5443b34d5f704cfadd8877a9057127a6ca170e53e3136289a29b7e5ca42e7e36ec9c4a395c811aa3a786d0e03"
 
 [update]
 [update.modrinth]
 mod-id = "EnPUzSTg"
-version = "1Unl2fmS"
+version = "8KQQUU82"

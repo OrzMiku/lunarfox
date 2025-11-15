@@ -1,0 +1,13 @@
+name = "Krypton FNP"
+filename = "Krypton FNP-forge-1.20.1-0.2.24-lite.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JkxWVYwU/versions/3OHXI5Fu/Krypton%20FNP-forge-1.20.1-0.2.24-lite.jar"
+hash-format = "sha512"
+hash = "c6356287b1364907f8b759809d9d9771e53bb1500eac699f30903bc0404d991f7bce17508a1f3859de0cf7e47b5af380c854224d5bffb5c8d4b0206501d956c9"
+
+[update]
+[update.modrinth]
+mod-id = "JkxWVYwU"
+version = "3OHXI5Fu"

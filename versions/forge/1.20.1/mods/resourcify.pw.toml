@@ -1,0 +1,13 @@
+name = "Resourcify"
+filename = "Resourcify (1.20.1-forge)-1.7.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/RLzHAoZe/versions/YR6dG59S/Resourcify%20%281.20.1-forge%29-1.7.5.jar"
+hash-format = "sha512"
+hash = "ac232fafc46fd3ad6ee531e58e981d78a65623478fe4b75d24f308ad40c4c438d2cee79a93389fd9930e593299d8911fe9f8470c457b7116a353bca8f3ebd8b7"
+
+[update]
+[update.modrinth]
+mod-id = "RLzHAoZe"
+version = "YR6dG59S"

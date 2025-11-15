@@ -1,0 +1,13 @@
+name = "Krypton FNP"
+filename = "krypton_fnp-neoforge-1.21.1-0.2.23.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JkxWVYwU/versions/P4TGV7np/krypton_fnp-neoforge-1.21.1-0.2.23.jar"
+hash-format = "sha512"
+hash = "a23730b17d654a6861657fc81bc942b8aa6ee1833945d08e71d1a3c691e48e7ef6ade96c412c271fa9722b158131d0b67831e956f43c499b8afbbf080e329967"
+
+[update]
+[update.modrinth]
+mod-id = "JkxWVYwU"
+version = "P4TGV7np"

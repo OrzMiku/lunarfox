@@ -1,0 +1,6 @@
+{
+	"appearance": {
+		// Declares whether entry panel should be invisible when not searching
+		"hideEntryPanelIfIdle": true
+	}
+}

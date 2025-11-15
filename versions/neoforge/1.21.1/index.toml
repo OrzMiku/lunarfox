@@ -17,20 +17,12 @@ file = "config/c2me.toml"
 hash = "6cc49905c1c8ff23683cfa9509bfd0576ddf2a315554845286f4f1eb2c4f85d9"
 
 [[files]]
-file = "config/chatpatches.json"
-hash = "0623905a25c9b6c8387f7a6a0256ea005f727c63c689d2cc7cc77f74e912f7e4"
-
-[[files]]
 file = "config/defaultoptions/keybindings.txt"
 hash = "0c84b9f026021e9aeb87cd2400139e6e206d479bf52a22f0138addd883d466bc"
 
 [[files]]
 file = "config/ferritecore.mixin.properties"
 hash = "3817e94107bb1c7358beebb80b1810e822de38be430f855cf14828c38018e8e2"
-
-[[files]]
-file = "config/immediatelyfast.json"
-hash = "8bc58d4ab49fc2606a7ae6c7614e4ad3f5a5c29b894fbdaa2bc3d8730acacd2c"
 
 [[files]]
 file = "config/inventoryhud.json"
@@ -91,7 +83,7 @@ metafile = true
 
 [[files]]
 file = "mods/acceleratedrendering.pw.toml"
-hash = "61ff48f65c27487edb51a11138e3492206d60d7fc6160eb22218eae6d59be8f7"
+hash = "fffa6d9107ab284df6ffb7f155d75b778ffe99d96382d6baed4bba8d89de0b1c"
 metafile = true
 
 [[files]]
@@ -151,12 +143,12 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-neoforge.pw.toml"
-hash = "f80000f8a5c3e9abdb0d2a926fd67fd6191dcb1b710f0cdbf0ab26ec53b0a8bf"
+hash = "683dbecfc509287f8a28fe2a73f180e5a488b9751c61a5a297c581287c5a57da"
 metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "4d9264c9550ed32948bd6ea78cb53ba80dd01da8e6c10fa8de4fa52c1bff4d8d"
+hash = "8629fe0739a2243641a1a00b103682bcb2741a9295f9eac4c2a2135a867f8442"
 metafile = true
 
 [[files]]
@@ -216,7 +208,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "83c97ad1350b02f50975927999e385ce53404b1fea35f898347453be5d69b5cb"
+hash = "e790d77a821c903b2f5cfd520bdaa49c07df92e5fa84cbc32ccd42f575ef0525"
 metafile = true
 
 [[files]]
@@ -241,7 +233,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "f9fd94d5c7795e107b83952c6f21c1995c81fd200ede7fa68c530baedbee837d"
+hash = "2e76c80ff830074b19c38520160b00713985e6e9df7a3ff180116e3a73bb8937"
 metafile = true
 
 [[files]]
@@ -266,7 +258,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "9422e9e313d0ea266dffacf14d5bd55f9244d51d4f4587af7236cb778462461c"
+hash = "8f1bcd5781c09e0929dd109bbd7cbb4636641dee96441cf125f279f328708268"
 metafile = true
 
 [[files]]
@@ -305,18 +297,18 @@ hash = "1a9ec5beaba1be3151b8710db2bfab90c2063a4dafaf2720336852245a145cc4"
 metafile = true
 
 [[files]]
-file = "mods/krypton-foxified.pw.toml"
-hash = "b843ce75c788f0720b6e23d9021ce55d37415d72802ee60d95bd2fc5809ba96c"
+file = "mods/krypton-fnp.pw.toml"
+hash = "e5e4c1204b278535538d4e45b3c65e577b37cfb3c17ebae5d136404d6b37fbfb"
 metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "1cf89ce7378bd8fee782ea2a6f57e520b3109331b2dbb4b01f2c85d9db3e5814"
+hash = "9236940eafe8e97819f093c3c77236ee47de3b7f97a17f3fcf31114034962611"
 metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "52ad3f05b5a593f8f48371bcae785c4c4e328e0eb6c317e6942ce127878497e2"
+hash = "170212f0b41fc84d5d75248ad0f16f21be8079494e03c517d985fe9034196cff"
 metafile = true
 
 [[files]]
@@ -356,7 +348,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "a9593968393bae08257ba9aae887ad60fc49991f676b637006b2bcd89907f09a"
+hash = "eae3c14c915400de36bf547550f630de727bbf48ae0ce719b99b2ff50ceaab0d"
 metafile = true
 
 [[files]]
@@ -391,7 +383,7 @@ metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "4735b502110228fe33b9a957794689f309e3a7019fff26390a10f750d074ed32"
+hash = "84cb0dcad9ac46d22adba4fb7924951affa6ac5e46027a3b25fa9a0db8d91b2b"
 metafile = true
 
 [[files]]
@@ -476,12 +468,12 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "8c787c90aa519c0e27d0ef3f8e6f65bee38d3caab21568943df6f81aa12810a0"
+hash = "51ba2572bd0a277cce914941123bb0d055fcbb05dd373d4d921bcb8ddb554289"
 metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "e0c26ec727d88d896e589c74182c12b2894a3a1507add90cb6cf64d7e7a50b1e"
+hash = "03636eaa65730e65639d1e5c560045017117876837c0a8c48fe0798ca1f7854e"
 metafile = true
 
 [[files]]
@@ -520,16 +512,16 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "b32ebcb677b2f788bb574d6df3c84e55e20728da976492b6906a4126b4efa560"
+hash = "575f72c3f1f10a74c40a1ebdb79c6e4c138ddc5e9309581f30297f7ea97d1bf2"
 metafile = true
 
 [[files]]
-file = "shaderpacks/Sundial-Lite-MMCO_v0.2.15a.zip"
-hash = "205dd415df48cadc0439d68381c7c4b981f901a5c55369a31a2eb66014840a27"
+file = "shaderpacks/Sundial-Lite-277a82a.zip"
+hash = "9e8a672257f3c0c33fb62109c5d7e235129049687f04c05ce12f8a4d01a3c624"
 
 [[files]]
-file = "shaderpacks/Sundial-Lite_7898a47.zip"
-hash = "852266ab3b29ac9cacb305599c516836f2f4c9cf72555ad636e97a281c334ff8"
+file = "shaderpacks/Sundial-Lite-MMCO_v0.2.18.zip"
+hash = "e0f248b2ffd1170b4032a002746883d977751b4c9468e92c68a6d80d78af1bd6"
 
 [[files]]
 file = "shaderpacks/bliss-shader.pw.toml"

@@ -103,7 +103,7 @@ metafile = true
 
 [[files]]
 file = "mods/accrelatedrendering-refabricated.pw.toml"
-hash = "fd90d2fef6b94d605b13c2eacd2aa3f2c10ed2c15f8096d5baed81d2168d9883"
+hash = "aeefed0389b2126f0b6cc93739f8cf31a7e6d205db4042532d26ae7532351a9d"
 metafile = true
 
 [[files]]
@@ -193,7 +193,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "76f214b2f4d7a16bf1b473a31d3d6a946dc3e574a54ef049c289687b2ea28165"
+hash = "c7d3915c16ba9738ffd42aed20aa8d41c3b51fde0f277b225ce56b1fdda80b21"
 metafile = true
 
 [[files]]
@@ -268,7 +268,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "68d83de0de41e1f28165a6dbd932319e8c8b46461b6a0fecf2dd3360091d34b9"
+hash = "3e3121bb346acbcda458a6bcd2e2d3564d54ef84a4fdbc802ed82447a80f2536"
 metafile = true
 
 [[files]]
@@ -298,7 +298,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "6afc47cce5b7aa63fb1841b92e532a49f4b9a480e5f99ce92b1a220013b53c21"
+hash = "238b3ceb4214a682480ce00eefae5d34efa299ff6ff667e4b2f2ed503c6e76ee"
 metafile = true
 
 [[files]]
@@ -328,7 +328,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "3104e7dd0651bbeae080c279a3743709bc357bbb1d49a7ef476d98e231ab20ac"
+hash = "e45c2d7750197f277185a48e2598c76e63bdb83f6ea57301bd22a2713ca5fc41"
 metafile = true
 
 [[files]]
@@ -348,7 +348,7 @@ metafile = true
 
 [[files]]
 file = "mods/itemswapper.pw.toml"
-hash = "faf3870ee63476bf96a278e77b7aa2ba2aa802ac1a2c32b2be599a7c204352b3"
+hash = "49e1724a64b87c64bdd52002882cc9376057dca5e5e92e72737de3707bbcfe16"
 metafile = true
 
 [[files]]
@@ -373,12 +373,12 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "faf26dbe7a176c064ee853a94281225928d0d7be6399d4c2396629bca7f85416"
+hash = "6b58adc0caa94e0ec9ab4a472081456f1e7bcad169546373d0f01d1ed2ddaff5"
 metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "7f1539618a18b844492479b20dcb8c7a1d6c4947bc5aea215dbcdb39a31fad94"
+hash = "a1d7e36b76dd3eb9f9d2030722d6bfb57b1ad1ee675b7ea3a6b32977c9ea08e0"
 metafile = true
 
 [[files]]
@@ -393,7 +393,7 @@ metafile = true
 
 [[files]]
 file = "mods/magiclib.pw.toml"
-hash = "31095ecc0eac40aa63701cff99375447ce20797b2af2992315cb65e60523039f"
+hash = "9d573d00db50639cc4fa4a73c73b10e88f1a385905b185d21056e929b4e0dfef"
 metafile = true
 
 [[files]]
@@ -438,7 +438,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "66172293a5b8ff56d1c91a7e47f5f448cc75cc84ffe6bc59a9d807b777901a14"
+hash = "b9651d06e56ad51c1cdcf4b03b6a34328b7dc941f263ff92b189ee26a47cc224"
 metafile = true
 
 [[files]]
@@ -478,12 +478,12 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "9048d3db67387046e4b1894ea5e1e0f79e47e01b655b2080dad23fb6f903c82a"
+hash = "6f45c3f2ec9005b18846088784d291f4dabcce7b569031fb44855845a33aa8f7"
 metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "4735b502110228fe33b9a957794689f309e3a7019fff26390a10f750d074ed32"
+hash = "84cb0dcad9ac46d22adba4fb7924951affa6ac5e46027a3b25fa9a0db8d91b2b"
 metafile = true
 
 [[files]]
@@ -608,12 +608,12 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "a76429f9517566fb64d29398565b1471d9e5f8bec68e04ea55430d19c8060f6d"
+hash = "33122c36e3a43deb6550a425ad01fa434e9964b2bbfd306743e021fb94a4de5c"
 metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "e29d34d50adea6d752cba0f61cd526e972f51f7a448506b69cb91f545644c553"
+hash = "212e299ca8b0117216259fc6933e4a9c8158cf2931f86e0eb3d13436b6a9eba7"
 metafile = true
 
 [[files]]
@@ -653,16 +653,16 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "b32ebcb677b2f788bb574d6df3c84e55e20728da976492b6906a4126b4efa560"
+hash = "575f72c3f1f10a74c40a1ebdb79c6e4c138ddc5e9309581f30297f7ea97d1bf2"
 metafile = true
 
 [[files]]
-file = "shaderpacks/Sundial-Lite-MMCO_v0.2.15a.zip"
-hash = "205dd415df48cadc0439d68381c7c4b981f901a5c55369a31a2eb66014840a27"
+file = "shaderpacks/Sundial-Lite-277a82a.zip"
+hash = "9e8a672257f3c0c33fb62109c5d7e235129049687f04c05ce12f8a4d01a3c624"
 
 [[files]]
-file = "shaderpacks/Sundial-Lite_7898a47.zip"
-hash = "852266ab3b29ac9cacb305599c516836f2f4c9cf72555ad636e97a281c334ff8"
+file = "shaderpacks/Sundial-Lite-MMCO_v0.2.18.zip"
+hash = "e0f248b2ffd1170b4032a002746883d977751b4c9468e92c68a6d80d78af1bd6"
 
 [[files]]
 file = "shaderpacks/bliss-shader.pw.toml"

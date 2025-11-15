@@ -1,13 +1,13 @@
 name = "AcceleratedRendering-reFabricated"
-filename = "acceleratedrendering-1.0.6-1.20.1-alpha-fabric.1.jar"
+filename = "acceleratedrendering-1.0.7-1.20.1-alpha-fabric.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/hKeZP11p/versions/eUY3k7fe/acceleratedrendering-1.0.6-1.20.1-alpha-fabric.1.jar"
+url = "https://cdn.modrinth.com/data/hKeZP11p/versions/EnINvWsx/acceleratedrendering-1.0.7-1.20.1-alpha-fabric.1.jar"
 hash-format = "sha512"
-hash = "325acc3acf8c513f4d96563b53c8b3cb874ab429da7e82b0958934f0260d1a9b542291b5553fac6c19c9233e198b22c0da31d8003a049004788eb916a2b4c5eb"
+hash = "bd8174b1f3c6b47de866fc505052c74ce21c4ce08f465d1d7deadcd851188357a1d679201995e27127bf37c347633c90af6e3dda58537e2256f88fbc40801335"
 
 [update]
 [update.modrinth]
 mod-id = "hKeZP11p"
-version = "eUY3k7fe"
+version = "EnINvWsx"

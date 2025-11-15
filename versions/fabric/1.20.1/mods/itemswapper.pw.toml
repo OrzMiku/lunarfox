@@ -1,13 +1,13 @@
 name = "ItemSwapper"
-filename = "itemswapper-fabric-0.8.1-mc1.20.1.jar"
+filename = "itemswapper-fabric-0.8.3-mc1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/RPOSBQgq/versions/rvEwSNm4/itemswapper-fabric-0.8.1-mc1.20.1.jar"
+url = "https://cdn.modrinth.com/data/RPOSBQgq/versions/eCQovFfV/itemswapper-fabric-0.8.3-mc1.20.1.jar"
 hash-format = "sha512"
-hash = "fe6f77d144c9ed4dff726f03dec0560ebeae70ca259ee66b0c97713053729399825cfc83666718b9d5909475344c46f3044694932e13cea11eb483cccf22f36e"
+hash = "0ecb1268c3ddaf4e71418e13918eaf7ceba68b1c54c8ca2c6d3bcd5938388168ae96f2888d95268115bb7143ea1f959d0d7bc1dbc89be44849e7d1fe63ab136f"
 
 [update]
 [update.modrinth]
 mod-id = "RPOSBQgq"
-version = "rvEwSNm4"
+version = "eCQovFfV"

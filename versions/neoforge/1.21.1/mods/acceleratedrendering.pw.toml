@@ -1,13 +1,13 @@
 name = "Accelerated Rendering"
-filename = "acceleratedrendering-1.0.6-1.21.1-alpha.jar"
+filename = "acceleratedrendering-1.0.7-1.21.1-alpha.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/DfECZO3a/versions/BAPowWnZ/acceleratedrendering-1.0.6-1.21.1-alpha.jar"
+url = "https://cdn.modrinth.com/data/DfECZO3a/versions/N3VuLSBy/acceleratedrendering-1.0.7-1.21.1-alpha.jar"
 hash-format = "sha512"
-hash = "7d046f17d7d04b905a577ad1271958d7d34042043e8c2e2f33c71e84edcfa531417d696d5a3a79751f3a66ca6c37e016d262aee5fcbc4da9186388d9da39fa88"
+hash = "4c9e86b143e50557c1fb50052b8eda56b54bbc01e190c5ba54b34dcd4b17823a2fc11d8a6314ab9665283e49857cc2991c286def8c65a4b69e3d661718d1377e"
 
 [update]
 [update.modrinth]
 mod-id = "DfECZO3a"
-version = "BAPowWnZ"
+version = "N3VuLSBy"

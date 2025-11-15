@@ -1,0 +1,13 @@
+name = "Held item info(Neoforge port)"
+filename = "held_item_info-1.0.0-forge-1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/RfjqceSK/versions/x0CYz3Ke/held_item_info-1.0.0-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "583f5078807152a47e37b035695af77f9cf3225b7630bc3c6e2711a70dc616956632437a88a5383a88051b5f2a2e90f454c67bf0c6b4f4cf0260345d5ec80a34"
+
+[update]
+[update.modrinth]
+mod-id = "RfjqceSK"
+version = "x0CYz3Ke"

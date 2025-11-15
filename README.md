@@ -43,7 +43,6 @@ To make gameplay more convenient and information more intuitive, LunarFox includ
 ## 🎮 Tips
 
 - When using the Litematica mod, you may need to change its hotkeys or the `Open World Map` hotkey to avoid conflicts.
-- Players with high-resolution screens can press `.` to open the rendering resolution settings. For example, 2K screens can set the scaling factor to 0.75 to reduce the resolution to 1080p and improve frame rate.
 - Found a bug or have a suggestion? Feel free to submit an Issue or Pull Request on [GitHub](https://github.com/OrzMiku/lunarfox).
 
 ## ⭐ Credits
