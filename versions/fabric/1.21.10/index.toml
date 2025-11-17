@@ -188,6 +188,11 @@ hash = "717d8ac591dba59be4767a179e1359747561e54ccfcac42161fd6bf54339a78b"
 metafile = true
 
 [[files]]
+file = "mods/continuity.pw.toml"
+hash = "b152c75412428e5f53667cb0836fa1323ca93cbd925e456239710a2e261d9963"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "da925d1159906a6c993fa4be167a48ae350d77daa1950a68135bf56c4e0dbb62"
 metafile = true
@@ -195,6 +200,11 @@ metafile = true
 [[files]]
 file = "mods/craterlib.pw.toml"
 hash = "5ca99808c48e56205c8b02adfefa6489f9108eb25511f00721125cdc9fafe0e9"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "d61eea65d903963fc412f1e6dc4ec5c9f89814358e324cb734e0ec6e40ece483"
 metafile = true
 
 [[files]]
@@ -263,6 +273,16 @@ hash = "d74f72f3bf13c4ef7d60b6e2defecd3c7af77ed9be7764cf1ed10ea1fd707a1f"
 metafile = true
 
 [[files]]
+file = "mods/fps-reducer.pw.toml"
+hash = "2fafc2ff395e3302eca742b568c1fc53254f66cf027ed5b5e467287fdf3c3157"
+metafile = true
+
+[[files]]
+file = "mods/freecam.pw.toml"
+hash = "9d12f51a932b25751b7595ca46439a30bee2c26bf6d9913ccc9a27ade1972f36"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "dc14a906254d528b5ce82c0617c7e15d1ebbd17e4dcc2e852719fad60e8aa2b5"
 metafile = true
@@ -275,6 +295,11 @@ metafile = true
 [[files]]
 file = "mods/held-item-info.pw.toml"
 hash = "15bce919514325447e487d260ec4458165fb4537ccadb9a0e740df4bcf3cb0ef"
+metafile = true
+
+[[files]]
+file = "mods/imblocker-original.pw.toml"
+hash = "15d2f28045681b2c64781301a9e378d6fa26d32e9faed761238924d1e2286294"
 metafile = true
 
 [[files]]
@@ -300,6 +325,16 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "4ed061d122cb39f34ed730984c7bcf03437250f24a21975203bb4598d7d86a14"
+metafile = true
+
+[[files]]
+file = "mods/item-scroller.pw.toml"
+hash = "3ceeca043fd967760acb5698a1611fa50cd4c1a2bc6419d777a9dc53f30da480"
+metafile = true
+
+[[files]]
+file = "mods/itemphysic-lite.pw.toml"
+hash = "eb7b26daffd4631c5c6812effffa4ad56338b7f547a1311d2310382558876baa"
 metafile = true
 
 [[files]]
@@ -473,8 +508,18 @@ hash = "5ae220cfbb26641c68740ad0166c78f353680886fc28087e63bf07280a47ddbb"
 metafile = true
 
 [[files]]
+file = "mods/shoulder-surfing-reloaded.pw.toml"
+hash = "4dc749084dbf214c06f29781e0595ba4f4a6abd908f6edbc63b98cc0d16ca35e"
+metafile = true
+
+[[files]]
 file = "mods/smooth-scroll.pw.toml"
 hash = "4b0cb4b61e8bdb342fac44e7d09c07a33b4cb7e4627b29de739a7f095754641d"
+metafile = true
+
+[[files]]
+file = "mods/smooth-swapping.pw.toml"
+hash = "afbbfb63e97948da8f850ede8390f2260b4856c883959bc45ce2f55021304766"
 metafile = true
 
 [[files]]
@@ -490,6 +535,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "279ea1bb4b776be9176fe34416e2132e37abfce4483def54177091cc0f2faade"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "a1d33464246ce3bf62e92de9c366087632f6cd3cd4f3d0587cc22d15c2ef2faa"
 metafile = true
 
 [[files]]
@@ -525,6 +575,16 @@ metafile = true
 [[files]]
 file = "mods/wavey-capes.pw.toml"
 hash = "45d1f440945a61fd298d497725a3b2aa8fac958102d0ec5797f7c2f2a4a3d5e9"
+metafile = true
+
+[[files]]
+file = "mods/wi-zoom.pw.toml"
+hash = "ffea95ad0ac7138c3da6d651388212e812fb4df0404a56a6053647116023f23c"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "dba564c761870715c46e527e182ece9d0c50ae96c8c4e3af3f2b567e2816565d"
 metafile = true
 
 [[files]]
