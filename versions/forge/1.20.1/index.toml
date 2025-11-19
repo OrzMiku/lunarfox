@@ -53,6 +53,10 @@ file = "config/roughlyenoughitems/config.json5"
 hash = "c550f46ad5ec34377e2b77a84f553ef1ac02bd9515219a8b4c0239ce036a966a"
 
 [[files]]
+file = "config/smoothswapping.json"
+hash = "f4c337eebd35fecae160aa06274e32df1327ed42565a818797a508c18d6dbcfd"
+
+[[files]]
 file = "config/tweakerge.json"
 hash = "61959e34930508cde414a11b937b544727ba3aa18712751b510ad5cec99eebeb"
 
@@ -173,6 +177,11 @@ hash = "408e7f666994cbf9aff9befa4d4e9ef33eadf913760cabe3d16fb5df3b166bd5"
 metafile = true
 
 [[files]]
+file = "mods/creativecore.pw.toml"
+hash = "9582c04926dd9cea7f68f6f1b4e068bd2ec3f6fcb2734497d885364c6b74b1e1"
+metafile = true
+
+[[files]]
 file = "mods/default-options.pw.toml"
 hash = "3497e48c52866fe536932d77fbb5cb1793d4e268e52873f1ca5c1e961b777814"
 metafile = true
@@ -263,6 +272,11 @@ hash = "2c927e80a5b0610a8ca51f2a594f0e43706f239506f774359adfa12a15e48acd"
 metafile = true
 
 [[files]]
+file = "mods/imblocker-original.pw.toml"
+hash = "af2a67eeed89db77458f9734ae0519429d109cc78e81874b4787d09923a372dc"
+metafile = true
+
+[[files]]
 file = "mods/inventory-profiles-next.pw.toml"
 hash = "2514cf5b79023dea4f80446a03bfef5ddfaa4cc3a463abb49fd8a16c891ac620"
 metafile = true
@@ -275,6 +289,11 @@ metafile = true
 [[files]]
 file = "mods/iris-shader-folder.pw.toml"
 hash = "c9b81a2cf003492de57ccaeca38a9055a4bec942be1a73d969dad974913199a6"
+metafile = true
+
+[[files]]
+file = "mods/itemphysic-lite.pw.toml"
+hash = "947f0da0d152cbf818540cf743a9b01f2d85d880798d0f5f126736e42af3429f"
 metafile = true
 
 [[files]]
@@ -425,6 +444,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "b8c7497acbf4890b4609b6b20de7affdd3482fc99af975d9ff6b29c075e1d8a7"
+metafile = true
+
+[[files]]
+file = "mods/smooth-swapping-forge-updated.pw.toml"
+hash = "df283b31e662fc42b7c99dee9aada51b0d16f8105095cf07b27e0a170dbf7ae6"
 metafile = true
 
 [[files]]

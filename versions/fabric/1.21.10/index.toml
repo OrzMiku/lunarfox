@@ -30,7 +30,7 @@ hash = "7332aaf0769b81e5dfc0f4dc4fa5fcdc56e98811b75214e44ce2d06558e69712"
 
 [[files]]
 file = "config/yosbr/config/inventoryhud.json"
-hash = "6b14ae9a50fe0dde599aa135d0820b67fbc352581e1b0b3a6f8e004c855a0095"
+hash = "33471647f9a63432678447e8cdd3db193f25c88932104d54b4d3b2800cf59cb2"
 
 [[files]]
 file = "config/yosbr/config/inventoryprofilesnext/inventoryprofiles.json"
@@ -55,6 +55,10 @@ hash = "72f8b0f992ed551eac5161bd4fb90f236814427371f33c7b22771fed05920a06"
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
 hash = "5cf6393f2eb20dc325b389aad51cab186c01a06956013138500de9235da31b0e"
+
+[[files]]
+file = "config/yosbr/config/smoothswapping.json"
+hash = "f4c337eebd35fecae160aa06274e32df1327ed42565a818797a508c18d6dbcfd"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
@@ -82,7 +86,7 @@ hash = "b0df40e07391a60294d7bffb9772cabe8096d61c41c8680fbfad927d3a6a5a6b"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "632bc47136ef692686d301a242b43438906bb837714a23990da27d3c8bfdfbb2"
+hash = "d7c6c557fbcd9c8a8e4ed7e841d381bdf3c45af3af78159d65f9ce0e67480834"
 
 [[files]]
 file = "icon.png"
@@ -188,6 +192,11 @@ hash = "717d8ac591dba59be4767a179e1359747561e54ccfcac42161fd6bf54339a78b"
 metafile = true
 
 [[files]]
+file = "mods/continuity.pw.toml"
+hash = "b152c75412428e5f53667cb0836fa1323ca93cbd925e456239710a2e261d9963"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "da925d1159906a6c993fa4be167a48ae350d77daa1950a68135bf56c4e0dbb62"
 metafile = true
@@ -195,6 +204,11 @@ metafile = true
 [[files]]
 file = "mods/craterlib.pw.toml"
 hash = "5ca99808c48e56205c8b02adfefa6489f9108eb25511f00721125cdc9fafe0e9"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "d61eea65d903963fc412f1e6dc4ec5c9f89814358e324cb734e0ec6e40ece483"
 metafile = true
 
 [[files]]
@@ -278,6 +292,11 @@ hash = "15bce919514325447e487d260ec4458165fb4537ccadb9a0e740df4bcf3cb0ef"
 metafile = true
 
 [[files]]
+file = "mods/imblocker-original.pw.toml"
+hash = "15d2f28045681b2c64781301a9e378d6fa26d32e9faed761238924d1e2286294"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "5a6ee9ae2de75743aa027eb753ac9c3cb92305df67bde8fe2cefdd2df0eb49d7"
 metafile = true
@@ -300,6 +319,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "4ed061d122cb39f34ed730984c7bcf03437250f24a21975203bb4598d7d86a14"
+metafile = true
+
+[[files]]
+file = "mods/itemphysic-lite.pw.toml"
+hash = "eb7b26daffd4631c5c6812effffa4ad56338b7f547a1311d2310382558876baa"
 metafile = true
 
 [[files]]
@@ -475,6 +499,11 @@ metafile = true
 [[files]]
 file = "mods/smooth-scroll.pw.toml"
 hash = "4b0cb4b61e8bdb342fac44e7d09c07a33b4cb7e4627b29de739a7f095754641d"
+metafile = true
+
+[[files]]
+file = "mods/smooth-swapping.pw.toml"
+hash = "afbbfb63e97948da8f850ede8390f2260b4856c883959bc45ce2f55021304766"
 metafile = true
 
 [[files]]

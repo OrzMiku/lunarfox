@@ -1,0 +1,13 @@
+name = "IMBlocker"
+filename = "IMBlocker-5.0.2-1.20.6+.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/WMDesFsZ/versions/SPkBxmxk/IMBlocker-5.0.2-1.20.6%2B.jar"
+hash-format = "sha512"
+hash = "4d58fe976d98634bd6e2b8301a9fe1b4e815033970f0fa6e8d7473e0d9d5dcfe208b34e18cd04850a60c49be67cb1c1992888e9388a4022a7a94e79d8ef27c86"
+
+[update]
+[update.modrinth]
+mod-id = "WMDesFsZ"
+version = "SPkBxmxk"

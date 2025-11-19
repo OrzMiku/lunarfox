@@ -38,7 +38,7 @@ hash = "3817e94107bb1c7358beebb80b1810e822de38be430f855cf14828c38018e8e2"
 
 [[files]]
 file = "config/yosbr/config/inventoryhud.json"
-hash = "6b14ae9a50fe0dde599aa135d0820b67fbc352581e1b0b3a6f8e004c855a0095"
+hash = "33471647f9a63432678447e8cdd3db193f25c88932104d54b4d3b2800cf59cb2"
 
 [[files]]
 file = "config/yosbr/config/inventoryprofilesnext/inventoryprofiles.json"
@@ -67,6 +67,10 @@ hash = "5cf6393f2eb20dc325b389aad51cab186c01a06956013138500de9235da31b0e"
 [[files]]
 file = "config/yosbr/config/roughlyenoughitems/config.json5"
 hash = "c550f46ad5ec34377e2b77a84f553ef1ac02bd9515219a8b4c0239ce036a966a"
+
+[[files]]
+file = "config/yosbr/config/smoothswapping.json"
+hash = "f4c337eebd35fecae160aa06274e32df1327ed42565a818797a508c18d6dbcfd"
 
 [[files]]
 file = "config/yosbr/config/sodium-mixins.properties"
@@ -235,6 +239,11 @@ hash = "ff674220aeb9395349903de7d40a1af1bbcbc0aa9182c193df50b21225065709"
 metafile = true
 
 [[files]]
+file = "mods/creativecore.pw.toml"
+hash = "af83eb1ea0f7a36e4424248c744c1cbebb5045d361e843b873d4d89bf65ad8ad"
+metafile = true
+
+[[files]]
 file = "mods/default-options.pw.toml"
 hash = "b886b1761e9a0e36cfc351c3e8cd3455fbe35143ade876c97cc43d02b07b061d"
 metafile = true
@@ -335,6 +344,11 @@ hash = "58ace6ddc01192bd96668e2a833568083f34b0808645e056c0f1e0716f63abe5"
 metafile = true
 
 [[files]]
+file = "mods/imblocker-original.pw.toml"
+hash = "e6c1ab0a1d6382c691cbd1e53934c5c5c9cb63073c7bdd495c83fe1352327508"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "cb85864ff2d3936a5ab4f7e7ccf763dbda0153412ba52c95a63b29677a012aaf"
 metafile = true
@@ -357,6 +371,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "99efc9e805ce2888680d3cacb9be65733c6d4a8cfcb77e1976205f758db24346"
+metafile = true
+
+[[files]]
+file = "mods/itemphysic-lite.pw.toml"
+hash = "4a2a3f5a7bb617eba9acbf39417aaa75433379fb3bcf1a7054b3dbe8bc1bb472"
 metafile = true
 
 [[files]]
@@ -552,6 +571,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "830270b8e5a34f5621720ae09c4cf716a65d8003a30d585c8b817aba1fde9ac8"
+metafile = true
+
+[[files]]
+file = "mods/smooth-swapping.pw.toml"
+hash = "1ede923bd8d121599c945ecd7aae1f72db0ced06659e559c38830e4d39390a8a"
 metafile = true
 
 [[files]]
