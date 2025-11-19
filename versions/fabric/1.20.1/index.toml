@@ -235,6 +235,11 @@ hash = "ff674220aeb9395349903de7d40a1af1bbcbc0aa9182c193df50b21225065709"
 metafile = true
 
 [[files]]
+file = "mods/creativecore.pw.toml"
+hash = "af83eb1ea0f7a36e4424248c744c1cbebb5045d361e843b873d4d89bf65ad8ad"
+metafile = true
+
+[[files]]
 file = "mods/default-options.pw.toml"
 hash = "b886b1761e9a0e36cfc351c3e8cd3455fbe35143ade876c97cc43d02b07b061d"
 metafile = true
@@ -357,6 +362,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "99efc9e805ce2888680d3cacb9be65733c6d4a8cfcb77e1976205f758db24346"
+metafile = true
+
+[[files]]
+file = "mods/itemphysic-lite.pw.toml"
+hash = "4a2a3f5a7bb617eba9acbf39417aaa75433379fb3bcf1a7054b3dbe8bc1bb472"
 metafile = true
 
 [[files]]

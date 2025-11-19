@@ -173,6 +173,11 @@ hash = "408e7f666994cbf9aff9befa4d4e9ef33eadf913760cabe3d16fb5df3b166bd5"
 metafile = true
 
 [[files]]
+file = "mods/creativecore.pw.toml"
+hash = "9582c04926dd9cea7f68f6f1b4e068bd2ec3f6fcb2734497d885364c6b74b1e1"
+metafile = true
+
+[[files]]
 file = "mods/default-options.pw.toml"
 hash = "3497e48c52866fe536932d77fbb5cb1793d4e268e52873f1ca5c1e961b777814"
 metafile = true
@@ -275,6 +280,11 @@ metafile = true
 [[files]]
 file = "mods/iris-shader-folder.pw.toml"
 hash = "c9b81a2cf003492de57ccaeca38a9055a4bec942be1a73d969dad974913199a6"
+metafile = true
+
+[[files]]
+file = "mods/itemphysic-lite.pw.toml"
+hash = "947f0da0d152cbf818540cf743a9b01f2d85d880798d0f5f126736e42af3429f"
 metafile = true
 
 [[files]]
