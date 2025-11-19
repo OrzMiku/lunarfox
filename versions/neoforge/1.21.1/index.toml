@@ -53,6 +53,10 @@ file = "config/roughlyenoughitems/config.json5"
 hash = "c550f46ad5ec34377e2b77a84f553ef1ac02bd9515219a8b4c0239ce036a966a"
 
 [[files]]
+file = "config/smoothswapping.json"
+hash = "f4c337eebd35fecae160aa06274e32df1327ed42565a818797a508c18d6dbcfd"
+
+[[files]]
 file = "config/sodium-options.json"
 hash = "925c54884e5bb35cd962cc021219ee647f30dd68833109d396da9fb8545066f4"
 
@@ -449,6 +453,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
+metafile = true
+
+[[files]]
+file = "mods/smooth-swapping.pw.toml"
+hash = "278ada4b395307fab4b7451ed7d13bde46a4b48ae6d3f9cf8cd78ecb82da1108"
 metafile = true
 
 [[files]]

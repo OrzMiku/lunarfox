@@ -53,6 +53,10 @@ file = "config/roughlyenoughitems/config.json5"
 hash = "c550f46ad5ec34377e2b77a84f553ef1ac02bd9515219a8b4c0239ce036a966a"
 
 [[files]]
+file = "config/smoothswapping.json"
+hash = "f4c337eebd35fecae160aa06274e32df1327ed42565a818797a508c18d6dbcfd"
+
+[[files]]
 file = "config/tweakerge.json"
 hash = "61959e34930508cde414a11b937b544727ba3aa18712751b510ad5cec99eebeb"
 
@@ -435,6 +439,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "b8c7497acbf4890b4609b6b20de7affdd3482fc99af975d9ff6b29c075e1d8a7"
+metafile = true
+
+[[files]]
+file = "mods/smooth-swapping-forge-updated.pw.toml"
+hash = "df283b31e662fc42b7c99dee9aada51b0d16f8105095cf07b27e0a170dbf7ae6"
 metafile = true
 
 [[files]]

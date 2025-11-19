@@ -69,6 +69,10 @@ file = "config/yosbr/config/roughlyenoughitems/config.json5"
 hash = "c550f46ad5ec34377e2b77a84f553ef1ac02bd9515219a8b4c0239ce036a966a"
 
 [[files]]
+file = "config/yosbr/config/smoothswapping.json"
+hash = "f4c337eebd35fecae160aa06274e32df1327ed42565a818797a508c18d6dbcfd"
+
+[[files]]
 file = "config/yosbr/config/sodium-mixins.properties"
 hash = "fa47ad234f2b53c2366ea8df83d5485f36d5129f228413416212b6f0ca2ba856"
 
@@ -562,6 +566,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "830270b8e5a34f5621720ae09c4cf716a65d8003a30d585c8b817aba1fde9ac8"
+metafile = true
+
+[[files]]
+file = "mods/smooth-swapping.pw.toml"
+hash = "1ede923bd8d121599c945ecd7aae1f72db0ced06659e559c38830e4d39390a8a"
 metafile = true
 
 [[files]]

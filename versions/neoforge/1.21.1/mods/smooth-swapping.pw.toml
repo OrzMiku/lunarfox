@@ -1,0 +1,13 @@
+name = "Smooth Swapping"
+filename = "smoothswapping-0.9.3.1-1.21.1-neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ydZic5r4/versions/egBq48Vw/smoothswapping-0.9.3.1-1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "c79401dce80afefe23d1bc1e3d121821643fa6c7765b84f74997d435c8cd255f5224a37da65dd374b3197f97669ff9d931f2feee1f45174b049c0ec9dcdad996"
+
+[update]
+[update.modrinth]
+mod-id = "ydZic5r4"
+version = "egBq48Vw"
