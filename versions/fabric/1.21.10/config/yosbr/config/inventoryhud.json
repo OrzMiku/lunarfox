@@ -1,5 +1,7 @@
 {
   "inv_toggle": false,
-  "pot_toggle": false,
-  "arm_toggle": true
+  "pot_toggle": true,
+  "arm_toggle": true,
+  "pot_x": 6,
+  "pot_y": 30
 }

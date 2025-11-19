@@ -33,8 +33,8 @@ file = "config/ferritecore.mixin.properties"
 hash = "3817e94107bb1c7358beebb80b1810e822de38be430f855cf14828c38018e8e2"
 
 [[files]]
-file = "config/inventoryhud.json"
-hash = "22114ef1ca0544700c7d2883a740193b22347ae97ccf33daace70b7fb5a0c06b"
+file = "config/inventoryhud-client.toml"
+hash = "a7b25bbe74ba531773d630d46b58bff19f41740b24278f9954ddd604411d1de6"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
