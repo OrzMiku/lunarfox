@@ -157,6 +157,11 @@ hash = "d74546a98e3af1867539d80bdf9d188968920a7df8e57ccb3b7a55b36a37eb7a"
 metafile = true
 
 [[files]]
+file = "mods/betterping.pw.toml"
+hash = "3c16bdf3c4058feae084e466b7f4960b1193796d501cbe8fe5febe2dd291800c"
+metafile = true
+
+[[files]]
 file = "mods/boat-item-view.pw.toml"
 hash = "6d717e11f5a11194004d8879b5c1e46448394855211ce8ac1937ae40895f2c27"
 metafile = true
@@ -243,7 +248,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "3e3121bb346acbcda458a6bcd2e2d3564d54ef84a4fdbc802ed82447a80f2536"
+hash = "76ba469ba67cdf17276da7a629ff85518f4c1dfaaae5ad28d9ee2d6bc79439c5"
 metafile = true
 
 [[files]]
@@ -283,7 +288,7 @@ metafile = true
 
 [[files]]
 file = "mods/gamma-utils.pw.toml"
-hash = "88164a8cb5574252a7acb82fe650c096b272f7912f00cd91c9d1dcc2a18549fa"
+hash = "98f6b212086d5e0c6d44ae604275d0cce522f42ff848d79b08cfef165b8ae279"
 metafile = true
 
 [[files]]
@@ -368,7 +373,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "1bbb181ac406f7e655e87d3de443109c83a597c0784810a9fd48bb8fe09ba687"
+hash = "df5ce30f6ac464f7b06400e03568d2b9087dd1849fd8c21a2381fe2f666338b6"
 metafile = true
 
 [[files]]
@@ -448,7 +453,7 @@ metafile = true
 
 [[files]]
 file = "mods/peek.pw.toml"
-hash = "368cc4f1195320c978639963acadbf685118b9f69cf0ef899b8ff8a32f204316"
+hash = "a8cecc4f13db263cb0ea5d20a5cc92867be0919bc02c8392d01b9962826ec6e3"
 metafile = true
 
 [[files]]
@@ -463,12 +468,12 @@ metafile = true
 
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
-hash = "1d0b4cb5d19919e7c63ece2bda6e312ca80f266880e6472182cda993d70ed8fb"
+hash = "7d1c4098e5a07f399f3974d0dfd64adaaa40cb5fc3879904630d3829bb10358f"
 metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "6563af8f8937ede110303ee1437499892061d824182139a92e7a1fd6eac168d7"
+hash = "4345889c03219d385b9f1ebad4cb7f19e017575b1a2097f0be32265cee148548"
 metafile = true
 
 [[files]]
@@ -598,7 +603,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "575f72c3f1f10a74c40a1ebdb79c6e4c138ddc5e9309581f30297f7ea97d1bf2"
+hash = "616d949ae5c0ce479f9fe651a5c559f2e02b22e5b5762230101bd2213c7aa8c1"
 metafile = true
 
 [[files]]

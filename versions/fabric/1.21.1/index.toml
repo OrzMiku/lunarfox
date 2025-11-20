@@ -277,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "3e3121bb346acbcda458a6bcd2e2d3564d54ef84a4fdbc802ed82447a80f2536"
+hash = "76ba469ba67cdf17276da7a629ff85518f4c1dfaaae5ad28d9ee2d6bc79439c5"
 metafile = true
 
 [[files]]
@@ -412,7 +412,7 @@ metafile = true
 
 [[files]]
 file = "mods/magiclib.pw.toml"
-hash = "9d573d00db50639cc4fa4a73c73b10e88f1a385905b185d21056e929b4e0dfef"
+hash = "8891b4cf171004ddd3e2dd00f35d3822d2353d45ebbb9e0b52afc4ff384f1497"
 metafile = true
 
 [[files]]
@@ -522,12 +522,12 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "34052231ff82dcbed2bd0aa00a8bda38209131b91b08818198544a7036018dcc"
+hash = "88f15c65b3ee75249c3bcfebdb9dd01f2cf4222df861ee770567e656c2014627"
 metafile = true
 
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
-hash = "dee709ea8dbbb9e75de4d53b1b9e1fd0e535abc0809c1f5aaadf783178cccf21"
+hash = "f013040d2544856ca9f8fe4e07e040aa8a78c87ace3426743a8429d73cba81a3"
 metafile = true
 
 [[files]]
@@ -677,7 +677,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "575f72c3f1f10a74c40a1ebdb79c6e4c138ddc5e9309581f30297f7ea97d1bf2"
+hash = "616d949ae5c0ce479f9fe651a5c559f2e02b22e5b5762230101bd2213c7aa8c1"
 metafile = true
 
 [[files]]
