@@ -217,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "e790d77a821c903b2f5cfd520bdaa49c07df92e5fa84cbc32ccd42f575ef0525"
+hash = "cd77d7f479a925f2c5147a9e4103a7c35c19292bf3a3144a59ecbb2905ceba62"
 metafile = true
 
 [[files]]
@@ -412,7 +412,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "d735e9cc5652e654cfa85bd42c43b5f91d9ed96f008cdefe258f827dbda195c5"
+hash = "f9b03a8d6466455294d823b23712e43bb9f26cb621d27b6134c150cf64cd671b"
 metafile = true
 
 [[files]]
@@ -536,7 +536,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "575f72c3f1f10a74c40a1ebdb79c6e4c138ddc5e9309581f30297f7ea97d1bf2"
+hash = "616d949ae5c0ce479f9fe651a5c559f2e02b22e5b5762230101bd2213c7aa8c1"
 metafile = true
 
 [[files]]
