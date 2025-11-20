@@ -606,6 +606,10 @@ file = "shaderpacks/Sundial-Lite-277a82a.zip"
 hash = "9e8a672257f3c0c33fb62109c5d7e235129049687f04c05ce12f8a4d01a3c624"
 
 [[files]]
+file = "shaderpacks/Sundial-Lite-MMCO_v0.2.18.zip"
+hash = "e0f248b2ffd1170b4032a002746883d977751b4c9468e92c68a6d80d78af1bd6"
+
+[[files]]
 file = "shaderpacks/bliss-shader.pw.toml"
 hash = "f4fb7685cf5f1f07eb5b07b0dd7ea211e46e249cb3a78237358d27c3db1dea2b"
 metafile = true
