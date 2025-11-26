@@ -41,10 +41,6 @@ file = "config/yosbr/config/iris_shader_folder.properties"
 hash = "1a5d6fcabb22ac0718408b7ff05e298e719ffe855586df320bf0acbe6d3d0581"
 
 [[files]]
-file = "config/yosbr/config/litematica.json"
-hash = "0186b89fc19e5b7b36902eed03061ff03530a15c86de6090c98f488bdaf51f73"
-
-[[files]]
 file = "config/yosbr/config/minihud.json"
 hash = "435f7811c796b2352fee74985081994d69f881f9f0b6a0499ba39fbc40ee3f0b"
 
