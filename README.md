@@ -48,3 +48,8 @@ To make gameplay more convenient and information more intuitive, LunarFox includ
 ## ⭐ Credits
 
 - [Simply Optimized](https://modrinth.com/modpack/sop): Some config files are from this modpack.
+
+## 🔧 Dev
+
+- For Linux Developer, you can run `nix-shell` to enter a development with necessary dev tools (You should install nix first).
+- The necessary tool is Packwiz; you can refer to <https://packwiz.infra.link/> for instructions on how to install and use it.
