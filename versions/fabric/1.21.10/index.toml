@@ -134,10 +134,6 @@ hash = "94c3fc74cf184c9e5c597609dde733137f823bed718fcce32cdefaa040aa9977"
 metafile = true
 
 [[files]]
-file = "mods/better-block-entities-1.0.0-0773bac.jar"
-hash = "da49f3673bb95ede41d501ef08e3f7e2575c2443893595baceced2bead332e54"
-
-[[files]]
 file = "mods/better-block-entities.pw.toml"
 hash = "c8d6bda044475105c02984665f1205537241931d927f825cd8af9699264c1025"
 metafile = true
