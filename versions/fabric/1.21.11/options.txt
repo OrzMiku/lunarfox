@@ -1,7 +1,6 @@
 cutoutLeaves:true
 enableVsync:false
 entityShadows:false
-graphicsMode:0
 maxFps:260
 renderDistance:8
 simulationDistance:8

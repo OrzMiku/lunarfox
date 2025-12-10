@@ -85,8 +85,18 @@ file = "icon.png"
 hash = "7ed2443085370e3427bd3e803037356811af68ad3fc131947a89cc89f2103fc7"
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "ed50f3b3feba91fa31915aefb40690bc322f37be83490e6b59a443e83a46a542"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "8d01c74085981dbd3905a2437fca1219af70835dfa0b96edfd1b0381d53e98db"
+metafile = true
+
+[[files]]
+file = "mods/bobby.pw.toml"
+hash = "5e097f95b8818e0999b4e867351745441f90c9bcf2a9c68cd19d5d708da4a4a1"
 metafile = true
 
 [[files]]
@@ -125,6 +135,11 @@ hash = "d7c055f277c1751122d9abc5f09015e629699e04a9383cd0c666b33436293079"
 metafile = true
 
 [[files]]
+file = "mods/fast-ip-ping.pw.toml"
+hash = "87dea750205910be6e5184ca4cdc3a3f2f439364435408b8e7a1036fdf3c28fc"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "76a12a836d4c7f0f943a1e391dd2d7b5c4673caa497fff16593d49449376b117"
 metafile = true
@@ -160,6 +175,11 @@ hash = "b26e4fd753b675860db0d6a1adfec78bde1b0bb178e419f3f91a0a16f2776e1f"
 metafile = true
 
 [[files]]
+file = "mods/itemswapper.pw.toml"
+hash = "e89e2594aa0b4d732f687a4b0594c80bbf15b1cb7a01712814932d9206c9980a"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "53ca4dd806e6ae6b3d72d7707ff59c30bb6b07b7f9c2b0a2a82534c0ecfb78c4"
 metafile = true
@@ -175,6 +195,16 @@ hash = "6225ea9413da6413cc543199774832a0f65d20fa64013dede1c418eb1a7ef269"
 metafile = true
 
 [[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "7f26c8df78d02b1d63a723a3a45b838415126da5296ac67b0414e564da30a421"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "6dbca2c20d66b076bb4e8959ea0e26887991acf48f785aae402e066d5e3eb6ea"
+metafile = true
+
+[[files]]
 file = "mods/packet-fixer.pw.toml"
 hash = "7a1d18504e615e902ed766ad9fb4898bce1009073a8674d33d59118061d9ccdf"
 metafile = true
@@ -185,8 +215,23 @@ hash = "a7ed3b70eee552acb382d218b9ab840d6d8d81fac7491db9d146692c4d870389"
 metafile = true
 
 [[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "e674752dd4dd07c33d9b94f6e19c15ef893c356c3c5ed77aeaf35cf6d2325130"
+metafile = true
+
+[[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "13369d7a10a47895f33629f000945d6bdf43f7b19a9ff1ca2ecfbc209c1ac431"
+metafile = true
+
+[[files]]
+file = "mods/resourcify.pw.toml"
+hash = "737cad57d571acc5fc7c8458b61f13e7fc234ba97adc2b6e8700054f4a6b87f2"
+metafile = true
+
+[[files]]
+file = "mods/rrls.pw.toml"
+hash = "e542e032b9504f15f634907a7bab56f18f143da2f68621d6ffe22a9148ae2b48"
 metafile = true
 
 [[files]]
@@ -221,11 +266,16 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "0fcb5bc3f106737566aace74ef9d3c4b7c08a6654360e35c5a7eac4d0a6570c6"
+hash = "b4e1e40e20b1bcaeac6c53ed8df210348b331b307f46fa21807be14b9e4244f5"
 
 [[files]]
 file = "resourcepacks/acaciachan-xaero-map-translation.pw.toml"
 hash = "a763f371804ad4bd8d571f1a000fba61a6eaa2f295a347683fd10063110b4d12"
+metafile = true
+
+[[files]]
+file = "resourcepacks/spbr.pw.toml"
+hash = "0c1781a4ac6f761082ad1caf34c2dca626b6d87435e32e5b5ed9b9c4e35b105e"
 metafile = true
 
 [[files]]
