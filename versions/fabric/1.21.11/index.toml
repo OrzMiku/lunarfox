@@ -99,6 +99,11 @@ hash = "ed50f3b3feba91fa31915aefb40690bc322f37be83490e6b59a443e83a46a542"
 metafile = true
 
 [[files]]
+file = "mods/axolotl-buckets.pw.toml"
+hash = "2a138f455ec59c5be9d421370d8e168279fb94833c62d76db06431e429377be4"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "8d01c74085981dbd3905a2437fca1219af70835dfa0b96edfd1b0381d53e98db"
 metafile = true
@@ -116,6 +121,11 @@ metafile = true
 [[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "092508af534efeb380b9551663980ab1f701d88583a63227d02cb02843335f7a"
+metafile = true
+
+[[files]]
+file = "mods/chatanimation.pw.toml"
+hash = "9854603f767980c514aefe9c391a6d3fa89dc6be18d23ab462f2a3bbabe7652c"
 metafile = true
 
 [[files]]
@@ -185,12 +195,17 @@ metafile = true
 
 [[files]]
 file = "mods/imblocker-original.pw.toml"
-hash = "15d2f28045681b2c64781301a9e378d6fa26d32e9faed761238924d1e2286294"
+hash = "9a838360da2a76943a3c89e0a4d6d4f04468bccc337b6d5339acb16bd69d6965"
 metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "dc930299b4c11cbd31712a3b91231bac4be1f34d00a464bfbe1a0674f5187d11"
+metafile = true
+
+[[files]]
+file = "mods/inventoryhudplus.pw.toml"
+hash = "ec167c40c324688e0fa677527062f06e8c6c7c10f79f5e6ec7a61b478d44e9b6"
 metafile = true
 
 [[files]]
@@ -225,17 +240,17 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "a0d240d0c26f6fef80ff6d12b321b1bd4c6b6504b73bb42422695fd142cb85d0"
+hash = "256153cf388712677ab3812461006be256f0d4dbe3ad3505457722a85b4f2312"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "6225ea9413da6413cc543199774832a0f65d20fa64013dede1c418eb1a7ef269"
+hash = "88a36b21d538d44aca7dd0a7e5ad8c09b1b263be3f4381e3bb22bc9f94ee7290"
 metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "d5d1df9386e2eb9ce3f86eb7456cd36569425397122b9ae64b870e2b591d9ee4"
+hash = "ebde302faa068ace4a27bb1228fabdbec05651a418c5109845a0e84141fb018f"
 metafile = true
 
 [[files]]
@@ -265,7 +280,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "7baeac3c1670010f13efc10c359e57f97899b368595585c31d07038c08438667"
+hash = "4c4f8569adba682de05800e73690fec8ce64d9d86341862ac6d9315d9dec01eb"
 metafile = true
 
 [[files]]
@@ -324,6 +339,11 @@ hash = "f7148ee0560f056fe5d60984527b370b0fec15d6bc427778021e68b89220b07c"
 metafile = true
 
 [[files]]
+file = "mods/viafabricplus.pw.toml"
+hash = "d23deb48fa3726706619a53f55948bad36a7f03af43d1a9cc21da2239f14b066"
+metafile = true
+
+[[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "158242203ca5ed82f7c2628f0c2ec05c94a93d6102a8fd88a21aa9fe30afee76"
 metafile = true
@@ -355,7 +375,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "4c2d6d805a168fc4cd30d23258eb0cf79f87eac9efc3089ac16bad5af7d34730"
+hash = "5c88e075533df7079b0ef77684f2a71bb8743722a755f24978b2a9a1405c4bd6"
 metafile = true
 
 [[files]]
