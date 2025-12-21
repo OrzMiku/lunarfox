@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> The project has been moved to [codeberg](https://codeberg.org/OrzMiku/lunarfox)
+
 # LunarFox
 
 ## 🦊 What is LunarFox?
@@ -53,3 +56,4 @@ To make gameplay more convenient and information more intuitive, LunarFox includ
 
 - For Linux Developer, you can run `nix-shell` to enter a development with necessary dev tools (You should install nix first).
 - The necessary tool is Packwiz; you can refer to <https://packwiz.infra.link/> for instructions on how to install and use it.
+
