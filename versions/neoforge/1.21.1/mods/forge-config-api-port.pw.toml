@@ -1,0 +1,13 @@
+name = "Forge Config API Port"
+filename = "ForgeConfigAPIPort-v21.1.6-1.21.1-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ohNO6lps/versions/tWlsPKJI/ForgeConfigAPIPort-v21.1.6-1.21.1-NeoForge.jar"
+hash-format = "sha512"
+hash = "902825abb4e46c070d12a1197af640894eb45ac29bfe5547162d6d3fc1a24fad9bb59dd4f06874690518bf1425ecffcb754feea9aed28d1f689cf9f53a339676"
+
+[update]
+[update.modrinth]
+mod-id = "ohNO6lps"
+version = "tWlsPKJI"

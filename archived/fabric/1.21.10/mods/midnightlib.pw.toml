@@ -1,0 +1,13 @@
+name = "MidnightLib"
+filename = "midnightlib-fabric-1.9.2+1.21.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/codAaoxh/versions/VoGY1DpA/midnightlib-fabric-1.9.2%2B1.21.10.jar"
+hash-format = "sha512"
+hash = "e15dc27d1cec8253e3fc78a9f368bdb7e53888ef3aabf177360c9de0f1ee5be6861936d896b4404ad039ae7c68adb6d0c3b1ac60e954ffa3f427a27e2a3d12f0"
+
+[update]
+[update.modrinth]
+mod-id = "codAaoxh"
+version = "VoGY1DpA"

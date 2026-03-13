@@ -1,0 +1,11 @@
+# Exclude exported Modrinth modpacks
+*.mrpack
+
+# Other files
+*.log
+
+# Python cache files
+__pycache__/
+
+# Temporary Directory
+temp/

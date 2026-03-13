@@ -1,0 +1,13 @@
+name = "Forgematica"
+filename = "Forgematica-0.1.13-mc1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/dCKRaeBC/versions/YncE2C0Y/Forgematica-0.1.13-mc1.20.1.jar"
+hash-format = "sha512"
+hash = "1e2b1c38d825c2019d8d379d4436e5b5637f9ab460675e4de635d76d054ad5211909e5e74913a8240bdeff4546e9a7aa3f603ca84bc10988adaf1640015f7590"
+
+[update]
+[update.modrinth]
+mod-id = "dCKRaeBC"
+version = "YncE2C0Y"

@@ -1,0 +1,13 @@
+name = "Searchables"
+filename = "Searchables-fabric-1.21.9-1.0.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/fuuu3xnx/versions/WkSxSOMO/Searchables-fabric-1.21.9-1.0.2.jar"
+hash-format = "sha512"
+hash = "49729562028212e96e41fff77e5921000a263a5563728b7681fd27365b2649bc614f594bf476c7b6f6e8e74013ab0c1cce2ce24002d3ad84a3e06955c1aa1d74"
+
+[update]
+[update.modrinth]
+mod-id = "fuuu3xnx"
+version = "WkSxSOMO"

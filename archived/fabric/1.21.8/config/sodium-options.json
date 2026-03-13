@@ -1,0 +1,8 @@
+{
+  "quality": {
+    "leaves_quality": "FANCY"
+  },
+  "performance": {
+    "use_entity_culling": false
+  }
+}

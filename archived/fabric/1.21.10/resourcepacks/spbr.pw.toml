@@ -1,0 +1,13 @@
+name = "SPBR"
+filename = "SPBR-19_1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/aNcOVoD7/versions/HNfULmBG/SPBR-19_1.zip"
+hash-format = "sha512"
+hash = "f50bc15dc2d6b05196df74d5a378d329c65f5171f5191ea6d316706f4c9266ee2f28aff7007558e203db9a0b7d8549c230d0379f50aebea06e37e5d66d383b92"
+
+[update]
+[update.modrinth]
+mod-id = "aNcOVoD7"
+version = "HNfULmBG"

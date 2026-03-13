@@ -1,0 +1,13 @@
+name = "Smooth Swapping - Forge Updated (1.20.1)"
+filename = "smoothswapping-0.9.2-1.20.1-forge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/nmVEZj6t/versions/5Gp6PY2o/smoothswapping-0.9.2-1.20.1-forge.jar"
+hash-format = "sha512"
+hash = "f6593165491fc6fc5a9970e5521da1157c216be9b32c9346e898f9792874a3849429791238271b0242743c1bfc52da4544bf7771f3bafb7d9b0665b01614de4b"
+
+[update]
+[update.modrinth]
+mod-id = "nmVEZj6t"
+version = "5Gp6PY2o"

@@ -1,0 +1,13 @@
+name = "Default Options"
+filename = "defaultoptions-fabric-1.20.1-18.0.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/WEg59z5b/versions/cxuTtrVx/defaultoptions-fabric-1.20.1-18.0.4.jar"
+hash-format = "sha512"
+hash = "68fb7bb9b5ed182c600bab3daf795f6eae2f1f2dc5c748042dc4a45d18d7942b96abb224bde14f1c2523e33fcaf29e3249e3e5183e2aa643b1c3f1ecac4ba8e5"
+
+[update]
+[update.modrinth]
+mod-id = "WEg59z5b"
+version = "cxuTtrVx"

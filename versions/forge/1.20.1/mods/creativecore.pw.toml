@@ -1,0 +1,13 @@
+name = "CreativeCore"
+filename = "CreativeCore_FORGE_v2.12.35_mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OsZiaDHq/versions/p6pvilEm/CreativeCore_FORGE_v2.12.35_mc1.20.1.jar"
+hash-format = "sha512"
+hash = "e3b00bc24856aaf931392f7bf2fdab8c492341ff2654fa513e0fef6df89927db7441b740ab8583d89e6b03d503e2ded656429491c464df3da6e16a004be94823"
+
+[update]
+[update.modrinth]
+mod-id = "OsZiaDHq"
+version = "p6pvilEm"

@@ -1,0 +1,13 @@
+name = "Tweakerge"
+filename = "Tweakerge-0.1.5-mc1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/yke6wdGF/versions/CYN4k7x6/Tweakerge-0.1.5-mc1.20.1.jar"
+hash-format = "sha512"
+hash = "ed14b5aafc3540748dae85a4e1354d4a3ef555d0e9b7716dec3264f859de0dcebf6f621e437afbe1c89b1d1cc3795dc904654244aef2f8cbe96c35a252888d0a"
+
+[update]
+[update.modrinth]
+mod-id = "yke6wdGF"
+version = "CYN4k7x6"

@@ -1,0 +1,13 @@
+name = "Highlight"
+filename = "highlight-fabric-1.21.6-3.6.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Vz96hXMh/versions/ld69jnAA/highlight-fabric-1.21.6-3.6.0.jar"
+hash-format = "sha512"
+hash = "466f6d43de25afd86aecf2fa2e0a4fec8ed0b43bf71d2b572abd13097e04d36778abcd91e33c67999c3bc028e0511a468619b9c9f7d5b2a6c37dd5e9b269b9ee"
+
+[update]
+[update.modrinth]
+mod-id = "Vz96hXMh"
+version = "ld69jnAA"

@@ -1,0 +1,13 @@
+name = "3d-Skin-Layers"
+filename = "skinlayers3d-fabric-1.10.2-mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/TYPf51DB/skinlayers3d-fabric-1.10.2-mc1.21.1.jar"
+hash-format = "sha512"
+hash = "404cc478291b663b40b9153fe561012b2a987f4f6ed2639c13c81c5184922c5f664d9f71694b96c2a330b4f81aeb6bd4c5700975e41f42f83f445f03dfcfd9d7"
+
+[update]
+[update.modrinth]
+mod-id = "zV5r3pPn"
+version = "TYPf51DB"

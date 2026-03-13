@@ -1,0 +1,13 @@
+name = "Boat Item View"
+filename = "boatiview-neoforge-0.0.6-1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/BdKIyOLe/versions/6EYLZUOH/boatiview-neoforge-0.0.6-1.21.1.jar"
+hash-format = "sha512"
+hash = "b61bcfb81daadcbd451538e088e34e42ec8876b62a1a960b729558dba9560614b76f593e743b1241703d3eae606f87a3ccfa01931da45e740526d811ca8df0f9"
+
+[update]
+[update.modrinth]
+mod-id = "BdKIyOLe"
+version = "6EYLZUOH"

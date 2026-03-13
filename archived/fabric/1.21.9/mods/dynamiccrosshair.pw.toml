@@ -1,0 +1,13 @@
+name = "Dynamic Crosshair"
+filename = "dynamiccrosshair-9.9+1.21.9-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZcR9weSm/versions/EQ744WU3/dynamiccrosshair-9.9%2B1.21.9-fabric.jar"
+hash-format = "sha512"
+hash = "d57c4c0b71d31e105754ba9b203f1b22c68507140c5f7a199a7af624f051febeb8787fbd6cbfb16ce0e4ebf2fc26b253771491f63f1c08d179c82222ab57f743"
+
+[update]
+[update.modrinth]
+mod-id = "ZcR9weSm"
+version = "EQ744WU3"

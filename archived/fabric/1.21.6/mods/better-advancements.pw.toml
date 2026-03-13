@@ -1,0 +1,13 @@
+name = "Better Advancements"
+filename = "BetterAdvancements-Fabric-1.21.6-0.4.6.43.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Q2OqKxDG/versions/wTJHNhSB/BetterAdvancements-Fabric-1.21.6-0.4.6.43.jar"
+hash-format = "sha512"
+hash = "2019786fed9dac74ecbbb64239147d308f50ad6bca74db4e4a0684d5cbfb1d540539946a615a512fee5aa6f73f29f7600bf0d7c70c4b81205e0240d39475b0e2"
+
+[update]
+[update.modrinth]
+mod-id = "Q2OqKxDG"
+version = "wTJHNhSB"

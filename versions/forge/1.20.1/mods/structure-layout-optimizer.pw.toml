@@ -1,0 +1,13 @@
+name = "Structure Layout Optimizer"
+filename = "structure_layout_optimizer-forge-1.0.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ayPU0OHc/versions/EazfspJH/structure_layout_optimizer-forge-1.0.11.jar"
+hash-format = "sha512"
+hash = "e90a40a8a3b4f9a369d9a80bfb7dced3e42a400701d4cb76ace0db8a3eb84757ade10eaa6f9ec9e3dc78dcd4edc87173bdc19f64a4fb8fc047d24ae57ca4466d"
+
+[update]
+[update.modrinth]
+mod-id = "ayPU0OHc"
+version = "EazfspJH"

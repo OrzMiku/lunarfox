@@ -1,0 +1,13 @@
+name = "Chat Patches"
+filename = "chatpatches-8.0-alpha.5+1.21.8-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/MOqt4Z5n/versions/mNmuDtjy/chatpatches-8.0-alpha.5%2B1.21.8-fabric.jar"
+hash-format = "sha512"
+hash = "46039c227e609b451b39d90a1d9cc1502b666bb471659553b2196c08c3c62c9f312b16b1d0d090b39c94b65a4921cc746ff8bcfdbc58e442b8d1add3d65bed5f"
+
+[update]
+[update.modrinth]
+mod-id = "MOqt4Z5n"
+version = "mNmuDtjy"

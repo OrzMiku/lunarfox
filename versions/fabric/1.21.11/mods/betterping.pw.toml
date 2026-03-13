@@ -1,0 +1,13 @@
+name = "Better Ping"
+filename = "Better-Ping-1.1.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/S1VbwsLf/versions/FPYCMEfp/Better-Ping-1.1.3.jar"
+hash-format = "sha512"
+hash = "9c7fd7fdd02cbd58ab5855eb2eaad06645b11f4af8d48602ad9ae8705507fe8db9281dcd2c6029dd637e24a2af2c6990eb6264b7bb83cb3390d7c7064273e30e"
+
+[update]
+[update.modrinth]
+mod-id = "S1VbwsLf"
+version = "FPYCMEfp"
