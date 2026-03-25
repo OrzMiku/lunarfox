@@ -1,0 +1,13 @@
+name = "LunarFox"
+author = "OrzMiku"
+version = "0.0.0-alpha.4+mc26.1-fabric"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f419ee740a01ebc0d060b691bb24eeee264260dc146d08e17857cc9094ae33bd"
+
+[versions]
+fabric = "0.18.5"
+minecraft = "26.1"

@@ -106,7 +106,7 @@ hash = "7ed2443085370e3427bd3e803037356811af68ad3fc131947a89cc89f2103fc7"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "43d95c08f9ff906ca1e16696cc7216a2ec6ed8c08826b2b1c3a6c6727ab4b415"
+hash = "d3bf7ece2417a62d421c471b32a52d0b08c4509b6d7d34589264cbc06998edc3"
 metafile = true
 
 [[files]]
@@ -196,7 +196,7 @@ metafile = true
 
 [[files]]
 file = "mods/craterlib.pw.toml"
-hash = "1943f3f52f4d0f9b7d74302ee7b8c0557cdeb718900aa1c4c853576d28b0299f"
+hash = "cc3321e44e34067df02317d3c053d1565c924eefa904a9535f48e9bb9d49c89e"
 metafile = true
 
 [[files]]
@@ -226,17 +226,17 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "3f00fbae81c4740cb4966119ca5e6ae63a032518584942ae32ec9c13a3f80dfa"
+hash = "a53515dc59b550cc1d721b8f00207246535cb1c1291f3277395d97b5cd54e1b1"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "25d3f272639cef595de126a2c51faff793dc03bcde63ef060e1277c315583ce7"
+hash = "36a828ae63ac3773de72f0a3a5d334585638c9db2cd43706b7304f094b05e0f3"
 metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "7a180c0c68987482b2ba64c277a7735b9bd01adb910a1d91867134be8cbde29c"
+hash = "c80830833e1b784e68b9a34539297081bac42e22264300d1b1555b2031d7ad83"
 metafile = true
 
 [[files]]
@@ -321,12 +321,12 @@ metafile = true
 
 [[files]]
 file = "mods/iris-shader-folder.pw.toml"
-hash = "c9b81a2cf003492de57ccaeca38a9055a4bec942be1a73d969dad974913199a6"
+hash = "79e7b61237c3e6803761368039fc79d9ea79da3d27969505536f8ad1366c6c9e"
 metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "42496656fe495b79b3d0d2f6d86db5283691c458507366e3340016e995df58ae"
+hash = "4f8ac9ec2caed2265e8995d08b5336772b26930ba4693bf0086f8db81a86e104"
 metafile = true
 
 [[files]]
@@ -411,12 +411,12 @@ metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "4cd211200d17b109bb15f88c7b0c6ba29d9c0af6d2feb76fc7fe4eabff2e4ffe"
+hash = "2448ee89974f5934aa9114270f3e6666cbe203bffe5be6c2905231bb5dc1af81"
 metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "88215c28ac2030dad83e4f9d3ecf3ed7540b9e4066174a13c6be314be1b3c5dc"
+hash = "901515ea6960d3d1d4006653e5bd49b491afb67728723fe76baa5e89d095360e"
 metafile = true
 
 [[files]]
@@ -445,6 +445,11 @@ hash = "4dd7038889da90e145f9d074bec64a61aaae12dc57c875aa7ad99b8b2e07979b"
 metafile = true
 
 [[files]]
+file = "mods/quick-pack.pw.toml"
+hash = "16dac9bdeab15fbcd0c16540172f4e5cbc6ff3d3811fe8198a432676f017de2f"
+metafile = true
+
+[[files]]
 file = "mods/radium.pw.toml"
 hash = "bbdd40b650286973d44b1931d4b8c4bcc02b02f2c5583545709347503bd13057"
 metafile = true
@@ -461,7 +466,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "3fc5d54cca995ee8d7346fe0e8900241e27d058decd7b16500c32323c5ad2fae"
+hash = "fe831ce23ac429085f2a638230ebf4995a4544441373ac640f8c97380235f90a"
 metafile = true
 
 [[files]]
@@ -501,7 +506,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "ab73c090718ed663295344476ddcf17169b5dcf45848cb198039f8f4f373d6d3"
+hash = "0354c6043ed22304fc41395a069a291e9ce51109492082159169527698f5665a"
 metafile = true
 
 [[files]]
@@ -540,16 +545,8 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "d4809cc0fb5957beb5d715b5d8ffd48dd72aac74fc67a3bd4899cd425f443668"
+hash = "c763a163b9d1bffde40aa1896e8b0882d9cbdd414962871081defe4e5aec097e"
 metafile = true
-
-[[files]]
-file = "shaderpacks/Helian-MMCO_v0.4.13a_Sundial-lite_edit.zip"
-hash = "f1489bbff4dacf91006bea5f05d6c19a501f05be14c94385cd4a64436aa28799"
-
-[[files]]
-file = "shaderpacks/Sundial-Lite_6568cfb.zip"
-hash = "d7b935f2c0f9da04577f805446bb72a97333776f1aef513302ac868019017e73"
 
 [[files]]
 file = "shaderpacks/bliss-shader.pw.toml"

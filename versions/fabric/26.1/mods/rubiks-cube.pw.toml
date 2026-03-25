@@ -1,0 +1,13 @@
+name = "Rubiks Cube"
+filename = "rubiks-cube-v1.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uI7MMzjy/versions/hyiBpceA/rubiks-cube-v1.5.jar"
+hash-format = "sha512"
+hash = "66bf9b3be7b363d90c83479428504f946c0bae5f2bb8774207cafd3a7db3864985bfcdbaee8995d6b4ead06730e5da66e860a5a4b151c7e908be53f9ab6825c2"
+
+[update]
+[update.modrinth]
+mod-id = "uI7MMzjy"
+version = "hyiBpceA"

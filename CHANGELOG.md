@@ -4,7 +4,13 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+- 26.1 early testing version
+  - Some shaders may have rendering issues.
+
+## [1.3.2] - 2026-04-03
+
 - Added the cubes without borders mod, which provides borderless fullscreen feature.
+- Added the quick pack mod to optimize datapack / resourcepack zip file loading times for zips with **many** files.
 
 ## [1.3.1] - 2026-03-04
 

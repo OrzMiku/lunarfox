@@ -1,0 +1,13 @@
+name = "Jade 🔍"
+filename = "Jade-mc26.1-Fabric-26.0.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nvQzSEkH/versions/T2MaJ7vE/Jade-mc26.1-Fabric-26.0.7.jar"
+hash-format = "sha512"
+hash = "aafa7975a9be9481b79bbf2bd2a609f44fd853ab9ef8de9320da2c4ff5fc16ef80e9dc79f2af9dd49aab07c9110723872202dccf6df5a6112b42e66f376ff6d8"
+
+[update]
+[update.modrinth]
+mod-id = "nvQzSEkH"
+version = "T2MaJ7vE"
