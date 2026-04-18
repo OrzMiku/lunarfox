@@ -1,0 +1,13 @@
+name = "Default Options"
+filename = "defaultoptions-fabric-26.1-26.1.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/WEg59z5b/versions/DIfxcONY/defaultoptions-fabric-26.1-26.1.0.1.jar"
+hash-format = "sha512"
+hash = "fd1ae1206bb9c4a5d83e234826de5925fd16ebba4b0c273757d5d6201892d03cedf90c275cd79d00ee8abd26ad32b210a1d2732fa66a942a2ff1ce349af836ba"
+
+[update]
+[update.modrinth]
+mod-id = "WEg59z5b"
+version = "DIfxcONY"

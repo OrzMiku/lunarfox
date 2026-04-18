@@ -1,0 +1,13 @@
+name = "InventoryHUD+"
+filename = "inventoryhud.fabric.26.1.2-3.4.30.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Kp2uclYl/versions/nX58oNIw/inventoryhud.fabric.26.1.2-3.4.30.jar"
+hash-format = "sha512"
+hash = "c9a4fdc0e9864d2db1f4145ffedd54f338a039e22695418e35f01ffe3390372c8fb692d23710654830f76bcf537acd370866edae10154e48285579bf8c41b401"
+
+[update]
+[update.modrinth]
+mod-id = "Kp2uclYl"
+version = "nX58oNIw"

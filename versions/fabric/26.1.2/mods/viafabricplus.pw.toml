@@ -1,0 +1,13 @@
+name = "ViaFabricPlus"
+filename = "ViaFabricPlus-4.5.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/rIC2XJV4/versions/D9mD8kWw/ViaFabricPlus-4.5.2.jar"
+hash-format = "sha512"
+hash = "d5891bf096f777b9646438beb74279014b416538dba593ea57932012463caa152ee906e23ebebe5cc3722d87bda1f23204b5d25661d33e131a8393720de8dc84"
+
+[update]
+[update.modrinth]
+mod-id = "rIC2XJV4"
+version = "D9mD8kWw"

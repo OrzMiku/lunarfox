@@ -4,8 +4,7 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
-- 26.1 early testing version
-  - Some shaders may have rendering issues.
+- 26.1.2 early testing version
 
 ## [1.3.2] - 2026-04-03
 
