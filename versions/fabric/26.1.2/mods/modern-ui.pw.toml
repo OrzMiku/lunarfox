@@ -1,0 +1,13 @@
+name = "Modern UI"
+filename = "ModernUI-Fabric-26.1.2-3.13.0.4-universal.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/3sjzyvGR/versions/LQ39AcMw/ModernUI-Fabric-26.1.2-3.13.0.4-universal.jar"
+hash-format = "sha512"
+hash = "3e242b2be4c5eb64283c2b872cdf0d718576d601d94fca268809069401783ccb923caf84c983e491bd144d8c71ec3a2a2b3a8cdbe0337567b939789e0029359f"
+
+[update]
+[update.modrinth]
+mod-id = "3sjzyvGR"
+version = "LQ39AcMw"

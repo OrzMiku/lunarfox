@@ -1,13 +1,13 @@
 name = "IMBlocker"
-filename = "IMBlocker-5.4.6.1-neoforge+1.20.6-1.21.8.jar"
+filename = "IMBlocker-5.5.4-neoforge+1.20.6-1.21.8.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/WMDesFsZ/versions/FGYhLbmY/IMBlocker-5.4.6.1-neoforge%2B1.20.6-1.21.8.jar"
+url = "https://cdn.modrinth.com/data/WMDesFsZ/versions/gom4UX66/IMBlocker-5.5.4-neoforge%2B1.20.6-1.21.8.jar"
 hash-format = "sha512"
-hash = "2ded1c5e02df659a0b47983bdacb327273316841c5842dc414be3fedd13060716c20280ec5e9397cd18f07d98b8bd10cfe701eb87c242f2e0566c944db1e1606"
+hash = "db3d5aa66c2037645db83dac512476edb48d02e2c6ee9f30ce17265c817ff297154f8f65b0076620b83d0bfd7d398c0409d9e37e9f8fdad0707cf16bfa485f50"
 
 [update]
 [update.modrinth]
 mod-id = "WMDesFsZ"
-version = "FGYhLbmY"
+version = "gom4UX66"

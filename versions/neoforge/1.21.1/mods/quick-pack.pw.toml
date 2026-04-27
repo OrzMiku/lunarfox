@@ -1,13 +1,13 @@
 name = "quick pack"
-filename = "quick-pack-neoforge-1.2.0+1.21.10.jar"
+filename = "quick-pack-neoforge-1.3.2+1.21.8.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/pSISfJ4O/versions/K6FpGNBw/quick-pack-neoforge-1.2.0%2B1.21.10.jar"
+url = "https://cdn.modrinth.com/data/pSISfJ4O/versions/A5J7bhL4/quick-pack-neoforge-1.3.2%2B1.21.8.jar"
 hash-format = "sha512"
-hash = "5c6b3b63ba0cda369531dfdb77ea2380642e419e5ce6c21e6addccf3325a6ab0d1991ba1a823d3211ff8da7c942d79e4ed534ea909c4a7aa71bb6c43e6359adf"
+hash = "f5476227000e7393fc1cd90f2afc74ba0a46941f4f443e547e337bcb928054501a54d80a18c2fa358df0e61c0d77e21b72434e24ac73cbd85f4d3163cb931c6c"
 
 [update]
 [update.modrinth]
 mod-id = "pSISfJ4O"
-version = "K6FpGNBw"
+version = "A5J7bhL4"

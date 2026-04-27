@@ -2,9 +2,31 @@
 
 All notable changes to this project will be documented in this file.
 
-## [Unreleased]
+## [1.3.4-beta.1] - 2026-06-14
 
-- 26.1.2 early testing version
+### Added
+
+- Added AsyncParticles, Better Ping Display, Krypton, Polytone, Stendhal, and Title Fixer (Fabric 1.21.11).
+- Added Better Advancements, Chat Patches, Held Item Info, JustEnoughCharacters, Modern UI, OptiGUI, Pick Up Notifier, Status Effect Bars, and Structure Layout Optimizer (Fabric 26.1.2).
+- Added default configs for Better Advancements and Chat Patches (Fabric 26.1.2).
+
+### Changed
+
+- Updated mod loaders to Fabric Loader 0.19.3 and NeoForge 21.1.233.
+- Updated mods, resource packs, and shader packs across supported versions.
+
+### Removed
+
+- Removed bettergrassify mod (Fabric 1.21.1).
+
+### Fixed
+
+- Fixed the incompatibility issue between the chat head and modern UI, where the chat head fails to display (Fabric 1.21.1, Fabric 1.21.11, NeoForge 1.21.1).
+
+## [1.3.3] - 2026-04-27
+
+- Adjust shortcut key bindings.
+- Fix the list of resource packs enabled by default.
 
 ## [1.3.2] - 2026-04-03
 
