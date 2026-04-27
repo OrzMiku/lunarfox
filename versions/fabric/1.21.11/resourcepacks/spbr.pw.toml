@@ -1,13 +1,13 @@
 name = "SPBR"
-filename = "SPBR-20.zip"
+filename = "SPBR-20_1.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/aNcOVoD7/versions/47VlLgK1/SPBR-20.zip"
+url = "https://cdn.modrinth.com/data/aNcOVoD7/versions/gZDoVWwu/SPBR-20_1.zip"
 hash-format = "sha512"
-hash = "fc28672f414649390b09ad79573f954c380e64032c168d9e59150f1df183d347b8f9ee2a8c0e885e704c34bc2c98813a0fb711199265d15638cfcd64bf0509c3"
+hash = "d601752a1a365f2e9a947519a1a2cddf9b1cb86087184b16d030e51a49eca9b8088d04de14c7f2444145c0e87d016ccbf8c57976d65e5cba068a0aff3ea48737"
 
 [update]
 [update.modrinth]
 mod-id = "aNcOVoD7"
-version = "47VlLgK1"
+version = "gZDoVWwu"

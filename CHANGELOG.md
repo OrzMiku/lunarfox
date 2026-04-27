@@ -6,6 +6,11 @@ All notable changes to this project will be documented in this file.
 
 - 26.1.2 early testing version
 
+## [1.3.3] - 2026-04-27
+
+- Adjust shortcut key bindings.
+- Fix the list of resource packs enabled by default.
+
 ## [1.3.2] - 2026-04-03
 
 - Added the cubes without borders mod, which provides borderless fullscreen feature.
