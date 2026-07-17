@@ -1,0 +1,4 @@
+version = 3
+
+[noTickViewDistance]
+	maxConcurrentChunkLoads = 2

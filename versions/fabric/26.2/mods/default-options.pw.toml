@@ -1,0 +1,13 @@
+name = "Default Options"
+filename = "defaultoptions-fabric-26.2-26.2.0.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/WEg59z5b/versions/FDkyniQi/defaultoptions-fabric-26.2-26.2.0.2.jar"
+hash-format = "sha512"
+hash = "1afdb44686b70f516cb5d08215a472ff226c3cbe3dd5fdd1580f2e12abd890252b98b81ca5c11923cb8d67684b0e8e9c8b0266be26e4c61b8868fd420023a785"
+
+[update]
+[update.modrinth]
+mod-id = "WEg59z5b"
+version = "FDkyniQi"

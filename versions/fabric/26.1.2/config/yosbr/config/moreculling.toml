@@ -1,0 +1,3 @@
+version = 1
+leavesCullingMode = "DEPTH"
+includeMangroveRoots = true

@@ -1,0 +1,13 @@
+name = "CIT Resewn Continuation"
+filename = "citresewn-continuation-1.2.2-fork.12+26.1.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/8auYYPlH/versions/wwFXSCaw/citresewn-continuation-1.2.2-fork.12%2B26.1.2.jar"
+hash-format = "sha512"
+hash = "f664a48cf82304ae9eaa630c5a3fa7fdfebf3d01d6691a9e6dc454f60e494d6f835de1e32e91a4c8cd1fb37a1191b630336179802b003186040b919dff8498d6"
+
+[update]
+[update.modrinth]
+mod-id = "8auYYPlH"
+version = "wwFXSCaw"

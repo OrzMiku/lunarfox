@@ -1,0 +1,13 @@
+name = "CraterLib"
+filename = "CraterLib-Fabric-26.2-3.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Nn8Wasaq/versions/YS1XJpDW/CraterLib-Fabric-26.2-3.1.2.jar"
+hash-format = "sha512"
+hash = "1671f6c345971170bac8e425ac777c56b3d1543c307fd248462b833efa36c0784c3ac8bc0ac05733d281b4a8788782832814a308c19c373edbbfa028ee2818e9"
+
+[update]
+[update.modrinth]
+mod-id = "Nn8Wasaq"
+version = "YS1XJpDW"

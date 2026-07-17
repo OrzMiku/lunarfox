@@ -3,11 +3,11 @@ filename = "金合欢的Xaero地图翻译_1.16+.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/OBC8zhs4/versions/3JGRf2Os/%E9%87%91%E5%90%88%E6%AC%A2%E7%9A%84Xaero%E5%9C%B0%E5%9B%BE%E7%BF%BB%E8%AF%91_1.16%2B.zip"
+url = "https://cdn.modrinth.com/data/OBC8zhs4/versions/1apRlNSp/%E9%87%91%E5%90%88%E6%AC%A2%E7%9A%84Xaero%E5%9C%B0%E5%9B%BE%E7%BF%BB%E8%AF%91_1.16%2B.zip"
 hash-format = "sha512"
-hash = "601177669e0feab8f25b167af40a64f52db81efcf645c98d94df83e46c8f243a0e920ca8bb622204e156c28cd7142dfa511ffdda9008f7c703009d75d7f44201"
+hash = "0ecc130f8d542260bc8e54262486128f7a08bd12e43d96263f420c6fcff037f566e1f16fcb78a146bc05722a4e40b497b3d3e149355ec3d112f2c0481c56d559"
 
 [update]
 [update.modrinth]
 mod-id = "OBC8zhs4"
-version = "3JGRf2Os"
+version = "1apRlNSp"

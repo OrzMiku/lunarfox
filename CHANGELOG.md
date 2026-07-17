@@ -2,6 +2,30 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.3.4-beta.2] - 2026-07-18
+
+### Added
+
+- Added initial Fabric 26.2 support as `0.1.0-alpha.2`, including the standard mod, resource pack, shader pack, and default configuration set.
+- Added AsyncParticles, Carpet, CIT Resewn Continuation, Polytone, and YOSBR to Fabric 26.1.2, together with the required configuration library.
+- Added automated tests for the modpack maintenance scripts.
+
+### Changed
+
+- Updated mods, resource packs, and shader packs across supported versions.
+- Moved the Fabric 26.1.2 and 26.2 default configurations into YOSBR so they are applied only to new installations.
+- Updated the Xaero map translation resource pack filename in the Fabric 1.21.1 defaults.
+- Simplified the maintenance scripts with version filters, standard help output, validated sync targets, safe subprocess argument handling, and atomic exports.
+
+### Removed
+
+- Removed Iris Shader Folder and its configuration from all supported versions.
+
+### Fixed
+
+- Fixed failed exports deleting an existing modpack archive.
+- Fixed update and resource sync failures being reported as successful.
+
 ## [1.3.4-beta.1] - 2026-06-14
 
 ### Added

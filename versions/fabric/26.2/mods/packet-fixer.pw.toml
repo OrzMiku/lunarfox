@@ -1,0 +1,13 @@
+name = "Packet Fixer"
+filename = "PacketFixer-fabric-3.3.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/c7m1mi73/versions/V1pYl7hL/PacketFixer-fabric-3.3.6.jar"
+hash-format = "sha512"
+hash = "4d518d2c9f36a890caca55cc201b871b8f1b356064116e3e812c7d179f9554e9f2017f6bbd2db2e0fb61e3c1d410ab643f9e3ceecc0831ed171c67830795067a"
+
+[update]
+[update.modrinth]
+mod-id = "c7m1mi73"
+version = "V1pYl7hL"
