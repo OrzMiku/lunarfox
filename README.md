@@ -1,5 +1,7 @@
 # LunarFox
 
+> **Maintenance Notice:** As I now have very little time to play games, future updates will be less frequent, fewer game versions will be supported, and testing will be more limited. I cannot guarantee that everything will work correctly.
+
 LunarFox is a utility-oriented modpack for Minecraft Java Edition, primarily providing performance optimizations, shader support, and a suite of survival assistance tools.
 
 **Important Notes:**
