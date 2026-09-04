@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.3.4] - 2026-09-05
+
+### Added
+
+- Added CIT Resewn Continuation and ESF to Fabric 26.2.
+
+### Changed
+
+- Updated mod loaders to Fabric Loader 0.19.5 and NeoForge 21.1.249.
+- Updated mods, resource packs, and shader packs across supported versions.
+
 ## [1.3.4-beta.2] - 2026-07-18
 
 ### Added

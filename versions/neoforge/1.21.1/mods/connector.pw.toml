@@ -1,13 +1,13 @@
 name = "Sinytra Connector"
-filename = "connector-2.0.0-beta.15+1.21.1-full.jar"
+filename = "connector-2.0.0-beta.17+1.21.1-full.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/u58R1TMW/versions/kDbM9LpX/connector-2.0.0-beta.15%2B1.21.1-full.jar"
+url = "https://cdn.modrinth.com/data/u58R1TMW/versions/IITF0PRC/connector-2.0.0-beta.17%2B1.21.1-full.jar"
 hash-format = "sha512"
-hash = "71b9a887298d3f60c3f5ae72835a6e146f3e664184f1d60edef5e2b989e5b6ef460757526e87a3b1a162e5778ea932aa4da8223aa557ffa2178ffb574a42533d"
+hash = "cb92b662047208792e61191d372d1e255766200406c35769007101f8c578c1018938610c3b90352afd93ec42d7963acf3607e35c50e669df50ac85d7c5529560"
 
 [update]
 [update.modrinth]
 mod-id = "u58R1TMW"
-version = "kDbM9LpX"
+version = "IITF0PRC"

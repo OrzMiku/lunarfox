@@ -1,13 +1,13 @@
 name = "Better Advancements"
-filename = "BetterAdvancements-Fabric-26.1.2-0.5.0.63.jar"
+filename = "BetterAdvancements-Fabric-26.1.2-0.6.0.76.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Q2OqKxDG/versions/tZzWugUz/BetterAdvancements-Fabric-26.1.2-0.5.0.63.jar"
+url = "https://cdn.modrinth.com/data/Q2OqKxDG/versions/EJXDbJy9/BetterAdvancements-Fabric-26.1.2-0.6.0.76.jar"
 hash-format = "sha512"
-hash = "a4b730f40af357cbf9e0421b6b437a0f2a392d00d16d212380ae0b6b4e7aff398619db4611d779170a2b5deb2f060a2d1bc295391aa243691c9cf7e0699a6cd2"
+hash = "b196256811f11a3480b89b81b9902bdcc179ba1738e39ebabcf04431a3c9618e4e70642bc7a4b7664054c1da207390890a8fdb5ca05c3cd5bf56c04cd991bfb0"
 
 [update]
 [update.modrinth]
 mod-id = "Q2OqKxDG"
-version = "tZzWugUz"
+version = "EJXDbJy9"

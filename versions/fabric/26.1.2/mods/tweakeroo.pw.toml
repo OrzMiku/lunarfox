@@ -1,13 +1,13 @@
 name = "Tweakeroo"
-filename = "tweakeroo-fabric-26.1.2-0.28.6.jar"
+filename = "tweakeroo-fabric-26.1.2-0.28.8.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/t5wuYk45/versions/PtpjvIOc/tweakeroo-fabric-26.1.2-0.28.6.jar"
+url = "https://cdn.modrinth.com/data/t5wuYk45/versions/drlfmPSx/tweakeroo-fabric-26.1.2-0.28.8.jar"
 hash-format = "sha512"
-hash = "ff4ad18681937a5aabf2743b905746a8cefd1567325b8948cceccc2760518a7b60289903146ed52276f361d9c68327c256edbf30731c0a42b86ae59e5d0c0afb"
+hash = "da89d98d4a0fcabd1da6f840d9142aaff3c52c3d0edac512ac7bfb99da15cf8e03b92bb4c4710c085311c323c5ea654244695f526f6051176e11d976f9af0222"
 
 [update]
 [update.modrinth]
 mod-id = "t5wuYk45"
-version = "PtpjvIOc"
+version = "drlfmPSx"

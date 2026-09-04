@@ -1,13 +1,13 @@
 name = "Polytone"
-filename = "polytone-neoforge-1.21-3.9.3.jar"
+filename = "polytone-1.21-4.1.0-neoforge.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/3qAYkBMB/versions/VnZAq91c/polytone-neoforge-1.21-3.9.3.jar"
+url = "https://cdn.modrinth.com/data/3qAYkBMB/versions/7CGmrBAk/polytone-1.21-4.1.0-neoforge.jar"
 hash-format = "sha512"
-hash = "e8445b58ab1204f8aaa096ace5811e9a78a1b635b424bc29d3d0185e56e0cca91b22e94bb0bd2786667ef62a52887296fe1e7238026e950954a6294940a69981"
+hash = "d1bad4977f69b5ae7bbf54236b8b014c8905042e1ffd1ad97dff46f4d48cb82bee04f1555011e98f412274b334f8e68c7884b0494cc92a7d6bd7f3621167f520"
 
 [update]
 [update.modrinth]
 mod-id = "3qAYkBMB"
-version = "VnZAq91c"
+version = "7CGmrBAk"

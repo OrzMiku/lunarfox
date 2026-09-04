@@ -1,0 +1,13 @@
+name = "CIT Resewn Continuation"
+filename = "citresewn-continuation-1.2.2-fork.13+26.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/8auYYPlH/versions/VftogBGR/citresewn-continuation-1.2.2-fork.13%2B26.2.jar"
+hash-format = "sha512"
+hash = "520f37c6c2c8dce4ad2648f8e7d8193c9f4796c83898ed0f9371232376362c54cddbe4c476ef3245162e9535c7d1e7799740f4417d051a6baf287daa0f685842"
+
+[update]
+[update.modrinth]
+mod-id = "8auYYPlH"
+version = "VftogBGR"

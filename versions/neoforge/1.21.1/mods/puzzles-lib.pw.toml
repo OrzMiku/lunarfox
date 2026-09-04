@@ -1,13 +1,13 @@
 name = "Puzzles Lib"
-filename = "PuzzlesLib-v21.1.52-1.21.1-NeoForge.jar"
+filename = "PuzzlesLib-v21.1.56-mc1.21.1-NeoForge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/QAGBst4M/versions/5A6wiMVf/PuzzlesLib-v21.1.52-1.21.1-NeoForge.jar"
+url = "https://cdn.modrinth.com/data/QAGBst4M/versions/qbF2d7Ma/PuzzlesLib-v21.1.56-mc1.21.1-NeoForge.jar"
 hash-format = "sha512"
-hash = "c195ebd7910dcb758cdc5bed1feb8b80fdb1a86e19b4521fd23a7a9d64838112c7b765cc8f5a6ea380fb0105ca1d09fc96956007bafa3edc423ec7ed0215324e"
+hash = "7a0f6e58728684c5099d9fa157a4a9a078019cfc263844506aa43ba87ee1c8f556e01f0b24cf96f9b6dd373bc5da714773f394442a6ad045b157d9a8a36ba5b4"
 
 [update]
 [update.modrinth]
 mod-id = "QAGBst4M"
-version = "5A6wiMVf"
+version = "qbF2d7Ma"
