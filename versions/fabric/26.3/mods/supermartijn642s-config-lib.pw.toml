@@ -1,0 +1,13 @@
+name = "SuperMartijn642's Config Lib"
+filename = "supermartijn642configlib-1.1.8-fabric-mc26.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LN9BxssP/versions/XokTN39e/supermartijn642configlib-1.1.8-fabric-mc26.3.jar"
+hash-format = "sha512"
+hash = "94aafdb2e188f4e8dea15e0032798417c52441d76fbd47350f5f2118aa4c7ec1765f2657efcb2fa564c7bc74cda2f6c4460ac9958b730c6f0eea70d445fcf32f"
+
+[update]
+[update.modrinth]
+mod-id = "LN9BxssP"
+version = "XokTN39e"

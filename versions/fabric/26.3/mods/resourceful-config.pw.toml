@@ -1,0 +1,13 @@
+name = "Resourceful Config"
+filename = "ResourcefulConfig-6.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/M1953qlQ/versions/4SFIciz7/ResourcefulConfig-6.0.0.jar"
+hash-format = "sha512"
+hash = "3a9e5287dfb80f7ea1ae06f9c6709407d96c4b92a9df0d970bebcb9d2d9c2315cf70318ee4ba0f4d3705af24c85a6b72a5494ee1b48a436639f4178affa48ef9"
+
+[update]
+[update.modrinth]
+mod-id = "M1953qlQ"
+version = "4SFIciz7"
