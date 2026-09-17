@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.3.5-alpha.1] - 2026-09-25
+
+- 26.3 support
+
 ## [1.3.4] - 2026-09-05
 
 ### Added

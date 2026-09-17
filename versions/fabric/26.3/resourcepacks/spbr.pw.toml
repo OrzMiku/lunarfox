@@ -1,0 +1,13 @@
+name = "SPBR"
+filename = "SPBR-22.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/aNcOVoD7/versions/cJwWApnt/SPBR-22.zip"
+hash-format = "sha512"
+hash = "bd2ab437ba39fd35872d0c540cc34ffabd391707575bf46a0ebd206be91cc6ddd0b66ad2173869a3e28f72ba68fc8d3d9390ade1ab63e06614bc0162c8f24979"
+
+[update]
+[update.modrinth]
+mod-id = "aNcOVoD7"
+version = "cJwWApnt"
