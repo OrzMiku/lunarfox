@@ -1,13 +1,13 @@
 name = "SPBR"
-filename = "SPBR-22.zip"
+filename = "SPBR-22_1.zip"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/aNcOVoD7/versions/cJwWApnt/SPBR-22.zip"
+url = "https://cdn.modrinth.com/data/aNcOVoD7/versions/T9QiYxWo/SPBR-22_1.zip"
 hash-format = "sha512"
-hash = "bd2ab437ba39fd35872d0c540cc34ffabd391707575bf46a0ebd206be91cc6ddd0b66ad2173869a3e28f72ba68fc8d3d9390ade1ab63e06614bc0162c8f24979"
+hash = "f209bcd243c929880018097ebdd7eca301895b7851730f0e18d8791df35fd6491227a0f5157b5334da4cac3da110d0bd723e4337afd78d0655b015ce160af95f"
 
 [update]
 [update.modrinth]
 mod-id = "aNcOVoD7"
-version = "cJwWApnt"
+version = "T9QiYxWo"

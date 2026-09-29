@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.3.5-alpha.2] - 2026-09-29
+
+### Added
+
+- Added Better Advancements, Better Selection, Boat Item View, Inventory Profiles Next, libIPN, ItemSwapper, ZConfig, and Fast Noise (Fabric 26.3).
+- Added default configs for Better Advancements and Inventory Profiles Next (Fabric 26.3).
+
+### Changed
+
+- Updated mods and resource packs (Fabric 26.3).
+
 ## [1.3.5-alpha.1] - 2026-09-25
 
 - 26.3 support
