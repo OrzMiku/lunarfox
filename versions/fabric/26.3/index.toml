@@ -286,7 +286,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "1f5c464b85f8ca75424eee7d6e9d5c0a706fe787e399c2dea1071a37a27dc24d"
+hash = "3af2426b8d83a5fcda1ff6de2035d53bcff532653c196f2ea6d7647995e45131"
 metafile = true
 
 [[files]]
@@ -411,7 +411,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "e17bc990ab0a81714313a2e0950598f14a78001ced048f977d0a86b025b3e1f2"
+hash = "c3dbbcbc00ba789c38a7fe9081336e302fae3423417e2fd9da73cec385ba9c61"
 metafile = true
 
 [[files]]

@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.3.5-beta.1] - 2026-09-30
+
+### Changed
+
+- Updated iris mod (Fabric 26.3).
+
 ## [1.3.5-alpha.2] - 2026-09-29
 
 ### Added
