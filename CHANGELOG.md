@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.3.5] - 2026-10-24
+
+### Added
+
+- Added Better Mount HUD, Bobby, Chat Patches, CraterLib, Krypton, No Chat Reports, Polytone, and Reese's Sodium Options (Fabric 26.3).
+- Added default configs for Chat Patches and No Chat Reports (Fabric 26.3).
+
+### Changed
+
+- Updated mods, resource packs, and shader packs (Fabric 26.3).
+
 ## [1.3.5-beta.1] - 2026-09-30
 
 ### Changed

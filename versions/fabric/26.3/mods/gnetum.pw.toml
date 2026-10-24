@@ -1,13 +1,13 @@
 name = "Gnetum"
-filename = "Gnetum-4.6.1+26.3-fabric.jar"
+filename = "Gnetum-4.6.3+26.3-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/7MoE34WK/versions/2AZK3ah8/Gnetum-4.6.1%2B26.3-fabric.jar"
+url = "https://cdn.modrinth.com/data/7MoE34WK/versions/F4CsYAnb/Gnetum-4.6.3%2B26.3-fabric.jar"
 hash-format = "sha512"
-hash = "176b3373cadf956d2542d419d56097d971c3fd037e44cc74db68fca64ff163e56552b14522a665f22c88c34a92ead2f532ae568ef1fe913d811ad1ccac5a446e"
+hash = "8c26bfc3bdb1d1a46106849a3770f2c028ad415acabf49db3ae37f1e5b21313aaef03c51d46215a80a6706cffc5409a2963e6429b57f3bfbb689ce3181c10a67"
 
 [update]
 [update.modrinth]
 mod-id = "7MoE34WK"
-version = "2AZK3ah8"
+version = "F4CsYAnb"
